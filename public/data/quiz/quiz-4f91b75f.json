@@ -1,0 +1,63 @@
+{
+  "slug": "4f91b75f",
+  "video_id": "hPF9_UkwWi0",
+  "movie_title": "Mining the stars: Asteroids may hold trillions in untapped metal wealth",
+  "movie_url": "https://youtu.be/hPF9_UkwWi0",
+  "published_at": "2025-06-26T02:56:40Z",
+  "duration": "PT5M25S",
+  "tags": [],
+  "introduction": "There are thousands of metal-rich asteroids orbiting Earth, but can they be mined for the good of hu",
+  "lead_intro": "Have you ever wondered about mining asteroids for valuable metals? Dive into the technological challenges and potential benefits of asteroid mining in this intriguing video.",
+  "quiz": [
+    {
+      "question": "What is the estimated percentage of metal in asteroids like 1986 DA and 2016 ED85?",
+      "choices": [
+        "85%",
+        "75%",
+        "65%"
+      ],
+      "answer": "85%",
+      "explanation": "These asteroids are believed to be about 85% metal, making them potential treasure troves of valuable metals."
+    },
+    {
+      "question": "What are the four core challenges mentioned for asteroid mining?",
+      "choices": [
+        "Detect, capture, move, process",
+        "Prospect, extract, refine, sell",
+        "Launch, land, refine, transport"
+      ],
+      "answer": "Detect, capture, move, process",
+      "explanation": "Dr. Cersell highlights the core challenges as detection, capture, movement, and materials processing."
+    },
+    {
+      "question": "What California-based startup is focusing on extracting precious metals from asteroids?",
+      "choices": [
+        "Astroforge",
+        "Transastra",
+        "Odin"
+      ],
+      "answer": "Astroforge",
+      "explanation": "Astroforge is a California startup staking its claim in space mining with a focus on extracting precious metals from asteroids."
+    },
+    {
+      "question": "How does Astroforge plan to land on and refine the metal asteroids?",
+      "choices": [
+        "Using magnets",
+        "Using rockets",
+        "Using parachutes"
+      ],
+      "answer": "Using magnets",
+      "explanation": "Astroforge uses magnets to stick to the primarily iron asteroids for landing and refining the precious metals."
+    },
+    {
+      "question": "What is one of the concerns raised about asteroid mining by critics?",
+      "choices": [
+        "Economics don't add up",
+        "Technology is advanced",
+        "Market will flourish"
+      ],
+      "answer": "Economics don't add up",
+      "explanation": "Critics mention that the technology is still in its infancy, and the economics of asteroid mining may not yet be feasible."
+    }
+  ]
+}

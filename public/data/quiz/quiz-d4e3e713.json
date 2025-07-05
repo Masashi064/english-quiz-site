@@ -1,0 +1,63 @@
+{
+  "slug": "d4e3e713",
+  "video_id": "4o3UWwO285o",
+  "movie_title": "Leaders at WEF's Summer Davos exploring predictive potential of AI in tackling climate crisis",
+  "movie_url": "https://youtu.be/4o3UWwO285o",
+  "published_at": "2025-06-26T02:41:24Z",
+  "duration": "PT3M52S",
+  "tags": [],
+  "introduction": "Leaders at the World Economic Forum's (WEF) Summer Davo gathering in Tianjin have zeroed in on the p",
+  "lead_intro": "Attendees at the summer Davos event in China are discussing the power of the sun and energy sources to address the climate crisis. Let's test your knowledge on the global energy transition and AI's role in it.",
+  "quiz": [
+    {
+      "question": "According to a World Economic Forum report, what was the percentage of growth in energy demand last year?",
+      "choices": [
+        "2.2%",
+        "3.5%",
+        "1.8%"
+      ],
+      "answer": "2.2%",
+      "explanation": "The report mentioned a 2.2% increase in energy demand last year, the fastest growth in a decade."
+    },
+    {
+      "question": "What is one concern experts have regarding the use of AI in energy demand?",
+      "choices": [
+        "AI uses a lot of energy",
+        "AI contributes to climate change",
+        "AI reduces data center capacity"
+      ],
+      "answer": "AI uses a lot of energy",
+      "explanation": "Experts warn that AI's demand for data centers and energy consumption could pose challenges."
+    },
+    {
+      "question": "Which country is mentioned as the second-largest emitter of greenhouse gases after China?",
+      "choices": [
+        "America",
+        "India",
+        "Russia"
+      ],
+      "answer": "America",
+      "explanation": "The video highlights the concerns about America's climate commitments as the second-largest emitter of greenhouse gases."
+    },
+    {
+      "question": "What is one way AI can contribute to energy transition?",
+      "choices": [
+        "Forecasting weather",
+        "Developing new energy sources",
+        "Building more data centers"
+      ],
+      "answer": "Forecasting weather",
+      "explanation": "AI can help in forecasting weather, managing energy use, and prioritizing projects for energy transition."
+    },
+    {
+      "question": "Why is the availability of resources for clean tech and climate tech decreasing?",
+      "choices": [
+        "Competing defense spending",
+        "Decrease in demand",
+        "Increase in resources"
+      ],
+      "answer": "Competing defense spending",
+      "explanation": "Resources for clean tech are dwindling due to countries prioritizing spending on defense, creating constraints."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "slug": "f418a7e6",
+  "video_id": "KNhwmHq1asM",
+  "movie_title": "Algorithms - 6 Minute English",
+  "movie_url": "https://youtu.be/KNhwmHq1asM",
+  "published_at": "2021-12-23T16:00:06Z",
+  "duration": "PT6M20S",
+  "tags": [
+    "learn English",
+    "English vocabulary",
+    "speak English",
+    "bbc english",
+    "English teacher",
+    "英語",
+    "영어",
+    "อังกฤษ",
+    "Anh",
+    "English tutorial",
+    "English grammar",
+    "IELTS",
+    "British English",
+    "English pronunciation",
+    "English lesson",
+    "idiom",
+    "English expressions",
+    "BBC Learning English",
+    "slang",
+    "ELT",
+    "podcast",
+    "Ingilizce",
+    "algorithms",
+    "maths",
+    "internet",
+    "equation",
+    "6 minute english"
+  ],
+  "introduction": "Algorithms are often hidden, but they are very much present in our daily lives. If you order a pizza",
+  "lead_intro": "Have you ever wondered how algorithms impact our daily lives? Let's dive into the world of algorithms and their importance in modern society!",
+  "quiz": [
+    {
+      "question": "What does the 'E' stand for in Einstein's famous equation E=MC2?",
+      "choices": [
+        "electricity",
+        "energy",
+        "everything"
+      ],
+      "answer": "energy",
+      "explanation": "In Einstein's equation E=MC2, the 'E' stands for energy, 'M' for mass, and 'C' for the speed of light squared."
+    },
+    {
+      "question": "What does the term 'bogyman' refer to?",
+      "choices": [
+        "good and friendly",
+        "bad and to be feared",
+        "mysterious and intriguing"
+      ],
+      "answer": "bad and to be feared",
+      "explanation": "A 'bogyman' is something considered bad and to be feared by people."
+    },
+    {
+      "question": "What does the term 'efficient' mean?",
+      "choices": [
+        "slow and ineffective",
+        "working quickly and effectively",
+        "disorganized and chaotic"
+      ],
+      "answer": "working quickly and effectively",
+      "explanation": "'Efficient' means to work quickly and effectively in an organized manner."
+    },
+    {
+      "question": "What does the verb 'to sort' mean?",
+      "choices": [
+        "to mix randomly",
+        "to group things with differences",
+        "to group together things which share similarities"
+      ],
+      "answer": "to group together things which share similarities",
+      "explanation": "The verb 'to sort' means to group together things that have similarities or common traits."
+    },
+    {
+      "question": "What does it mean if something happens 'in a flash'?",
+      "choices": [
+        "slowly over time",
+        "suddenly and quickly",
+        "consistently and predictably"
+      ],
+      "answer": "suddenly and quickly",
+      "explanation": "If something happens 'in a flash', it means it occurs suddenly and quickly."
+    }
+  ]
+}

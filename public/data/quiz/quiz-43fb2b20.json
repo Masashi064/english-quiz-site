@@ -1,0 +1,63 @@
+{
+  "slug": "43fb2b20",
+  "video_id": "qEfPBt9dU60",
+  "movie_title": "What if We Nuke the Moon?",
+  "movie_url": "https://youtu.be/qEfPBt9dU60",
+  "published_at": "2020-12-15T14:59:51Z",
+  "duration": "PT7M14S",
+  "tags": [],
+  "introduction": "Get your Moon Poster and Baby Duck Plushie here:\nhttps://kgs.link/shop-137\n\nSources & further readin",
+  "lead_intro": "Ever wondered what would happen if a nuclear weapon was detonated on the moon? Let's explore the fascinating scenario painted by a scientific experiment in this video.",
+  "quiz": [
+    {
+      "question": "What is the main reason why the explosion of a nuclear weapon on the moon would differ from one on Earth?",
+      "choices": [
+        "No atmosphere",
+        "Presence of water",
+        "Strong gravitational pull"
+      ],
+      "answer": "No atmosphere",
+      "explanation": "The absence of an atmosphere on the moon significantly affects how the explosion of a nuclear weapon unfolds, as there is no burning due to lack of oxygen-rich air and no atmospheric resistance to impede the explosion."
+    },
+    {
+      "question": "What happens to the heat released by the nuclear explosion on the moon?",
+      "choices": [
+        "Vaporizes a thin cloud of rock",
+        "Triggers a rain of meteorites on Earth",
+        "Causes massive wildfires"
+      ],
+      "answer": "Vaporizes a thin cloud of rock",
+      "explanation": "The heat from the explosion vaporizes a thin cloud of rock from the lunar surface and melts unlucky dust into glass, due to the absence of an atmosphere on the moon."
+    },
+    {
+      "question": "How does the absence of an atmosphere impact the shockwave produced by the nuclear explosion on the moon?",
+      "choices": [
+        "There is no shockwave",
+        "Shockwave propagates faster",
+        "Shockwave causes volcanic activity"
+      ],
+      "answer": "There is no shockwave",
+      "explanation": "Unlike on Earth where the shockwave is a destructive force, on the moon, there is no atmosphere to impede the expanding explosion, leading to the absence of a shockwave."
+    },
+    {
+      "question": "What effect does the explosive energy transferred to the moon have on its surface?",
+      "choices": [
+        "Forms a large crater",
+        "Creates a magnetic field",
+        "Triggers volcanic eruptions"
+      ],
+      "answer": "Forms a large crater",
+      "explanation": "The energy transferred to the moon results in the formation of a kilometer-wide crater as the ground splatters and bedrock gets pulverized, throwing debris into the sky in all directions."
+    },
+    {
+      "question": "How long does it take for the fireball from the explosion on the moon to fade away?",
+      "choices": [
+        "Seconds",
+        "Minutes",
+        "Hours"
+      ],
+      "answer": "Seconds",
+      "explanation": "Within seconds of detonation, the fireball reddens and fades from view on the moon due to the absence of an atmosphere to sustain it, making it a swift and fascinating event to observe."
+    }
+  ]
+}

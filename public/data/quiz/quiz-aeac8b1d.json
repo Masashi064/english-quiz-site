@@ -1,0 +1,87 @@
+{
+  "slug": "aeac8b1d",
+  "video_id": "naB_3XYRtew",
+  "movie_title": "How green is nuclear energy? - 6 Minute English",
+  "movie_url": "https://youtu.be/naB_3XYRtew",
+  "published_at": "2021-11-25T16:27:12Z",
+  "duration": "PT6M20S",
+  "tags": [
+    "learn English",
+    "English vocabulary",
+    "speak English",
+    "bbc english",
+    "English teacher",
+    "英語",
+    "영어",
+    "อังกฤษ",
+    "Anh",
+    "IELTS",
+    "British English",
+    "English pronunciation",
+    "BBC Learning English",
+    "ELT",
+    "podcast",
+    "Ingilizce",
+    "bbc learning english",
+    "climate change",
+    "nuclear energy",
+    "green energy",
+    "safe energy",
+    "Chernobyl",
+    "nuclear plant"
+  ],
+  "introduction": "Improve your English vocabulary and listening in just six minutes!\nClimate change is reaching emerge",
+  "lead_intro": "Are you curious about the role of nuclear power in combating climate change? Test your knowledge with this quiz based on a BBC Learning English video!",
+  "quiz": [
+    {
+      "question": "Which country announced in 2011 that it would phase out nuclear power altogether?",
+      "choices": [
+        "Germany",
+        "India",
+        "Brazil"
+      ],
+      "answer": "Germany",
+      "explanation": "Germany announced in 2011 that it would gradually stop using nuclear power altogether."
+    },
+    {
+      "question": "What kind of memories are described as producing powerful feelings and strong mental images?",
+      "choices": [
+        "Faint memories",
+        "Vivid memories",
+        "Blurry memories"
+      ],
+      "answer": "Vivid memories",
+      "explanation": "Vivid memories are memories that produce powerful feelings and strong mental images."
+    },
+    {
+      "question": "How are opinions described when they are so strongly held that they are difficult to change?",
+      "choices": [
+        "Flexible",
+        "Ingrained",
+        "Temporary"
+      ],
+      "answer": "Ingrained",
+      "explanation": "Opinions and beliefs that are ingrained are so strongly held that they are difficult to change."
+    },
+    {
+      "question": "What does the term 'USP' stand for in the context of unique features?",
+      "choices": [
+        "Universal Selling Point",
+        "Unique Sales Proposal",
+        "Unique Selling Point"
+      ],
+      "answer": "Unique Selling Point",
+      "explanation": "USP stands for Unique Selling Point, describing the feature that makes something different and better than its competitors."
+    },
+    {
+      "question": "What is described as a casualty of climate change in the video?",
+      "choices": [
+        "Renewable energy",
+        "Nuclear power",
+        "Fossil fuels"
+      ],
+      "answer": "Nuclear power",
+      "explanation": "Nuclear power is referred to as a casualty of climate change in the video, indicating it suffers as a result of climate change impacts."
+    }
+  ]
+}
