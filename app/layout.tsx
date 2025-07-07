@@ -4,7 +4,8 @@ import "./globals.css";
 import { AuthProvider } from '@/context/AuthContext';
 import { ThemeProvider } from '@/context/ThemeContext';
 import SiteHeader from '@/app/components/SiteHeader';
-import Footer from '@/app/components/Footer'; //
+import Footer from '@/app/components/Footer';
+import RouteChangeTracker from '@/app/components/RouteChangeTracker';
 
 // app/layout.tsx
 import Script from 'next/script';
@@ -34,6 +35,7 @@ export default function RootLayout({
       <body className={`${geistSans.variable} ${geistMono.variable} antialiased bg-white text-black dark:bg-black dark:text-white`}>
         <ThemeProvider>
           <AuthProvider>
+            <RouteChangeTracker />
             <SiteHeader />
             <main>{children}</main>
             <Footer />

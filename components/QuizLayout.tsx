@@ -7,6 +7,7 @@ import { useAuth } from '@/context/AuthContext'
 import { useEffect, useState } from 'react'
 import VocabularyCard from './VocabularyCard'
 import { useMemo } from 'react'
+import { handleQuizAnswer, handleQuizReadComplete } from '@/lib/gtag'
 
 
 type QuizItem = {
@@ -59,6 +60,10 @@ export default function QuizLayout({
     newAnswers[questionIndex] = choice
     setAnswers(newAnswers)
 
+    // 🔽 ここでGAイベント送信
+    const isCorrect = choice === quiz[questionIndex].answer
+    handleQuizAnswer(movieTitle, questionIndex, isCorrect)
+
     const allAnswered = newAnswers.every((a) => a !== null)
     if (allAnswered && user && !saved) {
       setSaved(true)
@@ -87,6 +92,23 @@ export default function QuizLayout({
   const allAnswered = answers.every((a) => a !== null)
   const [showFeedback, setShowFeedback] = useState(false)
   const [feedbackText, setFeedbackText] = useState('')
+
+  useEffect(() => {
+    const handleScroll = () => {
+      const scrollY = window.scrollY;
+      const viewportHeight = window.innerHeight;
+      const fullHeight = document.documentElement.scrollHeight;
+
+      // ページ最下部までスクロールされたら送信（5px以内）
+      if (scrollY + viewportHeight >= fullHeight - 5) {
+        handleQuizReadComplete(movieTitle);
+        window.removeEventListener('scroll', handleScroll); // 1回で解除
+      }
+    };
+
+    window.addEventListener('scroll', handleScroll);
+    return () => window.removeEventListener('scroll', handleScroll);
+  }, [movieTitle]);
 
   const submitFeedback = async () => {
     if (!feedbackText.trim()) return

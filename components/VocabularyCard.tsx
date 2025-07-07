@@ -2,6 +2,7 @@ import { useState, useEffect } from 'react'
 import { db } from '@/lib/firebase'
 import { collection, addDoc, serverTimestamp, query, where, getDocs, deleteDoc } from 'firebase/firestore'
 import { useAuth } from '@/context/AuthContext'
+import { handleVocabSaved } from '@/lib/gtag'
 
 
 
@@ -47,6 +48,9 @@ export default function VocabularyCard({ item }: Props) {
           timestamp: serverTimestamp(),
         })
       }
+
+      // ✅ ここで GA にイベント送信
+      handleVocabSaved(item.word);
     } else {
       // 🔴 Firestoreから削除
       for (const doc of snap.docs) {
