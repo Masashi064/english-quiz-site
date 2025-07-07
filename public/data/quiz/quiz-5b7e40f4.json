@@ -1,0 +1,98 @@
+{
+  "slug": "5b7e40f4",
+  "video_id": "Pzq2slM4Wu4",
+  "movie_title": "Hacking help for US elections - 6 Minute English",
+  "movie_url": "https://youtu.be/Pzq2slM4Wu4",
+  "published_at": "2020-10-15T14:44:46Z",
+  "duration": "PT6M20S",
+  "tags": [
+    "learn English",
+    "English vocabulary",
+    "speak English",
+    "bbc english",
+    "English teacher",
+    "英語",
+    "영어",
+    "อังกฤษ",
+    "Anh",
+    "English tutorial",
+    "Ingilizce ders",
+    "English grammar",
+    "IELTS",
+    "British English",
+    "English pronunciation",
+    "English lesson",
+    "idiom",
+    "English expressions",
+    "BBC Learning English",
+    "tefl",
+    "slang",
+    "BBC",
+    "Online English",
+    "how to speak English",
+    "English speaking",
+    "ELT",
+    "6 minute english",
+    "elections",
+    "cybersecurity",
+    "hacking",
+    "hacker",
+    "vote",
+    "elections 2020",
+    "US elections"
+  ],
+  "introduction": "The 2020 presidential elections in the US, in which President Donald Trump faces the Democrat candid",
+  "lead_intro": "Learn about the importance of cybersecurity in US presidential elections and how volunteers are helping to prevent cyber-attacks. Test your knowledge with a quiz on the 2000 American presidential election!",
+  "quiz": [
+    {
+      "question": "How many fewer votes did George W. Bush win than Al Gore in the 2000 American presidential election?",
+      "choices": [
+        "half a million votes",
+        "a million votes",
+        "two million votes"
+      ],
+      "answer": "half a million votes",
+      "explanation": "In the 2000 US presidential election, George W. Bush won by just half a million votes in Florida, not a million or two million."
+    },
+    {
+      "question": "What is the Cyber Surge project focused on?",
+      "choices": [
+        "Preventing cyber-attacks",
+        "Encouraging misinformation",
+        "Manipulating election results"
+      ],
+      "answer": "Preventing cyber-attacks",
+      "explanation": "The Cyber Surge project aims to prevent cyber-attacks during elections by connecting expert volunteers with election officials."
+    },
+    {
+      "question": "How are volunteers selected for the Cyber Surge project?",
+      "choices": [
+        "Based on their cybersecurity experience and skills",
+        "Random selection",
+        "By their political affiliation"
+      ],
+      "answer": "Based on their cybersecurity experience and skills",
+      "explanation": "Volunteers are carefully chosen based on their expertise in cybersecurity to help organizations and countries keep their computer information safe."
+    },
+    {
+      "question": "What is the main goal of the volunteers in the Cyber Surge project?",
+      "choices": [
+        "To share expert advice with election officials",
+        "To interfere with election infrastructures",
+        "To gain access to sensitive information"
+      ],
+      "answer": "To share expert advice with election officials",
+      "explanation": "Volunteers in the Cyber Surge project provide expert advice to election administrators to enhance cybersecurity measures, not to access sensitive information."
+    },
+    {
+      "question": "Why is the 2020 US election considered high-profile?",
+      "choices": [
+        "Due to a lot of attention and interest from the public and media",
+        "Because of the number of candidates",
+        "For the innovative voting system"
+      ],
+      "answer": "Due to a lot of attention and interest from the public and media",
+      "explanation": "The 2020 US election is high-profile because it has attracted significant attention and interest from the public and media."
+    }
+  ]
+}

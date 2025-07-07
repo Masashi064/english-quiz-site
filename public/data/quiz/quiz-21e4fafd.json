@@ -1,0 +1,95 @@
+{
+  "slug": "21e4fafd",
+  "video_id": "M7CkdB5z9PY",
+  "movie_title": "Aliens under the Ice – Life on Rogue Planets",
+  "movie_url": "https://youtu.be/M7CkdB5z9PY",
+  "published_at": "2018-12-27T13:30:00Z",
+  "duration": "PT7M15S",
+  "tags": [
+    "Rogue Planet",
+    "Rogue Planets",
+    "Alien",
+    "Alien Life",
+    "Alien Life Form",
+    "Universe",
+    "Space",
+    "Space Travel",
+    "Sub-Brown Dwarfs",
+    "Star",
+    "Interstellar",
+    "Terrestrial Planets",
+    "Proto Planet",
+    "Earth",
+    "Core",
+    "Water",
+    "Life",
+    "Bacteria",
+    "Solar System",
+    "Geothermal",
+    "Moon",
+    "Tidal",
+    "Tidal Force",
+    "Fish",
+    "Deep Sea",
+    "Ocean",
+    "Gamma Ray Bursts",
+    "Asteroid",
+    "Asteroids",
+    "Consciousness",
+    "Oort Cloud"
+  ],
+  "introduction": "Out in the vast coldness of outer space, there are planets that travel alone through darkness withou",
+  "lead_intro": "Have you ever wondered about rogue planets and the possibility of life on these lonely wanderers in space? Let's delve into the intriguing concept of rogue planets and the potential for alien life on these mysterious celestial bodies.",
+  "quiz": [
+    {
+      "question": "What is the primary indispensable ingredient for life on rogue planets similar to Earth?",
+      "choices": [
+        "water",
+        "hydrogen",
+        "oxygen"
+      ],
+      "answer": "water",
+      "explanation": "Liquid water is crucial for supporting life on rogue planets, as it facilitates the necessary chemistry for life forms to exist."
+    },
+    {
+      "question": "What could allow an Earth-like rogue planet to have unfrozen oceans?",
+      "choices": [
+        "dense and high-pressure hydrogen atmosphere",
+        "thick layer of ice",
+        "lack of atmosphere"
+      ],
+      "answer": "dense and high-pressure hydrogen atmosphere",
+      "explanation": "An extremely dense and high-pressure hydrogen atmosphere could trap enough heat to prevent oceans from freezing on a rogue planet, enabling the existence of liquid water."
+    },
+    {
+      "question": "What provides additional energy to a rogue planet and helps keep it warm?",
+      "choices": [
+        "moons",
+        "planetary rings",
+        "comets"
+      ],
+      "answer": "moons",
+      "explanation": "Moons accompanying a rogue planet can inject additional energy into the system through tidal forces, contributing to keeping the planet warm."
+    },
+    {
+      "question": "What is a key factor that could lead to a planet becoming a rogue?",
+      "choices": [
+        "disruption by flybys from stars or black holes",
+        "proximity to the Sun",
+        "abundance of plant life"
+      ],
+      "answer": "disruption by flybys from stars or black holes",
+      "explanation": "Planetary systems can be disrupted by flybys from stars or black holes, potentially ejecting planets and turning them into rogues."
+    },
+    {
+      "question": "What event could be the starting point for complex ecosystems in the dark ocean of a rogue planet?",
+      "choices": [
+        "volcanic activity",
+        "extreme cold",
+        "lack of minerals"
+      ],
+      "answer": "volcanic activity",
+      "explanation": "Similar to hydrothermal vents on Earth, volcanic activity in the dark oceans of rogue planets could provide the foundation for complex ecosystems by releasing minerals and supporting life."
+    }
+  ]
+}

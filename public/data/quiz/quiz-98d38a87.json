@@ -1,0 +1,63 @@
+{
+  "slug": "98d38a87",
+  "video_id": "KbcNJx7kg0I",
+  "movie_title": "The Long 'e' in English Spelling and Pronunciation | A Quick Guide!",
+  "movie_url": "https://youtu.be/KbcNJx7kg0I",
+  "published_at": "2021-10-04T14:00:14Z",
+  "duration": "PT6M20S",
+  "tags": [],
+  "introduction": "Eek! 😬 Do you have difficulty spelling and pronouncing English words with a long 'ee' sound? The lon",
+  "lead_intro": "Do you find English spelling and pronunciation confusing? Let's unravel the mystery behind the various ways the long 'ee' sound is represented in English words!",
+  "quiz": [
+    {
+      "question": "How many different ways can the long 'ee' sound be spelled in English?",
+      "choices": [
+        "six",
+        "eight",
+        "ten"
+      ],
+      "answer": "six",
+      "explanation": "The video mentions that the long 'ee' sound can be spelled in six different ways in English."
+    },
+    {
+      "question": "What does the 'magic e' at the end of a word with the pattern 'e consonant e' do to the pronunciation?",
+      "choices": [
+        "makes the vowel sound before the consonant long",
+        "makes the consonant silent",
+        "changes the word's meaning"
+      ],
+      "answer": "makes the vowel sound before the consonant long",
+      "explanation": "The 'magic e' at the end of a word with the pattern 'e consonant e' makes the vowel sound before the consonant long."
+    },
+    {
+      "question": "Which rule states 'I before E except after C'?",
+      "choices": [
+        "I before E except after C",
+        "E before I except after C",
+        "I after E except before C"
+      ],
+      "answer": "I before E except after C",
+      "explanation": "The rule 'I before E except after C' is mentioned in the video with the acknowledgment of many exceptions."
+    },
+    {
+      "question": "What is the pronunciation of words with 'e a' in the spelling?",
+      "choices": [
+        "beach, cream, feast",
+        "head, health, swear",
+        "pie, friend, quiet"
+      ],
+      "answer": "beach, cream, feast",
+      "explanation": "Words like beach, cream, and feast with 'e a' in the spelling are pronounced with the long 'ee' sound, as discussed in the video."
+    },
+    {
+      "question": "Which word spelled as 'k e y' is pronounced with the long 'ee' sound?",
+      "choices": [
+        "key",
+        "pie",
+        "quiet"
+      ],
+      "answer": "key",
+      "explanation": "The video mentions that the word 'key' spelled as 'k e y' is one of the words pronounced with the long 'ee' sound."
+    }
+  ]
+}

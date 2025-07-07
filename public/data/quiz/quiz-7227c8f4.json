@@ -1,0 +1,90 @@
+{
+  "slug": "7227c8f4",
+  "video_id": "1iHeeMlOsyc",
+  "movie_title": "Why we forget the things we learn - 6 Minute English",
+  "movie_url": "https://youtu.be/1iHeeMlOsyc",
+  "published_at": "2021-11-18T16:00:01Z",
+  "duration": "PT6M20S",
+  "tags": [
+    "learn English",
+    "English vocabulary",
+    "speak English",
+    "bbc english",
+    "English teacher",
+    "英語",
+    "영어",
+    "อังกฤษ",
+    "Anh",
+    "English tutorial",
+    "English grammar",
+    "IELTS",
+    "British English",
+    "English pronunciation",
+    "English lesson",
+    "English expressions",
+    "BBC Learning English",
+    "Online English",
+    "ELT",
+    "podcast",
+    "Ingilizce",
+    "bbc learning english",
+    "learning",
+    "forget",
+    "memory",
+    "remember"
+  ],
+  "introduction": "Improve your English vocabulary and listening in just six minutes!\nMany people find it hard to remem",
+  "lead_intro": "Do you struggle to remember things you've learned? Discover the secrets to improving your memory in this 6 Minute English episode!",
+  "quiz": [
+    {
+      "question": "What is Dr. Jared Horvath's rule number one for remembering information?",
+      "choices": [
+        "Repetition is key",
+        "Focus is key",
+        "One-off events are key"
+      ],
+      "answer": "Repetition is key",
+      "explanation": "Dr. Jared Horvath's rule number one for remembering information is that repetition is key. This means that the odds of remembering something are low if you learn it as a one-off event."
+    },
+    {
+      "question": "According to Dr. Horvath, why do students who cram for tests forget around 90% of what they studied within 72 hours?",
+      "choices": [
+        "Lack of sleep",
+        "Lack of understanding",
+        "Lack of focus"
+      ],
+      "answer": "Lack of understanding",
+      "explanation": "Dr. Horvath found that students who cram for tests forget around 90% of what they studied within 72 hours because they lack understanding. Deep learning, which involves fully understanding the material, is more effective for memory retention."
+    },
+    {
+      "question": "What is the technique Dr. Horvath advocates for effective learning and memory retention?",
+      "choices": [
+        "Repetition",
+        "Deep learning",
+        "Cramming"
+      ],
+      "answer": "Deep learning",
+      "explanation": "Dr. Horvath advocates for deep learning as a technique for effective learning and memory retention. Deep learning involves fully understanding the material, not just memorizing it."
+    },
+    {
+      "question": "What does having a photographic memory mean?",
+      "choices": [
+        "Remembering things vaguely",
+        "Remembering in exact detail",
+        "Forgetting everything"
+      ],
+      "answer": "Remembering in exact detail",
+      "explanation": "Having a photographic memory means being able to remember things in exact detail, similar to looking at a photograph. It involves precise recollection."
+    },
+    {
+      "question": "What is the main focus of education according to Dr. Horvath?",
+      "choices": [
+        "Memorizing facts and figures",
+        "Encouraging deep learning",
+        "Testing memory retention"
+      ],
+      "answer": "Encouraging deep learning",
+      "explanation": "Dr. Horvath believes that education should focus on encouraging deep learning, which involves understanding the material deeply and being able to apply it in new ways, rather than just memorizing facts and figures."
+    }
+  ]
+}

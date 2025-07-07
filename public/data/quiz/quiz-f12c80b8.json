@@ -1,0 +1,63 @@
+{
+  "slug": "f12c80b8",
+  "video_id": "cRzlBWDYzlU",
+  "movie_title": "Why are people collecting NFTs? - 6 Minute English",
+  "movie_url": "https://youtu.be/cRzlBWDYzlU",
+  "published_at": "2022-04-30T12:00:19Z",
+  "duration": "PT6M20S",
+  "tags": [],
+  "introduction": "Improve your English vocabulary and listening in just six minutes! Non-fungible tokens (NFTs) are th",
+  "lead_intro": "Are you familiar with NFTs and the world of digital collectibles? Test your knowledge with this quiz based on the BBC Learning English video on non-fungible tokens!",
+  "quiz": [
+    {
+      "question": "In June 2021, how much did Sir Tim Berners-Lee eventually sell the original source code of the World Wide Web for as an NFT?",
+      "choices": [
+        "5.4 thousand dollars",
+        "5.4 million dollars",
+        "5.4 billion dollars"
+      ],
+      "answer": "5.4 million dollars",
+      "explanation": "The original source code of the World Wide Web sold for 5.4 million dollars as an NFT at a charity auction, not 5.4 billion dollars."
+    },
+    {
+      "question": "How does the term 'non-fungible' relate to collectibles like NFTs?",
+      "choices": [
+        "They have characteristics that make them unique and cannot be interchanged with anything else",
+        "They can be interchanged with other items easily",
+        "They are physical objects that can be bought and sold"
+      ],
+      "answer": "They have characteristics that make them unique and cannot be interchanged with anything else",
+      "explanation": "Non-fungible items like NFTs are unique and cannot be interchanged with something else because of their special features."
+    },
+    {
+      "question": "What does it mean when someone describes NFTs as 'rogue'?",
+      "choices": [
+        "They are behaving differently from what's normal or expected",
+        "They are extremely valuable",
+        "They are physical items that can be collected"
+      ],
+      "answer": "They are behaving differently from what's normal or expected",
+      "explanation": "When something is described as 'rogue,' it means it behaves in a way that is different from normal or expected, often causing harm or damage."
+    },
+    {
+      "question": "What does the term 'wild west' refer to in the context of NFTs?",
+      "choices": [
+        "A situation without laws or controls",
+        "A valuable digital artefact",
+        "A legitimate and useful way to collect items"
+      ],
+      "answer": "A situation without laws or controls",
+      "explanation": "The term 'wild west' in relation to NFTs signifies a chaotic situation without laws or controls, similar to the early history of the western United States."
+    },
+    {
+      "question": "How are NFTs compared to pyramid schemes?",
+      "choices": [
+        "They are business scams where money is gained dishonestly",
+        "They are digital artefacts with unique characteristics",
+        "They are physical collectibles that hold value"
+      ],
+      "answer": "They are business scams where money is gained dishonestly",
+      "explanation": "Some people compare NFTs to pyramid schemes, which are fraudulent business practices where money is obtained dishonestly."
+    }
+  ]
+}

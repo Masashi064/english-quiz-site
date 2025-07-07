@@ -1,0 +1,94 @@
+{
+  "slug": "febb1070",
+  "video_id": "ZL4yYHdDSWs",
+  "movie_title": "How Far Can We Go? Limits of Humanity (Old Version – Watch the New One)",
+  "movie_url": "https://youtu.be/ZL4yYHdDSWs",
+  "published_at": "2016-05-12T14:28:36Z",
+  "duration": "PT7M16S",
+  "tags": [
+    "local group",
+    "big bang",
+    "dark energy",
+    "milky way",
+    "explained",
+    "kurzgesagt",
+    "Space",
+    "universe",
+    "galaxy",
+    "death",
+    "inflation",
+    "limit",
+    "humanity",
+    "border",
+    "life",
+    "space travel",
+    "fermi paradox",
+    "how to",
+    "earth",
+    "solar System",
+    "cluster",
+    "galaxy cluster",
+    "super cluster",
+    "observable universe",
+    "funny",
+    "youtube",
+    "galaxies",
+    "in a nutshell",
+    "physics",
+    "math"
+  ],
+  "introduction": "Is there a border we will never cross? Are there places we will never be able to reach, no matter wh",
+  "lead_intro": "Have you ever wondered how far humanity could possibly go in the vast expanse of the universe? Let's dive into the limitations of our cosmic exploration.",
+  "quiz": [
+    {
+      "question": "What is the name of the region of space that includes the Milky Way, the Andromeda galaxy, and more than fifty dwarf galaxies?",
+      "choices": [
+        "Local Group",
+        "Laniakea Supercluster",
+        "Observable Universe"
+      ],
+      "answer": "Local Group",
+      "explanation": "The Local Group is a region of space about ten million light years in diameter that includes the Milky Way, the Andromeda galaxy, and more than fifty dwarf galaxies."
+    },
+    {
+      "question": "What percentage of the observable universe does the Local Group account for?",
+      "choices": [
+        "0.00000000001%",
+        "1%",
+        "50%"
+      ],
+      "answer": "0.00000000001%",
+      "explanation": "The Local Group accounts for only 0.00000000001% of the observable universe, highlighting the vastness beyond our reach."
+    },
+    {
+      "question": "What invisible force or effect causes and speeds up the expansion of the universe?",
+      "choices": [
+        "Dark Energy",
+        "Quantum Fluctuations",
+        "Gravity"
+      ],
+      "answer": "Dark Energy",
+      "explanation": "Dark energy is an invisible force that causes and accelerates the expansion of the universe, leading to the increasing distance between us and other gravitational pockets."
+    },
+    {
+      "question": "What event caused the sudden stretching of the universe after the Big Bang?",
+      "choices": [
+        "Cosmic Inflation",
+        "Quantum Vacuum",
+        "Dark Matter"
+      ],
+      "answer": "Cosmic Inflation",
+      "explanation": "After the Big Bang, cosmic inflation caused the observable universe to expand rapidly from the size of a marble to trillions of kilometers in fractions of a second."
+    },
+    {
+      "question": "In a few billion years, what will happen to the Local Group and the galaxies outside of it?",
+      "choices": [
+        "The Local Group will merge into one giant elliptical galaxy",
+        "The other galaxies will become too faint to detect",
+        "All other galaxy groups will become reachable"
+      ],
+      "answer": "The other galaxies will become too faint to detect",
+      "explanation": "As dark energy pushes the universe's expansion, galaxies outside the Local Group will move away at speeds we can't match, eventually becoming too faint to detect."
+    }
+  ]
+}
