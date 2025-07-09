@@ -1,0 +1,81 @@
+{
+  "slug": "522fb32e",
+  "video_id": "MjdpR-TY6QU",
+  "movie_title": "How to Cure Aging – During Your Lifetime?",
+  "movie_url": "https://youtu.be/MjdpR-TY6QU",
+  "published_at": "2017-11-03T13:33:42Z",
+  "duration": "PT7M21S",
+  "tags": [
+    "Age",
+    "Cure",
+    "Humanity",
+    "Lifespan",
+    "Healthan",
+    "forever",
+    "funny",
+    "cure",
+    "medicine",
+    "immortal",
+    "living forever",
+    "future",
+    "young",
+    "forver young",
+    "life",
+    "animation",
+    "kurzgesagt"
+  ],
+  "introduction": "What if we could stop aging forever?\n\nThanks so much for help with the video to Lifespan.io. Check t",
+  "lead_intro": "Discoveries in the field of aging research offer promising insights into extending healthspans and potentially lifespans. Let's explore three groundbreaking examples that could revolutionize how we approach aging and disease prevention.",
+  "quiz": [
+    {
+      "question": "What are senescent cells, and what makes them harmful?",
+      "choices": [
+        "Cells with expired telomeres causing tissue damage",
+        "Young cells with long telomeres promoting tissue repair",
+        "Stem cells with shortened DNA repairing body defects"
+      ],
+      "answer": "Cells with expired telomeres causing tissue damage",
+      "explanation": "Senescent cells are cells that have lost their ability to divide due to shortened telomeres. They stay in the body and can harm surrounding tissues, leading to various age-related diseases."
+    },
+    {
+      "question": "What role does NAD+ play in the body, especially as we age?",
+      "choices": [
+        "Coenzyme for cell regeneration",
+        "Antioxidant for DNA repair",
+        "Messenger for cell communication"
+      ],
+      "answer": "Coenzyme for cell regeneration",
+      "explanation": "NAD+ is a vital coenzyme that helps cells in repair and regeneration processes. Its levels decrease with age, impacting various bodily functions and contributing to age-related diseases."
+    },
+    {
+      "question": "How did injecting a protein affect senescent cells in a study with mice?",
+      "choices": [
+        "Caused cell division",
+        "Induced programmed cell death",
+        "Increased protein production"
+      ],
+      "answer": "Induced programmed cell death",
+      "explanation": "The injected protein led to programmed cell death in senescent cells, effectively removing them without harmful effects on healthy cells. This approach showed promising results in promoting overall health in mice."
+    },
+    {
+      "question": "What rejuvenating effects were observed in mice from stem cell therapy in brain and heart?",
+      "choices": [
+        "Improved metabolism and muscle function",
+        "Reduced stem cell production",
+        "Delayed DNA repair"
+      ],
+      "answer": "Improved metabolism and muscle function",
+      "explanation": "Injecting stem cells into the brains and hearts of older mice resulted in improved function and performance in these organs. The stem cells promoted better metabolism and muscle activity, indicating potential benefits for aging-related issues."
+    },
+    {
+      "question": "What is emphasized as crucial in combating aging according to the video?",
+      "choices": [
+        "Developing a single cure for all aging symptoms",
+        "Utilizing a combination of diverse therapies",
+        "Focusing solely on extending lifespan"
+      ],
+      "answer": "Utilizing a combination of diverse therapies",
+      "explanation": "The video stresses the importance of employing a variety of treatments to address aging effectively, emphasizing a multi-faceted approach involving different therapies rather than relying on a single solution."
+    }
+  ]
+}

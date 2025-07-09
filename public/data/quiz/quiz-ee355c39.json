@@ -1,0 +1,109 @@
+{
+  "slug": "ee355c39",
+  "video_id": "JhHMJCUmq28",
+  "movie_title": "Quantum Computers Explained – Limits of Human Technology",
+  "movie_url": "https://youtu.be/JhHMJCUmq28",
+  "published_at": "2015-12-08T15:32:12Z",
+  "duration": "PT7M17S",
+  "tags": [
+    "quantum computer",
+    "Quantum Computer (Literature Subject)",
+    "computer",
+    "quantum",
+    "future",
+    "qbit",
+    "transistor",
+    "module",
+    "Computer Science (Field Of Study)",
+    "Physics",
+    "what is",
+    "dwave",
+    "explained",
+    "2015",
+    "documentary",
+    "applications",
+    "cern",
+    "first",
+    "google",
+    "nasa",
+    "logic gates",
+    "mit",
+    "funny",
+    "ted",
+    "work",
+    "news",
+    "chip",
+    "photon",
+    "animated",
+    "fast",
+    "ai",
+    "bit",
+    "Computer Sciences Corporation (Award Winner)",
+    "humans",
+    "war",
+    "Technology (Industry)",
+    "Human (Quotation Subject)",
+    "research",
+    "science",
+    "infographic",
+    "kurzgesagt",
+    "in a nutshell",
+    "Math",
+    "Electronics",
+    "Experiment"
+  ],
+  "introduction": "Where are the limits of human technology? And can we somehow avoid them? This is where quantum compu",
+  "lead_intro": "Discover the fascinating world of quantum computers and how they are revolutionizing technology. Dive into the limits of human technology in this informative video by Kurzgesagt.",
+  "quiz": [
+    {
+      "question": "What are the basic components of a computer chip?",
+      "choices": [
+        "data, processing, control",
+        "memory, storage, display",
+        "input, output, processing"
+      ],
+      "answer": "data, processing, control",
+      "explanation": "Computer chips contain modules for data representation, processing, and control mechanisms."
+    },
+    {
+      "question": "What is the smallest unit of information used in normal computers?",
+      "choices": [
+        "qubits",
+        "bytes",
+        "bits"
+      ],
+      "answer": "bits",
+      "explanation": "Normal computers use bits as the smallest unit of information, which can be set to 0 or 1."
+    },
+    {
+      "question": "What is the term for a qubit being in a state of both 0 and 1 simultaneously?",
+      "choices": [
+        "entanglement",
+        "superposition",
+        "manipulation"
+      ],
+      "answer": "superposition",
+      "explanation": "Superposition refers to the qubit being in a state of both 0 and 1 until it is observed and collapses into one of the states."
+    },
+    {
+      "question": "What is a unique property of qubits related to entanglement?",
+      "choices": [
+        "instantaneous reaction",
+        "color change",
+        "physical growth"
+      ],
+      "answer": "instantaneous reaction",
+      "explanation": "Entanglement causes qubits to react instantly to changes in each other's states, regardless of the distance between them."
+    },
+    {
+      "question": "How do quantum computers process information compared to normal computers?",
+      "choices": [
+        "sequentially",
+        "simultaneously",
+        "randomly"
+      ],
+      "answer": "simultaneously",
+      "explanation": "Quantum computers process information simultaneously by exploiting superposition and entanglement, leading to exponential efficiency."
+    }
+  ]
+}

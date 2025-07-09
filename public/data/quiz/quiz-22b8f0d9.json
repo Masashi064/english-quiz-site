@@ -1,0 +1,92 @@
+{
+  "slug": "22b8f0d9",
+  "video_id": "JwApFGwMIMQ",
+  "movie_title": "How This Chair Conquered the World",
+  "movie_url": "https://youtu.be/JwApFGwMIMQ",
+  "published_at": "2020-04-27T20:00:04Z",
+  "duration": "PT7M32S",
+  "tags": [
+    "monobloc",
+    "chair",
+    "design",
+    "architecture",
+    "explainer",
+    "why",
+    "how",
+    "plastic",
+    "mould",
+    "moulded",
+    "cheap",
+    "thermoplastics",
+    "analysis",
+    "Wassily chair",
+    "marcel breuer",
+    "Helmut Bätzner",
+    "Chair Universale",
+    "Joe Colombo",
+    "verner panton",
+    "panton chair",
+    "Grosfillex",
+    "ethan zuckerman",
+    "neo",
+    "society of geeks",
+    "vergil chair",
+    "vergil",
+    "vergil's",
+    "Devil May Cry"
+  ],
+  "introduction": "Check out Nebula, where you can watch exclusive videos of mine that are not on YouTube:\nhttps://nebu",
+  "lead_intro": "Have you ever wondered about the history and impact of the ubiquitous monoblock chair? Let's dive into the details and test your knowledge with a quiz!",
+  "quiz": [
+    {
+      "question": "What material is commonly used to make monoblock chairs?",
+      "choices": [
+        "wood",
+        "plastic",
+        "metal"
+      ],
+      "answer": "plastic",
+      "explanation": "Monoblock chairs are typically made of plastic, particularly using the injection molding process."
+    },
+    {
+      "question": "In what year was the monoblock chair first sold in large quantities at a cheap price?",
+      "choices": [
+        "1946",
+        "1972",
+        "1983"
+      ],
+      "answer": "1983",
+      "explanation": "The monoblock chair was first sold in large quantities at a cheap price in 1983, making it more accessible to the masses."
+    },
+    {
+      "question": "Who is credited with launching the first monoblock chair?",
+      "choices": [
+        "DC Simpson",
+        "Helmut Buettner",
+        "Avi Massenet"
+      ],
+      "answer": "DC Simpson",
+      "explanation": "Canadian designer DC Simpson is credited with arguably creating the first monoblock chair in 1946."
+    },
+    {
+      "question": "What design feature makes the Pantone chair a technical predecessor to the monoblock?",
+      "choices": [
+        "Stackability",
+        "Individual molded parts",
+        "Metal construction"
+      ],
+      "answer": "Stackability",
+      "explanation": "The Pantone chair's stackability and use of the same molding method as the monoblock chair make it a technical predecessor."
+    },
+    {
+      "question": "What makes the monoblock chair a universally appealing design according to the video?",
+      "choices": [
+        "High cost",
+        "Customizability",
+        "Weatherproof and stackable qualities"
+      ],
+      "answer": "Weatherproof and stackable qualities",
+      "explanation": "The monoblock chair's weatherproof, stackable, and light characteristics contribute to its universal appeal and functionality."
+    }
+  ]
+}

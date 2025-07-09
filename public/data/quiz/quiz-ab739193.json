@@ -1,0 +1,96 @@
+{
+  "slug": "ab739193",
+  "video_id": "ZYGd-llxHJE",
+  "movie_title": "How one NASA image tells dozens of stories",
+  "movie_url": "https://youtu.be/ZYGd-llxHJE",
+  "published_at": "2019-01-25T21:00:05Z",
+  "duration": "PT5M43S",
+  "tags": [
+    "Nasa",
+    "image",
+    "satellite",
+    "photo",
+    "india",
+    "lights",
+    "light pollution",
+    "korea",
+    "berlin",
+    "imagery",
+    "suomi npp",
+    "earth",
+    "countries",
+    "germany",
+    "oil",
+    "world",
+    "geography",
+    "society of geeks",
+    "topography",
+    "culture",
+    "maps",
+    "mapped",
+    "places",
+    "understanding",
+    "why",
+    "how",
+    "explained",
+    "society",
+    "environment",
+    "humans",
+    "population",
+    "growth"
+  ],
+  "introduction": "Check out Nebula, where you can watch exclusive videos of mine that are not on YouTube:\nhttps://nebu",
+  "lead_intro": "Have you ever thought about how much a single picture can reveal about our world? This video showcases a composite satellite image that sheds light on various aspects of human civilization and conflicts.",
+  "quiz": [
+    {
+      "question": "Which region in Europe is particularly bright in the satellite image due to high prosperity and heavy population?",
+      "choices": [
+        "Benelux region",
+        "Po-Valley",
+        "Nile River"
+      ],
+      "answer": "Benelux region",
+      "explanation": "The Benelux region in Europe and the densely populated Po-Valley stand out as particularly bright in the satellite image due to high prosperity and heavy population."
+    },
+    {
+      "question": "What can the bright lights from the extraction of oil in the Arab world be attributed to?",
+      "choices": [
+        "Flaring of gas",
+        "Fishing boats",
+        "Electricity grid"
+      ],
+      "answer": "Flaring of gas",
+      "explanation": "The bright lights from the extraction of oil in the Arab world are mainly due to the flaring of gas, creating a distinct pattern in the satellite image."
+    },
+    {
+      "question": "Which city in Syria is highlighted in the satellite image as an important cultural place, but has been significantly affected by the war?",
+      "choices": [
+        "Aleppo",
+        "Raqqa",
+        "Seoul"
+      ],
+      "answer": "Aleppo",
+      "explanation": "Aleppo, the largest city in Syria and an important cultural place, is highlighted in the satellite image. However, the war has almost completely destroyed the historic city."
+    },
+    {
+      "question": "Which part of Korea is brightly lit in the satellite image, indicating a high population density?",
+      "choices": [
+        "South Korea",
+        "North Korea",
+        "Berlin"
+      ],
+      "answer": "South Korea",
+      "explanation": "South Korea is brightly lit in the satellite image, especially around the capital, Seoul, indicating a high population density. In contrast, North Korea appears almost completely black."
+    },
+    {
+      "question": "What historical event from the Cold War era is reflected in the satellite image with different colored city lights in Berlin?",
+      "choices": [
+        "Berlin Wall",
+        "Korean War",
+        "UN Convention on the Law of the Sea"
+      ],
+      "answer": "Berlin Wall",
+      "explanation": "The division of Berlin during the Cold War era, with the city lights appearing in two different colors, reflects the lasting impact of historical events on city infrastructure."
+    }
+  ]
+}

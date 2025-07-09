@@ -1,0 +1,92 @@
+{
+  "slug": "e9d03d84",
+  "video_id": "KsF_hdjWJjo",
+  "movie_title": "The Solar System -- our home in space",
+  "movie_url": "https://youtu.be/KsF_hdjWJjo",
+  "published_at": "2013-08-22T13:24:56Z",
+  "duration": "PT7M21S",
+  "tags": [
+    "Solar system",
+    "planets",
+    "earth",
+    "mars",
+    "moon",
+    "jupiter",
+    "saturn",
+    "venus",
+    "neptune",
+    "mercury",
+    "infographic",
+    "infographics",
+    "animation",
+    "explain",
+    "space",
+    "science",
+    "astronomy",
+    "kurzgesagt",
+    "English Language (Human Language)",
+    "Alien",
+    "Erklärfilm",
+    "kurzeng",
+    "documentaries",
+    "youtube",
+    "funny",
+    "the sun",
+    "the universe",
+    "nova"
+  ],
+  "introduction": "An Infographic trip through the wonders of the solar system.\n\nThe solar system - well known from cou",
+  "lead_intro": "Explore the wonders of our Solar system and test your knowledge with this quiz!",
+  "quiz": [
+    {
+      "question": "Which planet is known as the hottest planet in the Solar system?",
+      "choices": [
+        "Mars",
+        "Venus",
+        "Jupiter"
+      ],
+      "answer": "Venus",
+      "explanation": "Venus is the hottest planet in our Solar system with temperatures that never cool below 437°C."
+    },
+    {
+      "question": "Which planet has the largest storm known as the Great Red Spot?",
+      "choices": [
+        "Mars",
+        "Saturn",
+        "Jupiter"
+      ],
+      "answer": "Jupiter",
+      "explanation": "Jupiter is home to the largest storm known as the Great Red Spot, which is three times as large as Earth."
+    },
+    {
+      "question": "Which planet has the most moons in the Solar system?",
+      "choices": [
+        "Saturn",
+        "Neptune",
+        "Mars"
+      ],
+      "answer": "Saturn",
+      "explanation": "Saturn has 62 moons, making it the planet with the most moons in our Solar system."
+    },
+    {
+      "question": "Which planet's axis of rotation is tilted sideways compared to the other planets?",
+      "choices": [
+        "Uranus",
+        "Neptune",
+        "Jupiter"
+      ],
+      "answer": "Uranus",
+      "explanation": "Uranus has a unique feature where its axis of rotation is tilted sideways compared to the other planets."
+    },
+    {
+      "question": "What is the largest planet in the Solar system in terms of size and weight?",
+      "choices": [
+        "Mercury",
+        "Jupiter",
+        "Earth"
+      ],
+      "answer": "Jupiter",
+      "explanation": "Jupiter is the largest and most massive planet in our Solar system, containing roughly 70% of the mass of all the other planets."
+    }
+  ]
+}

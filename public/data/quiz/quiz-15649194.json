@@ -1,0 +1,89 @@
+{
+  "slug": "15649194",
+  "video_id": "B_TWPas7ZAw",
+  "movie_title": "Ice and the origins of life on Earth ⏲️ 6 Minute English",
+  "movie_url": "https://youtu.be/B_TWPas7ZAw",
+  "published_at": "2023-05-04T13:22:59Z",
+  "duration": "PT6M21S",
+  "tags": [
+    "learn English",
+    "English vocabulary",
+    "speak English",
+    "bbc english",
+    "English teacher",
+    "英語",
+    "영어",
+    "อังกฤษ",
+    "Anh",
+    "English grammar",
+    "IELTS",
+    "British English",
+    "English pronunciation",
+    "English expressions",
+    "BBC Learning English",
+    "English speaking",
+    "ELT",
+    "podcast",
+    "Ingilizce",
+    "English words",
+    "English podcast",
+    "ice",
+    "life on earth",
+    "origins of life",
+    "6 minute english"
+  ],
+  "introduction": "The James Webb Space Telescope recently detected the coldest ices ever in outer space, something Nas",
+  "lead_intro": "Have you ever wondered how ice could be linked to the origins of life on Earth? Let's explore this fascinating connection in today's BBC Learning English video.",
+  "quiz": [
+    {
+      "question": "What is the chemical symbol for water?",
+      "choices": [
+        "H2O",
+        "HO2",
+        "H2O2"
+      ],
+      "answer": "H2O",
+      "explanation": "In the video, the correct answer is revealed to be H2O, where each water molecule contains two atoms of hydrogen and one atom of oxygen."
+    },
+    {
+      "question": "What did Professor McClure think was brought to Earth by comets?",
+      "choices": [
+        "Oxygen and carbon",
+        "Methane and CO2",
+        "Water and methane"
+      ],
+      "answer": "Water and methane",
+      "explanation": "Professor McClure mentioned that the basic building blocks like water and methane were brought to Earth by ices in comets."
+    },
+    {
+      "question": "What kind of reaction did the organic molecules trigger when they met the primordial soup?",
+      "choices": [
+        "Chain reaction",
+        "Explosion",
+        "Evaporation"
+      ],
+      "answer": "Chain reaction",
+      "explanation": "The theory suggests that the organic molecules meeting the primordial soup resulted in a chain reaction, leading to the creation of the first living cells."
+    },
+    {
+      "question": "What does the term 'organic' mean in the context of the video?",
+      "choices": [
+        "Related to living plants and animals",
+        "Synthetic",
+        "Inorganic"
+      ],
+      "answer": "Related to living plants and animals",
+      "explanation": "In the video, 'organic' is explained to mean related to living plants and animals, not referring to 'organic food' grown without chemicals."
+    },
+    {
+      "question": "What is a comet according to the video?",
+      "choices": [
+        "A large object travelling in space",
+        "A type of meteorite",
+        "A type of planet"
+      ],
+      "answer": "A large object travelling in space",
+      "explanation": "A comet is described in the video as a large object travelling in space, orbiting the sun with a bright, burning tail."
+    }
+  ]
+}
