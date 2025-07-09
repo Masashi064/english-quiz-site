@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/K-9-dtJpZ9c",
   "published_at": "2023-12-21T15:00:12Z",
   "published_date": "2025-06-07T15:20:53.633818",
-  "duration": "PT6M24S",
+  "duration": "6:24",
   "introduction": "Summer 2023 saw two missions to the Moon. Why are scientists so keen to get there? Find out with Geo",
   "thumbnail_url": "https://i.ytimg.com/vi/K-9-dtJpZ9c/default.jpg",
   "category": "",
@@ -46,6 +46,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
+  "assigned_category": "Science",
   "assigned_level": "intermediate"
 }

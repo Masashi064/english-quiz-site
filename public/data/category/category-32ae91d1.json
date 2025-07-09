@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/GqA42M4RtxE",
   "published_at": "2015-07-09T12:56:13Z",
   "published_date": "2025-06-27T14:43:22.380553",
-  "duration": "PT6M12S",
+  "duration": "6:12",
   "introduction": "In 2015 the bees are still dying in masses. Which at first seems not very important until you realiz",
   "thumbnail_url": "https://i.ytimg.com/vi/GqA42M4RtxE/default.jpg",
   "category": "",
@@ -65,6 +65,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
-  "assigned_level": "advanced"
+  "assigned_category": "Science",
+  "assigned_level": "intermediate"
 }

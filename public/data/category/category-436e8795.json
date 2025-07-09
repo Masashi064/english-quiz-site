@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/EBAc4PIQC2Y",
   "published_at": "2022-05-19T14:30:04Z",
   "published_date": "2025-07-05T01:18:48.118598",
-  "duration": "PT6M20S",
+  "duration": "6:20",
   "introduction": "What’s up and what’s down for astronauts who are floating in zero gravity? In space is there a true",
   "thumbnail_url": "https://i.ytimg.com/vi/EBAc4PIQC2Y/default.jpg",
   "category": "",
@@ -45,6 +45,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
+  "assigned_category": "Science",
   "assigned_level": "intermediate"
 }

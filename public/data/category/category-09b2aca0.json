@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/zjLOXG0NMEE",
   "published_at": "2022-06-07T02:00:21Z",
   "published_date": "2025-06-11T18:46:24.372937",
-  "duration": "PT15M19S",
+  "duration": "15:19",
   "introduction": "Visit http://brilliant.org/neo/ to get started learning STEM for free, and the first 200 people will",
   "thumbnail_url": "https://i.ytimg.com/vi/zjLOXG0NMEE/default.jpg",
   "category": "",
@@ -48,6 +48,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
+  "assigned_category": "Technology",
   "assigned_level": "advanced"
 }

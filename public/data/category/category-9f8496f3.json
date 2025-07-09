@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/LOK1TcrSKDs",
   "published_at": "2025-04-14T03:00:21Z",
   "published_date": "2025-06-11T18:46:20.318903",
-  "duration": "PT6M18S",
+  "duration": "6:18",
   "introduction": "Learn English with Anne Hathaway. Join her as she speaks at the B20 Indonesia Summit 2022, where she",
   "thumbnail_url": "https://i.ytimg.com/vi/LOK1TcrSKDs/default.jpg",
   "category": "",
@@ -43,6 +43,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "culture",
-  "assigned_level": "advanced"
+  "assigned_category": "Culture",
+  "assigned_level": "intermediate"
 }

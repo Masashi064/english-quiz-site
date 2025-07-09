@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/OecV0xGyZKo",
   "published_at": "2025-06-26T03:38:41Z",
   "published_date": "2025-07-05T07:28:09.052256",
-  "duration": "PT3M10S",
+  "duration": "3:10",
   "introduction": "One of the world's largest crackdowns on online sales of illicit pharmaceuticals has just wrapped up",
   "thumbnail_url": "https://i.ytimg.com/vi/OecV0xGyZKo/default.jpg",
   "category": "",
@@ -14,6 +14,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "news",
-  "assigned_level": "advanced"
+  "assigned_category": "Health",
+  "assigned_level": "intermediate"
 }

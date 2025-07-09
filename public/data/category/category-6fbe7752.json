@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/rxhKrtb3XsE",
   "published_at": "2019-11-28T21:00:14Z",
   "published_date": "2025-06-30T06:56:09.932849",
-  "duration": "PT4M9S",
+  "duration": "4:09",
   "introduction": "A man comes back home to share some good news with his family, but he faces resistance from his abra",
   "thumbnail_url": "https://i.ytimg.com/vi/rxhKrtb3XsE/default.jpg",
   "category": "",
@@ -49,6 +49,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "comedy",
-  "assigned_level": "intermediate"
+  "assigned_category": "Daily Conversation",
+  "assigned_level": "beginner"
 }

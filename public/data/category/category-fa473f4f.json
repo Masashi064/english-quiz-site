@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/obpKWRcXezA",
   "published_at": "2022-06-30T09:23:40Z",
   "published_date": "2025-07-04T20:13:17.433972",
-  "duration": "PT6M20S",
+  "duration": "6:20",
   "introduction": "Recent events like the Covid pandemic and climate crisis have put scientists under pressure from cri",
   "thumbnail_url": "https://i.ytimg.com/vi/obpKWRcXezA/default.jpg",
   "category": "",
@@ -44,6 +44,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
+  "assigned_category": "Science",
   "assigned_level": "intermediate"
 }

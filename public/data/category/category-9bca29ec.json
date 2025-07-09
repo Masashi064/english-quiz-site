@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/asHpRqe7JZ0",
   "published_at": "2024-12-04T20:23:06Z",
   "published_date": "2025-06-10T22:37:30.851884",
-  "duration": "PT10M8S",
+  "duration": "10:08",
   "introduction": "🎙️ Listen to the podcast here: https://podcasts.apple.com/us/podcast/judge-frederic-block-on-the-mo",
   "thumbnail_url": "https://i.ytimg.com/vi/asHpRqe7JZ0/default.jpg",
   "category": "",
@@ -27,6 +27,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "culture",
-  "assigned_level": "advanced"
+  "assigned_category": "History",
+  "assigned_level": "intermediate"
 }

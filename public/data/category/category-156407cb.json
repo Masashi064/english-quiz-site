@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/1lNbOH-cvl8",
   "published_at": "2024-11-28T10:00:02Z",
   "published_date": "2025-05-29T11:30:59.339928",
-  "duration": "PT6M15S",
+  "duration": "6:15",
   "introduction": "What do babies need to learn to do to be able to talk? For audio and transcript downloads, plus a qu",
   "thumbnail_url": "https://i.ytimg.com/vi/1lNbOH-cvl8/default.jpg",
   "category": "",
@@ -52,6 +52,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "language",
-  "assigned_level": "intermediate"
+  "assigned_category": "Education",
+  "assigned_level": "beginner"
 }

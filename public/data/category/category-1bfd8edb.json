@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/tRXy-b6_lBc",
   "published_at": "2025-05-06T14:00:01Z",
   "published_date": "2025-05-29T11:30:02.492110",
-  "duration": "PT11M16S",
+  "duration": "11:16",
   "introduction": "Get the exclusive NordVPN deal + 4 months extra here: https://nordvpn.com/kurzgesagt It's risk-free",
   "thumbnail_url": "https://i.ytimg.com/vi/tRXy-b6_lBc/default.jpg",
   "category": "",
@@ -50,6 +50,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
-  "assigned_level": "advanced"
+  "assigned_category": "Science",
+  "assigned_level": "intermediate"
 }

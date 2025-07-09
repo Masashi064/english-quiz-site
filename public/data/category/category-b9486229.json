@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/aGedUxTAfBk",
   "published_at": "2017-01-09T14:00:01Z",
   "published_date": "2025-06-21T11:06:43.161932",
-  "duration": "PT6M13S",
+  "duration": "6:13",
   "introduction": "Our desire to build good and lasting friendships is often undermined by a lack of focus on what frie",
   "thumbnail_url": "https://i.ytimg.com/vi/aGedUxTAfBk/default.jpg",
   "category": "",
@@ -46,6 +46,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "psychology",
-  "assigned_level": "advanced"
+  "assigned_category": "Daily Conversation",
+  "assigned_level": "intermediate"
 }

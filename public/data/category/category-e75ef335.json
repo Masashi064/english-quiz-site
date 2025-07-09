@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/kCK3cR3Pz2c",
   "published_at": "2021-09-19T04:00:22Z",
   "published_date": "2025-06-20T13:42:55.958898",
-  "duration": "PT6M24S",
+  "duration": "6:24",
   "introduction": "Learn English with Elizabeth Olsen. Elizabeth Olsen was honored with the EMA Futures Award for her l",
   "thumbnail_url": "https://i.ytimg.com/vi/kCK3cR3Pz2c/default.jpg",
   "category": "",
@@ -44,6 +44,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "culture",
-  "assigned_level": "advanced"
+  "assigned_category": "Culture",
+  "assigned_level": "intermediate"
 }

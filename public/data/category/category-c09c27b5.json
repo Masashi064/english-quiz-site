@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/Ce9kHZQk3MI",
   "published_at": "2025-06-09T17:00:14Z",
   "published_date": "2025-06-30T06:55:59.898022",
-  "duration": "PT47S",
+  "duration": "0:47",
   "introduction": "✨ The free demo is live now on Steam: http://kgs.link/starbirds ✨\nPlay today and help us shape the g",
   "thumbnail_url": "https://i.ytimg.com/vi/Ce9kHZQk3MI/default.jpg",
   "category": "",
@@ -50,6 +50,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "technology",
-  "assigned_level": "intermediate"
+  "assigned_category": "Technology",
+  "assigned_level": "beginner"
 }

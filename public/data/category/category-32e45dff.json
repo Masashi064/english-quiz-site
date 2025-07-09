@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/FZDImEiPgMk",
   "published_at": "2024-02-22T15:02:16Z",
   "published_date": "2025-06-04T16:16:01.698147",
-  "duration": "PT6M20S",
+  "duration": "6:20",
   "introduction": "Our brain works very hard 24 hours a day. So, what food should we eat for maximum brain health? Phil",
   "thumbnail_url": "https://i.ytimg.com/vi/FZDImEiPgMk/default.jpg",
   "category": "",
@@ -46,6 +46,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
+  "assigned_category": "Health",
   "assigned_level": "intermediate"
 }

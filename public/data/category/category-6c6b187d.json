@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/hGzKWfQOKeQ",
   "published_at": "2023-07-20T14:14:06Z",
   "published_date": "2025-07-09T16:33:48.120806",
-  "duration": "PT6M21S",
+  "duration": "6:21",
   "introduction": "Do you pick the fruit you eat from the tree? In this programme, we’ll be hearing about a new foragin",
   "thumbnail_url": "https://i.ytimg.com/vi/hGzKWfQOKeQ/default.jpg",
   "category": "",
@@ -37,6 +37,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
+  "assigned_category": "Health",
   "assigned_level": "intermediate"
 }

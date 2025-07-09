@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/UhAIsZldJKo",
   "published_at": "2025-06-26T13:25:43Z",
   "published_date": "2025-07-04T20:13:26.501902",
-  "duration": "PT4M58S",
+  "duration": "4:58",
   "introduction": "Iran's Supreme Leader Ali Khamenei has vowed not to surrender to the US, warning that any repeat agg",
   "thumbnail_url": "https://i.ytimg.com/vi/UhAIsZldJKo/default.jpg",
   "category": "",
@@ -14,6 +14,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "news",
+  "assigned_category": "News",
   "assigned_level": "advanced"
 }

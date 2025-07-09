@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/r5iFFBpFSlU",
   "published_at": "2024-03-07T15:00:45Z",
   "published_date": "2025-06-04T16:15:58.672146",
-  "duration": "PT6M22S",
+  "duration": "6:22",
   "introduction": "Period poverty affects over 500 million people worldwide. To help fight this, the Pachamama project",
   "thumbnail_url": "https://i.ytimg.com/vi/r5iFFBpFSlU/default.jpg",
   "category": "",
@@ -46,6 +46,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "culture",
+  "assigned_category": "Health",
   "assigned_level": "intermediate"
 }

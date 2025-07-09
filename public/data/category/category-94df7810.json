@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/H4yeMxZ07zY",
   "published_at": "2024-09-05T08:35:57Z",
   "published_date": "2025-06-01T14:43:52.278923",
-  "duration": "PT6M22S",
+  "duration": "6:22",
   "introduction": "Are we all eating too much salt? For audio and transcript downloads, plus a quiz and a list of the w",
   "thumbnail_url": "https://i.ytimg.com/vi/H4yeMxZ07zY/default.jpg",
   "category": "",
@@ -46,6 +46,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
+  "assigned_category": "Health",
   "assigned_level": "intermediate"
 }

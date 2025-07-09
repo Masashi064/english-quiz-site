@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/qsN1LglrX9s",
   "published_at": "2017-05-04T12:17:32Z",
   "published_date": "2025-06-12T09:59:32.140342",
-  "duration": "PT6M29S",
+  "duration": "6:29",
   "introduction": "Everything will end. Even the universe. But in a future so far away that it defies description, ther",
   "thumbnail_url": "https://i.ytimg.com/vi/qsN1LglrX9s/default.jpg",
   "category": "",
@@ -29,6 +29,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
-  "assigned_level": "advanced"
+  "assigned_category": "Science",
+  "assigned_level": "intermediate"
 }

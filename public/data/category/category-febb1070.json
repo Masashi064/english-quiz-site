@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/ZL4yYHdDSWs",
   "published_at": "2016-05-12T14:28:36Z",
   "published_date": "2025-07-07T15:44:41.697535",
-  "duration": "PT7M16S",
+  "duration": "7:16",
   "introduction": "Is there a border we will never cross? Are there places we will never be able to reach, no matter wh",
   "thumbnail_url": "https://i.ytimg.com/vi/ZL4yYHdDSWs/default.jpg",
   "category": "",
@@ -45,6 +45,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
+  "assigned_category": "Science",
   "assigned_level": "advanced"
 }

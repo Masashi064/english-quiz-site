@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/MNw9x53Ybos",
   "published_at": "2024-06-06T15:01:34Z",
   "published_date": "2025-06-28T16:31:49.342392",
-  "duration": "PT6M11S",
+  "duration": "6:11",
   "introduction": "Explore the life and works of Rumi, who became one of the world’s most celebrated poets and mystical",
   "thumbnail_url": "https://i.ytimg.com/vi/MNw9x53Ybos/default.jpg",
   "category": "",
@@ -59,6 +59,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "culture",
-  "assigned_level": "advanced"
+  "assigned_category": "Culture",
+  "assigned_level": "intermediate"
 }

@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/6wx8RIynJGw",
   "published_at": "2025-05-24T09:30:09Z",
   "published_date": "2025-05-29T11:29:48.676861",
-  "duration": "PT10M41S",
+  "duration": "10:41",
   "introduction": "This is the best video to start building your English vocabulary.\nhttps://tinyurl.com/bdd384hv Click",
   "thumbnail_url": "https://i.ytimg.com/vi/6wx8RIynJGw/default.jpg",
   "category": "",
@@ -41,6 +41,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "conversation",
+  "assigned_category": "Daily Conversation",
   "assigned_level": "intermediate"
 }

@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/CvUIQuAlsWw",
   "published_at": "2022-05-09T18:30:07Z",
   "published_date": "2025-06-11T18:46:26.385702",
-  "duration": "PT15M4S",
+  "duration": "15:04",
   "introduction": "Watch the full companion video about the Kuwait oil fires here:\nhttps://nebula.app/videos/neo-the-ku",
   "thumbnail_url": "https://i.ytimg.com/vi/CvUIQuAlsWw/default.jpg",
   "category": "",
@@ -47,6 +47,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "technology",
+  "assigned_category": "Technology",
   "assigned_level": "advanced"
 }

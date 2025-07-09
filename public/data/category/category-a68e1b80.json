@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/UOLAFO2WV3E",
   "published_at": "2025-06-26T05:45:22Z",
   "published_date": "2025-07-05T01:18:57.032522",
-  "duration": "PT4M46S",
+  "duration": "4:46",
   "introduction": "At the World Economic Forum’s (WEF) Summer Davos event in Tianjin, the United States-China competiti",
   "thumbnail_url": "https://i.ytimg.com/vi/UOLAFO2WV3E/default.jpg",
   "category": "",
@@ -14,6 +14,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "news",
-  "assigned_level": "advanced"
+  "assigned_category": "Technology",
+  "assigned_level": "intermediate"
 }

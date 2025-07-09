@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/SbvAaDN1bpE",
   "published_at": "2024-09-17T14:00:08Z",
   "published_date": "2025-06-16T05:19:30.198837",
-  "duration": "PT10M44S",
+  "duration": "10:44",
   "introduction": "Build a life of learning with Imprint. Go to https://imprintapp.com/Kurzgesagt_LIB to start your jou",
   "thumbnail_url": "https://i.ytimg.com/vi/SbvAaDN1bpE/default.jpg",
   "category": "",
@@ -14,6 +14,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
+  "assigned_category": "Health",
   "assigned_level": "advanced"
 }

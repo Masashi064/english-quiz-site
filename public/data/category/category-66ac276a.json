@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/rcOFV4y5z8c",
   "published_at": "2015-03-26T13:24:03Z",
   "published_date": "2025-06-21T15:23:25.842827",
-  "duration": "PT4M44S",
+  "duration": "4:44",
   "introduction": "Nuclear Energy Explained: How does it work?\n\nNuclear Energy is a controversial subject. The pro- and",
   "thumbnail_url": "https://i.ytimg.com/vi/rcOFV4y5z8c/default.jpg",
   "category": "",
@@ -59,6 +59,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
-  "assigned_level": "advanced"
+  "assigned_category": "Science",
+  "assigned_level": "intermediate"
 }

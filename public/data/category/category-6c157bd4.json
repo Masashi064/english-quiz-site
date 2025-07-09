@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/fGeQH4_lH3Q",
   "published_at": "2021-12-30T15:30:12Z",
   "published_date": "2025-07-05T20:12:10.248480",
-  "duration": "PT6M20S",
+  "duration": "6:20",
   "introduction": "Can plants 'remember' stressful situations, such as droughts or pests? And if so, does it make them",
   "thumbnail_url": "https://i.ytimg.com/vi/fGeQH4_lH3Q/default.jpg",
   "category": "",
@@ -39,6 +39,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
+  "assigned_category": "Science",
   "assigned_level": "intermediate"
 }

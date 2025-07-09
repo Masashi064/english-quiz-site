@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/l1DLZhZXsw0",
   "published_at": "2022-11-10T14:43:29Z",
   "published_date": "2025-06-12T10:45:49.270235",
-  "duration": "PT6M13S",
+  "duration": "6:13",
   "introduction": "Introduction\nIn this programme, Sam and Neil talk about ways to manipulate the weather. You’ll hear",
   "thumbnail_url": "https://i.ytimg.com/vi/l1DLZhZXsw0/default.jpg",
   "category": "",
@@ -42,6 +42,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
+  "assigned_category": "Science",
   "assigned_level": "intermediate"
 }

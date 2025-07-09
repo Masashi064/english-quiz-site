@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/MDZ2iWN0ZSI",
   "published_at": "2025-05-01T14:00:28Z",
   "published_date": "2025-05-29T11:30:04.755582",
-  "duration": "PT59S",
+  "duration": "0:59",
   "introduction": "In some animals, heat determines whether babies are born male or female. In a warming world, this na",
   "thumbnail_url": "https://i.ytimg.com/vi/MDZ2iWN0ZSI/default.jpg",
   "category": "",
@@ -49,6 +49,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
+  "assigned_category": "Science",
   "assigned_level": "intermediate"
 }

@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/t7tA3NNKF0Q",
   "published_at": "2015-11-10T16:54:39Z",
   "published_date": "2025-06-06T16:43:19.288610",
-  "duration": "PT5M2S",
+  "duration": "5:02",
   "introduction": "Facebook just announced 8 billion video views per day. This number is made out of lies, cheating and",
   "thumbnail_url": "https://i.ytimg.com/vi/t7tA3NNKF0Q/default.jpg",
   "category": "",
@@ -21,6 +21,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "technology",
-  "assigned_level": "advanced"
+  "assigned_category": "Technology",
+  "assigned_level": "intermediate"
 }

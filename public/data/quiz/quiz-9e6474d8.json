@@ -1,0 +1,92 @@
+{
+  "slug": "9e6474d8",
+  "video_id": "yhrIUOxp_8M",
+  "movie_title": "Saudi Arabia's Water Problem",
+  "movie_url": "https://youtu.be/yhrIUOxp_8M",
+  "published_at": "2020-03-27T21:00:12Z",
+  "duration": "8:38",
+  "tags": [
+    "seawater desalination",
+    "saudi arabia",
+    "desalination",
+    "kingdom",
+    "saudi",
+    "wastewater",
+    "sewage",
+    "treatment",
+    "groundwater",
+    "aquifer",
+    "ressources",
+    "oil",
+    "sustainability",
+    "wadi",
+    "wadi hanifa",
+    "riyadh",
+    "subsidies",
+    "desert",
+    "explained",
+    "mapped",
+    "understanding",
+    "why",
+    "how",
+    "explainer",
+    "educational",
+    "entertainment",
+    "documentary",
+    "short"
+  ],
+  "introduction": "Check out Nebula, where you can watch exclusive videos of mine that are not on YouTube:\nhttps://nebu",
+  "lead_intro": "Discover how Saudi Arabia manages its scarce water resources and the challenges it faces in maintaining agriculture. From desalination plants to agricultural investments abroad, learn about the country's innovative approaches to address its water scarcity.",
+  "quiz": [
+    {
+      "question": "What is the main method used by Saudi Arabia to produce drinking water?",
+      "choices": [
+        "thermal desalination",
+        "reverse osmosis",
+        "natural spring water"
+      ],
+      "answer": "thermal desalination",
+      "explanation": "The majority of water in Medina is pumped from a desalination plant on the Red Sea, and drinking water in Riyadh mainly comes from the Jubail desalination plant on the Persian Gulf, using thermal desalination."
+    },
+    {
+      "question": "Which of the following is a major challenge faced by Saudi Arabia in maintaining agriculture due to water scarcity?",
+      "choices": [
+        "heavy rainfall",
+        "lack of imported crops",
+        "rapid depletion of underground aquifers"
+      ],
+      "answer": "rapid depletion of underground aquifers",
+      "explanation": "Saudi Arabia is suffering from a rapid depletion of water in its underground aquifers, leading to challenges in maintaining agriculture in the region."
+    },
+    {
+      "question": "What is the environmental impact of desalination in Saudi Arabia?",
+      "choices": [
+        "reducing greenhouse gas emissions",
+        "producing Brine wastewater",
+        "increasing wildlife diversity"
+      ],
+      "answer": "producing Brine wastewater",
+      "explanation": "A byproduct of the desalination process in Saudi Arabia is Brine, a heavy salt concentration liquid that is usually returned to the ocean, potentially causing environmental damage."
+    },
+    {
+      "question": "How does Saudi Arabia address the issue of water scarcity in its agricultural sector?",
+      "choices": [
+        "by importing water-intensive crops",
+        "by investing in solar-powered desalination plants",
+        "by increasing groundwater levels"
+      ],
+      "answer": "by investing in solar-powered desalination plants",
+      "explanation": "Saudi Arabia is investing in solar-powered desalination plants, like the world's largest in Al Khafji, to address water scarcity issues and reduce dependence on fossil fuels."
+    },
+    {
+      "question": "What led to a change in Saudi Arabia's agricultural strategy in 2008?",
+      "choices": [
+        "a decrease in wheat production",
+        "an increase in domestic water supply",
+        "the launch of an agricultural investment initiative abroad"
+      ],
+      "answer": "the launch of an agricultural investment initiative abroad",
+      "explanation": "In 2008, Saudi Arabia shifted its agricultural strategy by launching the Initiative for Agricultural Investment Abroad, aiming to acquire farmland in other countries to save water at home."
+    }
+  ]
+}

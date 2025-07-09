@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/XGx13d-QdIM",
   "published_at": "2021-12-02T15:29:06Z",
   "published_date": "2025-07-05T20:12:19.454726",
-  "duration": "PT6M20S",
+  "duration": "6:20",
   "introduction": "We learn a lot from books and from talking to people. That's the idea behind an initiative to create",
   "thumbnail_url": "https://i.ytimg.com/vi/XGx13d-QdIM/default.jpg",
   "category": "",
@@ -43,6 +43,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "culture",
+  "assigned_category": "Culture",
   "assigned_level": "intermediate"
 }

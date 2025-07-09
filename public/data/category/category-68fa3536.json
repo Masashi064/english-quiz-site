@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/7F1iJZr-p4E",
   "published_at": "2025-01-02T10:00:07Z",
   "published_date": "2025-05-29T11:30:50.250145",
-  "duration": "PT6M15S",
+  "duration": "6:15",
   "introduction": "How much water do you drink every day? Is it enough? For audio and transcript downloads, plus a quiz",
   "thumbnail_url": "https://i.ytimg.com/vi/7F1iJZr-p4E/default.jpg",
   "category": "",
@@ -52,6 +52,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
+  "assigned_category": "Health",
   "assigned_level": "intermediate"
 }

@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/W-x9d-nhal4",
   "published_at": "2024-08-22T14:00:28Z",
   "published_date": "2025-06-16T05:19:32.202490",
-  "duration": "PT59S",
+  "duration": "0:59",
   "introduction": "Fentanyl hits your brain in seconds, numbing pain and flooding you with euphoria. But it's up to fif",
   "thumbnail_url": "https://i.ytimg.com/vi/W-x9d-nhal4/default.jpg",
   "category": "",
@@ -32,6 +32,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
-  "assigned_level": "advanced"
+  "assigned_category": "Health",
+  "assigned_level": "intermediate"
 }

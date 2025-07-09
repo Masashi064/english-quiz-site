@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/_rBPwu2uS-w",
   "published_at": "2024-05-07T14:00:02Z",
   "published_date": "2025-06-16T05:19:42.285391",
-  "duration": "PT11M45S",
+  "duration": "11:45",
   "introduction": "Get the exclusive NordVPN deal + 4 months extra here: https://nordvpn.com/kurzgesagt \nIt's risk-free",
   "thumbnail_url": "https://i.ytimg.com/vi/_rBPwu2uS-w/default.jpg",
   "category": "",
@@ -14,6 +14,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "health",
-  "assigned_level": "advanced"
+  "assigned_category": "Health",
+  "assigned_level": "intermediate"
 }

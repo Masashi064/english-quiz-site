@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/-lyyIvxy2Z4",
   "published_at": "2025-05-12T20:22:01Z",
   "published_date": "2025-05-30T11:21:08.924466",
-  "duration": "PT23M34S",
+  "duration": "23:34",
   "introduction": "Get Nebula for 40% off an annual subscription using my link: https://go.nebula.tv/neo\n\nWatch my vide",
   "thumbnail_url": "https://i.ytimg.com/vi/-lyyIvxy2Z4/default.jpg",
   "category": "",
@@ -26,6 +26,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "news",
-  "assigned_level": "advanced"
+  "assigned_category": "News",
+  "assigned_level": "intermediate"
 }

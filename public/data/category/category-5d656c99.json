@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/Uti2niW2BRA",
   "published_at": "2013-09-03T09:12:24Z",
   "published_date": "2025-07-02T16:47:03.977088",
-  "duration": "PT5M3S",
+  "duration": "5:03",
   "introduction": "Fracking explained in five minutes.\n\nFracking is a controversial topic. On the one side the gas dril",
   "thumbnail_url": "https://i.ytimg.com/vi/Uti2niW2BRA/default.jpg",
   "category": "",
@@ -43,6 +43,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
+  "assigned_category": "Science",
   "assigned_level": "intermediate"
 }

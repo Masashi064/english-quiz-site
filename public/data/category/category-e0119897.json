@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/3epU697sU9E",
   "published_at": "2024-06-04T21:00:02Z",
   "published_date": "2025-05-30T18:08:35.753236",
-  "duration": "PT18M58S",
+  "duration": "18:58",
   "introduction": "Compare news coverage. Spot media bias. Avoid algorithms. Try Ground News today and get 40% off your",
   "thumbnail_url": "https://i.ytimg.com/vi/3epU697sU9E/default.jpg",
   "category": "",
@@ -29,6 +29,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "history",
+  "assigned_category": "History",
   "assigned_level": "advanced"
 }

@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/QOCaacO8wus",
   "published_at": "2014-12-11T14:40:48Z",
   "published_date": "2025-06-10T23:03:32.295937",
-  "duration": "PT5M57S",
+  "duration": "5:57",
   "introduction": "So what is the difference between you and a rock? This seems like an easy, even stupid question. But",
   "thumbnail_url": "https://i.ytimg.com/vi/QOCaacO8wus/default.jpg",
   "category": "",
@@ -57,6 +57,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
-  "assigned_level": "advanced"
+  "assigned_category": "Science",
+  "assigned_level": "intermediate"
 }

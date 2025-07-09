@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/2Z5iHh2omRA",
   "published_at": "2022-12-22T16:00:01Z",
   "published_date": "2025-06-27T13:58:23.610428",
-  "duration": "PT6M22S",
+  "duration": "6:22",
   "introduction": "Printers have come a long way since the printing press was first invented by Johannes Gutenberg in 1",
   "thumbnail_url": "https://i.ytimg.com/vi/2Z5iHh2omRA/default.jpg",
   "category": "",
@@ -42,6 +42,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "technology",
+  "assigned_category": "Technology",
   "assigned_level": "intermediate"
 }

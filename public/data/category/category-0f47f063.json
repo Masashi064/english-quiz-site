@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/H16MqVeGj2A",
   "published_at": "2024-02-03T15:00:08Z",
   "published_date": "2025-06-04T16:15:16.796814",
-  "duration": "PT10M57S",
+  "duration": "10:57",
   "introduction": "Today, you'll learn English vocabulary scenes from popular movies and series, with the RealLife Engl",
   "thumbnail_url": "https://i.ytimg.com/vi/H16MqVeGj2A/default.jpg",
   "category": "",
@@ -27,6 +27,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "conversation",
+  "assigned_category": "Daily Conversation",
   "assigned_level": "intermediate"
 }

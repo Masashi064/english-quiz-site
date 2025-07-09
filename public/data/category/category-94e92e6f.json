@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/MgoZwkSXzGw",
   "published_at": "2022-07-07T14:53:14Z",
   "published_date": "2025-07-04T20:13:15.475017",
-  "duration": "PT6M20S",
+  "duration": "6:20",
   "introduction": "Some dishes have the taste of our childhood. Cooking is not only about nutrition, but also about cul",
   "thumbnail_url": "https://i.ytimg.com/vi/MgoZwkSXzGw/default.jpg",
   "category": "",
@@ -42,6 +42,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "culture",
+  "assigned_category": "Culture",
   "assigned_level": "intermediate"
 }

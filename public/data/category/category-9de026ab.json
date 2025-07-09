@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/AhgRjqgrgkk",
   "published_at": "2022-03-12T13:00:40Z",
   "published_date": "2025-06-27T00:18:35.023284",
-  "duration": "PT6M15S",
+  "duration": "6:15",
   "introduction": "Improve your English vocabulary and listening in just six minutes! Can you imagine being left in a c",
   "thumbnail_url": "https://i.ytimg.com/vi/AhgRjqgrgkk/default.jpg",
   "category": "",
@@ -42,6 +42,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "history",
+  "assigned_category": "History",
   "assigned_level": "intermediate"
 }

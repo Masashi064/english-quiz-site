@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/Sy6JL9ckfvg",
   "published_at": "2025-04-02T12:22:27Z",
   "published_date": "2025-06-16T05:20:01.066362",
-  "duration": "PT6M59S",
+  "duration": "6:59",
   "introduction": "Myanmar is in mourning after an earthquake killed at least 2,700 people. 🔎 For a free worksheet, an",
   "thumbnail_url": "https://i.ytimg.com/vi/Sy6JL9ckfvg/default.jpg",
   "category": "",
@@ -46,6 +46,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "news",
+  "assigned_category": "News",
   "assigned_level": "intermediate"
 }

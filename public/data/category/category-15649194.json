@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/B_TWPas7ZAw",
   "published_at": "2023-05-04T13:22:59Z",
   "published_date": "2025-07-09T16:33:52.267098",
-  "duration": "PT6M21S",
+  "duration": "6:21",
   "introduction": "The James Webb Space Telescope recently detected the coldest ices ever in outer space, something Nas",
   "thumbnail_url": "https://i.ytimg.com/vi/B_TWPas7ZAw/default.jpg",
   "category": "",
@@ -40,6 +40,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
+  "assigned_category": "Science",
   "assigned_level": "intermediate"
 }

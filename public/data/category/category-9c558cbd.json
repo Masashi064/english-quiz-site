@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/YI3tsmFsrOg",
   "published_at": "2018-05-13T12:00:22Z",
   "published_date": "2025-07-05T07:27:55.166008",
-  "duration": "PT7M9S",
+  "duration": "7:09",
   "introduction": "A war has been raging for billions of years, killing trillions every single day, while we don’t even",
   "thumbnail_url": "https://i.ytimg.com/vi/YI3tsmFsrOg/default.jpg",
   "category": "",
@@ -34,6 +34,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
-  "assigned_level": "advanced"
+  "assigned_category": "Science",
+  "assigned_level": "intermediate"
 }

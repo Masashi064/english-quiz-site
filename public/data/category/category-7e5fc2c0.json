@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/EcTdPfg4wO8",
   "published_at": "2017-12-07T16:37:08Z",
   "published_date": "2025-06-25T00:14:58.187339",
-  "duration": "PT6M34S",
+  "duration": "6:34",
   "introduction": "Improve your English in just 6 minutes with the BBC. Have you ever had a bad day and tried to make y",
   "thumbnail_url": "https://i.ytimg.com/vi/EcTdPfg4wO8/default.jpg",
   "category": "",
@@ -59,6 +59,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "lifestyle",
+  "assigned_category": "Lifestyle",
   "assigned_level": "intermediate"
 }

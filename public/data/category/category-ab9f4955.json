@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/ilbOrNrAhOA",
   "published_at": "2020-06-29T20:00:06Z",
   "published_date": "2025-07-09T18:10:38.134891",
-  "duration": "PT7M59S",
+  "duration": "7:59",
   "introduction": "Check out Nebula, where you can watch exclusive videos of mine that are not on YouTube:\nhttps://nebu",
   "thumbnail_url": "https://i.ytimg.com/vi/ilbOrNrAhOA/default.jpg",
   "category": "",
@@ -35,6 +35,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
+  "assigned_category": "Technology",
   "assigned_level": "advanced"
 }

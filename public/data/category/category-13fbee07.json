@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/a66Gx6c-ZeE",
   "published_at": "2024-08-15T11:13:06Z",
   "published_date": "2025-06-01T14:43:58.074403",
-  "duration": "PT6M22S",
+  "duration": "6:22",
   "introduction": "Climate change is worrying for many young people. For audio and transcript downloads, plus a quiz an",
   "thumbnail_url": "https://i.ytimg.com/vi/a66Gx6c-ZeE/default.jpg",
   "category": "",
@@ -46,6 +46,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "news",
+  "assigned_category": "Science",
   "assigned_level": "intermediate"
 }

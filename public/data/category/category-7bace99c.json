@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/xajKmL3BhOE",
   "published_at": "2024-08-07T13:01:07Z",
   "published_date": "2025-07-03T18:20:20.846958",
-  "duration": "PT6M",
+  "duration": "6:00",
   "introduction": "Enjoying our Youtube videos? Get full access to all our audio content, videos, and thousands of thou",
   "thumbnail_url": "https://i.ytimg.com/vi/xajKmL3BhOE/default.jpg",
   "category": "",
@@ -48,6 +48,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "psychology",
-  "assigned_level": "advanced"
+  "assigned_category": "Health",
+  "assigned_level": "intermediate"
 }

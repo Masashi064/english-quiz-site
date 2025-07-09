@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/l5dsQB0rqms",
   "published_at": "2022-03-17T16:00:18Z",
   "published_date": "2025-07-05T07:28:04.672663",
-  "duration": "PT6M20S",
+  "duration": "6:20",
   "introduction": "Improve your vocabulary and pronunciation in just six minutes!\nMars has been in the news a lot recen",
   "thumbnail_url": "https://i.ytimg.com/vi/l5dsQB0rqms/default.jpg",
   "category": "",
@@ -39,6 +39,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
+  "assigned_category": "Science",
   "assigned_level": "intermediate"
 }

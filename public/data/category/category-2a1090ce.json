@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/c517cpFALXE",
   "published_at": "2023-01-10T16:00:54Z",
   "published_date": "2025-06-28T16:31:40.538615",
-  "duration": "PT6M13S",
+  "duration": "6:13",
   "introduction": "Thomas Jefferson was a founding father of the United States — but were his principles outweighed by",
   "thumbnail_url": "https://i.ytimg.com/vi/c517cpFALXE/default.jpg",
   "category": "",
@@ -46,6 +46,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "history",
+  "assigned_category": "History",
   "assigned_level": "advanced"
 }

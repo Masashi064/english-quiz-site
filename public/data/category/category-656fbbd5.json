@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/1fQkVqno-uI",
   "published_at": "2015-06-04T12:42:46Z",
   "published_date": "2025-07-02T16:46:36.510471",
-  "duration": "PT6M17S",
+  "duration": "6:17",
   "introduction": "Where are all the aliens? The universe is too big and too old, why have we not met aliens yet? Do th",
   "thumbnail_url": "https://i.ytimg.com/vi/1fQkVqno-uI/default.jpg",
   "category": "",
@@ -64,6 +64,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
+  "assigned_category": "Science",
   "assigned_level": "advanced"
 }

@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/MBRqu0YOH14",
   "published_at": "2017-07-26T12:16:28Z",
   "published_date": "2025-07-09T18:10:45.716287",
-  "duration": "PT7M26S",
+  "duration": "7:26",
   "introduction": "The philosophy of Kurzgesagt.\n\n\nOUR CHANNELS\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\nGerman Channel: https://kgs.",
   "thumbnail_url": "https://i.ytimg.com/vi/MBRqu0YOH14/default.jpg",
   "category": "",
@@ -24,6 +24,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "psychology",
-  "assigned_level": "advanced"
+  "assigned_category": "Science",
+  "assigned_level": "intermediate"
 }

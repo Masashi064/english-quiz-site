@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/CcMhB1DD-Gg",
   "published_at": "2017-09-07T14:16:31Z",
   "published_date": "2025-06-25T00:15:04.827904",
-  "duration": "PT6M18S",
+  "duration": "6:18",
   "introduction": "Improve your English vocabulary and speaking with 6 Minute English from the BBC! What's the fascinat",
   "thumbnail_url": "https://i.ytimg.com/vi/CcMhB1DD-Gg/default.jpg",
   "category": "",
@@ -50,6 +50,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "culture",
+  "assigned_category": "Culture",
   "assigned_level": "intermediate"
 }

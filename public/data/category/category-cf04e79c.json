@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/zy9lxL3c5KU",
   "published_at": "2024-05-23T13:00:55Z",
   "published_date": "2025-06-25T00:14:52.073249",
-  "duration": "PT4M28S",
+  "duration": "4:28",
   "introduction": "Subscribe to our channel, hit the notification bell, and drop a like to join us.\n\nThe race to build",
   "thumbnail_url": "https://i.ytimg.com/vi/zy9lxL3c5KU/default.jpg",
   "category": "",
@@ -30,6 +30,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "technology",
-  "assigned_level": "advanced"
+  "assigned_category": "Technology",
+  "assigned_level": "intermediate"
 }

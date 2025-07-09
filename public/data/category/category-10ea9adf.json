@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/8ysrKxRDsLg",
   "published_at": "2025-05-21T11:22:23Z",
   "published_date": "2025-06-12T10:26:03.604241",
-  "duration": "PT7M27S",
+  "duration": "7:27",
   "introduction": "A large study puts two leading theories to the test 🔎 For a free worksheet, and all the vocabulary",
   "thumbnail_url": "https://i.ytimg.com/vi/8ysrKxRDsLg/default.jpg",
   "category": "",
@@ -46,6 +46,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
+  "assigned_category": "Science",
   "assigned_level": "intermediate"
 }

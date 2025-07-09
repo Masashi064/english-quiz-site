@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/QkkoqtS0OcQ",
   "published_at": "2025-04-08T09:30:16Z",
   "published_date": "2025-06-11T17:12:03.933615",
-  "duration": "PT6M50S",
+  "duration": "6:50",
   "introduction": "https://tinyurl.com/7uj5x5cs ← Click here to download your free ebook with 2000 essential English wo",
   "thumbnail_url": "https://i.ytimg.com/vi/QkkoqtS0OcQ/default.jpg",
   "category": "",
@@ -33,6 +33,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "conversation",
-  "assigned_level": "intermediate"
+  "assigned_category": "Daily Conversation",
+  "assigned_level": "beginner"
 }

@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/y3dttOboMnE",
   "published_at": "2025-05-07T13:47:16Z",
   "published_date": "2025-06-13T11:05:34.211668",
-  "duration": "PT7M47S",
+  "duration": "7:47",
   "introduction": "Scientist have found new underwater behaviour, including an octopus that works with fish and punches",
   "thumbnail_url": "https://i.ytimg.com/vi/y3dttOboMnE/default.jpg",
   "category": "",
@@ -46,6 +46,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
+  "assigned_category": "Science",
   "assigned_level": "intermediate"
 }

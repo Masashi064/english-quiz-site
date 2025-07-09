@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/Z8hwwGsPRvE",
   "published_at": "2018-08-02T13:00:04Z",
   "published_date": "2025-06-12T10:45:51.621496",
-  "duration": "PT6M13S",
+  "duration": "6:13",
   "introduction": "We're sometimes taught that feeling proud of one's country is always suspect; but actually, it's ver",
   "thumbnail_url": "https://i.ytimg.com/vi/Z8hwwGsPRvE/default.jpg",
   "category": "",
@@ -42,6 +42,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "culture",
-  "assigned_level": "advanced"
+  "assigned_category": "Culture",
+  "assigned_level": "intermediate"
 }

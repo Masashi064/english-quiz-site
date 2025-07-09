@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/aOiuSsnWEik",
   "published_at": "2025-05-29T08:29:26Z",
   "published_date": "2025-06-16T05:19:50.355317",
-  "duration": "PT6M16S",
+  "duration": "6:16",
   "introduction": "Have you heard the story that Marco Polo brought noodles back to Italy, leading to the invention of",
   "thumbnail_url": "https://i.ytimg.com/vi/aOiuSsnWEik/default.jpg",
   "category": "",
@@ -52,6 +52,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "culture",
+  "assigned_category": "Culture",
   "assigned_level": "intermediate"
 }

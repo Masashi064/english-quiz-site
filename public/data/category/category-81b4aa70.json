@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/LeLzDKTZiXA",
   "published_at": "2024-06-26T13:00:30Z",
   "published_date": "2025-06-25T00:26:41.130955",
-  "duration": "PT4M1S",
+  "duration": "4:01",
   "introduction": "There’s a difficult mood we’re in danger of falling into that’s made up of four elements in particul",
   "thumbnail_url": "https://i.ytimg.com/vi/LeLzDKTZiXA/default.jpg",
   "category": "",
@@ -53,6 +53,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "psychology",
-  "assigned_level": "advanced"
+  "assigned_category": "Health",
+  "assigned_level": "intermediate"
 }

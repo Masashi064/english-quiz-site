@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/ntO25CAzJfs",
   "published_at": "2025-03-26T12:34:53Z",
   "published_date": "2025-06-16T05:20:02.641287",
-  "duration": "PT6M45S",
+  "duration": "6:45",
   "introduction": "Thousands of people protest in Turkey after Erdogan's main political rival jailed 🔎For a free works",
   "thumbnail_url": "https://i.ytimg.com/vi/ntO25CAzJfs/default.jpg",
   "category": "",
@@ -46,6 +46,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "news",
+  "assigned_category": "News",
   "assigned_level": "intermediate"
 }

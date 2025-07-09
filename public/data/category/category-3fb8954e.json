@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/Y681hXWwhQY",
   "published_at": "2023-06-15T12:28:36Z",
   "published_date": "2025-07-04T16:19:48.704216",
-  "duration": "PT6M20S",
+  "duration": "6:20",
   "introduction": "Some animals evolved to do nothing. And if it’s good enough for animals, would being lazy work for h",
   "thumbnail_url": "https://i.ytimg.com/vi/Y681hXWwhQY/default.jpg",
   "category": "",
@@ -39,6 +39,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "psychology",
+  "assigned_category": "Science",
   "assigned_level": "intermediate"
 }

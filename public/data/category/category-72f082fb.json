@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/hdkcXqQPMdM",
   "published_at": "2023-04-06T15:01:07Z",
   "published_date": "2025-07-03T18:20:27.155220",
-  "duration": "PT6M",
+  "duration": "6:00",
   "introduction": "Explore the science of parthenogenesis, a form of reproduction which allows animals to develop an em",
   "thumbnail_url": "https://i.ytimg.com/vi/hdkcXqQPMdM/default.jpg",
   "category": "",
@@ -49,6 +49,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
+  "assigned_category": "Science",
   "assigned_level": "advanced"
 }

@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/XwVJJYfEV1g",
   "published_at": "2016-09-14T12:00:55Z",
   "published_date": "2025-06-13T15:16:15.273994",
-  "duration": "PT5M14S",
+  "duration": "5:14",
   "introduction": "The decline in belief in the Biblical 10 commandments doesn’t mean that all rules of conduct are nec",
   "thumbnail_url": "https://i.ytimg.com/vi/XwVJJYfEV1g/default.jpg",
   "category": "",
@@ -50,6 +50,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "psychology",
-  "assigned_level": "advanced"
+  "assigned_category": "Culture",
+  "assigned_level": "intermediate"
 }

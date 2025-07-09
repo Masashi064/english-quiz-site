@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/WsKg6HsoDaw",
   "published_at": "2023-02-09T16:00:30Z",
   "published_date": "2025-07-09T18:10:53.684975",
-  "duration": "PT6M21S",
+  "duration": "6:21",
   "introduction": "Doomscrolling - when people spend a lot of time reading negative news stories online - is something",
   "thumbnail_url": "https://i.ytimg.com/vi/WsKg6HsoDaw/default.jpg",
   "category": "",
@@ -46,6 +46,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "psychology",
+  "assigned_category": "Technology",
   "assigned_level": "intermediate"
 }

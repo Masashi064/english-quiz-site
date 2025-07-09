@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/4_aOIA-vyBo",
   "published_at": "2014-02-03T16:35:03Z",
   "published_date": "2025-06-28T16:31:34.366023",
-  "duration": "PT6M17S",
+  "duration": "6:17",
   "introduction": "How will the Universe die? \n\nEverybody dies. The universe too? Well, probably. What are the current",
   "thumbnail_url": "https://i.ytimg.com/vi/4_aOIA-vyBo/default.jpg",
   "category": "",
@@ -43,6 +43,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
+  "assigned_category": "Science",
   "assigned_level": "advanced"
 }

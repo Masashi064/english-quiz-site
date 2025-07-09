@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/JhHMJCUmq28",
   "published_at": "2015-12-08T15:32:12Z",
   "published_date": "2025-07-09T16:33:44.143095",
-  "duration": "PT7M17S",
+  "duration": "7:17",
   "introduction": "Where are the limits of human technology? And can we somehow avoid them? This is where quantum compu",
   "thumbnail_url": "https://i.ytimg.com/vi/JhHMJCUmq28/default.jpg",
   "category": "",
@@ -60,6 +60,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "technology",
+  "assigned_category": "Technology",
   "assigned_level": "advanced"
 }

@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/rWHGKGS7zSc",
   "published_at": "2020-02-06T11:54:54Z",
   "published_date": "2025-06-28T00:24:16.344852",
-  "duration": "PT6M33S",
+  "duration": "6:33",
   "introduction": "Have we lost respect for those who disagree with us? At a time when public debate has become so ill-",
   "thumbnail_url": "https://i.ytimg.com/vi/rWHGKGS7zSc/default.jpg",
   "category": "",
@@ -47,6 +47,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "conversation",
+  "assigned_category": "Daily Conversation",
   "assigned_level": "intermediate"
 }

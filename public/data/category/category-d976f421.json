@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/fJoCs5Z_QvE",
   "published_at": "2022-04-07T15:08:13Z",
   "published_date": "2025-07-05T07:28:02.704347",
-  "duration": "PT6M20S",
+  "duration": "6:20",
   "introduction": "Here in the UK, when it comes to enjoying a nice hot drink, it's not all about tea. We like coffee t",
   "thumbnail_url": "https://i.ytimg.com/vi/fJoCs5Z_QvE/default.jpg",
   "category": "",
@@ -39,6 +39,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "culture",
+  "assigned_category": "Culture",
   "assigned_level": "intermediate"
 }

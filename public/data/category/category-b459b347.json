@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/TnzcwTyr6cE",
   "published_at": "2016-09-21T12:36:46Z",
   "published_date": "2025-07-05T01:17:57.238263",
-  "duration": "PT7M4S",
+  "duration": "7:04",
   "introduction": "We have the choice to attack one of our oldest enemies with genetic engineering. But should we do it",
   "thumbnail_url": "https://i.ytimg.com/vi/TnzcwTyr6cE/default.jpg",
   "category": "",
@@ -20,6 +20,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
-  "assigned_level": "advanced"
+  "assigned_category": "Science",
+  "assigned_level": "intermediate"
 }

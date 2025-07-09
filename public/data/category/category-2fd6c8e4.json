@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/tnmgIUxfFE4",
   "published_at": "2022-01-13T15:45:03Z",
   "published_date": "2025-06-27T13:58:25.978451",
-  "duration": "PT6M22S",
+  "duration": "6:22",
   "introduction": "Improve your English vocabulary and listening in just six minutes!\nNew bits of English are invented",
   "thumbnail_url": "https://i.ytimg.com/vi/tnmgIUxfFE4/default.jpg",
   "category": "",
@@ -42,6 +42,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "culture",
+  "assigned_category": "Culture",
   "assigned_level": "intermediate"
 }

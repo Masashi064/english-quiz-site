@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/FKwmUNffu7M",
   "published_at": "2022-09-29T13:52:37Z",
   "published_date": "2025-07-04T16:45:07.439296",
-  "duration": "PT6M20S",
+  "duration": "6:20",
   "introduction": "Around the world, prices of things are rising more than normal, and more worrying is that prices kee",
   "thumbnail_url": "https://i.ytimg.com/vi/FKwmUNffu7M/default.jpg",
   "category": "",
@@ -40,6 +40,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "news",
+  "assigned_category": "Business",
   "assigned_level": "intermediate"
 }

@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/KB4Mn5XHdMc",
   "published_at": "2024-12-19T09:44:31Z",
   "published_date": "2025-05-29T11:30:52.614062",
-  "duration": "PT6M15S",
+  "duration": "6:15",
   "introduction": "Have you ever phoned up a company and had your call held in a queue? Could AI make this less painful",
   "thumbnail_url": "https://i.ytimg.com/vi/KB4Mn5XHdMc/default.jpg",
   "category": "",
@@ -52,6 +52,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "technology",
+  "assigned_category": "Technology",
   "assigned_level": "intermediate"
 }

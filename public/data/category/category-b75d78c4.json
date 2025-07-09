@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/l5qMesQWSCE",
   "published_at": "2024-02-14T14:02:12Z",
   "published_date": "2025-07-02T16:46:52.045706",
-  "duration": "PT5M35S",
+  "duration": "5:35",
   "introduction": "Men in the UK are working fewer hours, while women are working more. Since the pandemic the average",
   "thumbnail_url": "https://i.ytimg.com/vi/l5qMesQWSCE/default.jpg",
   "category": "",
@@ -46,6 +46,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "news",
+  "assigned_category": "News",
   "assigned_level": "intermediate"
 }

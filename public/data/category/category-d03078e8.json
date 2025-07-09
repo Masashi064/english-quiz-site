@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/czgOWmtGVGs",
   "published_at": "2016-12-07T17:07:49Z",
   "published_date": "2025-07-05T07:27:57.053781",
-  "duration": "PT7M9S",
+  "duration": "7:09",
   "introduction": "OUR CHANNELS\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\nGerman Channel: https://kgs.link/youtubeDE \nSpanish Channel:",
   "thumbnail_url": "https://i.ytimg.com/vi/czgOWmtGVGs/default.jpg",
   "category": "",
@@ -43,6 +43,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "history",
-  "assigned_level": "advanced"
+  "assigned_category": "History",
+  "assigned_level": "intermediate"
 }

@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/ipktRrpIjz8",
   "published_at": "2023-12-07T15:00:42Z",
   "published_date": "2025-06-07T15:35:06.028797",
-  "duration": "PT6M24S",
+  "duration": "6:24",
   "introduction": "Invasive species are causing problems for nature all around the world so why don't we just eat them?",
   "thumbnail_url": "https://i.ytimg.com/vi/ipktRrpIjz8/default.jpg",
   "category": "",
@@ -46,6 +46,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
+  "assigned_category": "Science",
   "assigned_level": "intermediate"
 }

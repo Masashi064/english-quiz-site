@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/L0Le8bT1RLE",
   "published_at": "2022-07-01T00:30:07Z",
   "published_date": "2025-06-11T18:46:22.287152",
-  "duration": "PT10M2S",
+  "duration": "10:02",
   "introduction": "Go to https://displate.com/promo/neoyoutube?art=62ac5a85ed716 to save 25% on a new Displate metal po",
   "thumbnail_url": "https://i.ytimg.com/vi/L0Le8bT1RLE/default.jpg",
   "category": "",
@@ -40,6 +40,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "technology",
-  "assigned_level": "advanced"
+  "assigned_category": "Technology",
+  "assigned_level": "intermediate"
 }

@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/jDqsNK1hmM8",
   "published_at": "2023-05-25T14:00:33Z",
   "published_date": "2025-07-04T16:19:51.486305",
-  "duration": "PT6M20S",
+  "duration": "6:20",
   "introduction": "Every year, mosquito-borne diseases kill around three-quarters of a million globally, but could it g",
   "thumbnail_url": "https://i.ytimg.com/vi/jDqsNK1hmM8/default.jpg",
   "category": "",
@@ -43,6 +43,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
+  "assigned_category": "Health",
   "assigned_level": "intermediate"
 }

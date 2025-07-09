@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/izx0SSLoTls",
   "published_at": "2022-04-23T12:00:17Z",
   "published_date": "2025-07-05T01:18:54.880276",
-  "duration": "PT6M20S",
+  "duration": "6:20",
   "introduction": "Improve your English vocabulary and listening in just six minutes! Bats are in the news quite a bit",
   "thumbnail_url": "https://i.ytimg.com/vi/izx0SSLoTls/default.jpg",
   "category": "",
@@ -42,6 +42,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
+  "assigned_category": "Science",
   "assigned_level": "intermediate"
 }

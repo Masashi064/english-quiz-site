@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/PKMQzkIiB0Y",
   "published_at": "2014-06-02T12:30:01Z",
   "published_date": "2025-07-04T16:45:02.963099",
-  "duration": "PT6M44S",
+  "duration": "6:44",
   "introduction": "Are you alone? To answer this question we have to take a look what \"you\" are first. What are you mad",
   "thumbnail_url": "https://i.ytimg.com/vi/PKMQzkIiB0Y/default.jpg",
   "category": "",
@@ -48,6 +48,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
-  "assigned_level": "advanced"
+  "assigned_category": "Science",
+  "assigned_level": "intermediate"
 }

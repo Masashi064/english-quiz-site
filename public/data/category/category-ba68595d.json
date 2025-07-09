@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/V2eW5jGQe8I",
   "published_at": "2023-08-17T13:23:52Z",
   "published_date": "2025-06-12T10:45:47.010267",
-  "duration": "PT6M13S",
+  "duration": "6:13",
   "introduction": "We spend so much of our day working – how can we ensure our job doesn't make us miserable? It takes",
   "thumbnail_url": "https://i.ytimg.com/vi/V2eW5jGQe8I/default.jpg",
   "category": "",
@@ -46,6 +46,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "lifestyle",
+  "assigned_category": "Business",
   "assigned_level": "intermediate"
 }

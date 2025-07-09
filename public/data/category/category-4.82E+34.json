@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/16W7c0mb-rE",
   "published_at": "2017-11-16T15:01:58Z",
   "published_date": "2025-07-09T20:17:40.537206",
-  "duration": "PT7M31S",
+  "duration": "7:31",
   "introduction": "How can many stupid things combine to form smart things? How can proteins become living cells? How b",
   "thumbnail_url": "https://i.ytimg.com/vi/16W7c0mb-rE/default.jpg",
   "category": "",
@@ -31,6 +31,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
+  "assigned_category": "Science",
   "assigned_level": "intermediate"
 }

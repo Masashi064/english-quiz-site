@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/ZW3aV7U-aik",
   "published_at": "2014-09-03T14:03:58Z",
   "published_date": "2025-07-02T16:47:00.077632",
-  "duration": "PT5M11S",
+  "duration": "5:11",
   "introduction": "Neutron Stars are some of the strangest things in the Universe. Not quite massive enough to become b",
   "thumbnail_url": "https://i.ytimg.com/vi/ZW3aV7U-aik/default.jpg",
   "category": "",
@@ -46,6 +46,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
+  "assigned_category": "Science",
   "assigned_level": "advanced"
 }

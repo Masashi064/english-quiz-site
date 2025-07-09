@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/4YuNvIfM-YA",
   "published_at": "2023-07-24T14:02:00Z",
   "published_date": "2025-06-01T00:09:35.103592",
-  "duration": "PT17M49S",
+  "duration": "17:49",
   "introduction": "Get Nebula for 40% off an annual subscription using my link: https://go.nebula.tv/neo\n\nWatch my excl",
   "thumbnail_url": "https://i.ytimg.com/vi/4YuNvIfM-YA/default.jpg",
   "category": "",
@@ -25,6 +25,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "history",
-  "assigned_level": "advanced"
+  "assigned_category": "History",
+  "assigned_level": "intermediate"
 }

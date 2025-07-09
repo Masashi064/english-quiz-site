@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/dBxxi5XAm3U",
   "published_at": "2024-08-27T14:00:00Z",
   "published_date": "2025-06-01T14:43:56.139433",
-  "duration": "PT11M20S",
+  "duration": "11:20",
   "introduction": "Go to https://brilliant.org/nutshell/ to dive deeper into these topics and more with a free 30-day t",
   "thumbnail_url": "https://i.ytimg.com/vi/dBxxi5XAm3U/default.jpg",
   "category": "",
@@ -14,6 +14,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
+  "assigned_category": "Science",
   "assigned_level": "intermediate"
 }

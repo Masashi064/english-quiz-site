@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/sNhhvQGsMEc",
   "published_at": "2015-05-06T12:55:55Z",
   "published_date": "2025-07-02T16:46:33.819630",
-  "duration": "PT6M21S",
+  "duration": "6:21",
   "introduction": "The universe is unbelievably big – trillions of stars and even more planets. Soo… there just has to",
   "thumbnail_url": "https://i.ytimg.com/vi/sNhhvQGsMEc/default.jpg",
   "category": "",
@@ -63,6 +63,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
-  "assigned_level": "advanced"
+  "assigned_category": "Science",
+  "assigned_level": "intermediate"
 }

@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/K-HdPHGF0nU",
   "published_at": "2022-02-26T14:59:57Z",
   "published_date": "2025-06-11T00:00:45.306381",
-  "duration": "PT8M30S",
+  "duration": "8:30",
   "introduction": "Today we discuss Why This Russian Minecraft Griefer Was ARRESTED & sentenced to 5 years in jail. Was",
   "thumbnail_url": "https://i.ytimg.com/vi/K-HdPHGF0nU/default.jpg",
   "category": "",
@@ -81,6 +81,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "technology",
-  "assigned_level": "advanced"
+  "assigned_category": "Technology",
+  "assigned_level": "intermediate"
 }

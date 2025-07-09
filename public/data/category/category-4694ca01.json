@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/J5dLrmFcy8o",
   "published_at": "2024-05-09T13:00:13Z",
   "published_date": "2025-06-25T00:14:54.201015",
-  "duration": "PT4M31S",
+  "duration": "4:31",
   "introduction": "Subscribe to our channel, hit the notification bell, and drop a like to join us.\n\nKansai Internation",
   "thumbnail_url": "https://i.ytimg.com/vi/J5dLrmFcy8o/default.jpg",
   "category": "",
@@ -14,6 +14,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "technology",
-  "assigned_level": "advanced"
+  "assigned_category": "Technology",
+  "assigned_level": "intermediate"
 }

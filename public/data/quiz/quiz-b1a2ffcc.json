@@ -1,0 +1,73 @@
+{
+  "slug": "b1a2ffcc",
+  "video_id": "FfgT6zx4k3Q",
+  "movie_title": "Could Your Phone Hurt You? Electromagnetic Pollution",
+  "movie_url": "https://youtu.be/FfgT6zx4k3Q",
+  "published_at": "2019-07-07T12:31:14Z",
+  "duration": "7:36",
+  "tags": [
+    "Electronics",
+    "radiation",
+    "device",
+    "electromagnetic",
+    "phone",
+    "smartphone",
+    "electrons",
+    "electricity",
+    "waves"
+  ],
+  "introduction": "Sources:\nhttps://sites.google.com/view/sources-electrosmog \n\nElectricity is all around us, all the t",
+  "lead_intro": "Have you ever wondered about the potential dangers of electricity and electromagnetic radiation? Dive into the complexities with this informative video!",
+  "quiz": [
+    {
+      "question": "What is the movement of an electric charge called?",
+      "choices": [
+        "Electromagnetic Radiation",
+        "Electricity",
+        "Magnetic Fields"
+      ],
+      "answer": "Electricity",
+      "explanation": "Electricity is the movement of an electric charge."
+    },
+    {
+      "question": "Which kind of radiation like UV Light, X-Rays, and Gamma Rays can cause burns and genetic damage?",
+      "choices": [
+        "Visible Light",
+        "Infrared",
+        "Gamma Rays"
+      ],
+      "answer": "Gamma Rays",
+      "explanation": "Radiation with very short wavelengths like UV Light, X-Rays, and Gamma Rays are strong enough to cause burns and genetic damage."
+    },
+    {
+      "question": "What phenomenon is emitted by all sorts of human technology like mobile phones and Wi-Fi routers?",
+      "choices": [
+        "Infrared Radiation",
+        "X-Rays",
+        "Radio Waves"
+      ],
+      "answer": "Radio Waves",
+      "explanation": "Human technology emits radio waves, which is a kind of radiation that doesn't disrupt molecules in our body."
+    },
+    {
+      "question": "What effect can weak electromagnetic radiation have on the body above certain threshold values?",
+      "choices": [
+        "Cause burns",
+        "Vibrate hair on the body",
+        "Make the body cold"
+      ],
+      "answer": "Vibrate hair on the body",
+      "explanation": "Weak electromagnetic radiation can stimulate muscles and nerves, making the hair on the body vibrate, causing a tingly feeling above certain threshold values."
+    },
+    {
+      "question": "What is the term used to describe the phenomenon where people believe they are experiencing harm from weak radiation when there is no robust evidence of it?",
+      "choices": [
+        "Nocebo Effect",
+        "Placebo Effect",
+        "Radiation Syndrome"
+      ],
+      "answer": "Nocebo Effect",
+      "explanation": "The Nocebo Effect is when people believe weak radiation is harming them, even when there is no robust evidence to support it."
+    }
+  ]
+}

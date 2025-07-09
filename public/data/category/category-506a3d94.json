@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/5-JQ17X6VNg",
   "published_at": "2015-01-09T12:29:36Z",
   "published_date": "2025-06-28T00:24:07.599167",
-  "duration": "PT6M33S",
+  "duration": "6:33",
   "introduction": "How do you get a society that provides basic decent services to all citizens? Political theorist Joh",
   "thumbnail_url": "https://i.ytimg.com/vi/5-JQ17X6VNg/default.jpg",
   "category": "",
@@ -45,6 +45,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "psychology",
-  "assigned_level": "intermediate"
+  "assigned_category": "Culture",
+  "assigned_level": "advanced"
 }

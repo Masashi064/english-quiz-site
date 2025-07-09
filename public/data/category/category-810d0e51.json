@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/JZ_EV9DPtt0",
   "published_at": "2022-07-14T14:50:11Z",
   "published_date": "2025-07-04T20:13:13.451028",
-  "duration": "PT6M20S",
+  "duration": "6:20",
   "introduction": "In the 1830s Charles Darwin visited the Galapagos islands in the Pacific Ocean. His study of the uni",
   "thumbnail_url": "https://i.ytimg.com/vi/JZ_EV9DPtt0/default.jpg",
   "category": "",
@@ -42,6 +42,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
+  "assigned_category": "Science",
   "assigned_level": "intermediate"
 }

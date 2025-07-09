@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/RLEvo3I5C6w",
   "published_at": "2025-01-30T15:00:35Z",
   "published_date": "2025-05-29T14:28:28.058045",
-  "duration": "PT1M35S",
+  "duration": "1:35",
   "introduction": "Imagine solving a rabies outbreak with chicken heads.\n\n#kurzgesagt\n#inanutshell #kurzgesagt_inanutsh",
   "thumbnail_url": "https://i.ytimg.com/vi/RLEvo3I5C6w/default.jpg",
   "category": "",
@@ -27,6 +27,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
+  "assigned_category": "Science",
   "assigned_level": "intermediate"
 }

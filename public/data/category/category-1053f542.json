@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/GcSmnuo7_SY",
   "published_at": "2024-12-24T10:00:13Z",
   "published_date": "2025-07-02T16:46:50.192528",
-  "duration": "PT5M35S",
+  "duration": "5:35",
   "introduction": "Do you like the theatre? 🎭 Do you want to learn more English words to help you talk about your love",
   "thumbnail_url": "https://i.ytimg.com/vi/GcSmnuo7_SY/default.jpg",
   "category": "",
@@ -46,6 +46,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "culture",
-  "assigned_level": "intermediate"
+  "assigned_category": "Entertainment",
+  "assigned_level": "beginner"
 }

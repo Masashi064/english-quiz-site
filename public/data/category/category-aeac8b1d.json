@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/naB_3XYRtew",
   "published_at": "2021-11-25T16:27:12Z",
   "published_date": "2025-07-05T20:12:21.299969",
-  "duration": "PT6M20S",
+  "duration": "6:20",
   "introduction": "Improve your English vocabulary and listening in just six minutes!\nClimate change is reaching emerge",
   "thumbnail_url": "https://i.ytimg.com/vi/naB_3XYRtew/default.jpg",
   "category": "",
@@ -38,6 +38,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
+  "assigned_category": "Science",
   "assigned_level": "intermediate"
 }

@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/c2_DHOBgdF0",
   "published_at": "2025-06-26T15:21:47Z",
   "published_date": "2025-06-30T06:55:53.808693",
-  "duration": "PT7M49S",
+  "duration": "7:49",
   "introduction": "2,000 children will participate in a national food allergy study as hospitals in Singapore see a spi",
   "thumbnail_url": "https://i.ytimg.com/vi/c2_DHOBgdF0/default.jpg",
   "category": "",
@@ -23,6 +23,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
-  "assigned_level": "advanced"
+  "assigned_category": "Health",
+  "assigned_level": "intermediate"
 }

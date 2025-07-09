@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/tieXTqc15rE",
   "published_at": "2023-10-26T14:04:32Z",
   "published_date": "2025-06-16T05:28:27.457450",
-  "duration": "PT6M24S",
+  "duration": "6:24",
   "introduction": "More and more people are living to 100, but what is the secret of a long life? Beth and Neil discuss",
   "thumbnail_url": "https://i.ytimg.com/vi/tieXTqc15rE/default.jpg",
   "category": "",
@@ -46,6 +46,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
+  "assigned_category": "Health",
   "assigned_level": "intermediate"
 }

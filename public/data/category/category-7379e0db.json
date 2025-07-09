@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/UjAJ2jKH_QM",
   "published_at": "2025-04-17T14:00:44Z",
   "published_date": "2025-05-29T11:30:13.807545",
-  "duration": "PT1M1S",
+  "duration": "1:01",
   "introduction": "Why do we itch and why does scratching feel so good? Itching evolved to protect us, but for 1 in 5 p",
   "thumbnail_url": "https://i.ytimg.com/vi/UjAJ2jKH_QM/default.jpg",
   "category": "",
@@ -49,6 +49,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
+  "assigned_category": "Health",
   "assigned_level": "intermediate"
 }

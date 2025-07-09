@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/HTdQ8bDEhAQ",
   "published_at": "2017-11-30T12:35:58Z",
   "published_date": "2025-06-25T00:15:01.094288",
-  "duration": "PT6M19S",
+  "duration": "6:19",
   "introduction": "Improve your English vocabulary and speaking with 6 Minute English from the BBC! \nMany people are ho",
   "thumbnail_url": "https://i.ytimg.com/vi/HTdQ8bDEhAQ/default.jpg",
   "category": "",
@@ -61,6 +61,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "technology",
+  "assigned_category": "Technology",
   "assigned_level": "intermediate"
 }

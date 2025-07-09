@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/wlEuiYq8tcM",
   "published_at": "2017-10-26T11:02:32Z",
   "published_date": "2025-06-21T11:06:50.778205",
-  "duration": "PT6M13S",
+  "duration": "6:13",
   "introduction": "‘Improve your English vocabulary and speaking with 6 Minute English from the BBC’ . In this programm",
   "thumbnail_url": "https://i.ytimg.com/vi/wlEuiYq8tcM/default.jpg",
   "category": "",
@@ -60,6 +60,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "health",
+  "assigned_category": "Health",
   "assigned_level": "intermediate"
 }

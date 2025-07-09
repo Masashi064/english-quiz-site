@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/E55uSCO5D2w",
   "published_at": "2024-11-05T15:00:02Z",
   "published_date": "2025-05-30T00:39:52.357066",
-  "duration": "PT13M56S",
+  "duration": "13:56",
   "introduction": "Get 50% off your first month of a monthly club with code KURZGESAGT at https://www.kiwico.com/kurzge",
   "thumbnail_url": "https://i.ytimg.com/vi/E55uSCO5D2w/default.jpg",
   "category": "",
@@ -14,6 +14,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "history",
+  "assigned_category": "History",
   "assigned_level": "advanced"
 }

@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/yO1QNNvKoNY",
   "published_at": "2025-06-26T14:33:44Z",
   "published_date": "2025-07-04T16:45:18.520839",
-  "duration": "PT2M30S",
+  "duration": "2:30",
   "introduction": "Authorities have uncovered a new money laundering scheme involving the illegal withdrawal of cash fr",
   "thumbnail_url": "https://i.ytimg.com/vi/yO1QNNvKoNY/default.jpg",
   "category": "",
@@ -25,6 +25,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "news",
-  "assigned_level": "advanced"
+  "assigned_category": "Business",
+  "assigned_level": "intermediate"
 }

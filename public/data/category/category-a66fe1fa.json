@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/UebSfjmQNvs",
   "published_at": "2024-06-11T14:00:01Z",
   "published_date": "2025-06-16T05:19:37.539523",
-  "duration": "PT12M18S",
+  "duration": "12:18",
   "introduction": "Take control over what occupies your mind with Ground News. Go to https://ground.news/nutshell to ge",
   "thumbnail_url": "https://i.ytimg.com/vi/UebSfjmQNvs/default.jpg",
   "category": "",
@@ -14,6 +14,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "psychology",
-  "assigned_level": "advanced"
+  "assigned_category": "Science",
+  "assigned_level": "intermediate"
 }

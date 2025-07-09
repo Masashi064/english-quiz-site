@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/fWzD45xDQDo",
   "published_at": "2023-10-12T14:00:23Z",
   "published_date": "2025-06-16T05:28:31.253266",
-  "duration": "PT6M14S",
+  "duration": "6:14",
   "introduction": "Mushrooms have been used as medicine throughout history, and today the medicinal mushroom industry i",
   "thumbnail_url": "https://i.ytimg.com/vi/fWzD45xDQDo/default.jpg",
   "category": "",
@@ -46,6 +46,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
+  "assigned_category": "Health",
   "assigned_level": "intermediate"
 }

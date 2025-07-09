@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/TyC762eWXzo",
   "published_at": "2022-08-04T15:00:15Z",
   "published_date": "2025-07-09T20:17:49.257202",
-  "duration": "PT6M21S",
+  "duration": "6:21",
   "introduction": "It's been more than two years and we are still living under the shadow of Covid-19. There have been",
   "thumbnail_url": "https://i.ytimg.com/vi/TyC762eWXzo/default.jpg",
   "category": "",
@@ -42,6 +42,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
+  "assigned_category": "Health",
   "assigned_level": "intermediate"
 }

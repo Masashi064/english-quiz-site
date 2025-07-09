@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/3uItSwc8Z9M",
   "published_at": "2016-06-15T02:01:52Z",
   "published_date": "2025-06-11T17:11:53.637116",
-  "duration": "PT4M15S",
+  "duration": "4:15",
   "introduction": "Trust no one, not even yourself.",
   "thumbnail_url": "https://i.ytimg.com/vi/3uItSwc8Z9M/default.jpg",
   "category": "",
@@ -31,6 +31,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "conversation",
+  "assigned_category": "Entertainment",
   "assigned_level": "intermediate"
 }

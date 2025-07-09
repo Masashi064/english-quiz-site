@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/16hzMhzgaM0",
   "published_at": "2022-05-05T15:00:39Z",
   "published_date": "2025-07-05T01:18:52.527337",
-  "duration": "PT6M20S",
+  "duration": "6:20",
   "introduction": "Most modern offices include large spaces without internal walls dividing them up. The idea is to cre",
   "thumbnail_url": "https://i.ytimg.com/vi/16hzMhzgaM0/default.jpg",
   "category": "",
@@ -43,6 +43,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "conversation",
+  "assigned_category": "Daily Conversation",
   "assigned_level": "intermediate"
 }

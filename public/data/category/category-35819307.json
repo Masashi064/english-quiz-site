@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/BIP0lYrdirI",
   "published_at": "2016-07-11T15:02:57Z",
   "published_date": "2025-06-30T06:56:13.130882",
-  "duration": "PT4M10S",
+  "duration": "4:10",
   "introduction": "Get to know Rosalind Franklin, a scientist whose work was integral to discovering the double helix s",
   "thumbnail_url": "https://i.ytimg.com/vi/BIP0lYrdirI/default.jpg",
   "category": "",
@@ -14,6 +14,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
+  "assigned_category": "Science",
   "assigned_level": "intermediate"
 }

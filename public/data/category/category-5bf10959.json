@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/Vt7o8C9vS9w",
   "published_at": "2025-06-26T13:40:55Z",
   "published_date": "2025-07-04T20:13:24.076076",
-  "duration": "PT5M24S",
+  "duration": "5:24",
   "introduction": "EU leaders have gathered in Brussels for a one-day summit focusing on security and economic challeng",
   "thumbnail_url": "https://i.ytimg.com/vi/Vt7o8C9vS9w/default.jpg",
   "category": "",
@@ -14,6 +14,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "news",
+  "assigned_category": "News",
   "assigned_level": "advanced"
 }

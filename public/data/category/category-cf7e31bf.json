@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/K-Nps59NeBA",
   "published_at": "2022-04-14T15:00:21Z",
   "published_date": "2025-07-05T07:28:00.870202",
-  "duration": "PT6M20S",
+  "duration": "6:20",
   "introduction": "The art of rhetoric started with the ancient Greek philosophers. Later, during the Roman republic, p",
   "thumbnail_url": "https://i.ytimg.com/vi/K-Nps59NeBA/default.jpg",
   "category": "",
@@ -43,6 +43,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "culture",
+  "assigned_category": "Culture",
   "assigned_level": "intermediate"
 }

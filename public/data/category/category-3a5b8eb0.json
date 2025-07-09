@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/4_k8CFmmIi8",
   "published_at": "2019-09-03T14:21:44Z",
   "published_date": "2025-07-03T18:20:39.201811",
-  "duration": "PT6M",
+  "duration": "6:00",
   "introduction": "We live in a culture that hugely values activity and 'hard work'. But - paradoxically - the hardest",
   "thumbnail_url": "https://i.ytimg.com/vi/4_k8CFmmIi8/default.jpg",
   "category": "",
@@ -45,6 +45,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "psychology",
+  "assigned_category": "Lifestyle",
   "assigned_level": "intermediate"
 }

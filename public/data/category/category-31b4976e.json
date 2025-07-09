@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/6TcFvx8ajD4",
   "published_at": "2025-06-19T14:00:18Z",
   "published_date": "2025-06-30T06:55:58.051414",
-  "duration": "PT1M1S",
+  "duration": "1:01",
   "introduction": "Why do all planets orbit in the same flat plane? Let's travel back 4.5 billion years to the formatio",
   "thumbnail_url": "https://i.ytimg.com/vi/6TcFvx8ajD4/default.jpg",
   "category": "",
@@ -50,6 +50,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
+  "assigned_category": "Science",
   "assigned_level": "intermediate"
 }

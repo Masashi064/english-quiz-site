@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/xdXo8uJ9NSk",
   "published_at": "2014-12-04T21:16:32Z",
   "published_date": "2025-06-13T11:05:20.302072",
-  "duration": "PT3M56S",
+  "duration": "3:56",
   "introduction": "A performance art group presents \"Dicknanigans,\" a theatrical piece about society, consumerism and b",
   "thumbnail_url": "https://i.ytimg.com/vi/xdXo8uJ9NSk/default.jpg",
   "category": "",
@@ -48,6 +48,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "comedy",
-  "assigned_level": "intermediate"
+  "assigned_category": "Entertainment",
+  "assigned_level": "beginner"
 }

@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/rvskMHn0sqQ",
   "published_at": "2018-03-18T13:10:34Z",
   "published_date": "2025-07-07T15:44:47.903537",
-  "duration": "PT7M15S",
+  "duration": "7:15",
   "introduction": "Why should you care about the well-being of people half a globe away?\n\n\nOUR CHANNELS\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀",
   "thumbnail_url": "https://i.ytimg.com/vi/rvskMHn0sqQ/default.jpg",
   "category": "",
@@ -42,6 +42,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
-  "assigned_level": "advanced"
+  "assigned_category": "Science",
+  "assigned_level": "intermediate"
 }

@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/JtUAAXe_0VI",
   "published_at": "2019-03-03T13:30:28Z",
   "published_date": "2025-06-28T16:31:51.346762",
-  "duration": "PT6M10S",
+  "duration": "6:10",
   "introduction": "Can you trust our videos? How do we research them nowadays? And what about our older videos? \n\n\nOUR",
   "thumbnail_url": "https://i.ytimg.com/vi/JtUAAXe_0VI/default.jpg",
   "category": "",
@@ -29,6 +29,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
-  "assigned_level": "advanced"
+  "assigned_category": "Science",
+  "assigned_level": "intermediate"
 }

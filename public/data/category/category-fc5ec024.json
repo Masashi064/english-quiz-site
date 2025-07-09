@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/VikegclJiDM",
   "published_at": "2023-02-22T13:00:19Z",
   "published_date": "2025-06-01T00:09:44.422673",
-  "duration": "PT54S",
+  "duration": "0:54",
   "introduction": "On the lunar surface you can find two distinct soviet medals commemorating two soviet cosmonauts, ko",
   "thumbnail_url": "https://i.ytimg.com/vi/VikegclJiDM/default.jpg",
   "category": "",
@@ -30,6 +30,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "history",
+  "assigned_category": "History",
   "assigned_level": "intermediate"
 }

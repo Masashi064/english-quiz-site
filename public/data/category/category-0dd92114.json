@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/XQQkHLW8b3Y",
   "published_at": "2025-02-20T15:00:44Z",
   "published_date": "2025-05-29T11:30:34.213409",
-  "duration": "PT54S",
+  "duration": "0:54",
   "introduction": "So, which one of these handy gadgets are you getting first? 👀 \n\n#kurzgesagt\n#inanutshell #kurzgesag",
   "thumbnail_url": "https://i.ytimg.com/vi/XQQkHLW8b3Y/default.jpg",
   "category": "",
@@ -14,6 +14,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "technology",
-  "assigned_level": "advanced"
+  "assigned_category": "Technology",
+  "assigned_level": "intermediate"
 }

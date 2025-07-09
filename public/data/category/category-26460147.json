@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/ipVxxxqwBQw",
   "published_at": "2020-06-21T12:29:44Z",
   "published_date": "2025-06-20T15:54:57.086779",
-  "duration": "PT10M36S",
+  "duration": "10:36",
   "introduction": "Sources & further reading:\nhttps://sites.google.com/view/sourcesclimateresponsibility/ \n\nSpecial tha",
   "thumbnail_url": "https://i.ytimg.com/vi/ipVxxxqwBQw/default.jpg",
   "category": "",
@@ -47,6 +47,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
-  "assigned_level": "advanced"
+  "assigned_category": "Science",
+  "assigned_level": "intermediate"
 }

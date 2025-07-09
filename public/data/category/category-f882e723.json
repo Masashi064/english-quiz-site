@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/QAa2O_8wBUQ",
   "published_at": "2015-08-06T12:49:29Z",
   "published_date": "2025-06-25T00:15:12.056416",
-  "duration": "PT6M21S",
+  "duration": "6:21",
   "introduction": "What is dark energy? What is dark matter? Well, if we knew exactly we would have a nobel prize – we",
   "thumbnail_url": "https://i.ytimg.com/vi/QAa2O_8wBUQ/default.jpg",
   "category": "",
@@ -19,6 +19,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
-  "assigned_level": "advanced"
+  "assigned_category": "Science",
+  "assigned_level": "intermediate"
 }

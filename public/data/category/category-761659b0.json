@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/bLkvQrqkVCI",
   "published_at": "2022-04-21T14:30:10Z",
   "published_date": "2025-07-05T07:27:59.009568",
-  "duration": "PT6M20S",
+  "duration": "6:20",
   "introduction": "A thriving ecosystem has been discovered in the last few decades in a region which was previously th",
   "thumbnail_url": "https://i.ytimg.com/vi/bLkvQrqkVCI/default.jpg",
   "category": "",
@@ -41,6 +41,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
+  "assigned_category": "Science",
   "assigned_level": "intermediate"
 }

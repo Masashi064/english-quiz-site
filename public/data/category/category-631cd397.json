@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/5yfqpnAsY4M",
   "published_at": "2016-10-03T21:00:01Z",
   "published_date": "2025-06-20T15:54:49.755743",
-  "duration": "PT10M40S",
+  "duration": "10:40",
   "introduction": "Starting my journey on the Archon to become as powerful as possible relying only on myself. Join me",
   "thumbnail_url": "https://i.ytimg.com/vi/5yfqpnAsY4M/default.jpg",
   "category": "",
@@ -58,6 +58,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "culture",
-  "assigned_level": "advanced"
+  "assigned_category": "Entertainment",
+  "assigned_level": "intermediate"
 }

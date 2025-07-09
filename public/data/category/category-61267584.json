@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/Xbv4IIqwW-4",
   "published_at": "2025-01-16T10:00:37Z",
   "published_date": "2025-05-29T11:30:47.934933",
-  "duration": "PT6M15S",
+  "duration": "6:15",
   "introduction": "How do you compare education systems?  For audio and transcript downloads, plus a quiz and a list of",
   "thumbnail_url": "https://i.ytimg.com/vi/Xbv4IIqwW-4/default.jpg",
   "category": "",
@@ -52,6 +52,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "education",
+  "assigned_category": "Education",
   "assigned_level": "intermediate"
 }

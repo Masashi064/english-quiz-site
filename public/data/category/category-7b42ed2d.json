@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/fG7dJ6A3l7w",
   "published_at": "2023-03-16T16:00:22Z",
   "published_date": "2025-06-27T13:58:19.440320",
-  "duration": "PT6M22S",
+  "duration": "6:22",
   "introduction": "Scientific research into the relationship between what we eat and how we feel is growing. In this pr",
   "thumbnail_url": "https://i.ytimg.com/vi/fG7dJ6A3l7w/default.jpg",
   "category": "",
@@ -46,6 +46,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "psychology",
+  "assigned_category": "Health",
   "assigned_level": "intermediate"
 }

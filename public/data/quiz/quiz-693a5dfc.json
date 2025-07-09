@@ -1,0 +1,89 @@
+{
+  "slug": "693a5dfc",
+  "video_id": "BtZDAynd67Y",
+  "movie_title": "How SpaceX Is Changing the Space Industry",
+  "movie_url": "https://youtu.be/BtZDAynd67Y",
+  "published_at": "2018-03-02T21:00:00Z",
+  "duration": "8:43",
+  "tags": [
+    "SpaceX",
+    "Tesla",
+    "Elon Musk",
+    "NASA",
+    "Heavy Falcon",
+    "Roadster",
+    "launch",
+    "why",
+    "how",
+    "where",
+    "trajectory",
+    "space",
+    "science",
+    "mars",
+    "sls",
+    "space launch system",
+    "blue origin",
+    "presidents",
+    "space policy",
+    "big falcon rocket",
+    "bfr",
+    "booster",
+    "rocket",
+    "interplanetary",
+    "The Interplanetary Transport System: SpaceX's Plan to Build a Bridge to Mars"
+  ],
+  "introduction": "Check out Nebula, where you can watch exclusive videos of mine that are not on YouTube:\nhttps://nebu",
+  "lead_intro": "SpaceX's advancements in rocket technology and plans for Mars colonization are reshaping the future of space exploration. Let's test your knowledge on the history and goals of NASA and SpaceX!",
+  "quiz": [
+    {
+      "question": "What is the name of the new powerful rocket launched by SpaceX from NASA's Kennedy Space Center?",
+      "choices": [
+        "Falcon 9",
+        "Falcon Heavy",
+        "Atlas V"
+      ],
+      "answer": "Falcon Heavy",
+      "explanation": "The new powerful rocket launched by SpaceX is called Falcon Heavy."
+    },
+    {
+      "question": "Which rocket will be more powerful than Falcon Heavy and carry up to 550,000 pounds into Lower Earth Orbit?",
+      "choices": [
+        "Falcon 9",
+        "SLS",
+        "BFR"
+      ],
+      "answer": "BFR",
+      "explanation": "The BFR rocket will be more powerful than Falcon Heavy and carry up to 550,000 pounds into Lower Earth Orbit."
+    },
+    {
+      "question": "Who shifted NASA's focus from the moon to the manned exploration of Mars?",
+      "choices": [
+        "President Bill Clinton",
+        "President George Bush",
+        "President Barack Obama"
+      ],
+      "answer": "President Barack Obama",
+      "explanation": "President Barack Obama shifted NASA's focus from the moon to the manned exploration of Mars."
+    },
+    {
+      "question": "Which rocket system is designed to be completely reusable, consisting of a booster, a spacecraft, and a tanker?",
+      "choices": [
+        "Atlas V",
+        "SLS",
+        "BFR"
+      ],
+      "answer": "BFR",
+      "explanation": "The BFR system by SpaceX is designed to be completely reusable, consisting of a booster, a spacecraft, and a tanker."
+    },
+    {
+      "question": "What cost-saving method is employed by SpaceX to reduce the cost of rocket launches significantly?",
+      "choices": [
+        "Reusing rockets",
+        "Building bigger rockets",
+        "Collaborating with NASA"
+      ],
+      "answer": "Reusing rockets",
+      "explanation": "SpaceX reduces the cost of rocket launches significantly by propulsively landing their rockets and reusing them on future missions."
+    }
+  ]
+}

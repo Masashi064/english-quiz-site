@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/jY-_6v6TJeY",
   "published_at": "2025-05-27T20:58:59Z",
   "published_date": "2025-06-27T16:36:44.896692",
-  "duration": "PT4M10S",
+  "duration": "4:10",
   "introduction": "The American Music Awards give out their trophies based on sales and fan votes, but we don't need to",
   "thumbnail_url": "https://i.ytimg.com/vi/jY-_6v6TJeY/default.jpg",
   "category": "",
@@ -14,6 +14,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "culture",
-  "assigned_level": "advanced"
+  "assigned_category": "Entertainment",
+  "assigned_level": "intermediate"
 }

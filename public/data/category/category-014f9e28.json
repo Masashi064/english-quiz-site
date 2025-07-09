@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/u6Ke0rdjKEg",
   "published_at": "2018-08-02T13:09:43Z",
   "published_date": "2025-06-21T11:06:54.630544",
-  "duration": "PT6M15S",
+  "duration": "6:15",
   "introduction": "Improve your English vocabulary and speaking with 6 Minute English!\nThe octopus uses its senses of v",
   "thumbnail_url": "https://i.ytimg.com/vi/u6Ke0rdjKEg/default.jpg",
   "category": "",
@@ -56,6 +56,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
+  "assigned_category": "Science",
   "assigned_level": "intermediate"
 }

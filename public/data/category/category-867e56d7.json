@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/tYKm_8dXmMc",
   "published_at": "2018-08-09T10:12:23Z",
   "published_date": "2025-06-16T05:20:06.754901",
-  "duration": "PT6M11S",
+  "duration": "6:11",
   "introduction": "Improve your English vocabulary and speaking with 6 Minute English!\nDoes being taller mean you earn",
   "thumbnail_url": "https://i.ytimg.com/vi/tYKm_8dXmMc/default.jpg",
   "category": "",
@@ -58,6 +58,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "culture",
+  "assigned_category": "Culture",
   "assigned_level": "intermediate"
 }

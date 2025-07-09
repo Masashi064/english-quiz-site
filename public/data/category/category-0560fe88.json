@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/gJ0BSnuX1GA",
   "published_at": "2020-09-10T11:58:34Z",
   "published_date": "2025-06-27T00:18:39.149408",
-  "duration": "PT6M15S",
+  "duration": "6:15",
   "introduction": "Bee numbers are declining at an alarming rate and in some places disappearing altogether, which has",
   "thumbnail_url": "https://i.ytimg.com/vi/gJ0BSnuX1GA/default.jpg",
   "category": "",
@@ -47,6 +47,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
+  "assigned_category": "Science",
   "assigned_level": "intermediate"
 }

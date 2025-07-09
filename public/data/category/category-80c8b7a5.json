@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/NbuUW9i-mHs",
   "published_at": "2014-10-09T13:11:55Z",
   "published_date": "2025-06-27T00:18:56.001472",
-  "duration": "PT5M46S",
+  "duration": "5:46",
   "introduction": "We live in the most peaceful time in human history. Wait, what? Seriously? That can't be right, ther",
   "thumbnail_url": "https://i.ytimg.com/vi/NbuUW9i-mHs/default.jpg",
   "category": "",
@@ -56,6 +56,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "history",
-  "assigned_level": "advanced"
+  "assigned_category": "History",
+  "assigned_level": "intermediate"
 }

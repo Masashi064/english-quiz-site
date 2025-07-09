@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/ACG6qr4waWU",
   "published_at": "2023-08-24T13:35:31Z",
   "published_date": "2025-06-16T05:28:44.779665",
-  "duration": "PT6M24S",
+  "duration": "6:24",
   "introduction": "Many cities are getting hotter and hotter. This can cause many problems for the people who live in t",
   "thumbnail_url": "https://i.ytimg.com/vi/ACG6qr4waWU/default.jpg",
   "category": "",
@@ -46,6 +46,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "technology",
+  "assigned_category": "Technology",
   "assigned_level": "intermediate"
 }

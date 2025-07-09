@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/N-PgdkHgwlg",
   "published_at": "2025-05-01T15:51:39Z",
   "published_date": "2025-06-30T06:56:02.163933",
-  "duration": "PT4M9S",
+  "duration": "4:09",
   "introduction": "Workers' Party chief Pritam Singh has urged voters to send more opposition voices into Parliament. H",
   "thumbnail_url": "https://i.ytimg.com/vi/N-PgdkHgwlg/default.jpg",
   "category": "",
@@ -23,6 +23,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "news",
-  "assigned_level": "advanced"
+  "assigned_category": "News",
+  "assigned_level": "intermediate"
 }

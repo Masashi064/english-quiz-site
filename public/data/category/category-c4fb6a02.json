@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/JyECrGp-Sw8",
   "published_at": "2019-03-31T12:30:00Z",
   "published_date": "2025-07-05T01:17:54.866211",
-  "duration": "PT7M6S",
+  "duration": "7:06",
   "introduction": "Sources: https://sites.google.com/view/sourcesallthebombs/\n\nWhat happens if we make a huge pile from",
   "thumbnail_url": "https://i.ytimg.com/vi/JyECrGp-Sw8/default.jpg",
   "category": "",
@@ -63,6 +63,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
+  "assigned_category": "Science",
   "assigned_level": "advanced"
 }

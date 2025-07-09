@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/6Y3rL9LVV9w",
   "published_at": "2022-08-11T09:59:22Z",
   "published_date": "2025-07-04T16:45:13.741474",
-  "duration": "PT6M20S",
+  "duration": "6:20",
   "introduction": "In certain developed countries around the world, there is a stark difference in the availability of",
   "thumbnail_url": "https://i.ytimg.com/vi/6Y3rL9LVV9w/default.jpg",
   "category": "",
@@ -40,6 +40,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "technology",
+  "assigned_category": "Technology",
   "assigned_level": "intermediate"
 }

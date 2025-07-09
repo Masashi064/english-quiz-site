@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/euHWEV35-6M",
   "published_at": "2025-06-26T12:51:17Z",
   "published_date": "2025-07-04T20:13:28.604345",
-  "duration": "PT47S",
+  "duration": "0:47",
   "introduction": "Iran's Supreme Leader Ayatollah Ali Khamenei said on Thursday (Jun 26) that any attack on his countr",
   "thumbnail_url": "https://i.ytimg.com/vi/euHWEV35-6M/default.jpg",
   "category": "",
@@ -14,6 +14,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "news",
-  "assigned_level": "advanced"
+  "assigned_category": "News",
+  "assigned_level": "intermediate"
 }

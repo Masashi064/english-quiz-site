@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/qoNRZKgLDhg",
   "published_at": "2023-01-19T15:42:01Z",
   "published_date": "2025-07-09T18:10:55.867062",
-  "duration": "PT6M21S",
+  "duration": "6:21",
   "introduction": "What do you think is the biggest cause of climate change? Improve your English vocabulary and listen",
   "thumbnail_url": "https://i.ytimg.com/vi/qoNRZKgLDhg/default.jpg",
   "category": "",
@@ -46,6 +46,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
+  "assigned_category": "Science",
   "assigned_level": "intermediate"
 }

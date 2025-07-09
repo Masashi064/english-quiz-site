@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/jIMihpDmBpY",
   "published_at": "2014-08-13T14:30:04Z",
   "published_date": "2025-06-27T14:43:26.864790",
-  "duration": "PT6M11S",
+  "duration": "6:11",
   "introduction": "Explanations for http://youtu.be/1Xp_imnO6WE\nFollow me on twitter: http://bit.ly/VeTwitter\nor Instag",
   "thumbnail_url": "https://i.ytimg.com/vi/jIMihpDmBpY/default.jpg",
   "category": "",
@@ -31,6 +31,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
+  "assigned_category": "Science",
   "assigned_level": "intermediate"
 }

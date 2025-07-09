@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/jp1FCIQUBkw",
   "published_at": "2022-11-03T16:00:26Z",
   "published_date": "2025-07-04T16:19:55.647327",
-  "duration": "PT6M20S",
+  "duration": "6:20",
   "introduction": "Creating new food flavours involves skill and can be a bit of a mystery. In this programme Neil and",
   "thumbnail_url": "https://i.ytimg.com/vi/jp1FCIQUBkw/default.jpg",
   "category": "",
@@ -42,6 +42,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
+  "assigned_category": "Science",
   "assigned_level": "intermediate"
 }

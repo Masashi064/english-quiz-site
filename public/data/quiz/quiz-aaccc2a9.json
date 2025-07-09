@@ -1,0 +1,91 @@
+{
+  "slug": "aaccc2a9",
+  "video_id": "cMjvx9GfaO0",
+  "movie_title": "The Manhattan Project - 6 Minute English",
+  "movie_url": "https://youtu.be/cMjvx9GfaO0",
+  "published_at": "2022-06-23T09:42:37Z",
+  "duration": "6:21",
+  "tags": [
+    "learn English",
+    "English vocabulary",
+    "speak English",
+    "bbc english",
+    "English teacher",
+    "英語",
+    "영어",
+    "อังกฤษ",
+    "Anh",
+    "English tutorial",
+    "English grammar",
+    "IELTS",
+    "British English",
+    "English pronunciation",
+    "English lesson",
+    "idiom",
+    "English expressions",
+    "BBC Learning English",
+    "slang",
+    "English speaking",
+    "ELT",
+    "podcast",
+    "Ingilizce",
+    "bbc",
+    "bbc learning english",
+    "English class",
+    "6 minute"
+  ],
+  "introduction": "The invention of the atomic bomb was known as The Manhattan Project. In this programme we’ll take a",
+  "lead_intro": "Join us in exploring the science and politics behind The Manhattan Project, a crucial part of history. Test your knowledge with this quiz!",
+  "quiz": [
+    {
+      "question": "What is the heaviest element in the periodic table?",
+      "choices": [
+        "hydrogen",
+        "carbon",
+        "oxygen"
+      ],
+      "answer": "oxygen",
+      "explanation": "In the video, it was mentioned that uranium is the heaviest element in the periodic table, not oxygen."
+    },
+    {
+      "question": "What is the process of splitting uranium known as?",
+      "choices": [
+        "fission",
+        "fusion",
+        "reaction"
+      ],
+      "answer": "fission",
+      "explanation": "The video explains that splitting uranium is known as fission because it releases huge amounts of energy."
+    },
+    {
+      "question": "Who first realized uranium's power as a weapon of war?",
+      "choices": [
+        "Hitler",
+        "Rudolf Peierls",
+        "Frank Close"
+      ],
+      "answer": "Rudolf Peierls",
+      "explanation": "Rudolf Peierls and Otto Frisch were the two scientists who first realized uranium's potential as a weapon of war."
+    },
+    {
+      "question": "What triggered the start of the Manhattan Project?",
+      "choices": [
+        "Hitler's invasion of Poland",
+        "Discovery of uranium fission",
+        "Roosevelt's presidency"
+      ],
+      "answer": "Discovery of uranium fission",
+      "explanation": "The discovery of uranium's fission potential led to the start of the Manhattan Project, not Hitler's invasion or Roosevelt's presidency."
+    },
+    {
+      "question": "Which city stands today as a symbol of peace despite being destroyed in 1945?",
+      "choices": [
+        "Berlin",
+        "Hiroshima",
+        "Tokyo"
+      ],
+      "answer": "Hiroshima",
+      "explanation": "Hiroshima was rebuilt and stands as a symbol of peace today, even after being destroyed in 1945."
+    }
+  ]
+}

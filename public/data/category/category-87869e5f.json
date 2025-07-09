@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/XMfNMnH8KyQ",
   "published_at": "2023-11-09T14:37:37Z",
   "published_date": "2025-06-10T18:26:13.859470",
-  "duration": "PT6M24S",
+  "duration": "6:24",
   "introduction": "What happens when an elephant wants to eat your crops? How can you stop it? Beth and Neil discuss th",
   "thumbnail_url": "https://i.ytimg.com/vi/XMfNMnH8KyQ/default.jpg",
   "category": "",
@@ -46,6 +46,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
+  "assigned_category": "Science",
   "assigned_level": "intermediate"
 }

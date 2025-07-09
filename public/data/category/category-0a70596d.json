@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/RImcqAT3m2M",
   "published_at": "2025-04-30T13:01:00Z",
   "published_date": "2025-06-13T11:05:36.302321",
-  "duration": "PT7M19S",
+  "duration": "7:19",
   "introduction": "What caused this huge power cut? 🔎For a free worksheet, and all the vocabulary and definitions: htt",
   "thumbnail_url": "https://i.ytimg.com/vi/RImcqAT3m2M/default.jpg",
   "category": "",
@@ -46,6 +46,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "news",
+  "assigned_category": "News",
   "assigned_level": "intermediate"
 }

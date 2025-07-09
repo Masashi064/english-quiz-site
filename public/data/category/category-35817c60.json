@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/38yxrOYk364",
   "published_at": "2025-05-02T13:50:36Z",
   "published_date": "2025-06-27T00:19:00.393488",
-  "duration": "PT5M17S",
+  "duration": "5:17",
   "introduction": "A report by Reuters has cited an Indian government source suggesting New Delhi has asked the Interna",
   "thumbnail_url": "https://i.ytimg.com/vi/38yxrOYk364/default.jpg",
   "category": "",
@@ -24,6 +24,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "news",
+  "assigned_category": "News",
   "assigned_level": "advanced"
 }

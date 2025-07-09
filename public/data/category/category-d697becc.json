@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/a5dR3olXGWU",
   "published_at": "2023-05-12T08:33:24Z",
   "published_date": "2025-06-27T13:58:17.345121",
-  "duration": "PT6M22S",
+  "duration": "6:22",
   "introduction": "Learn about the extraordinary life of BBC war correspondent, Fergal Keane. His reporting helped his",
   "thumbnail_url": "https://i.ytimg.com/vi/a5dR3olXGWU/default.jpg",
   "category": "",
@@ -46,6 +46,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "culture",
+  "assigned_category": "Health",
   "assigned_level": "intermediate"
 }

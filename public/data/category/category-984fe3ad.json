@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/_kR93WRw31Y",
   "published_at": "2019-12-09T16:00:29Z",
   "published_date": "2025-07-03T18:20:37.070848",
-  "duration": "PT6M",
+  "duration": "6:00",
   "introduction": "The adventure continues! Episode 4: The trio plot how they can steal the first artifact— the Node of",
   "thumbnail_url": "https://i.ytimg.com/vi/_kR93WRw31Y/default.jpg",
   "category": "",
@@ -47,6 +47,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "technology",
-  "assigned_level": "advanced"
+  "assigned_category": "Technology",
+  "assigned_level": "intermediate"
 }

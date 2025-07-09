@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/USNJ2eOme8E",
   "published_at": "2024-12-19T17:00:15Z",
   "published_date": "2025-06-27T16:36:42.161843",
-  "duration": "PT8M3S",
+  "duration": "8:03",
   "introduction": "ShotSpotter microphones are controversial surveillance devices designed to alert authorities to guns",
   "thumbnail_url": "https://i.ytimg.com/vi/USNJ2eOme8E/default.jpg",
   "category": "",
@@ -14,6 +14,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "technology",
-  "assigned_level": "advanced"
+  "assigned_category": "Technology",
+  "assigned_level": "intermediate"
 }

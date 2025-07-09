@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/v6WMAD5wNKs",
   "published_at": "2024-10-24T14:04:05Z",
   "published_date": "2025-05-29T11:31:05.545461",
-  "duration": "PT58S",
+  "duration": "0:58",
   "introduction": "Your parachute failed. You’ve got 60 seconds before impact. What now?\n\n#kurzgesagt\n#inanutshell #kur",
   "thumbnail_url": "https://i.ytimg.com/vi/v6WMAD5wNKs/default.jpg",
   "category": "",
@@ -27,6 +27,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
-  "assigned_level": "advanced"
+  "assigned_category": "Science",
+  "assigned_level": "intermediate"
 }

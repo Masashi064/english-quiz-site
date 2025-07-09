@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/8RQ0ZiA-mKA",
   "published_at": "2025-03-19T14:14:10Z",
   "published_date": "2025-06-16T05:20:03.738183",
-  "duration": "PT9M28S",
+  "duration": "9:28",
   "introduction": "After a 9 month delay, Nasa astronauts return to Earth 🔎 For a free worksheet, and all the vocabula",
   "thumbnail_url": "https://i.ytimg.com/vi/8RQ0ZiA-mKA/default.jpg",
   "category": "",
@@ -46,6 +46,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
+  "assigned_category": "Science",
   "assigned_level": "intermediate"
 }

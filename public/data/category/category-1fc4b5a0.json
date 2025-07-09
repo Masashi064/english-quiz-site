@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/B0h5yhrfPiA",
   "published_at": "2024-04-18T13:00:10Z",
   "published_date": "2025-06-20T13:43:06.024419",
-  "duration": "PT4M59S",
+  "duration": "4:59",
   "introduction": "The Cube: Saudi Arabia's Newest Architectural Gem\n\nSubscribe to our channel, hit the notification be",
   "thumbnail_url": "https://i.ytimg.com/vi/B0h5yhrfPiA/default.jpg",
   "category": "",
@@ -29,6 +29,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "technology",
-  "assigned_level": "advanced"
+  "assigned_category": "Technology",
+  "assigned_level": "intermediate"
 }

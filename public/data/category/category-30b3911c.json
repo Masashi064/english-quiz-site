@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/vPtzpjC7TF4",
   "published_at": "2020-09-21T15:01:07Z",
   "published_date": "2025-06-28T16:31:42.436014",
-  "duration": "PT6M13S",
+  "duration": "6:13",
   "introduction": "Dive into Albert Camus’ philosophy of the absurd, and explore the question: if the world is meaningl",
   "thumbnail_url": "https://i.ytimg.com/vi/vPtzpjC7TF4/default.jpg",
   "category": "",
@@ -49,6 +49,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "culture",
+  "assigned_category": "Culture",
   "assigned_level": "advanced"
 }

@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/R13BD8qKeTg",
   "published_at": "2017-04-05T14:00:03Z",
   "published_date": "2025-06-20T15:54:54.454893",
-  "duration": "PT10M37S",
+  "duration": "10:37",
   "introduction": "Bayes' theorem explained with examples and implications for life.\nCheck out Audible: http://ve42.co/",
   "thumbnail_url": "https://i.ytimg.com/vi/R13BD8qKeTg/default.jpg",
   "category": "",
@@ -35,6 +35,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
-  "assigned_level": "advanced"
+  "assigned_category": "Science",
+  "assigned_level": "intermediate"
 }

@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/yoFhTmWrYz8",
   "published_at": "2022-09-15T14:45:03Z",
   "published_date": "2025-07-04T16:45:09.486353",
-  "duration": "PT6M20S",
+  "duration": "6:20",
   "introduction": "Humans are considered the superior species on Earth, but are our bodies as efficient as the bodies o",
   "thumbnail_url": "https://i.ytimg.com/vi/yoFhTmWrYz8/default.jpg",
   "category": "",
@@ -36,6 +36,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
+  "assigned_category": "Science",
   "assigned_level": "intermediate"
 }

@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/31FjeWvLIxM",
   "published_at": "2022-10-13T14:23:51Z",
   "published_date": "2025-07-04T16:45:05.153020",
-  "duration": "PT6M20S",
+  "duration": "6:20",
   "introduction": "Rob and Sam talk about the recipe translators, who help to make the recipes of famous chefs accessib",
   "thumbnail_url": "https://i.ytimg.com/vi/31FjeWvLIxM/default.jpg",
   "category": "",
@@ -42,6 +42,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "culture",
+  "assigned_category": "Culture",
   "assigned_level": "intermediate"
 }

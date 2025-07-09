@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/1pi5NC7jOhE",
   "published_at": "2025-06-11T13:53:52Z",
   "published_date": "2025-06-12T10:24:24.974502",
-  "duration": "PT6M38S",
+  "duration": "6:38",
   "introduction": "Donald Trump sends the Marines to Los Angeles after immigration raids lead to protest  🔎For a free",
   "thumbnail_url": "https://i.ytimg.com/vi/1pi5NC7jOhE/default.jpg",
   "category": "",
@@ -46,6 +46,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "news",
+  "assigned_category": "News",
   "assigned_level": "intermediate"
 }

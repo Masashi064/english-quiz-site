@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/KNhwmHq1asM",
   "published_at": "2021-12-23T16:00:06Z",
   "published_date": "2025-07-05T20:12:12.847780",
-  "duration": "PT6M20S",
+  "duration": "6:20",
   "introduction": "Algorithms are often hidden, but they are very much present in our daily lives. If you order a pizza",
   "thumbnail_url": "https://i.ytimg.com/vi/KNhwmHq1asM/default.jpg",
   "category": "",
@@ -42,6 +42,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "technology",
+  "assigned_category": "Technology",
   "assigned_level": "intermediate"
 }

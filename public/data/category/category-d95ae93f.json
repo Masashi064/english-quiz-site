@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/9g5X11dH-Lc",
   "published_at": "2022-06-09T14:31:17Z",
   "published_date": "2025-07-04T20:13:19.701929",
-  "duration": "PT6M20S",
+  "duration": "6:20",
   "introduction": "Technology offers new ways to translate between languages. Is this translation accurate? How does it",
   "thumbnail_url": "https://i.ytimg.com/vi/9g5X11dH-Lc/default.jpg",
   "category": "",
@@ -45,6 +45,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "language",
+  "assigned_category": "Technology",
   "assigned_level": "intermediate"
 }

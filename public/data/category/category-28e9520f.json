@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/xswF0mRay_8",
   "published_at": "2024-07-25T14:00:54Z",
   "published_date": "2025-06-30T06:56:08.042514",
-  "duration": "PT54S",
+  "duration": "0:54",
   "introduction": "Can our universe destroy itself? Everything in the universe strives to be in the most stable state p",
   "thumbnail_url": "https://i.ytimg.com/vi/xswF0mRay_8/default.jpg",
   "category": "",
@@ -32,6 +32,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
+  "assigned_category": "Science",
   "assigned_level": "intermediate"
 }

@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/E1KkQrFEl2I",
   "published_at": "2020-11-10T15:00:26Z",
   "published_date": "2025-06-20T15:54:47.495359",
-  "duration": "PT10M41S",
+  "duration": "10:41",
   "introduction": "Get Merch designed with ❤ from https://kgs.link/shop-134  \nJoin the Patreon Bird Army 🐧 https://kgs",
   "thumbnail_url": "https://i.ytimg.com/vi/E1KkQrFEl2I/default.jpg",
   "category": "",
@@ -14,6 +14,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
-  "assigned_level": "advanced"
+  "assigned_category": "Science",
+  "assigned_level": "intermediate"
 }

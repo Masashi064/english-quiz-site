@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/reSfF60-2S4",
   "published_at": "2024-12-10T15:00:01Z",
   "published_date": "2025-05-29T14:28:39.041178",
-  "duration": "PT12M57S",
+  "duration": "12:57",
   "introduction": "Do you have a balanced news diet? Go to https://ground.news/KiN to see reporting from a variety of s",
   "thumbnail_url": "https://i.ytimg.com/vi/reSfF60-2S4/default.jpg",
   "category": "",
@@ -14,6 +14,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "news",
+  "assigned_category": "News",
   "assigned_level": "advanced"
 }

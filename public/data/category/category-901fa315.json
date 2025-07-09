@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/ZFljPLg9pkY",
   "published_at": "2025-06-12T16:00:02Z",
   "published_date": "2025-06-24T00:13:37.277021",
-  "duration": "PT10M39S",
+  "duration": "10:39",
   "introduction": "Dua Lipa heads to the Vogue kitchen to make a meal that’s perfect for either lunch or dinner, a roas",
   "thumbnail_url": "https://i.ytimg.com/vi/ZFljPLg9pkY/default.jpg",
   "category": "",
@@ -37,6 +37,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "lifestyle",
+  "assigned_category": "Lifestyle",
   "assigned_level": "intermediate"
 }

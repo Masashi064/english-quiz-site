@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/KsF_hdjWJjo",
   "published_at": "2013-08-22T13:24:56Z",
   "published_date": "2025-07-09T16:33:42.170124",
-  "duration": "PT7M21S",
+  "duration": "7:21",
   "introduction": "An Infographic trip through the wonders of the solar system.\n\nThe solar system - well known from cou",
   "thumbnail_url": "https://i.ytimg.com/vi/KsF_hdjWJjo/default.jpg",
   "category": "",
@@ -43,6 +43,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
+  "assigned_category": "Science",
   "assigned_level": "intermediate"
 }

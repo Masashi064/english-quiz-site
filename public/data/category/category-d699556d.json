@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/y0opgc1WoS4",
   "published_at": "2015-02-24T15:09:20Z",
   "published_date": "2025-06-13T14:59:36.852977",
-  "duration": "PT5M34S",
+  "duration": "5:34",
   "introduction": "Everybody is talking about Measles – but what does the virus actually do in the body? Is it really s",
   "thumbnail_url": "https://i.ytimg.com/vi/y0opgc1WoS4/default.jpg",
   "category": "",
@@ -58,6 +58,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
-  "assigned_level": "advanced"
+  "assigned_category": "Health",
+  "assigned_level": "intermediate"
 }

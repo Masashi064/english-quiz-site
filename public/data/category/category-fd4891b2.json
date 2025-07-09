@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/Hja0SLs2kus",
   "published_at": "2017-08-28T15:05:58Z",
   "published_date": "2025-06-27T14:43:24.893465",
-  "duration": "PT6M12S",
+  "duration": "6:12",
   "introduction": "Check out our Patreon page: https://www.patreon.com/teded\n\nView full lesson: https://ed.ted.com/less",
   "thumbnail_url": "https://i.ytimg.com/vi/Hja0SLs2kus/default.jpg",
   "category": "",
@@ -38,6 +38,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
-  "assigned_level": "advanced"
+  "assigned_category": "Science",
+  "assigned_level": "intermediate"
 }

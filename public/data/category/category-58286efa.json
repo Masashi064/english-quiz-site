@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/fTTGALaRZoc",
   "published_at": "2015-03-12T13:28:00Z",
   "published_date": "2025-06-28T16:31:53.501194",
-  "duration": "PT6M10S",
+  "duration": "6:10",
   "introduction": "Banks are a riddle wrapped up in an enigma. We all kind of know that they do stuff with money we don",
   "thumbnail_url": "https://i.ytimg.com/vi/fTTGALaRZoc/default.jpg",
   "category": "",
@@ -41,6 +41,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "economics",
-  "assigned_level": "advanced"
+  "assigned_category": "Business",
+  "assigned_level": "intermediate"
 }

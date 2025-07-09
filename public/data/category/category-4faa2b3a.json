@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/AlrXqakHPuk",
   "published_at": "2024-10-03T09:00:08Z",
   "published_date": "2025-05-31T13:58:35.402449",
-  "duration": "PT6M22S",
+  "duration": "6:22",
   "introduction": "What makes us like the flavours we like? For audio and transcript downloads, plus a quiz and a list",
   "thumbnail_url": "https://i.ytimg.com/vi/AlrXqakHPuk/default.jpg",
   "category": "",
@@ -46,6 +46,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
+  "assigned_category": "Science",
   "assigned_level": "intermediate"
 }

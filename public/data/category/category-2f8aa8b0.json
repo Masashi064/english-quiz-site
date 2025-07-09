@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/7_e0CA_nhaE",
   "published_at": "2019-08-11T12:30:00Z",
   "published_date": "2025-07-05T20:12:03.443667",
-  "duration": "PT7M15S",
+  "duration": "7:15",
   "introduction": "Sources:\nhttps://sites.google.com/view/sources-world-war-ants/\n\nEvery day billions of soldiers fight",
   "thumbnail_url": "https://i.ytimg.com/vi/7_e0CA_nhaE/default.jpg",
   "category": "",
@@ -43,6 +43,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
+  "assigned_category": "Science",
   "assigned_level": "intermediate"
 }

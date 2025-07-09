@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/9zCH37330f8",
   "published_at": "2024-12-12T15:00:04Z",
   "published_date": "2025-05-29T14:28:36.566829",
-  "duration": "PT12M30S",
+  "duration": "12:30",
   "introduction": "This video was sponsored by GiveWell. \nFirst-time donors will have their donation matched up to $100",
   "thumbnail_url": "https://i.ytimg.com/vi/9zCH37330f8/default.jpg",
   "category": "",
@@ -14,6 +14,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
+  "assigned_category": "Health",
   "assigned_level": "advanced"
 }

@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/UjtOGPJ0URM",
   "published_at": "2018-02-01T13:00:05Z",
   "published_date": "2025-06-16T05:20:09.167435",
-  "duration": "PT8M18S",
+  "duration": "8:18",
   "introduction": "The first 688 people to use this link will get 20% off their annual membership: http://brilliant.org",
   "thumbnail_url": "https://i.ytimg.com/vi/UjtOGPJ0URM/default.jpg",
   "category": "",
@@ -41,6 +41,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
+  "assigned_category": "Science",
   "assigned_level": "advanced"
 }

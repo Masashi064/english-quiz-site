@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/M7CkdB5z9PY",
   "published_at": "2018-12-27T13:30:00Z",
   "published_date": "2025-07-07T15:44:45.522171",
-  "duration": "PT7M15S",
+  "duration": "7:15",
   "introduction": "Out in the vast coldness of outer space, there are planets that travel alone through darkness withou",
   "thumbnail_url": "https://i.ytimg.com/vi/M7CkdB5z9PY/default.jpg",
   "category": "",
@@ -46,6 +46,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
+  "assigned_category": "Science",
   "assigned_level": "advanced"
 }

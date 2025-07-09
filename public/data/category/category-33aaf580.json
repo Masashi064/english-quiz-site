@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/__d2FMCtgi4",
   "published_at": "2013-09-19T21:42:52Z",
   "published_date": "2025-06-13T11:05:22.232123",
-  "duration": "PT3M57S",
+  "duration": "3:57",
   "introduction": "The villain of a historical epic struggles with the fact that this epic also happens to be a musical",
   "thumbnail_url": "https://i.ytimg.com/vi/__d2FMCtgi4/default.jpg",
   "category": "",
@@ -42,6 +42,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "comedy",
-  "assigned_level": "advanced"
+  "assigned_category": "Entertainment",
+  "assigned_level": "intermediate"
 }

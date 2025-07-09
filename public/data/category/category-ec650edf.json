@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/eBYqlmS4A-E",
   "published_at": "2025-03-27T15:01:21Z",
   "published_date": "2025-06-28T16:31:55.669233",
-  "duration": "PT6M10S",
+  "duration": "6:10",
   "introduction": "Dig into the history that inspired Shakespeare’s tragedy, “Macbeth,” and find out just how much of t",
   "thumbnail_url": "https://i.ytimg.com/vi/eBYqlmS4A-E/default.jpg",
   "category": "",
@@ -53,6 +53,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "history",
+  "assigned_category": "History",
   "assigned_level": "advanced"
 }

@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/_dxsp7fQEMA",
   "published_at": "2018-02-09T21:00:01Z",
   "published_date": "2025-07-09T20:17:36.820935",
-  "duration": "PT8M23S",
+  "duration": "8:23",
   "introduction": "Check out my Nebula exclusive videos:\nhttps://nebula.tv/videos/neo-how-the-twin-towers-were-built\n\nT",
   "thumbnail_url": "https://i.ytimg.com/vi/_dxsp7fQEMA/default.jpg",
   "category": "",
@@ -58,6 +58,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "history",
-  "assigned_level": "advanced"
+  "assigned_category": "History",
+  "assigned_level": "intermediate"
 }

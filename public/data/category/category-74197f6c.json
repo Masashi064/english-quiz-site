@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/wNDGgL73ihY",
   "published_at": "2014-03-03T15:01:45Z",
   "published_date": "2025-06-27T00:18:50.128200",
-  "duration": "PT5M55S",
+  "duration": "5:55",
   "introduction": "How did everything get started? \n\nHas the universe a beginning or was it here since forever? Well, e",
   "thumbnail_url": "https://i.ytimg.com/vi/wNDGgL73ihY/default.jpg",
   "category": "",
@@ -34,6 +34,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
+  "assigned_category": "Science",
   "assigned_level": "intermediate"
 }

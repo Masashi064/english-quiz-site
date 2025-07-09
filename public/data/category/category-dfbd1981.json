@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/cHEOsKddURQ",
   "published_at": "2024-11-19T15:00:01Z",
   "published_date": "2025-05-30T00:39:47.358935",
-  "duration": "PT13M54S",
+  "duration": "13:54",
   "introduction": "🗞 Compare coverage from around the world and verify information with Ground News. Go to https://gro",
   "thumbnail_url": "https://i.ytimg.com/vi/cHEOsKddURQ/default.jpg",
   "category": "",
@@ -14,6 +14,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "health",
-  "assigned_level": "advanced"
+  "assigned_category": "Health",
+  "assigned_level": "intermediate"
 }

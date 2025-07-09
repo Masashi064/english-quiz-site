@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/D6432prkMJM",
   "published_at": "2018-01-04T22:17:18Z",
   "published_date": "2025-06-13T11:48:30.101309",
-  "duration": "PT3M38S",
+  "duration": "3:38",
   "introduction": "My Twitter: https://twitter.com/SonOfShoop\nMy Instagram: https://www.instagram.com/fitmcsippycup/\nMy",
   "thumbnail_url": "https://i.ytimg.com/vi/D6432prkMJM/default.jpg",
   "category": "",
@@ -67,6 +67,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "conversation",
-  "assigned_level": "intermediate"
+  "assigned_category": "Technology",
+  "assigned_level": "beginner"
 }

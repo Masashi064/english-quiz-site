@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/uFk0mgljtns",
   "published_at": "2020-02-16T13:29:44Z",
   "published_date": "2025-07-04T16:44:58.359054",
-  "duration": "PT6M48S",
+  "duration": "6:48",
   "introduction": "Get Merch designed with ❤ from https://kgs.link/shop-118  \nJoin the Patreon Bird Army 🐧 https://kgs",
   "thumbnail_url": "https://i.ytimg.com/vi/uFk0mgljtns/default.jpg",
   "category": "",
@@ -45,6 +45,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "technology",
-  "assigned_level": "advanced"
+  "assigned_category": "Technology",
+  "assigned_level": "intermediate"
 }

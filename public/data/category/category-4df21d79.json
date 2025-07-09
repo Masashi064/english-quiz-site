@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/UEH3oRSgVXQ",
   "published_at": "2023-08-03T14:00:29Z",
   "published_date": "2025-06-27T13:58:14.660361",
-  "duration": "PT6M22S",
+  "duration": "6:22",
   "introduction": "Natural disasters can cause death and destruction. Should we just accept them, or is there any way w",
   "thumbnail_url": "https://i.ytimg.com/vi/UEH3oRSgVXQ/default.jpg",
   "category": "",
@@ -46,6 +46,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
+  "assigned_category": "Science",
   "assigned_level": "intermediate"
 }

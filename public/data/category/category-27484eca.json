@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/IXxZRZxafEQ",
   "published_at": "2015-10-15T13:15:46Z",
   "published_date": "2025-06-06T16:45:32.716733",
-  "duration": "PT4M39S",
+  "duration": "4:39",
   "introduction": "We are so used to some things that we stopped wondering about them. Like light. What is light? Some",
   "thumbnail_url": "https://i.ytimg.com/vi/IXxZRZxafEQ/default.jpg",
   "category": "",
@@ -38,6 +38,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
+  "assigned_category": "Science",
   "assigned_level": "intermediate"
 }

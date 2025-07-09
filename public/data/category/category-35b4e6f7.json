@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/eoXv4JgwjeM",
   "published_at": "2023-10-05T13:41:09Z",
   "published_date": "2025-06-16T05:28:33.144612",
-  "duration": "PT6M24S",
+  "duration": "6:24",
   "introduction": "Before the arrival of European settlers, Australia was home to more than 200 languages. Many of thes",
   "thumbnail_url": "https://i.ytimg.com/vi/eoXv4JgwjeM/default.jpg",
   "category": "",
@@ -46,6 +46,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "culture",
-  "assigned_level": "advanced"
+  "assigned_category": "Culture",
+  "assigned_level": "intermediate"
 }

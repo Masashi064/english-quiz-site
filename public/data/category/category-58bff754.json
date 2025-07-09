@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/RLykC1VN7NY",
   "published_at": "2016-07-31T12:00:40Z",
   "published_date": "2025-06-28T16:31:46.513988",
-  "duration": "PT6M11S",
+  "duration": "6:11",
   "introduction": "There are cosmic snipers firing at random into the universe. What are they and what happens if they",
   "thumbnail_url": "https://i.ytimg.com/vi/RLykC1VN7NY/default.jpg",
   "category": "",
@@ -36,6 +36,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
+  "assigned_category": "Science",
   "assigned_level": "advanced"
 }

@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/JQVmkDUkZT4",
   "published_at": "2016-05-31T13:24:38Z",
   "published_date": "2025-06-25T00:15:07.819257",
-  "duration": "PT6M28S",
+  "duration": "6:28",
   "introduction": "What Are You?\n\nSo. Are you your body? And if so, how exactly does this work? Lets explore lots of co",
   "thumbnail_url": "https://i.ytimg.com/vi/JQVmkDUkZT4/default.jpg",
   "category": "",
@@ -33,6 +33,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
+  "assigned_category": "Science",
   "assigned_level": "advanced"
 }

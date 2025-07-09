@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/_lNF3_30lUE",
   "published_at": "2015-01-20T15:33:09Z",
   "published_date": "2025-07-02T16:47:05.447513",
-  "duration": "PT4M58S",
+  "duration": "4:58",
   "introduction": "Atoms are very weird. Wrapping your head around exactly how weird, is close to impossible – how can",
   "thumbnail_url": "https://i.ytimg.com/vi/_lNF3_30lUE/default.jpg",
   "category": "",
@@ -50,6 +50,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
+  "assigned_category": "Science",
   "assigned_level": "intermediate"
 }

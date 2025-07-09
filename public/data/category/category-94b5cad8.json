@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/0oLS0cvc2Cc",
   "published_at": "2024-04-04T13:00:02Z",
   "published_date": "2025-06-20T13:43:01.570941",
-  "duration": "PT5M17S",
+  "duration": "5:17",
   "introduction": "Subscribe to our channel, hit the notification bell, and drop a like to join us.\n\n\n#sphere #lunaticp",
   "thumbnail_url": "https://i.ytimg.com/vi/0oLS0cvc2Cc/default.jpg",
   "category": "",
@@ -34,6 +34,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "technology",
-  "assigned_level": "advanced"
+  "assigned_category": "Technology",
+  "assigned_level": "intermediate"
 }

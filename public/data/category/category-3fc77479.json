@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/kiV19ZpZCWo",
   "published_at": "2023-12-23T15:15:35Z",
   "published_date": "2025-06-04T16:13:06.349080",
-  "duration": "PT11M37S",
+  "duration": "11:37",
   "introduction": "Today, you'll learn English with a conversation on the RealLife English Podcast about two classic Ch",
   "thumbnail_url": "https://i.ytimg.com/vi/kiV19ZpZCWo/default.jpg",
   "category": "",
@@ -33,6 +33,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "conversation",
+  "assigned_category": "Daily Conversation",
   "assigned_level": "intermediate"
 }

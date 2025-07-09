@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/g9q1804hi3Q",
   "published_at": "2025-04-16T11:46:31Z",
   "published_date": "2025-06-16T05:19:57.141684",
-  "duration": "PT6M58S",
+  "duration": "6:58",
   "introduction": "The war in Sudan has been described as the biggest humanitarian crisis in the world today.🔎 For a f",
   "thumbnail_url": "https://i.ytimg.com/vi/g9q1804hi3Q/default.jpg",
   "category": "",
@@ -46,6 +46,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "news",
+  "assigned_category": "News",
   "assigned_level": "intermediate"
 }

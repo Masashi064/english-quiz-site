@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/RS4MrptnnP8",
   "published_at": "2024-10-17T08:12:28Z",
   "published_date": "2025-05-30T00:40:01.266946",
-  "duration": "PT6M19S",
+  "duration": "6:19",
   "introduction": "Technology is always changing! Or is it...? Why is some old technology still used? For audio and tra",
   "thumbnail_url": "https://i.ytimg.com/vi/RS4MrptnnP8/default.jpg",
   "category": "",
@@ -46,6 +46,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "technology",
+  "assigned_category": "Technology",
   "assigned_level": "intermediate"
 }

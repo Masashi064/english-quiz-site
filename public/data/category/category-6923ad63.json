@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/luh9xTJ7ExM",
   "published_at": "2024-01-25T14:45:04Z",
   "published_date": "2025-06-04T18:16:13.104943",
-  "duration": "PT6M24S",
+  "duration": "6:24",
   "introduction": "Restaurants have often used French terms to make food sound more exciting, but could this be going o",
   "thumbnail_url": "https://i.ytimg.com/vi/luh9xTJ7ExM/default.jpg",
   "category": "",
@@ -46,6 +46,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "culture",
+  "assigned_category": "Culture",
   "assigned_level": "intermediate"
 }

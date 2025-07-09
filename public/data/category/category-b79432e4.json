@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/-yJj6rYX6H0",
   "published_at": "2022-05-13T08:57:24Z",
   "published_date": "2025-07-05T01:18:50.377111",
-  "duration": "PT6M20S",
+  "duration": "6:20",
   "introduction": "Virtual reality - also known as VR - allows you to put on a headset and escape into a completely dif",
   "thumbnail_url": "https://i.ytimg.com/vi/-yJj6rYX6H0/default.jpg",
   "category": "",
@@ -38,6 +38,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "technology",
+  "assigned_category": "Technology",
   "assigned_level": "intermediate"
 }

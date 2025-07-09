@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/21eFwbb48sE",
   "published_at": "2014-04-10T12:00:04Z",
   "published_date": "2025-06-10T22:56:47.071544",
-  "duration": "PT6M33S",
+  "duration": "6:33",
   "introduction": "Nuclear war, cat gifs and reddit?  Wait, what?\n\nWho was the genius who came up with all of that? The",
   "thumbnail_url": "https://i.ytimg.com/vi/21eFwbb48sE/default.jpg",
   "category": "",
@@ -46,6 +46,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "technology",
+  "assigned_category": "Technology",
   "assigned_level": "intermediate"
 }

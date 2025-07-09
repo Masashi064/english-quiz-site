@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/NcuRB6GzLhw",
   "published_at": "2025-04-17T15:01:15Z",
   "published_date": "2025-07-03T18:20:18.583022",
-  "duration": "PT6M",
+  "duration": "6:00",
   "introduction": "The Workers' Party has launched its manifesto for the election, outlining its vision for a fairer, m",
   "thumbnail_url": "https://i.ytimg.com/vi/NcuRB6GzLhw/default.jpg",
   "category": "",
@@ -26,6 +26,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "news",
-  "assigned_level": "advanced"
+  "assigned_category": "News",
+  "assigned_level": "intermediate"
 }

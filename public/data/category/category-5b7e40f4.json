@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/Pzq2slM4Wu4",
   "published_at": "2020-10-15T14:44:46Z",
   "published_date": "2025-07-07T15:44:54.740273",
-  "duration": "PT6M20S",
+  "duration": "6:20",
   "introduction": "The 2020 presidential elections in the US, in which President Donald Trump faces the Democrat candid",
   "thumbnail_url": "https://i.ytimg.com/vi/Pzq2slM4Wu4/default.jpg",
   "category": "",
@@ -49,6 +49,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "news",
+  "assigned_category": "Technology",
   "assigned_level": "intermediate"
 }

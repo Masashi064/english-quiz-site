@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/4KcXgXgSxDI",
   "published_at": "2025-01-30T10:03:11Z",
   "published_date": "2025-05-29T11:30:43.514965",
-  "duration": "PT6M28S",
+  "duration": "6:28",
   "introduction": "Ever wanted to be a musician? For audio and transcript downloads, a quiz and a list of the words and",
   "thumbnail_url": "https://i.ytimg.com/vi/4KcXgXgSxDI/default.jpg",
   "category": "",
@@ -52,6 +52,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "conversation",
+  "assigned_category": "Entertainment",
   "assigned_level": "intermediate"
 }

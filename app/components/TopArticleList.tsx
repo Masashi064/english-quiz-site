@@ -99,6 +99,7 @@ export default function TopArticleList({ articles }: { articles: Article[] }) {
     return bDate - aDate
   })
 
+
   return (
     <main className="flex max-w-7xl mx-auto">
       {/* PC sidebar */}
@@ -173,7 +174,7 @@ export default function TopArticleList({ articles }: { articles: Article[] }) {
                 <h3 className="font-semibold text-lg mb-1">{a.movie_title}</h3>
                 <p className="text-sm text-gray-500 dark:text-gray-300">Channel: {a.channel_name}</p>
                 <p className="text-sm mt-1">
-                  🕒 {formatDuration(a.duration)} / 📅 {formatDate(a.published_date || a.published_at)}
+                  🕒 {formatDuration(a.duration)} / 📅 {formatDate(a.published_at)}
                 </p>
                 <span className="inline-block mt-3 text-blue-600 dark:text-blue-400 font-semibold hover:underline">
                   ▶ Read article

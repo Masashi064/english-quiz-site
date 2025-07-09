@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/kglKCEGytsk",
   "published_at": "2023-08-31T13:45:03Z",
   "published_date": "2025-06-16T05:28:42.818198",
-  "duration": "PT6M12S",
+  "duration": "6:12",
   "introduction": "Everyone has a name. It's an important part of our identity. But names can also have meanings that r",
   "thumbnail_url": "https://i.ytimg.com/vi/kglKCEGytsk/default.jpg",
   "category": "",
@@ -46,6 +46,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "culture",
+  "assigned_category": "Culture",
   "assigned_level": "intermediate"
 }

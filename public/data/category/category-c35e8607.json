@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/X9otDixAtFw",
   "published_at": "2015-12-23T13:21:57Z",
   "published_date": "2025-06-13T14:59:34.926728",
-  "duration": "PT5M34S",
+  "duration": "5:34",
   "introduction": "What is something? On the most fundamental level thinkable, what are things? Why are things? And why",
   "thumbnail_url": "https://i.ytimg.com/vi/X9otDixAtFw/default.jpg",
   "category": "",
@@ -44,6 +44,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
+  "assigned_category": "Science",
   "assigned_level": "intermediate"
 }

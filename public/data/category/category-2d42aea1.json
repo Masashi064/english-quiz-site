@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/eLVAMz8yQx0",
   "published_at": "2023-10-25T14:00:33Z",
   "published_date": "2025-07-03T18:20:25.155638",
-  "duration": "PT6M",
+  "duration": "6:00",
   "introduction": "Non-native animals and plants are destroying biodiversity and ecosystems across the world. A major s",
   "thumbnail_url": "https://i.ytimg.com/vi/eLVAMz8yQx0/default.jpg",
   "category": "",
@@ -14,6 +14,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "news",
+  "assigned_category": "Science",
   "assigned_level": "intermediate"
 }

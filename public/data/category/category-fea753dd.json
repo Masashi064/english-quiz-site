@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/o7aXV_PV4ss",
   "published_at": "2025-05-29T14:01:14Z",
   "published_date": "2025-06-16T05:19:28.000967",
-  "duration": "PT1M1S",
+  "duration": "1:01",
   "introduction": "Over 50 nuclear weapons have gone missing, and some are still lost today. How did they disappear in",
   "thumbnail_url": "https://i.ytimg.com/vi/o7aXV_PV4ss/default.jpg",
   "category": "",
@@ -49,6 +49,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
+  "assigned_category": "Technology",
   "assigned_level": "intermediate"
 }

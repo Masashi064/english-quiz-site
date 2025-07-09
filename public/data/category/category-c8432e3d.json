@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/LS-VPyLaJFM",
   "published_at": "2016-01-31T11:45:37Z",
   "published_date": "2025-06-27T00:18:53.991439",
-  "duration": "PT5M51S",
+  "duration": "5:51",
   "introduction": "The last star in the universe will be a red dwarf. Red dwarfs in general might be great places to lo",
   "thumbnail_url": "https://i.ytimg.com/vi/LS-VPyLaJFM/default.jpg",
   "category": "",
@@ -43,6 +43,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
+  "assigned_category": "Science",
   "assigned_level": "intermediate"
 }

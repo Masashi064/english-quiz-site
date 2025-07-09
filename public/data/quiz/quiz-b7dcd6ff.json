@@ -1,0 +1,78 @@
+{
+  "slug": "b7dcd6ff",
+  "video_id": "5TbUxGZtwGI",
+  "movie_title": "Time: The History & Future of Everything – Remastered",
+  "movie_url": "https://youtu.be/5TbUxGZtwGI",
+  "published_at": "2018-04-08T12:26:40Z",
+  "duration": "7:35",
+  "tags": [
+    "time",
+    "history",
+    "humans",
+    "funny",
+    "space",
+    "big bang",
+    "2018",
+    "2017",
+    "science",
+    "wounder",
+    "lifespan",
+    "infographic",
+    "kurzgesagt",
+    "in a nutshell"
+  ],
+  "introduction": "The first 1000 people to use this link will get their first 2 months of skillshare for free: http://",
+  "lead_intro": "Have you ever thought about how immense and intricate human history is? Let's dive into a captivating journey through time, starting from the very beginning!",
+  "quiz": [
+    {
+      "question": "What event marked the end of the Middle Ages in the 15th century?",
+      "choices": [
+        "Columbus's discovery of America",
+        "The fall of Constantinople",
+        "Newton's theory of gravity"
+      ],
+      "answer": "The fall of Constantinople",
+      "explanation": "The fall of Constantinople in the 15th century marked the end of the Middle Ages."
+    },
+    {
+      "question": "Approximately how long ago did Homo sapiens sapiens, the modern human, evolve?",
+      "choices": [
+        "2 million years ago",
+        "200,000 years ago",
+        "50,000 years ago"
+      ],
+      "answer": "200,000 years ago",
+      "explanation": "Homo sapiens sapiens, the modern human, evolved at least 200,000 years ago."
+    },
+    {
+      "question": "How long did the dinosaurs rule the earth before their extinction?",
+      "choices": [
+        "27 million years",
+        "165 million years",
+        "600 million years"
+      ],
+      "answer": "165 million years",
+      "explanation": "The dinosaurs ruled the earth for over 165 million years."
+    },
+    {
+      "question": "When did life on Earth become impossible due to the Sun's extreme heat?",
+      "choices": [
+        "1 billion years from now",
+        "4 billion years from now",
+        "100 billion years from now"
+      ],
+      "answer": "1 billion years from now",
+      "explanation": "In roughly 1 billion years, the Sun will be so hot that life on Earth becomes impossible."
+    },
+    {
+      "question": "What is the final stage of the universe known as?",
+      "choices": [
+        "Blackout",
+        "Heat death",
+        "Eternal darkness"
+      ],
+      "answer": "Heat death",
+      "explanation": "The final stage of the universe, when nothing changes anymore, is known as heat death."
+    }
+  ]
+}

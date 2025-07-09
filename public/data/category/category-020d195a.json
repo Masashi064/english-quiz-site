@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/7i2bd5F1BXM",
   "published_at": "2023-05-11T15:01:09Z",
   "published_date": "2025-06-27T14:43:20.482976",
-  "duration": "PT6M13S",
+  "duration": "6:13",
   "introduction": "Dig into the history of the Papal Schism, which caused a split in the Catholic Church while 3 popes",
   "thumbnail_url": "https://i.ytimg.com/vi/7i2bd5F1BXM/default.jpg",
   "category": "",
@@ -51,6 +51,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "history",
-  "assigned_level": "advanced"
+  "assigned_category": "History",
+  "assigned_level": "intermediate"
 }

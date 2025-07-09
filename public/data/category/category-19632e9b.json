@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/ijFm6DxNVyI",
   "published_at": "2016-10-21T12:56:37Z",
   "published_date": "2025-07-02T16:46:40.510229",
-  "duration": "PT5M59S",
+  "duration": "5:59",
   "introduction": "What if there is a way to destroy the universe so fundamentally that life as we know it will be impo",
   "thumbnail_url": "https://i.ytimg.com/vi/ijFm6DxNVyI/default.jpg",
   "category": "",
@@ -32,6 +32,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
+  "assigned_category": "Science",
   "assigned_level": "advanced"
 }

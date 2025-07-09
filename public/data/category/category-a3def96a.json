@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/sRv19gkZ4E0",
   "published_at": "2014-11-06T13:54:12Z",
   "published_date": "2025-07-02T16:46:56.389750",
-  "duration": "PT5M31S",
+  "duration": "5:31",
   "introduction": "What does the Ebola virus actually do in your body? Why is it so dangerous and why does it kill so m",
   "thumbnail_url": "https://i.ytimg.com/vi/sRv19gkZ4E0/default.jpg",
   "category": "",
@@ -46,6 +46,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
+  "assigned_category": "Health",
   "assigned_level": "intermediate"
 }

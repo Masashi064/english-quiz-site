@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/mEsXDN1zj3I",
   "published_at": "2024-01-23T16:00:52Z",
   "published_date": "2025-07-03T18:20:23.180165",
-  "duration": "PT6M",
+  "duration": "6:00",
   "introduction": "Explore a classic philosophical debate and decide: is it human nature to be selfish? And if so, is i",
   "thumbnail_url": "https://i.ytimg.com/vi/mEsXDN1zj3I/default.jpg",
   "category": "",
@@ -53,6 +53,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "psychology",
+  "assigned_category": "Culture",
   "assigned_level": "intermediate"
 }

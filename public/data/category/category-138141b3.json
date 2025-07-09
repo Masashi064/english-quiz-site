@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/hM4HYNE32wQ",
   "published_at": "2023-04-06T14:30:11Z",
   "published_date": "2025-07-09T18:10:50.123183",
-  "duration": "PT6M21S",
+  "duration": "6:21",
   "introduction": "Are you adventurous when it comes to food, or do you stick to pizza or ordinary types of salad such",
   "thumbnail_url": "https://i.ytimg.com/vi/hM4HYNE32wQ/default.jpg",
   "category": "",
@@ -44,6 +44,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "science",
+  "assigned_category": "Science",
   "assigned_level": "intermediate"
 }

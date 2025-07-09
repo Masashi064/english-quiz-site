@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/wJUXLqNHCaI",
   "published_at": "2016-03-01T17:22:49Z",
   "published_date": "2025-06-25T00:15:09.781121",
-  "duration": "PT6M26S",
+  "duration": "6:26",
   "introduction": "The war against drugs has been a terrible disaster for everybody involved. Why? And can we do someth",
   "thumbnail_url": "https://i.ytimg.com/vi/wJUXLqNHCaI/default.jpg",
   "category": "",
@@ -43,6 +43,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "news",
-  "assigned_level": "advanced"
+  "assigned_category": "Health",
+  "assigned_level": "intermediate"
 }

@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/tyvMjvvrq74",
   "published_at": "2017-10-11T12:27:16Z",
   "published_date": "2025-06-24T00:13:44.462560",
-  "duration": "PT6M13S",
+  "duration": "6:13",
   "introduction": "Learn English vocabulary and improve your listening skills as we teach you about computers and techn",
   "thumbnail_url": "https://i.ytimg.com/vi/tyvMjvvrq74/default.jpg",
   "category": "",
@@ -57,6 +57,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "technology",
+  "assigned_category": "Technology",
   "assigned_level": "intermediate"
 }

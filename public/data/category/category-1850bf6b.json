@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/aHi9J56XmhQ",
   "published_at": "2024-04-10T14:55:53Z",
   "published_date": "2025-07-02T16:46:44.275722",
-  "duration": "PT5M42S",
+  "duration": "5:42",
   "introduction": "Last month was the world's warmest March on record. The past ten months have all broken heat records",
   "thumbnail_url": "https://i.ytimg.com/vi/aHi9J56XmhQ/default.jpg",
   "category": "",
@@ -46,6 +46,6 @@
   "views": "",
   "likes": "",
   "subtitle_status": "",
-  "assigned_category": "news",
+  "assigned_category": "News",
   "assigned_level": "intermediate"
 }
