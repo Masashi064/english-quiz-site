@@ -1,0 +1,68 @@
+{
+  "slug": "dd38cbb8",
+  "video_id": "J0ldO87Pprc",
+  "movie_title": "What Happens If We Bring the Sun to Earth?",
+  "movie_url": "https://youtu.be/J0ldO87Pprc",
+  "published_at": "2017-09-07T12:30:00Z",
+  "duration": "PT7M29S",
+  "tags": [
+    "Sun",
+    "earth",
+    "space",
+    "universe"
+  ],
+  "introduction": "Glow up your space with posters that don’t just shine – they spark curiosity ✨ Get your own beautifu",
+  "lead_intro": "What would happen if you brought a tiny piece of the Sun to Earth? The consequences are catastrophic, as demonstrated by the different samples discussed in the video.",
+  "quiz": [
+    {
+      "question": "What is the estimated temperature of the chromosphere on the Sun?",
+      "choices": [
+        "6,000 degrees Celsius",
+        "20,000 degrees Celsius",
+        "50,000 degrees Celsius"
+      ],
+      "answer": "20,000 degrees Celsius",
+      "explanation": "The chromosphere on the Sun has an estimated temperature between 6,000 and 20,000 degrees Celsius."
+    },
+    {
+      "question": "What happens when a sample from the radiative zone of the Sun is brought to Earth?",
+      "choices": [
+        "It implodes",
+        "It explodes with the power of a thermonuclear weapon",
+        "It glows brightly for a moment"
+      ],
+      "answer": "It explodes with the power of a thermonuclear weapon",
+      "explanation": "A sample from the radiative zone, when brought to Earth, explodes with the power of a thermonuclear weapon due to the extreme pressure difference."
+    },
+    {
+      "question": "How does the photosphere of the Sun contribute to the brightness we see?",
+      "choices": [
+        "By emitting heat",
+        "By producing light",
+        "By generating magnetic fields"
+      ],
+      "answer": "By producing light",
+      "explanation": "The photosphere of the Sun is the glowing surface that produces the light we see, contributing to its brightness."
+    },
+    {
+      "question": "What would be the consequence of bringing a core sample of the Sun to Earth?",
+      "choices": [
+        "London would burn to ashes",
+        "A small ice age globally",
+        "A second sunrise in Paris"
+      ],
+      "answer": "London would burn to ashes",
+      "explanation": "Bringing a core sample of the Sun to Earth would result in an explosion so powerful that London would burn to ashes, with catastrophic consequences for the surrounding areas."
+    },
+    {
+      "question": "Why is it stated in the video that bringing the Sun to Earth is not a good idea?",
+      "choices": [
+        "For scientific research",
+        "To control climate change",
+        "Due to the catastrophic consequences"
+      ],
+      "answer": "Due to the catastrophic consequences",
+      "explanation": "The video emphasizes that bringing the Sun to Earth is not a good idea due to the catastrophic consequences, including destruction and potential human civilization-ending events."
+    }
+  ]
+}

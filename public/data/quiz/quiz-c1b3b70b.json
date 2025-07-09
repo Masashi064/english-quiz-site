@@ -1,0 +1,84 @@
+{
+  "slug": "c1b3b70b",
+  "video_id": "UphR3i_h01Y",
+  "movie_title": "How Cloud Seeding Is Used to Make It Rain",
+  "movie_url": "https://youtu.be/UphR3i_h01Y",
+  "published_at": "2020-09-21T20:00:06Z",
+  "duration": "PT8M29S",
+  "tags": [
+    "cloud seeding",
+    "rain",
+    "weather",
+    "modification",
+    "technology",
+    "plane",
+    "airplane",
+    "storm",
+    "explainer",
+    "educational",
+    "how",
+    "why",
+    "mapped",
+    "understanding",
+    "flying",
+    "project popeye",
+    "operation popeye",
+    "chemicals",
+    "silver iodide",
+    "neo"
+  ],
+  "introduction": "Check out Nebula, where you can watch exclusive videos of mine that are not on YouTube:\nhttps://nebu",
+  "lead_intro": "Have you ever wondered how scientists manipulate the weather? Take this quiz to test your knowledge on cloud seeding and its impact!",
+  "quiz": [
+    {
+      "question": "What is the purpose of cloud seeding?",
+      "choices": [
+        "create rain",
+        "prevent hurricanes",
+        "generate snow"
+      ],
+      "answer": "create rain",
+      "explanation": "Cloud seeding is done to induce rainfall by dispersing chemicals into clouds to encourage precipitation."
+    },
+    {
+      "question": "Which chemical is commonly used in cloud seeding?",
+      "choices": [
+        "sulfur dioxide",
+        "silver iodide",
+        "carbon monoxide"
+      ],
+      "answer": "silver iodide",
+      "explanation": "Silver iodide is a common chemical used in cloud seeding to create nuclei for water droplets to form around and eventually fall as rain."
+    },
+    {
+      "question": "What role do airplanes play in cloud seeding?",
+      "choices": [
+        "dispensing chemicals",
+        "measuring cloud thickness",
+        "creating lightning storms"
+      ],
+      "answer": "dispensing chemicals",
+      "explanation": "Airplanes equipped with pyrotechnic flares dispense chemicals like silver iodide into clouds to promote rainfall."
+    },
+    {
+      "question": "Why is cloud seeding particularly suitable for clouds with super cooled water?",
+      "choices": [
+        "enhances cloud visibility",
+        "reduces cloud temperature",
+        "provides nuclei for ice crystal formation"
+      ],
+      "answer": "provides nuclei for ice crystal formation",
+      "explanation": "Cloud seeding introduces particles that act as nuclei for ice crystals to form in supercooled clouds, leading to precipitation."
+    },
+    {
+      "question": "What was the controversial military operation involving cloud seeding during the Vietnam War?",
+      "choices": [
+        "Operation Thunderstorm",
+        "Operation Rainmaker",
+        "Operation Popeye"
+      ],
+      "answer": "Operation Popeye",
+      "explanation": "Operation Popeye was a secret U.S. military tactic during the Vietnam War that aimed to extend the monsoon season using cloud seeding to induce heavy rainfall."
+    }
+  ]
+}

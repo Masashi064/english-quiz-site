@@ -1,0 +1,89 @@
+{
+  "slug": "57121860",
+  "video_id": "BSypUV6QUNw",
+  "movie_title": "Tiny Bombs in your Blood - The Complement System",
+  "movie_url": "https://youtu.be/BSypUV6QUNw",
+  "published_at": "2019-07-28T12:30:54Z",
+  "duration": "PT7M35S",
+  "tags": [
+    "Complement system",
+    "Immune system",
+    "virus",
+    "bacterium",
+    "funghi",
+    "bacteria",
+    "cell",
+    "Phagocyte",
+    "Phagocytes",
+    "Phagocytosis",
+    "Antibody",
+    "Protein",
+    "proteins",
+    "C3",
+    "C3a",
+    "C3b",
+    "C3 Convertase",
+    "C5 Convertase",
+    "C5b",
+    "Membrane Attack Complex",
+    "Blood Stream",
+    "Blood",
+    "Injury",
+    "Infection",
+    "Infected Cell"
+  ],
+  "introduction": "Sources:\nhttps://sites.google.com/view/sources-complement-system\n\nOne of the key players of our immu",
+  "lead_intro": "Have you ever wondered how our body defends itself against invaders? Learn about the fascinating and largely unknown Complement System in this video.",
+  "quiz": [
+    {
+      "question": "What is one of the most important defenses of our body that is largely unknown?",
+      "choices": [
+        "Complement System",
+        "Physical barriers",
+        "Defence cells"
+      ],
+      "answer": "Complement System",
+      "explanation": "The Complement System is described as one of the most important defenses of our body in the video."
+    },
+    {
+      "question": "How many different proteins make up the Complement System?",
+      "choices": [
+        "Twenty",
+        "Thirty",
+        "Fifteen"
+      ],
+      "answer": "Thirty",
+      "explanation": "The Complement System consists of over thirty different proteins working together."
+    },
+    {
+      "question": "What role does C3b play in the Complement System?",
+      "choices": [
+        "It anchors to bacteria",
+        "It activates immune cells",
+        "It rips holes in bacteria"
+      ],
+      "answer": "It anchors to bacteria",
+      "explanation": "C3b acts like a seeker missile specialized in bacteria, anchoring tightly to their surface in the video."
+    },
+    {
+      "question": "What do C3a proteins act as in the Complement System?",
+      "choices": [
+        "Seeker missiles",
+        "Recruiting platforms",
+        "Distress beacons"
+      ],
+      "answer": "Distress beacons",
+      "explanation": "C3a proteins function as distress beacons that attract immune cells to the site of infection."
+    },
+    {
+      "question": "What structure is constructed by the Membrane Attack Complex in the Complement System?",
+      "choices": [
+        "Recruiting platform",
+        "Big fire",
+        "Long spears"
+      ],
+      "answer": "Long spears",
+      "explanation": "The Membrane Attack Complex builds long spear-shaped proteins that anchor into bacteria's membranes and create holes."
+    }
+  ]
+}

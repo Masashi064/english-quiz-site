@@ -1,0 +1,91 @@
+{
+  "slug": "0643bad6",
+  "video_id": "X5YjfOKBffU",
+  "movie_title": "Songwriting - 6 Minute English",
+  "movie_url": "https://youtu.be/X5YjfOKBffU",
+  "published_at": "2023-01-05T15:27:37Z",
+  "duration": "PT6M21S",
+  "tags": [
+    "learn English",
+    "English vocabulary",
+    "speak English",
+    "bbc english",
+    "English teacher",
+    "英語",
+    "영어",
+    "อังกฤษ",
+    "Anh",
+    "English tutorial",
+    "English grammar",
+    "IELTS",
+    "British English",
+    "English pronunciation",
+    "English lesson",
+    "idiom",
+    "English expressions",
+    "BBC Learning English",
+    "slang",
+    "English speaking",
+    "ELT",
+    "podcast",
+    "Ingilizce",
+    "bbc",
+    "bbc learning english",
+    "English class",
+    "6 minute"
+  ],
+  "introduction": "Writing a memorable song isn't easy. Not only do you have to write a good tune, you also need to mat",
+  "lead_intro": "Join us as we delve into the art of songwriting and learn about the fascinating process of combining lyrics and music to create hit songs!",
+  "quiz": [
+    {
+      "question": "Who has had the most number one hit songs in the UK over the years?",
+      "choices": [
+        "The Rolling Stones",
+        "The Beatles",
+        "Elvis Presley"
+      ],
+      "answer": "Elvis Presley",
+      "explanation": "Elvis Presley holds the record with twenty-one number one hits in the UK music charts, making him the most successful chart-topper."
+    },
+    {
+      "question": "What is an earworm?",
+      "choices": [
+        "A song you keep hearing over and over in your head",
+        "A type of insect",
+        "A musical instrument"
+      ],
+      "answer": "A song you keep hearing over and over in your head",
+      "explanation": "An earworm is a catchy song that continuously plays in your mind, making it hard to get rid of."
+    },
+    {
+      "question": "What is a tastemaker?",
+      "choices": [
+        "A person who influences what is considered fashionable or popular at the moment",
+        "A type of food critic",
+        "A fashion designer"
+      ],
+      "answer": "A person who influences what is considered fashionable or popular at the moment",
+      "explanation": "A tastemaker is someone who has the ability to shape trends and opinions by influencing what is popular or fashionable."
+    },
+    {
+      "question": "What is a chord structure?",
+      "choices": [
+        "A sequence of musical chords",
+        "A building made of musical notes",
+        "A type of music theory"
+      ],
+      "answer": "A sequence of musical chords",
+      "explanation": "A chord structure refers to the arrangement of multiple musical chords played consecutively in a song."
+    },
+    {
+      "question": "What does it mean to go on a bender?",
+      "choices": [
+        "To spend time drinking alcohol heavily",
+        "To take a long walk",
+        "To exercise intensely"
+      ],
+      "answer": "To spend time drinking alcohol heavily",
+      "explanation": "Going on a bender involves indulging in heavy alcohol consumption and partying for an extended period of time."
+    }
+  ]
+}

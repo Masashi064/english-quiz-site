@@ -1,0 +1,91 @@
+{
+  "slug": "c3b25119",
+  "video_id": "DaW-Kha9qAM",
+  "movie_title": "Women in the workplace - 6 Minute English",
+  "movie_url": "https://youtu.be/DaW-Kha9qAM",
+  "published_at": "2022-08-18T13:15:00Z",
+  "duration": "PT6M21S",
+  "tags": [
+    "learn English",
+    "English vocabulary",
+    "speak English",
+    "bbc english",
+    "English teacher",
+    "英語",
+    "영어",
+    "อังกฤษ",
+    "Anh",
+    "English tutorial",
+    "English grammar",
+    "IELTS",
+    "British English",
+    "English pronunciation",
+    "English lesson",
+    "idiom",
+    "English expressions",
+    "BBC Learning English",
+    "slang",
+    "English speaking",
+    "ELT",
+    "podcast",
+    "Ingilizce",
+    "bbc",
+    "bbc learning english",
+    "English class",
+    "6 minute"
+  ],
+  "introduction": "No more 'coffee girl'! Many women are tired of being given unimportant tasks as they see their male",
+  "lead_intro": "Are you aware of the concept of the 'glass ceiling' in the workplace and its impact on women's careers? Let's test your knowledge with a quiz based on a video discussing this topic!",
+  "quiz": [
+    {
+      "question": "Who was the first woman to become British Prime Minister?",
+      "choices": [
+        "Theresa May",
+        "Nicola Sturgeon",
+        "Margaret Thatcher"
+      ],
+      "answer": "Margaret Thatcher",
+      "explanation": "Margaret Thatcher was the first woman to become British Prime Minister, breaking the political glass ceiling in the UK in May 1979."
+    },
+    {
+      "question": "What term describes the unimportant jobs that do not advance your career but are often given to women?",
+      "choices": [
+        "Promotion tasks",
+        "Non-promotable tasks",
+        "Career-boosting tasks"
+      ],
+      "answer": "Non-promotable tasks",
+      "explanation": "Non-promotable tasks are those unimportant jobs that do not help in advancing your career but are frequently assigned to women."
+    },
+    {
+      "question": "What does 'burn-out' refer to in the workplace?",
+      "choices": [
+        "Exhaustion from working too hard",
+        "A successful business strategy",
+        "A type of job promotion"
+      ],
+      "answer": "Exhaustion from working too hard",
+      "explanation": "'Burn-out' in the workplace refers to being exhausted from working excessively hard."
+    },
+    {
+      "question": "What does 'multitasking' mean?",
+      "choices": [
+        "Focusing on one task at a time",
+        "Doing several things at the same time",
+        "Taking frequent breaks"
+      ],
+      "answer": "Doing several things at the same time",
+      "explanation": "'Multitasking' refers to the ability to handle and perform multiple tasks simultaneously."
+    },
+    {
+      "question": "How would you define 'juggling' in the context of managing various activities?",
+      "choices": [
+        "Balancing tasks effectively",
+        "Ignoring responsibilities",
+        "Working on a single task"
+      ],
+      "answer": "Balancing tasks effectively",
+      "explanation": "'Juggling' involves effectively managing multiple activities that all require your attention and time."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "slug": "9c6dcf25",
+  "video_id": "TyC762eWXzo",
+  "movie_title": "How pandemics end - 6 Minute English",
+  "movie_url": "https://youtu.be/TyC762eWXzo",
+  "published_at": "2022-08-04T15:00:15Z",
+  "duration": "PT6M21S",
+  "tags": [
+    "learn English",
+    "English vocabulary",
+    "speak English",
+    "bbc english",
+    "English teacher",
+    "英語",
+    "영어",
+    "อังกฤษ",
+    "Anh",
+    "English grammar",
+    "IELTS",
+    "British English",
+    "English pronunciation",
+    "English lesson",
+    "idiom",
+    "English expressions",
+    "BBC Learning English",
+    "English speaking",
+    "ELT",
+    "podcast",
+    "Ingilizce",
+    "pandemic",
+    "hiv/aids",
+    "black death",
+    "covid-19",
+    "6 minute english",
+    "language learning"
+  ],
+  "introduction": "It's been more than two years and we are still living under the shadow of Covid-19. There have been",
+  "lead_intro": "Join us to learn about how pandemics end and the vocabulary related to it, including the eradication of diseases.",
+  "quiz": [
+    {
+      "question": "Which disease was eradicated in 1977?",
+      "choices": [
+        "cholera",
+        "polio",
+        "smallpox"
+      ],
+      "answer": "smallpox",
+      "explanation": "Smallpox was eradicated in 1977, making it the correct answer to this question."
+    },
+    {
+      "question": "What does it mean to 'declare victory'?",
+      "choices": [
+        "to announce something to be finished before it actually is",
+        "to accept defeat gracefully",
+        "to continue the fight"
+      ],
+      "answer": "to announce something to be finished before it actually is",
+      "explanation": "Declaring victory means announcing something to be finished before it actually is, often prematurely."
+    },
+    {
+      "question": "What does the idiom 'bury your head in the sand' mean?",
+      "choices": [
+        "to refuse to accept or look at a situation you don't like",
+        "to seek shelter in a storm",
+        "to face challenges bravely"
+      ],
+      "answer": "to refuse to accept or look at a situation you don't like",
+      "explanation": "The idiom 'bury your head in the sand' means to deliberately refuse to accept the truth about something unpleasant."
+    },
+    {
+      "question": "What is a chronic disease?",
+      "choices": [
+        "a disease that is easily curable",
+        "a disease that lasts for a short period",
+        "a disease which lasts for a long time"
+      ],
+      "answer": "a disease which lasts for a long time",
+      "explanation": "A chronic disease is one that lasts for a long time, making it the correct answer to this question."
+    },
+    {
+      "question": "What is a death sentence in the context of diseases?",
+      "choices": [
+        "a punishment for a crime",
+        "a prescription for a deadly disease",
+        "the punishment of death for committing a crime or from an incurable disease"
+      ],
+      "answer": "the punishment of death for committing a crime or from an incurable disease",
+      "explanation": "A death sentence refers to the punishment of death for committing a crime or from an incurable disease, as explained in the video."
+    }
+  ]
+}

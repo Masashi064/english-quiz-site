@@ -1,0 +1,106 @@
+{
+  "slug": "27e2663a",
+  "video_id": "69a2WlAhVh8",
+  "movie_title": "How Climate Change Is Shaping Business in Iceland",
+  "movie_url": "https://youtu.be/69a2WlAhVh8",
+  "published_at": "2019-10-05T22:30:01Z",
+  "duration": "PT8M32S",
+  "tags": [
+    "Iceland",
+    "fjord",
+    "finnafjord",
+    "bremenports",
+    "geo",
+    "mapped",
+    "explained",
+    "explainer",
+    "educational",
+    "how",
+    "why",
+    "bussiness",
+    "climate change",
+    "warming planet",
+    "globe",
+    "island",
+    "Reykjavík",
+    "Finnafjord",
+    "port",
+    "harbour",
+    "fishing",
+    "itq",
+    "itq system",
+    "individual transferable quotas",
+    "EFLA",
+    "MUNICIPALITY OF LANGANESBYGGÐ",
+    "MUNICIPALITY OF VOPNAFJARDARHREPPUR",
+    "FINNAFJÖRDUR",
+    "Katrín Jakobsdóttir",
+    "north pole",
+    "greenhouse",
+    "gas",
+    "geothermal",
+    "power",
+    "renewable energy",
+    "eco",
+    "economy",
+    "ecological",
+    "Wendover",
+    "Wendover Productions",
+    "RealLifeLore",
+    "WonderWhy"
+  ],
+  "introduction": "Check out Nebula, where you can watch exclusive videos of mine that are not on YouTube:\nhttps://nebu",
+  "lead_intro": "Explore the unique challenges and opportunities that Iceland faces in light of climate change and tourism growth. Test your knowledge with the following quiz!",
+  "quiz": [
+    {
+      "question": "What industry accounted for about 27% of Iceland's gross domestic product in 2011?",
+      "choices": [
+        "fishing",
+        "tourism",
+        "geothermal energy"
+      ],
+      "answer": "fishing",
+      "explanation": "The fishing industry accounted for about 27% of Iceland's gross domestic product in 2011 before tourism became the largest economic sector."
+    },
+    {
+      "question": "What percentage of Iceland's total energy consumption is provided by geothermal and hydropower?",
+      "choices": [
+        "85%",
+        "70%",
+        "50%"
+      ],
+      "answer": "85%",
+      "explanation": "Around 85% of Iceland's total energy consumption is provided by geothermal and hydropower, making it an international pioneer in using renewable energy."
+    },
+    {
+      "question": "What event led to the first Cod war in Iceland?",
+      "choices": [
+        "extending the country's exclusive economic zone",
+        "fishing quotas introduction",
+        "volcanic eruption"
+      ],
+      "answer": "extending the country's exclusive economic zone",
+      "explanation": "The first Cod war in Iceland was triggered by extending the country's exclusive economic zone to protect fish populations from foreign trawlers."
+    },
+    {
+      "question": "What major project is planned to begin construction in Finnafjord from 2021 onwards?",
+      "choices": [
+        "a large container port",
+        "a geothermal power plant",
+        "an eco-friendly resort"
+      ],
+      "answer": "a large container port",
+      "explanation": "A large container port is planned to be constructed in Finnafjord from 2021 onwards to turn Iceland into a hub for international merchant shipping."
+    },
+    {
+      "question": "What economic sector releases large amounts of greenhouse gases in Iceland?",
+      "choices": [
+        "tourism",
+        "fishing",
+        "agriculture"
+      ],
+      "answer": "tourism",
+      "explanation": "The tourism sector, being the largest economic sector in Iceland, releases large amounts of greenhouse gases, posing a challenge for eco-friendly sustainability efforts."
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "slug": "4.82E+34",
+  "video_id": "16W7c0mb-rE",
+  "movie_title": "Emergence – How Stupid Things Become Smart Together",
+  "movie_url": "https://youtu.be/16W7c0mb-rE",
+  "published_at": "2017-11-16T15:01:58Z",
+  "duration": "PT7M31S",
+  "tags": [
+    "emergence",
+    "ants",
+    "intelligence",
+    "ant",
+    "sum of its part",
+    "more is more",
+    "soul",
+    "conciousness",
+    "funny",
+    "fascinating",
+    "life",
+    "human",
+    "cell",
+    "animation",
+    "kurzgesagt",
+    "in a nutshell"
+  ],
+  "introduction": "How can many stupid things combine to form smart things? How can proteins become living cells? How b",
+  "lead_intro": "Have you ever wondered how simple things can come together to create complex and intelligent systems? Let's explore the concept of emergence and how it explains the fascinating abilities of ant colonies and even our own bodies.",
+  "quiz": [
+    {
+      "question": "What is emergence?",
+      "choices": [
+        "A phenomenon where simple things form bigger things with different properties",
+        "A process where individual units work independently",
+        "A concept involving complex interactions between molecules"
+      ],
+      "answer": "A phenomenon where simple things form bigger things with different properties",
+      "explanation": "Emergence describes small things forming bigger things that have different properties than the sum of their parts."
+    },
+    {
+      "question": "How do ants communicate their current job within a colony?",
+      "choices": [
+        "Ants use chemicals to convey their roles",
+        "Ants use physical gestures to communicate",
+        "Ants communicate through sounds"
+      ],
+      "answer": "Ants use chemicals to convey their roles",
+      "explanation": "Ants communicate their current job via chemicals by secreting specific scents that indicate their roles to other ants."
+    },
+    {
+      "question": "How do worker ants in an ant colony adjust their roles when needed?",
+      "choices": [
+        "By encountering fewer ants in their current job role",
+        "By receiving direct commands from a leader ant",
+        "By following a specific set of rules based on encounters"
+      ],
+      "answer": "By encountering fewer ants in their current job role",
+      "explanation": "Worker ants adjust their roles by encountering almost no ants of the role that needs more workers, prompting them to switch jobs based on a critical threshold."
+    },
+    {
+      "question": "How do cells in our body coordinate to perform tasks like creating a heartbeat?",
+      "choices": [
+        "Cells exchange chemical information and respond to their neighbors",
+        "Cells have a central command center directing them",
+        "Cells operate independently of each other"
+      ],
+      "answer": "Cells exchange chemical information and respond to their neighbors",
+      "explanation": "Cells communicate with neighboring cells by exchanging chemical information, responding to the tasks they are collectively working on without a central command directing them."
+    },
+    {
+      "question": "What is an example of something that emerges from humans?",
+      "choices": [
+        "Nations",
+        "Mountains",
+        "Oceans"
+      ],
+      "answer": "Nations",
+      "explanation": "Nations, like ant colonies, emerge from humans through interactions and form complex structures that impact the world around them."
+    }
+  ]
+}
