@@ -1,0 +1,94 @@
+{
+  "slug": "fa68625c",
+  "video_id": "JGXi_9A__Vc",
+  "movie_title": "Everything You Need to Know About Planet Earth",
+  "movie_url": "https://youtu.be/JGXi_9A__Vc",
+  "published_at": "2014-08-04T12:56:42Z",
+  "duration": "PT7M22S",
+  "tags": [
+    "Earth (Planet)",
+    "planet",
+    "ocean",
+    "future",
+    "past",
+    "sun",
+    "space",
+    "life",
+    "you",
+    "continent",
+    "science",
+    "atmosphere",
+    "earths core",
+    "aurora borealis",
+    "Our",
+    "Time",
+    "mantle",
+    "Mount Everest (Mountain)",
+    "Mariana Trench (Geographical Feature)",
+    "magnetic field",
+    "asteroids",
+    "nature",
+    "humans",
+    "pangea",
+    "dinosaurs",
+    "infographic",
+    "animation",
+    "kurzgesagt",
+    "earths center",
+    "New"
+  ],
+  "introduction": "Planet Earth is this solid thing you are standing on right now. In your everyday life you don't real",
+  "lead_intro": "Have you ever wondered about the fascinating story of how our planet, Earth, came into existence? Let's explore the incredible journey of our home in the universe.",
+  "quiz": [
+    {
+      "question": "What is the composition of Earth's outer core?",
+      "choices": [
+        "iron and nickel",
+        "silicate rocky shell",
+        "iron-nickel alloy"
+      ],
+      "answer": "iron and nickel",
+      "explanation": "Earth's outer core is a liquid layer composed of iron and nickel."
+    },
+    {
+      "question": "Which layer of Earth's atmosphere protects us from the sun's most aggressive type of light?",
+      "choices": [
+        "Troposphere",
+        "Stratosphere",
+        "Mesosphere"
+      ],
+      "answer": "Stratosphere",
+      "explanation": "The ozone layer in the Stratosphere protects us from the sun's most aggressive type of light."
+    },
+    {
+      "question": "What is the name of the transition region where space begins according to human definition?",
+      "choices": [
+        "Troposphere",
+        "Thermosphere",
+        "Exosphere"
+      ],
+      "answer": "Thermosphere",
+      "explanation": "The transition to space is considered to start at the Thermosphere, about 80 kilometers above the Earth's surface."
+    },
+    {
+      "question": "Which process is responsible for the formation of Earth's mountains and trenches?",
+      "choices": [
+        "Plate Tectonics",
+        "Erosion",
+        "Volcanism"
+      ],
+      "answer": "Plate Tectonics",
+      "explanation": "The movement of Earth's tectonic plates, known as Plate Tectonics, is responsible for creating mountains and trenches on Earth."
+    },
+    {
+      "question": "What is the estimated rate at which Earth's inner core is growing per year?",
+      "choices": [
+        "1mm/year",
+        "10mm/year",
+        "0.1mm/year"
+      ],
+      "answer": "1mm/year",
+      "explanation": "Earth's inner core is slowly growing at an estimated rate of about 1mm/year."
+    }
+  ]
+}

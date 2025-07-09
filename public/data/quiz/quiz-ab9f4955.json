@@ -1,0 +1,84 @@
+{
+  "slug": "ab9f4955",
+  "video_id": "ilbOrNrAhOA",
+  "movie_title": "Why Russia Built a Floating Nuclear Power Plant",
+  "movie_url": "https://youtu.be/ilbOrNrAhOA",
+  "published_at": "2020-06-29T20:00:06Z",
+  "duration": "PT7M59S",
+  "tags": [
+    "russia",
+    "why",
+    "how",
+    "explained",
+    "neo",
+    "akademik lomonosov",
+    "floating",
+    "nuclear power plant",
+    "nuclear",
+    "arctic",
+    "geopolitics",
+    "strategic investment",
+    "strategy",
+    "Vladimir Putin",
+    "pevek",
+    "pewek",
+    "economic",
+    "energy security",
+    "explainer",
+    "russian"
+  ],
+  "introduction": "Check out Nebula, where you can watch exclusive videos of mine that are not on YouTube:\nhttps://nebu",
+  "lead_intro": "Have you ever wondered why Russia is investing in floating nuclear power plants? Let's dive into the strategic advantages and future potential of this technology.",
+  "quiz": [
+    {
+      "question": "What is the main purpose of the Academic Lomonosov nuclear power plant?",
+      "choices": [
+        "produce electricity for thousands of people",
+        "propel the ship itself",
+        "serve as a warship"
+      ],
+      "answer": "produce electricity for thousands of people",
+      "explanation": "The Academic Lomonosov is a floating power plant designed to produce electricity for up to 200 thousand people."
+    },
+    {
+      "question": "Why are nuclear-propelled ships beneficial for military usage?",
+      "choices": [
+        "self-sufficient for long periods",
+        "rely on ports for supplies",
+        "require frequent refueling"
+      ],
+      "answer": "self-sufficient for long periods",
+      "explanation": "Nuclear-propelled ships can be self-sufficient for long periods, making them less reliant on ports or supply ships."
+    },
+    {
+      "question": "What strategic advantage did nuclear-powered ships offer during the Cold War?",
+      "choices": [
+        "enormous strategic advantages",
+        "reduced military capabilities",
+        "limited operational range"
+      ],
+      "answer": "enormous strategic advantages",
+      "explanation": "Nuclear-powered ships provided enormous strategic advantages during the Cold War, leading to their development by the United States and the Soviet Union."
+    },
+    {
+      "question": "What is a concern critics have about floating nuclear power plants?",
+      "choices": [
+        "susceptibility to natural disasters",
+        "limited energy output",
+        "environmental friendliness"
+      ],
+      "answer": "susceptibility to natural disasters",
+      "explanation": "Critics fear that floating power plants may be more susceptible to natural disasters, such as tsunamis, potentially causing accidents."
+    },
+    {
+      "question": "Why are some countries hesitant about nuclear energy?",
+      "choices": [
+        "fear of catastrophes",
+        "economic benefits",
+        "security concerns"
+      ],
+      "answer": "fear of catastrophes",
+      "explanation": "Major catastrophes like Chernobyl and Fukushima have led many nations to be cautious about nuclear energy due to the risks of disasters."
+    }
+  ]
+}

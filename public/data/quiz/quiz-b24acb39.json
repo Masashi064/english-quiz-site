@@ -1,0 +1,73 @@
+{
+  "slug": "b24acb39",
+  "video_id": "MBRqu0YOH14",
+  "movie_title": "Optimistic Nihilism",
+  "movie_url": "https://youtu.be/MBRqu0YOH14",
+  "published_at": "2017-07-26T12:16:28Z",
+  "duration": "PT7M26S",
+  "tags": [
+    "optimism",
+    "existence",
+    "existential",
+    "meaning of life",
+    "purpose",
+    "existentialism",
+    "atheism",
+    "philosophy",
+    "nihilism"
+  ],
+  "introduction": "The philosophy of Kurzgesagt.\n\n\nOUR CHANNELS\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\nGerman Channel: https://kgs.",
+  "lead_intro": "Have you ever thought about the vastness of the universe and the brevity of human existence? Dive into a philosophical journey with Kurzgesagt as they explore existential questions and propose an optimistic perspective.",
+  "quiz": [
+    {
+      "question": "According to Kurzgesagt, what concept counteracts existential dread?",
+      "choices": [
+        "Optimistic nihilism",
+        "Scientific realism",
+        "Pessimistic optimism"
+      ],
+      "answer": "Optimistic nihilism",
+      "explanation": "Kurzgesagt proposes the concept of optimistic nihilism as a way to counter existential dread and find meaning in the universe."
+    },
+    {
+      "question": "How many weeks would a 25-year-old have left if they are going to live until 70?",
+      "choices": [
+        "3900 weeks",
+        "2340 weeks",
+        "5200 weeks"
+      ],
+      "answer": "2340 weeks",
+      "explanation": "If a 25-year-old is going to live until 70, they would have 2340 weeks left based on the calculation provided in the video."
+    },
+    {
+      "question": "What does Kurzgesagt suggest is the only thing that matters if our life is all we get to experience?",
+      "choices": [
+        "Our life",
+        "Our principles",
+        "Our mistakes"
+      ],
+      "answer": "Our life",
+      "explanation": "Kurzgesagt emphasizes that if our life is all we have, then it's the only thing that truly matters in the grand scheme of things."
+    },
+    {
+      "question": "According to Kurzgesagt, what is the center organs of the universe?",
+      "choices": [
+        "Humans",
+        "Neutron stars",
+        "Black holes"
+      ],
+      "answer": "Humans",
+      "explanation": "Kurzgesagt suggests that humans are the thinking and feeling part of the universe, often referred to as the center organs of the universe."
+    },
+    {
+      "question": "What does Kurzgesagt encourage people to do in the vast universe-sized playground?",
+      "choices": [
+        "Explore, be happy, build a utopia",
+        "Sit back and relax",
+        "Avoid all challenges"
+      ],
+      "answer": "Explore, be happy, build a utopia",
+      "explanation": "Kurzgesagt encourages people to explore, seek happiness, and aim to build a utopia in the stars while embracing the freedom within the universe."
+    }
+  ]
+}
