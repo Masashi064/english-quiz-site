@@ -26,9 +26,12 @@ type Article = {
 const parseDuration = (iso: string): number => {
   const match = iso.match(/PT(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?/)
   if (!match) return 0
-  const [, h, m, s] = match.map(Number)
-  return (h || 0) * 3600 + (m || 0) * 60 + (s || 0)
+  const h = parseInt(match[1] || "0")
+  const m = parseInt(match[2] || "0")
+  const s = parseInt(match[3] || "0")
+  return h * 3600 + m * 60 + s
 }
+
 
 const formatDuration = (iso: string): string => {
   const seconds = parseDuration(iso)
