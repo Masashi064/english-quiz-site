@@ -23,17 +23,20 @@ type Article = {
   completed?: boolean
 }
 
+const parseDuration = (iso: string): number => {
+  const match = iso.match(/PT(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?/)
+  if (!match) return 0
+  const h = parseInt(match[1] || "0")
+  const m = parseInt(match[2] || "0")
+  const s = parseInt(match[3] || "0")
+  return h * 3600 + m * 60 + s
+}
+
+
 const formatDuration = (duration: string): string => {
-  return duration // そのまま表示（例: "6:30"）
-}
+  return duration;
+};
 
-
-const formatDuration = (iso: string): string => {
-  const seconds = parseDuration(iso)
-  const m = Math.floor(seconds / 60)
-  const s = seconds % 60
-  return `${m}:${s.toString().padStart(2, '0')} min`
-}
 
 const formatDate = (iso: string): string => {
   return new Date(iso).toLocaleDateString()
