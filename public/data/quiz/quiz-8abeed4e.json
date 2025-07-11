@@ -1,0 +1,69 @@
+{
+  "slug": "8abeed4e",
+  "video_id": "TcDvfAECkdA",
+  "movie_title": "The Future Tallest Buildings on Earth",
+  "movie_url": "https://youtu.be/TcDvfAECkdA",
+  "published_at": "2023-02-13T16:23:00Z",
+  "duration": "1:00",
+  "tags": [
+    "skyscraper",
+    "dubai",
+    "tallest",
+    "world record",
+    "highest"
+  ],
+  "introduction": "There are many proposals around the globe to replace the Burj Khalifa in Dubai as the next tallest b",
+  "lead_intro": "Did you know that the title of the tallest building on Earth might be challenged soon? Explore some ambitious construction projects in this video!",
+  "quiz": [
+    {
+      "question": "Which country is planning a kilometer-high building that is currently in the works?",
+      "choices": [
+        "Egypt",
+        "Saudi Arabia",
+        "Kuwait"
+      ],
+      "answer": "Egypt",
+      "explanation": "The video mentions a planned kilometer-high building in Egypt."
+    },
+    {
+      "question": "Which architect designed the Jetta power plant in Saudi Arabia?",
+      "choices": [
+        "The architect who built the Burj Khalifa",
+        "An anonymous architect",
+        "An architect from Kuwait"
+      ],
+      "answer": "The architect who built the Burj Khalifa",
+      "explanation": "The same architect who built the Burj Khalifa designed the Jetta power plant in Saudi Arabia."
+    },
+    {
+      "question": "What is the potential issue with the higher Tower plant in Dubai becoming the tallest construction?",
+      "choices": [
+        "Most of its height is not made of usable floors",
+        "It lacks proper design",
+        "It is too expensive"
+      ],
+      "answer": "Most of its height is not made of usable floors",
+      "explanation": "The video mentions that the higher Tower plant in Dubai is not considered a building because most of its height is not made of usable floors."
+    },
+    {
+      "question": "Where is the Sky Mile Tower proposed to be built?",
+      "choices": [
+        "Tokyo",
+        "Dubai",
+        "New York"
+      ],
+      "answer": "Tokyo",
+      "explanation": "The crazy proposal, the Sky Mile Tower, is planned to be built in Tokyo, standing more than one mile tall."
+    },
+    {
+      "question": "What would it mean if any of these projects became a reality?",
+      "choices": [
+        "These would become the tallest constructions in the world",
+        "They would be abandoned",
+        "They would be redesigned"
+      ],
+      "answer": "These would become the tallest constructions in the world",
+      "explanation": "If any of these ambitious construction projects became reality, they could potentially become the tallest constructions in the world."
+    }
+  ]
+}

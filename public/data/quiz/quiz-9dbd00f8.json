@@ -1,0 +1,82 @@
+{
+  "slug": "9dbd00f8",
+  "video_id": "MIp_udoTgiQ",
+  "movie_title": "The History of Latvia",
+  "movie_url": "https://youtu.be/MIp_udoTgiQ",
+  "published_at": "2017-04-25T10:09:09Z",
+  "duration": "8:55",
+  "tags": [
+    "Latvia",
+    "Lettland",
+    "Latvija",
+    "History",
+    "Explaining",
+    "Education",
+    "Understanding",
+    "Mapped",
+    "EU",
+    "NATO",
+    "Riga",
+    "Daugavpils",
+    "Russia",
+    "Trump",
+    "Liepaja",
+    "facts",
+    "interesting",
+    "history"
+  ],
+  "introduction": "Watch my exclusive Nebula documentaries:\nhttps://nebula.tv/videos/neo-how-the-twin-towers-were-built",
+  "lead_intro": "Explore the turbulent history and journey towards independence of Latvia in this informative video.",
+  "quiz": [
+    {
+      "question": "Which city quickly became an important trading place along the Baltic Sea?",
+      "choices": [
+        "Tallinn",
+        "Riga",
+        "Vilnius"
+      ],
+      "answer": "Riga",
+      "explanation": "Riga quickly became an important trading place due to its location along the Baltic Sea."
+    },
+    {
+      "question": "In what year did Latvia become a fully sovereign state?",
+      "choices": [
+        "1991",
+        "1995",
+        "2000"
+      ],
+      "answer": "1991",
+      "explanation": "Latvia became a fully sovereign state in August 1991, following the national awakening and protests."
+    },
+    {
+      "question": "Which monument replaced the statue of Peter the Great in Riga?",
+      "choices": [
+        "Liberty Monument",
+        "Unity Monument",
+        "Independence Monument"
+      ],
+      "answer": "Liberty Monument",
+      "explanation": "The Liberty Monument replaced the statue of Peter the Great and symbolized Latvia's independence."
+    },
+    {
+      "question": "What event led to the creation of a Latvian state after WWI?",
+      "choices": [
+        "Fall of the Russian Empire",
+        "Treaty of Versailles",
+        "Dissolution of the Ottoman Empire"
+      ],
+      "answer": "Fall of the Russian Empire",
+      "explanation": "The creation of a Latvian state was made possible after WWI due to the fall of the Russian Empire and Germany's focus on its own future."
+    },
+    {
+      "question": "Which country gained independence first after the human chain protest in 1989?",
+      "choices": [
+        "Latvia",
+        "Estonia",
+        "Lithuania"
+      ],
+      "answer": "Lithuania",
+      "explanation": "Lithuania gained independence first following the human chain protest in 1989, with Latvia following shortly after in 1991."
+    }
+  ]
+}

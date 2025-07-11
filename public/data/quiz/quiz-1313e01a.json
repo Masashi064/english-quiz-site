@@ -1,0 +1,76 @@
+{
+  "slug": "1313e01a",
+  "video_id": "vlUUrrwcUQw",
+  "movie_title": "How a Formula 1 Pit Stop Works",
+  "movie_url": "https://youtu.be/vlUUrrwcUQw",
+  "published_at": "2025-06-16T16:22:00Z",
+  "duration": "8:49",
+  "tags": [
+    "F1",
+    "Formula 1",
+    "Racing",
+    "Pit Stop",
+    "Engineering",
+    "Explained",
+    "neo",
+    "why",
+    "how come",
+    "how it works",
+    "3d",
+    "animation"
+  ],
+  "introduction": "Get Nebula for 40% off an annual subscription using my link: https://go.nebula.tv/neo\n\nWatch my vide",
+  "lead_intro": "Ever wondered how a Formula One pit stop happens in just two and a half seconds? Let's dive into the incredible speed and precision involved.",
+  "quiz": [
+    {
+      "question": "What is the purpose of the mechanical arm with an arrow in the pit box used by F1 teams?",
+      "choices": [
+        "To help the driver brake as late as possible",
+        "To assist with aligning the front tires precisely",
+        "To adjust the car's setup during the pit stop"
+      ],
+      "answer": "To assist with aligning the front tires precisely",
+      "explanation": "The mechanical arm with an arrow is used to ensure that the front tires line up exactly beneath the arrow for perfect alignment during the pit stop."
+    },
+    {
+      "question": "How many people are involved in changing each F1 tire?",
+      "choices": [
+        "Two for each tire",
+        "Four for each tire",
+        "Three for each tire"
+      ],
+      "answer": "Three for each tire",
+      "explanation": "The wheel change crew consists of 12 people, with three dedicated to each tire during an F1 pit stop."
+    },
+    {
+      "question": "What does the LED ring on the wheel gun of an F1 pit crew signify when it glows white?",
+      "choices": [
+        "The tire is fully secured",
+        "The gun is in tightening mode",
+        "The gun is in loosening mode"
+      ],
+      "answer": "The gun is in loosening mode",
+      "explanation": "When the LED ring on the wheel gun glows white, it indicates that the gun is in loosening mode before the tire change."
+    },
+    {
+      "question": "Why might a driver request an adjustment to the front wing during a pit stop?",
+      "choices": [
+        "To increase tire pressure",
+        "To improve fuel efficiency",
+        "To change the car's aerodynamics"
+      ],
+      "answer": "To change the car's aerodynamics",
+      "explanation": "Adjusting the front wing during a pit stop can alter the car's aerodynamics, potentially improving its performance on the track."
+    },
+    {
+      "question": "Who provides the final confirmation for the car to be released from the pit stop?",
+      "choices": [
+        "The front jack operator",
+        "The crew chief",
+        "The rear jack operator"
+      ],
+      "answer": "The crew chief",
+      "explanation": "The crew chief oversees the pit stop process and provides the final confirmation for the car to be released once all tasks are completed and it's safe to exit the pit lane."
+    }
+  ]
+}
