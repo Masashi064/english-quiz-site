@@ -1,0 +1,102 @@
+{
+  "slug": "9d2b8801",
+  "video_id": "zQGOcOUBi6s",
+  "movie_title": "The Immune System Explained I – Bacteria Infection",
+  "movie_url": "https://youtu.be/zQGOcOUBi6s",
+  "published_at": "2014-07-01T16:06:05Z",
+  "duration": "7:49",
+  "tags": [
+    "immune system",
+    "virus",
+    "bacteria",
+    "blood",
+    "Health",
+    "Still",
+    "Live",
+    "alive",
+    "life",
+    "immune",
+    "antibody",
+    "Cells",
+    "macrophage",
+    "neutrophil",
+    "dendritic",
+    "b cell",
+    "T cell",
+    "t helper cell",
+    "complement",
+    "connection",
+    "protein",
+    "antigen",
+    "lymph node",
+    "memory cell",
+    "wound",
+    "infection",
+    "evolution",
+    "body",
+    "human",
+    "Pokémon (Video Game Series)",
+    "one",
+    "flat design",
+    "science",
+    "infographic",
+    "animation",
+    "Kurzgesagt",
+    "medicin",
+    "Medicine (Field Of Study)"
+  ],
+  "introduction": "Every second of your life you are under attack. Bacteria, viruses, spores and more living stuff want",
+  "lead_intro": "Have you ever wondered how your immune system protects you from constant attacks by bacteria and viruses? Let's dive into the fascinating world of our body's defense system.",
+  "quiz": [
+    {
+      "question": "What is the main job of macrophages in the immune system?",
+      "choices": [
+        "swallow intruders whole and trap them inside a membrane",
+        "generate barriers that trap and kill bacteria",
+        "produce antibodies to fight infections"
+      ],
+      "answer": "swallow intruders whole and trap them inside a membrane",
+      "explanation": "Macrophages act as guard cells that engulf intruders, trap them inside a membrane, and break them down to kill them."
+    },
+    {
+      "question": "What is the role of neutrophils in the immune response to an infection?",
+      "choices": [
+        "kill healthy cells in the process",
+        "generate barriers that trap and kill bacteria",
+        "commit suicide after five days to prevent excessive damage"
+      ],
+      "answer": "generate barriers that trap and kill bacteria",
+      "explanation": "Neutrophils fight aggressively, generating barriers that trap and kill bacteria, even though they end up causing some damage in the process."
+    },
+    {
+      "question": "What crucial decision does the dendritic cell make during an infection?",
+      "choices": [
+        "travel to the closest lymph node",
+        "call for anti-virus forces",
+        "activate a weapons factory"
+      ],
+      "answer": "call for anti-virus forces",
+      "explanation": "The dendritic cell decides whether to call for anti-virus forces or bacteria killers based on the type of infection it encounters."
+    },
+    {
+      "question": "What do B cells produce in response to an infection?",
+      "choices": [
+        "antibodies",
+        "enzymes to break down intruders",
+        "water to facilitate fighting"
+      ],
+      "answer": "antibodies",
+      "explanation": "B cells produce antibodies, little proteins that bind to specific intruders and mark them for destruction by the immune system."
+    },
+    {
+      "question": "How do antibodies help in fighting an infection?",
+      "choices": [
+        "kill intruders directly",
+        "connect to killer cells to kill intruders",
+        "generate barriers to trap intruders"
+      ],
+      "answer": "connect to killer cells to kill intruders",
+      "explanation": "Antibodies attach to intruders, making them an easy target for killer cells, facilitating the destruction of the invading pathogens."
+    }
+  ]
+}
