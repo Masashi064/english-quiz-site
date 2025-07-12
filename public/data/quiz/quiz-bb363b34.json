@@ -1,0 +1,73 @@
+{
+  "slug": "bb363b34",
+  "video_id": "mdjTmI5kGfU",
+  "movie_title": "The City of Private Beaches",
+  "movie_url": "https://youtu.be/mdjTmI5kGfU",
+  "published_at": "2023-02-01T15:00:38Z",
+  "duration": "1:00",
+  "tags": [
+    "kuwait",
+    "city planning",
+    "planned city",
+    "land reclamation",
+    "sabbah al ahmed",
+    "why",
+    "understanding",
+    "urban planning",
+    "middle east"
+  ],
+  "introduction": "There is a city in Kuwait where every single house has access to a private beach. This short explore",
+  "lead_intro": "Discover the fascinating city built with a unique feature of private beaches for its residents!",
+  "quiz": [
+    {
+      "question": "Why was the city in the video built with houses along man-made canals?",
+      "choices": [
+        "To create private beaches for residents",
+        "To conserve coastal land",
+        "To reduce construction costs"
+      ],
+      "answer": "To create private beaches for residents",
+      "explanation": "The city was built with houses along man-made canals to give every resident a private beach."
+    },
+    {
+      "question": "What is the main reason for building the city in Kuwait?",
+      "choices": [
+        "Oil export demand",
+        "Large population growth",
+        "Abundant natural resources"
+      ],
+      "answer": "Oil export demand",
+      "explanation": "Kuwait, a nation located on the Persian Gulf, became wealthy through oil export and had a high demand for luxurious housing."
+    },
+    {
+      "question": "Why was building further inland not a preferred option for housing in Kuwait?",
+      "choices": [
+        "Dry desert heat",
+        "Coastal erosion",
+        "Limited construction materials"
+      ],
+      "answer": "Dry desert heat",
+      "explanation": "Building further inland was not ideal due to the uncomfortable dry desert heat, making coastal building the more viable option."
+    },
+    {
+      "question": "What was the solution to the limited coastal land issue in the country?",
+      "choices": [
+        "Artificially extending the coastline with canals",
+        "Forcing residents to move inland",
+        "Importing sand from other countries"
+      ],
+      "answer": "Artificially extending the coastline with canals",
+      "explanation": "To address the limited coastal land problem, the city extended the coastline artificially by creating a maze of canals."
+    },
+    {
+      "question": "What advantage do houses built directly on the water in the city have?",
+      "choices": [
+        "Direct access to private beaches",
+        "Lower construction costs",
+        "Closer proximity to the city center"
+      ],
+      "answer": "Direct access to private beaches",
+      "explanation": "Houses directly on the water in the city provide residents with the benefit of having direct access to private beaches."
+    }
+  ]
+}

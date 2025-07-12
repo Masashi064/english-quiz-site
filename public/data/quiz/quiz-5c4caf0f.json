@@ -1,0 +1,87 @@
+{
+  "slug": "5c4caf0f",
+  "video_id": "aq1snwtQUQ4",
+  "movie_title": "Do our pets care about us? - 6 Minute English",
+  "movie_url": "https://youtu.be/aq1snwtQUQ4",
+  "published_at": "2022-02-10T15:30:01Z",
+  "duration": "6:21",
+  "tags": [
+    "learn English",
+    "speak English",
+    "bbc english",
+    "English teacher",
+    "อังกฤษ",
+    "Anh",
+    "English tutorial",
+    "British English",
+    "English pronunciation",
+    "English lesson",
+    "idiom",
+    "ELT",
+    "podcast",
+    "Ingilizce",
+    "bbc",
+    "cats and dogs",
+    "pets",
+    "domesticated",
+    "loving pet",
+    "animals",
+    "6 minute english",
+    "english vocabulary",
+    "bbc learning english"
+  ],
+  "introduction": "Improve your English vocabulary and listening in just six minutes! We love and care for our pets. Bu",
+  "lead_intro": "Have you ever wondered if pets can sense human feelings? Let's explore this fascinating topic in this English learning video from BBC Learning English.",
+  "quiz": [
+    {
+      "question": "What type of animal was the star in the Australian TV show 'Skippy'?",
+      "choices": [
+        "a) a rabbit",
+        "b) a frog",
+        "c) a kangaroo"
+      ],
+      "answer": "kangaroo",
+      "explanation": "Skippy, the star of the Australian TV show, was indeed a kangaroo."
+    },
+    {
+      "question": "What does it mean to anthropomorphize animals?",
+      "choices": [
+        "a) Give them human qualities",
+        "b) Train them to talk",
+        "c) Feed them treats"
+      ],
+      "answer": "Give them human qualities",
+      "explanation": "Anthropomorphizing animals means attributing human characteristics to them."
+    },
+    {
+      "question": "What does it mean to feign illness?",
+      "choices": [
+        "a) Actually be ill",
+        "b) Pretend to be ill",
+        "c) Ignore health issues"
+      ],
+      "answer": "Pretend to be ill",
+      "explanation": "Feigning illness is pretending to be sick when you are not actually ill."
+    },
+    {
+      "question": "What does it mean to be in agony?",
+      "choices": [
+        "a) Feeling happy",
+        "b) Feeling no pain",
+        "c) Extreme physical pain"
+      ],
+      "answer": "Extreme physical pain",
+      "explanation": "Being in agony refers to experiencing intense physical suffering."
+    },
+    {
+      "question": "How do cats typically react to human distress according to the experiment?",
+      "choices": [
+        "a) Wag their tails",
+        "b) Pay more attention",
+        "c) Ignore completely"
+      ],
+      "answer": "Pay more attention",
+      "explanation": "Cats in the experiment showed increased attention towards their owners during moments of distress."
+    }
+  ]
+}

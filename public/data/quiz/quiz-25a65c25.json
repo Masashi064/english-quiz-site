@@ -1,0 +1,73 @@
+{
+  "slug": "25a65c25",
+  "video_id": "2zwOJdl0xSA",
+  "movie_title": "Why Our Ocean Maps Are Terrible",
+  "movie_url": "https://youtu.be/2zwOJdl0xSA",
+  "published_at": "2023-02-08T15:00:01Z",
+  "duration": "0:59",
+  "tags": [
+    "ocean",
+    "maps",
+    "explained",
+    "shorts",
+    "mapping",
+    "map",
+    "why",
+    "understanding",
+    "earth"
+  ],
+  "introduction": "The maps of our oceans are incomplete, or at the very least they are very low resolution. #shorts",
+  "lead_intro": "Have you ever wondered how much of the ocean floor is actually mapped out? Dive into the details of ocean mapping and satellite technology in this intriguing video!",
+  "quiz": [
+    {
+      "question": "What technology was used to measure the sections that appear as stripes on the ocean floor?",
+      "choices": [
+        "Sonar",
+        "Satellites",
+        "Drones"
+      ],
+      "answer": "Sonar",
+      "explanation": "The sections that appear as stripes on the ocean floor were actually measured using Sonar technology."
+    },
+    {
+      "question": "At what resolution can state-of-the-art photographic satellites map areas on Earth?",
+      "choices": [
+        "0.3 meters per pixel",
+        "5 kilometers per pixel",
+        "6 meters per pixel"
+      ],
+      "answer": "0.3 meters per pixel",
+      "explanation": "State-of-the-art photographic satellites can map areas on Earth with a resolution of 0.3 meters per pixel."
+    },
+    {
+      "question": "Which celestial body was mentioned as being mapped with a resolution of 6 meters per pixel?",
+      "choices": [
+        "Mars",
+        "Venus",
+        "Jupiter"
+      ],
+      "answer": "Mars",
+      "explanation": "Mars was mentioned as being mapped with a resolution of 6 meters per pixel for comparison."
+    },
+    {
+      "question": "What is the resolution of ocean maps that cover the entire surface?",
+      "choices": [
+        "5 kilometers per pixel",
+        "0.3 meters per pixel",
+        "6 meters per pixel"
+      ],
+      "answer": "5 kilometers per pixel",
+      "explanation": "Ocean maps that cover the entire surface only have a resolution of 5 kilometers per pixel."
+    },
+    {
+      "question": "Why is getting better data through mapping important?",
+      "choices": [
+        "Understanding earth's climate",
+        "Predicting tsunamis",
+        "Locating lost treasure"
+      ],
+      "answer": "Understanding earth's climate",
+      "explanation": "Getting better data through mapping is important for reasons such as understanding earth's climate, improving weather forecasts, and other crucial purposes."
+    }
+  ]
+}

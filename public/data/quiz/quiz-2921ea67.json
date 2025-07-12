@@ -1,0 +1,91 @@
+{
+  "slug": "2921ea67",
+  "video_id": "NMo3nZHVrZ4",
+  "movie_title": "Overpopulation & Africa",
+  "movie_url": "https://youtu.be/NMo3nZHVrZ4",
+  "published_at": "2019-12-15T13:30:10Z",
+  "duration": "7:43",
+  "tags": [
+    "Africa",
+    "Sub-Saharan Africa",
+    "Overpopulation",
+    "Population",
+    "World Population",
+    "human",
+    "mankind",
+    "fertility",
+    "poverty",
+    "education",
+    "contraception",
+    "contraceptives",
+    "birth rates",
+    "Asia",
+    "Bangladesh",
+    "income",
+    "child mortality",
+    "economy",
+    "South Korea",
+    "India",
+    "Thailand",
+    "Philippines",
+    "culture Ethiopia",
+    "health",
+    "Botswana",
+    "Sierra Leone",
+    "Subsaharan Africa"
+  ],
+  "introduction": "Sources and further reading:\nhttps://sites.google.com/view/sourcesoverpopulationandafrica\n\nFor most",
+  "lead_intro": "Did you know that Sub-Saharan Africa's population growth rate is still much higher than the rest of the world? Let's dive into the complexities and challenges faced by the region.",
+  "quiz": [
+    {
+      "question": "In the 1960s, what was the average number of children per woman in Bangladesh?",
+      "choices": [
+        "7 children",
+        "4 children",
+        "2 children"
+      ],
+      "answer": "7 children",
+      "explanation": "In the 1960s, the average woman in Bangladesh had 7 children in her lifetime, contributing to high population growth."
+    },
+    {
+      "question": "What factor contributed to the significant drop in child mortality in Ethiopia since 1990?",
+      "choices": [
+        "Improved health services",
+        "Increased birth rates",
+        "Decreased education funding"
+      ],
+      "answer": "Improved health services",
+      "explanation": "Improvements in health services in Ethiopia led to a drop in child mortality from 20% to 7% since 1990, indicating progress in the region."
+    },
+    {
+      "question": "What is one of the main pillars of Bangladesh's successful family planning program?",
+      "choices": [
+        "Education",
+        "Infrastructure development",
+        "Military intervention"
+      ],
+      "answer": "Education",
+      "explanation": "Education played a key role in changing women's outlook, leading to a desire for fewer children and contributing to the success of the family planning program."
+    },
+    {
+      "question": "What is the current unmet need for modern contraception among adolescents in Sub-Saharan Africa?",
+      "choices": [
+        "60%",
+        "40%",
+        "20%"
+      ],
+      "answer": "60%",
+      "explanation": "The unmet need for modern contraception among adolescents in Sub-Saharan Africa is still at about 60%, highlighting a gap in access to family planning services."
+    },
+    {
+      "question": "What could be the potential population growth in Sub-Saharan Africa by 2100 if families have universal access to contraception?",
+      "choices": [
+        "2.8 billion people",
+        "4 billion people",
+        "5 billion people"
+      ],
+      "answer": "2.8 billion people",
+      "explanation": "With universal access to contraception, birth projections in Sub-Saharan Africa could fall by 30% to 2.8 billion people by 2100, showing the impact of family planning."
+    }
+  ]
+}
