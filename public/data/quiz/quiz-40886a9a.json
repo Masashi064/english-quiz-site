@@ -1,0 +1,107 @@
+{
+  "slug": "40886a9a",
+  "video_id": "uqKGREZs6-w",
+  "movie_title": "Building a Marsbase is a Horrible Idea: Let’s do it!",
+  "movie_url": "https://youtu.be/uqKGREZs6-w",
+  "published_at": "2019-02-03T13:29:29Z",
+  "duration": "7:56",
+  "tags": [
+    "Mars",
+    "Life on Mars",
+    "Mars Landing",
+    "Mars Mission",
+    "Mars Base",
+    "Mars Exploration",
+    "Mars Colonisation",
+    "Martian",
+    "The Martian",
+    "Space",
+    "Travel",
+    "Journey",
+    "Mars Dust",
+    "Temperature",
+    "Terraforming",
+    "Terraform",
+    "Phobos",
+    "Deimos",
+    "Moon",
+    "Moons",
+    "Polar Ice Caps",
+    "Valley",
+    "Water",
+    "Liquid Water",
+    "Radioactive",
+    "Pioneer",
+    "Solar Power",
+    "Solarsystem",
+    "Sun",
+    "Solar Energy",
+    "Milky Way",
+    "Solar Wind",
+    "Radiation",
+    "Cancer",
+    "Cancer Risk",
+    "Frozen Co2",
+    "Resources",
+    "Nuclear Fuel",
+    "Food Supply",
+    "Aquaponics Total Recall",
+    "Alien",
+    "Mars Attacks",
+    "Doom"
+  ],
+  "introduction": "Get your Mars Base Poster here: shop.kurzgesagt.org\n\nHumans love to explore. Strangely enough even h",
+  "lead_intro": "As humans set their sights on colonizing Mars, the challenges and preparations involved are immense. From energy sources to radiation protection, every aspect needs careful planning and execution.",
+  "quiz": [
+    {
+      "question": "What is the main challenge in terms of energy supply on Mars?",
+      "choices": [
+        "Solar power limitations",
+        "Wind power feasibility",
+        "Geothermal energy availability"
+      ],
+      "answer": "Solar power limitations",
+      "explanation": "Mars is very energy poor, with solar power being only 40% as effective as on Earth and often obscured by dust storms. Alternative energy sources like wind and geothermal are unfeasible due to Mars' conditions."
+    },
+    {
+      "question": "Why do habitats on Mars need to be pressurized and filled with an artificial atmosphere?",
+      "choices": [
+        "To combat the thin and CO2-rich Martian atmosphere",
+        "To prevent dust storms from causing damage",
+        "To increase visibility for the crew inside"
+      ],
+      "answer": "To combat the thin and CO2-rich Martian atmosphere",
+      "explanation": "Mars has an atmosphere only 1% as dense as Earth's, mostly composed of CO2. Habitats need pressurization and an artificial atmosphere of nitrogen and oxygen for human survival."
+    },
+    {
+      "question": "What is a major concern regarding radiation exposure on Mars?",
+      "choices": [
+        "High levels of radiation reaching the ground",
+        "Low levels of radiation compared to Earth",
+        "Absence of radiation on Mars"
+      ],
+      "answer": "High levels of radiation reaching the ground",
+      "explanation": "Mars lacks a dense atmosphere and magnetosphere, allowing half of space radiation to reach the surface. This exposes individuals to 50 times the radiation of Earth, increasing cancer risks significantly."
+    },
+    {
+      "question": "Why are remote-controlled robots preferred for surface work on Mars?",
+      "choices": [
+        "To avoid radiation exposure for humans",
+        "To test the capabilities of robots",
+        "To reduce communication delays with Earth"
+      ],
+      "answer": "To avoid radiation exposure for humans",
+      "explanation": "Due to the high radiation levels and risks associated with Mars' surface, remote-controlled robots are used for routine work to protect the crew from harmful exposure."
+    },
+    {
+      "question": "How do astronauts plan to address the challenge of growing food on Mars?",
+      "choices": [
+        "Using aquaponics to raise fish and plants together",
+        "Importing food supplies from Earth",
+        "Relying on Martian soil nutrients"
+      ],
+      "answer": "Using aquaponics to raise fish and plants together",
+      "explanation": "Aquaponics is proposed as a solution to grow food on Mars, combining fish and plant cultivation. This method not only provides food but also boosts astronauts' morale with varied diets."
+    }
+  ]
+}

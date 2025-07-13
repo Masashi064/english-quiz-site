@@ -1,0 +1,89 @@
+{
+  "slug": "ed38fef2",
+  "video_id": "Da-2h2B4faU",
+  "movie_title": "String Theory Explained – What is The True Nature of Reality?",
+  "movie_url": "https://youtu.be/Da-2h2B4faU",
+  "published_at": "2018-03-01T13:30:51Z",
+  "duration": "8:00",
+  "tags": [
+    "string theory",
+    "string theory explained",
+    "string",
+    "strings",
+    "quarks",
+    "particle",
+    "point particle",
+    "quantum physics",
+    "quantum field theory",
+    "leptons",
+    "bosons",
+    "photon",
+    "gluon",
+    "electromagnetic",
+    "gravity",
+    "spacetime",
+    "elementary particles",
+    "Heisenberg uncertainty principle",
+    "quantum solvent",
+    "hadron therapy",
+    "maglev train",
+    "theory of everything",
+    "true nature of the universe",
+    "animation",
+    "kurzgesagt"
+  ],
+  "introduction": "Is String Theory the final solution for all of physic’s questions or an overhyped dead end?\n\nThis vi",
+  "lead_intro": "Have you ever wondered about the true nature of the universe and the stories we create to understand it? Dive into the fascinating world of string theory and quantum physics in this video!",
+  "quiz": [
+    {
+      "question": "What is the Heisenberg uncertainty principle in quantum physics based on?",
+      "choices": [
+        "particles being too small to be seen with visible light",
+        "particles changing when interacted with electromagnetic waves",
+        "particles being altered by high-energy waves"
+      ],
+      "answer": "particles being altered by high-energy waves",
+      "explanation": "The Heisenberg uncertainty principle states that by looking at a particle with a wave that has a lot of energy, it alters the particle. This fundamental principle arises from the fact that particles cannot be measured precisely without being changed."
+    },
+    {
+      "question": "What concept did physicists invent to depict particles as points with specific properties?",
+      "choices": [
+        "Quantum Field Theory",
+        "String Theory",
+        "Elementary Particles"
+      ],
+      "answer": "Quantum Field Theory",
+      "explanation": "Physicists created the concept of Quantum Field Theory where particles are treated as if they were points in space with specific attributes like electric charge and mass. This approach allowed for defining and calculating particle interactions."
+    },
+    {
+      "question": "What problem arises when trying to combine gravity with quantum physics?",
+      "choices": [
+        "Mathematics breakdown",
+        "Inconsistency in particle behaviors",
+        "Difficulty in measuring particle properties"
+      ],
+      "answer": "Mathematics breakdown",
+      "explanation": "When physicists attempted to incorporate gravity into the story of quantum physics by introducing a new particle, the mathematics broke down. This challenge highlights the current struggle of marrying gravity to the principles of quantum physics."
+    },
+    {
+      "question": "How many dimensions does string theory require to function properly?",
+      "choices": [
+        "Three",
+        "Four",
+        "Ten"
+      ],
+      "answer": "Ten",
+      "explanation": "String theory necessitates ten dimensions to be viable, which is a significant departure from our familiar three spatial and one temporal dimensions. The theory's mathematical consistency relies on this higher-dimensional framework."
+    },
+    {
+      "question": "What role does string theory play in understanding quantum gravity?",
+      "choices": [
+        "Unifying fundamental forces",
+        "Resolving black hole mysteries",
+        "Predicting experimental outcomes"
+      ],
+      "answer": "Resolving black hole mysteries",
+      "explanation": "While string theory has not yet provided experimental evidence, it offers valuable insights into complex phenomena like quantum gravity, such as elucidating the workings of black holes and addressing longstanding puzzles in physics."
+    }
+  ]
+}

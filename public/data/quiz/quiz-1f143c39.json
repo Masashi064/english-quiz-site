@@ -1,0 +1,88 @@
+{
+  "slug": "1f143c39",
+  "video_id": "h4Uu5eyN6VU",
+  "movie_title": "Is the EU Democratic? Does Your Vote Matter?",
+  "movie_url": "https://youtu.be/h4Uu5eyN6VU",
+  "published_at": "2019-05-19T12:30:02Z",
+  "duration": "7:55",
+  "tags": [
+    "EU",
+    "Election",
+    "Europe",
+    "European Union",
+    "Democratic",
+    "Article 13",
+    "Uploadfilter",
+    "Vote",
+    "Voting",
+    "People",
+    "Democracy",
+    "International",
+    "UN",
+    "United Nations",
+    "peace",
+    "war",
+    "Parliament",
+    "Council",
+    "Commission",
+    "Government",
+    "National Elections",
+    "National",
+    "Member State",
+    "Copyright"
+  ],
+  "introduction": "Sources:\nhttps://sites.google.com/view/sourceseu-elections/\n\nPlaylist with all languages: https://yo",
+  "lead_intro": "Have you ever wondered how democratic the European Union really is? Let's dive into the complexities of the EU's institutions and the power of your vote.",
+  "quiz": [
+    {
+      "question": "Which of the following is one of the four main institutions of the European Union discussed in the video?",
+      "choices": [
+        "European Parliament",
+        "United Nations",
+        "European Court of Justice"
+      ],
+      "answer": "European Parliament",
+      "explanation": "In the video, the four main institutions of the EU discussed are the European Council, the Council of the EU, the European Commission, and the European Parliament."
+    },
+    {
+      "question": "What is the European Parliament's role in the EU's decision-making process?",
+      "choices": [
+        "Approve new laws",
+        "Enforce international treaties",
+        "Appoint Commissioners"
+      ],
+      "answer": "Approve new laws",
+      "explanation": "The European Parliament has the power to approve new laws, influence the EU budget, and vote on international treaties."
+    },
+    {
+      "question": "How many of the four main EU institutions depend on member state governments?",
+      "choices": [
+        "1",
+        "2",
+        "3"
+      ],
+      "answer": "2",
+      "explanation": "In the video, it is mentioned that 2.5 out of the 4 main EU institutions depend on the member state governments."
+    },
+    {
+      "question": "What is a major power that the EU Parliament does NOT officially have?",
+      "choices": [
+        "Propose new laws",
+        "Approve treaties",
+        "Control the EU budget"
+      ],
+      "answer": "Propose new laws",
+      "explanation": "The EU Parliament officially cannot propose new laws on its own, which is an argument for giving it more influence to enhance democracy."
+    },
+    {
+      "question": "What is highlighted as one of the most powerful actions citizens can take in a democracy?",
+      "choices": [
+        "Voting",
+        "Protesting",
+        "Boycotting"
+      ],
+      "answer": "Voting",
+      "explanation": "In the video, it is emphasized that voting and caring about how political institutions change and develop is one of the most powerful actions citizens can take."
+    }
+  ]
+}

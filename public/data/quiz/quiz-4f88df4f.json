@@ -1,0 +1,95 @@
+{
+  "slug": "4f88df4f",
+  "video_id": "hlsBs3XSDUM",
+  "movie_title": "For the love of foreign languages - 6 Minute English",
+  "movie_url": "https://youtu.be/hlsBs3XSDUM",
+  "published_at": "2021-01-14T17:53:59Z",
+  "duration": "6:21",
+  "tags": [
+    "learn English",
+    "English vocabulary",
+    "speak English",
+    "bbc english",
+    "English teacher",
+    "英語",
+    "영어",
+    "อังกฤษ",
+    "Anh",
+    "English tutorial",
+    "Ingilizce ders",
+    "English grammar",
+    "IELTS",
+    "British English",
+    "English pronunciation",
+    "English lesson",
+    "idiom",
+    "English expressions",
+    "BBC Learning English",
+    "tefl",
+    "slang",
+    "BBC",
+    "Online English",
+    "how to speak English",
+    "English speaking",
+    "ELT",
+    "6 minute english",
+    "food",
+    "comfort food",
+    "eating",
+    "junk food"
+  ],
+  "introduction": "How many languages would you like to speak? Do you agree that \"to have another language is to posses",
+  "lead_intro": "Are you interested in the benefits of speaking multiple languages? Let's test your knowledge on polyglots and language learning!",
+  "quiz": [
+    {
+      "question": "What does the prefix 'poly' in the word polyglot mean?",
+      "choices": [
+        "many words",
+        "many sounds",
+        "many tongues"
+      ],
+      "answer": "many",
+      "explanation": "The prefix 'poly' means 'many', so in the word polyglot, it refers to speaking many languages."
+    },
+    {
+      "question": "According to Richard Simcot, why do polyglots learn languages?",
+      "choices": [
+        "out of necessity",
+        "for pleasure and enjoyment",
+        "for academic purposes"
+      ],
+      "answer": "for pleasure and enjoyment",
+      "explanation": "Richard Simcot mentions that polyglots learn languages out of sheer enjoyment, pleasure, or fascination with another language or culture, not out of necessity."
+    },
+    {
+      "question": "What did Eve Fedorenko's research reveal about the brain regions of multilingual children?",
+      "choices": [
+        "they remain the same size",
+        "they become hyperactive",
+        "they become more efficient"
+      ],
+      "answer": "they become more efficient",
+      "explanation": "Eve Fedorenko's research showed that the language regions of multilingual children's brains became more efficient over time, working quicker and more effectively as they learned and repeated language patterns."
+    },
+    {
+      "question": "What does the quote by Nelson Mandela suggest about language?",
+      "choices": [
+        "it confuses people",
+        "it connects people emotionally",
+        "it is unnecessary"
+      ],
+      "answer": "it connects people emotionally",
+      "explanation": "Nelson Mandela's quote implies that speaking someone's language connects with them emotionally, going beyond mere understanding to touch their heart."
+    },
+    {
+      "question": "What is the main advantage of speaking multiple languages according to the video?",
+      "choices": [
+        "enhanced brain efficiency",
+        "better memory retention",
+        "increased creativity"
+      ],
+      "answer": "enhanced brain efficiency",
+      "explanation": "The video highlights that speaking multiple languages leads to enhanced brain efficiency, as demonstrated by Eve Fedorenko's research on multilingual children."
+    }
+  ]
+}
