@@ -1,0 +1,83 @@
+{
+  "slug": "54c53c86",
+  "video_id": "ulCdoCfw-bY",
+  "movie_title": "The Black Hole Bomb and Black Hole Civilizations",
+  "movie_url": "https://youtu.be/ulCdoCfw-bY",
+  "published_at": "2018-04-22T12:02:17Z",
+  "duration": "8:08",
+  "tags": [
+    "black hole",
+    "supermassive black hole",
+    "dyson sphere",
+    "physics",
+    "superradiative scattering",
+    "black hole bomb",
+    "satire",
+    "future",
+    "far future",
+    "space",
+    "universe",
+    "humanity",
+    "superweapon",
+    "funny",
+    "space travel",
+    "star",
+    "penrose process",
+    "in a nutshell",
+    "kurzgesagt"
+  ],
+  "introduction": "To support Kurzgesagt and learn more about Brilliant, go to https://www.brilliant.org/nutshell and s",
+  "lead_intro": "Black holes, the mysterious giants of the universe, hold secrets that could power civilizations or create the most massive bomb imaginable. How much did you learn about black holes from this mind-bending video?",
+  "quiz": [
+    {
+      "question": "What is a 'ringularity' in a spinning black hole?",
+      "choices": [
+        "a) A single infinitely small point",
+        "b) A ring with no surface area",
+        "c) A massive explosion"
+      ],
+      "answer": "b) A ring with no surface area",
+      "explanation": "In a spinning black hole, the singularity cannot be a point because points cannot rotate. Instead, it is described as a 'ringularity' - a ring with zero thickness and no surface area."
+    },
+    {
+      "question": "Why does a collapsing star spin faster as it becomes a black hole?",
+      "choices": [
+        "a) Due to losing mass",
+        "b) Because of gaining angular momentum",
+        "c) Because of gravitational pull"
+      ],
+      "answer": "b) Because of gaining angular momentum",
+      "explanation": "As a star collapses into a black hole, its momentum makes it spin faster and faster due to the conservation of angular momentum in the universe."
+    },
+    {
+      "question": "What is the function of the ergosphere in a spinning black hole?",
+      "choices": [
+        "a) It slows down everything entering it",
+        "b) It powers up everything with rotational energy",
+        "c) It creates a protective shield around the black hole"
+      ],
+      "answer": "b) It powers up everything with rotational energy",
+      "explanation": "The ergosphere of a spinning black hole transfers its rotational energy to everything that enters it, providing a powerful boost to objects like rockets passing through."
+    },
+    {
+      "question": "How can a civilization extract energy from a black hole?",
+      "choices": [
+        "a) By cooling down the black hole",
+        "b) By sending rockets into the black hole",
+        "c) By building a mirror around the black hole"
+      ],
+      "answer": "c) By building a mirror around the black hole",
+      "explanation": "One method to extract energy from a black hole is by surrounding it with a mirror and using the rotational energy of the black hole to amplify electromagnetic waves directed at it."
+    },
+    {
+      "question": "What could happen if the waves in the black hole bomb are not released?",
+      "choices": [
+        "a) The waves will disappear forever",
+        "b) The mirror will shatter",
+        "c) The black hole will stop spinning"
+      ],
+      "answer": "b) The mirror will shatter",
+      "explanation": "If the waves in the black hole bomb are not released, they will continue to grow stronger, taking more energy from the black hole until the mirror shatters, releasing a tremendous amount of energy."
+    }
+  ]
+}

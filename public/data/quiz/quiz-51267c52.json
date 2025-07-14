@@ -1,0 +1,102 @@
+{
+  "slug": "51267c52",
+  "video_id": "9P6rdqiybaw",
+  "movie_title": "Wormholes Explained – Breaking Spacetime",
+  "movie_url": "https://youtu.be/9P6rdqiybaw",
+  "published_at": "2018-08-12T12:29:47Z",
+  "duration": "8:09",
+  "tags": [
+    "wormhole",
+    "wormholes",
+    "traversable wormhole",
+    "manmade wormhole",
+    "exotic matter",
+    "einstein rosen bridge",
+    "general relativity",
+    "relativity",
+    "einstein",
+    "gravity",
+    "supermassive blackhole",
+    "milky way",
+    "anitmatter",
+    "matter",
+    "negative mass",
+    "neutron star",
+    "particle",
+    "antiparticle",
+    "vaccum",
+    "string theory",
+    "quantum fluctuations",
+    "cosmic strings",
+    "big bang",
+    "spacetime",
+    "event horizon",
+    "singularity",
+    "time",
+    "white hole",
+    "space",
+    "universe",
+    "planet",
+    "star",
+    "solar system",
+    "animation",
+    "kurzgesagt",
+    "in a nutshell",
+    "black hole",
+    "speed of light"
+  ],
+  "introduction": "Are wormholes real or are they just magic disguised as physics and maths? And if they are real how d",
+  "lead_intro": "Ever wondered if wormholes are real or just science fiction? Dive into the fascinating world of physics and math with Kurzgesagt to explore the possibility of these cosmic shortcuts!",
+  "quiz": [
+    {
+      "question": "According to Einstein's theory of relativity, how can space be described?",
+      "choices": [
+        "A big flat stage",
+        "A small round sphere",
+        "A narrow corridor"
+      ],
+      "answer": "A big flat stage",
+      "explanation": "Einstein's theory of relativity describes space and time together as a stage that can be affected by objects, stretching and warping it."
+    },
+    {
+      "question": "What kind of space-time bending can make wormholes possible?",
+      "choices": [
+        "Elastic space",
+        "Rigid space",
+        "Invisible space"
+      ],
+      "answer": "Elastic space",
+      "explanation": "Elastic space, like a waterbed, can be bent and warped, potentially allowing for the creation of wormholes in the universe."
+    },
+    {
+      "question": "What is the first kind of theorized wormholes called?",
+      "choices": [
+        "Einstein Rosen Bridges",
+        "Newton's Tunnels",
+        "Hawking's Loops"
+      ],
+      "answer": "Einstein Rosen Bridges",
+      "explanation": "Einstein Rosen Bridges were the first kind of wormholes to be theorized, describing black holes as portals to parallel universes."
+    },
+    {
+      "question": "What is needed to keep a wormhole open according to the video?",
+      "choices": [
+        "Exotic matter",
+        "Normal matter",
+        "Dark matter"
+      ],
+      "answer": "Exotic matter",
+      "explanation": "To keep a wormhole open, exotic matter with negative mass is required to counteract gravity and prevent the wormhole from collapsing."
+    },
+    {
+      "question": "What potential consequences are associated with creating wormholes?",
+      "choices": [
+        "Time travel paradoxes",
+        "Enhanced communication",
+        "Universal harmony"
+      ],
+      "answer": "Time travel paradoxes",
+      "explanation": "Creating wormholes could potentially lead to time travel paradoxes, challenging the causal structure of the universe according to scientists."
+    }
+  ]
+}
