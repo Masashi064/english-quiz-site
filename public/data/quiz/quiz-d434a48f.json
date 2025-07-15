@@ -1,0 +1,90 @@
+{
+  "slug": "d434a48f",
+  "video_id": "8HslUzw35mc",
+  "movie_title": "Homeopathy Explained – Gentle Healing or Reckless Fraud?",
+  "movie_url": "https://youtu.be/8HslUzw35mc",
+  "published_at": "2018-02-22T14:14:37Z",
+  "duration": "8:32",
+  "tags": [
+    "homeopathy",
+    "how does homeopathy work",
+    "medicine",
+    "traditional medicine",
+    "cure",
+    "natural",
+    "explanation",
+    "fraud",
+    "money",
+    "pharma",
+    "big pharma",
+    "Hahnemann",
+    "Samuel Hahnemann",
+    "animation",
+    "globuli",
+    "nature",
+    "potentization",
+    "potency",
+    "vaccination",
+    "placebo effect",
+    "psychology",
+    "health care",
+    "health care system",
+    "doctor",
+    "patient",
+    "empathy"
+  ],
+  "introduction": "What are the principles behind Homeopathy and does it work?\n\nSources & further reading:\nhttps://site",
+  "lead_intro": "Have you ever wondered how homeopathy works and why it's so controversial? Dive into the principles and history of homeopathy with this informative video.",
+  "quiz": [
+    {
+      "question": "What is the first principle of homeopathy?",
+      "choices": [
+        "Ingredients are diluted in water or alcohol",
+        "Remedies use ingredients that cause the symptoms you want to cure",
+        "Dilution activates curative powers"
+      ],
+      "answer": "Remedies use ingredients that cause the symptoms you want to cure",
+      "explanation": "The first principle of homeopathy is 'like cures like,' where remedies use ingredients that cause the symptoms you want to cure."
+    },
+    {
+      "question": "What is the special method of preparation in homeopathy called?",
+      "choices": [
+        "Potentization",
+        "Distillation",
+        "Extraction"
+      ],
+      "answer": "Potentization",
+      "explanation": "The special method of preparation in homeopathy is called potentization, where diluting and agitating the ingredients activates their curative powers."
+    },
+    {
+      "question": "What does a 30C potency in homeopathy mean?",
+      "choices": [
+        "One part ingredient and one million parts water",
+        "One part ingredient and 100 parts water",
+        "One part ingredient and 99 parts water"
+      ],
+      "answer": "One part ingredient and 99 parts water",
+      "explanation": "A 30C potency in homeopathy means the mixture has one part ingredient and 99 parts water, making it extremely diluted."
+    },
+    {
+      "question": "What is one of the biggest criticisms of homeopathy regarding potentization?",
+      "choices": [
+        "Extreme dilution makes ingredients more potent",
+        "Shaking the mixture leaves a spirit-like essence",
+        "No active ingredient is left in the remedy"
+      ],
+      "answer": "No active ingredient is left in the remedy",
+      "explanation": "One of the biggest criticisms of homeopathy is that most remedies are diluted so much that not a single atom of the active ingredient is left in them."
+    },
+    {
+      "question": "What is a key factor contributing to the success of homeopathy according to the video?",
+      "choices": [
+        "Highly potent remedies",
+        "Empathy and personalized consultations",
+        "Strict rules and restrictions for patients"
+      ],
+      "answer": "Empathy and personalized consultations",
+      "explanation": "The video suggests that the success of homeopathy lies in the first consultation with a homeopath, which can take hours and is very personal, providing attention and empathy to patients."
+    }
+  ]
+}
