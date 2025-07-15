@@ -1,0 +1,95 @@
+{
+  "slug": "4a6857b1",
+  "video_id": "v3y8AIEX_dU",
+  "movie_title": "How to Move the Sun: Stellar Engines",
+  "movie_url": "https://youtu.be/v3y8AIEX_dU",
+  "published_at": "2019-12-22T13:30:06Z",
+  "duration": "8:39",
+  "tags": [
+    "Stellar Engine",
+    "Stellar Engines",
+    "Shkadov Truster",
+    "Solarsystem",
+    "Universe",
+    "Supernova",
+    "Star",
+    "Red Dwarf",
+    "Dyson Sphere",
+    "Planet",
+    "Planets",
+    "Gravity",
+    "Sun",
+    "Rocket",
+    "Photon",
+    "Radiation",
+    "Aluminum foil",
+    "Parabola",
+    "Sun Orbit",
+    "Pole",
+    "light year",
+    "space",
+    "space travel",
+    "Hydrogen",
+    "Helium",
+    "fuel",
+    "rocket",
+    "Fusion",
+    "Fusion Energy",
+    "Caplan Thruster",
+    "Galaxy"
+  ],
+  "introduction": "Sources and further reading:\nhttps://sites.google.com/view/sources-stellar-engines\n\nGet your Stellar",
+  "lead_intro": "Have you ever wondered if it's possible to move the entire solar system? Dive into the concept of stellar engines with Kurzgesagt and test your knowledge with this quiz!",
+  "quiz": [
+    {
+      "question": "What is the purpose of a Shkadov thruster?",
+      "choices": [
+        "To reflect solar radiation to create thrust",
+        "To collect solar wind for propulsion",
+        "To gather matter from the Sun for nuclear fusion"
+      ],
+      "answer": "To reflect solar radiation to create thrust",
+      "explanation": "The Shkadov thruster works by reflecting solar radiation to create thrust and thus move the Sun in the desired direction."
+    },
+    {
+      "question": "How does the Caplan thruster gather fuel for propulsion?",
+      "choices": [
+        "By using electromagnetic fields to funnel hydrogen and helium from the solar wind",
+        "By burning helium in thermonuclear fusion reactors",
+        "By shooting out a jet of radioactive oxygen"
+      ],
+      "answer": "By using electromagnetic fields to funnel hydrogen and helium from the solar wind",
+      "explanation": "The Caplan thruster gathers fuel by using electromagnetic fields to channel hydrogen and helium from the solar wind into the engine for propulsion."
+    },
+    {
+      "question": "What is the primary source of propulsion for the Caplan thruster?",
+      "choices": [
+        "Radioactive oxygen",
+        "Thermonuclear fusion reactors",
+        "Solar radiation"
+      ],
+      "answer": "Radioactive oxygen",
+      "explanation": "The Caplan thruster burns helium in thermonuclear fusion reactors, producing a jet of radioactive oxygen at high temperatures, which becomes the primary source of propulsion for the engine."
+    },
+    {
+      "question": "How long could it take for a Caplan thruster to move the Sun by 50 light years?",
+      "choices": [
+        "1 million years",
+        "100 million years",
+        "10 million years"
+      ],
+      "answer": "1 million years",
+      "explanation": "The Caplan thruster is capable of moving the Sun by 50 light years in as little as a million years, making it a relatively fast stellar engine for repositioning the solar system."
+    },
+    {
+      "question": "What benefit does the Caplan thruster offer in terms of the Sun's lifespan?",
+      "choices": [
+        "It extends the Sun's life by burning slower",
+        "It accelerates the Sun's fusion process",
+        "It reduces the Sun's mass"
+      ],
+      "answer": "It extends the Sun's life by burning slower",
+      "explanation": "By utilizing the Caplan thruster, the Sun's life can be extended since lower mass stars burn slower, ensuring the solar system remains habitable for billions of years."
+    }
+  ]
+}

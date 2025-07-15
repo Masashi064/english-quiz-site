@@ -1,0 +1,102 @@
+{
+  "slug": "3b9811ca",
+  "video_id": "ouAccsTzlGU",
+  "movie_title": "Is Meat Bad for You? Is Meat Unhealthy?",
+  "movie_url": "https://youtu.be/ouAccsTzlGU",
+  "published_at": "2019-06-09T12:28:46Z",
+  "duration": "8:44",
+  "tags": [
+    "Meat",
+    "Unhealthy",
+    "Vegan",
+    "Vegetarian",
+    "Cancer",
+    "Heart Attack",
+    "Calories",
+    "Fat",
+    "Carbo-Hydrates. Proteins",
+    "Vitamins",
+    "Minerals",
+    "Amino Acids",
+    "Metabolism",
+    "Iron",
+    "Zink",
+    "Magnesium",
+    "Vitamin B12",
+    "Vitamin C",
+    "Scurvy",
+    "Inuit",
+    "Fish",
+    "Beef",
+    "Pork",
+    "Omega-3",
+    "Chicken",
+    "Poultry",
+    "Cholesterin",
+    "Diabetes",
+    "Stroke",
+    "Colorectal Cancer",
+    "Obesity",
+    "Processed Meat",
+    "Antibiotics",
+    "Apes",
+    "Ancestors",
+    "Evolution",
+    "Survival",
+    "Energy"
+  ],
+  "introduction": "Sources:\nhttps://sites.google.com/view/sourcesismeathealthy/\n\nOver the last few years eating meat ha",
+  "lead_intro": "Have you ever wondered about the health effects of eating meat? Dive into this video's insights on the pros and cons of including meat in your diet!",
+  "quiz": [
+    {
+      "question": "What essential nutrient is missing in most of the meat we consume?",
+      "choices": [
+        "Vitamin C",
+        "Iron",
+        "Vitamin B12"
+      ],
+      "answer": "Vitamin C",
+      "explanation": "The video mentions that Vitamin C is the essential nutrient missing in most meat consumed, which is crucial for immune system support and connective tissue development."
+    },
+    {
+      "question": "Which meat has been regarded as having the fewest health risks?",
+      "choices": [
+        "Fish",
+        "Chicken",
+        "Beef"
+      ],
+      "answer": "Chicken",
+      "explanation": "Chicken is mentioned as a meat with fewer health risks compared to others, with the only controversial aspect being its high saturated fat content."
+    },
+    {
+      "question": "What risk is associated with high intakes of red meats like beef, veal, pork, lamb, horse, and goat?",
+      "choices": [
+        "Increased risk of diabetes",
+        "Decreased risk of strokes",
+        "Decreased risk of colorectal cancer"
+      ],
+      "answer": "Increased risk of diabetes",
+      "explanation": "The video states that consuming 100 grams of red meat daily increases the risk of diabetes by 19%, among other health risks like strokes and colorectal cancer."
+    },
+    {
+      "question": "What chemicals found in processed meat can lead to cancer?",
+      "choices": [
+        "Nitrates and nitrites",
+        "Vitamin C",
+        "Iron"
+      ],
+      "answer": "Nitrates and nitrites",
+      "explanation": "Processed meats like bacon and sausages contain harmful chemicals like nitrates and nitrites which can damage DNA and increase the risk of colorectal cancer."
+    },
+    {
+      "question": "What is the recommended weekly meat consumption by most public health agencies?",
+      "choices": [
+        "500 grams",
+        "1000 grams",
+        "1500 grams"
+      ],
+      "answer": "500 grams",
+      "explanation": "Most public health agencies suggest limiting meat consumption to 500 grams per week, while reducing processed meat intake as much as possible for better health outcomes."
+    }
+  ]
+}
