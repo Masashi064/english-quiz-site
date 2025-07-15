@@ -1,0 +1,88 @@
+{
+  "slug": "071cd8d8",
+  "video_id": "ziimjZ-OrgU",
+  "movie_title": "What's the point of museums? ⏲️ 6 Minute English",
+  "movie_url": "https://youtu.be/ziimjZ-OrgU",
+  "published_at": "2023-04-20T13:45:02Z",
+  "duration": "6:19",
+  "tags": [
+    "learn English",
+    "English vocabulary",
+    "speak English",
+    "bbc english",
+    "English teacher",
+    "英語",
+    "영어",
+    "อังกฤษ",
+    "Anh",
+    "IELTS",
+    "British English",
+    "English pronunciation",
+    "BBC Learning English",
+    "ELT",
+    "podcast",
+    "Ingilizce",
+    "English words",
+    "English podcast",
+    "podcast English",
+    "museum",
+    "natural history",
+    "stolen artefacts",
+    "english vocabulary",
+    "British Empire"
+  ],
+  "introduction": "Many museums have been criticised for taking ancient treasures from their original place during impe",
+  "lead_intro": "Discover the controversial role of museums in the 21st century and test your knowledge with a fun quiz!",
+  "quiz": [
+    {
+      "question": "What was the name of the iconic dinosaur displayed at London's Natural History Museum for decades?",
+      "choices": [
+        "Dippy the Diplodocus",
+        "Terry the Terradactyl",
+        "Tyrone the Tyrannosaurus"
+      ],
+      "answer": "Dippy the Diplodocus",
+      "explanation": "Correct! The 26-metre-long dinosaur was named Dippy the Diplodocus and was on display from 1905 until 2017."
+    },
+    {
+      "question": "According to Adam Kuper, what phrase did he use to describe a situation where things are improving and becoming better and better?",
+      "choices": [
+        "Onwards and upwards",
+        "Backwards and downwards",
+        "Sideways and stagnant"
+      ],
+      "answer": "Onwards and upwards",
+      "explanation": "Exactly! Adam Kuper used the phrase 'onwards and upwards' to describe a situation of continuous improvement."
+    },
+    {
+      "question": "What did the imperialists believe about cultures during the 19th century?",
+      "choices": [
+        "All societies begin from a rough base and progress onwards and upwards",
+        "There are no better or worse cultures, only national cultures",
+        "White European culture is the most advanced and should help others progress"
+      ],
+      "answer": "White European culture is the most advanced and should help others progress",
+      "explanation": "Correct! Imperialists believed that white European culture was superior and it was their duty to help other cultures progress."
+    },
+    {
+      "question": "What does Adam Kuper suggest museums should include in their exhibitions?",
+      "choices": [
+        "Temporary exhibitions on cultural traditions",
+        "Stories showing relationships between cultures",
+        "Artefacts only from one particular tradition"
+      ],
+      "answer": "Stories showing relationships between cultures",
+      "explanation": "Well done! Adam Kuper wants exhibitions to tell truthful stories by showing the relationships between different cultural traditions."
+    },
+    {
+      "question": "What replaced the iconic dinosaur, Dippy the Diplodocus, at the Natural History Museum in 2017?",
+      "choices": [
+        "A female blue whale skeleton named Hope",
+        "A model of a volcano",
+        "A collection of ancient fossils"
+      ],
+      "answer": "A female blue whale skeleton named Hope",
+      "explanation": "Correct! Dippy the Diplodocus was replaced by the skeleton of a female blue whale named Hope."
+    }
+  ]
+}

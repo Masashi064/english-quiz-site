@@ -1,0 +1,95 @@
+{
+  "slug": "6315fa2c",
+  "video_id": "VzW5Dlo5k6E",
+  "movie_title": "English Rewind - 6 Minute English: Disappearing words",
+  "movie_url": "https://youtu.be/VzW5Dlo5k6E",
+  "published_at": "2024-01-09T09:00:18Z",
+  "duration": "6:19",
+  "tags": [
+    "learn English",
+    "English vocabulary",
+    "speak English",
+    "bbc english",
+    "English teacher",
+    "英語",
+    "영어",
+    "อังกฤษ",
+    "Anh",
+    "English tutorial",
+    "English grammar",
+    "IELTS",
+    "British English",
+    "English pronunciation",
+    "English lesson",
+    "idiom",
+    "English expressions",
+    "BBC Learning English",
+    "slang",
+    "English speaking",
+    "ELT",
+    "podcast",
+    "Ingilizce",
+    "bbc",
+    "bbc learning english",
+    "English class",
+    "6 minute",
+    "English speaking practice",
+    "English words",
+    "English podcast",
+    "podcast English"
+  ],
+  "introduction": "📻 There are thousands of words in the English language - and they're constantly changing! Jackie an",
+  "lead_intro": "Language is constantly evolving, and in this BBC Learning English video, they discuss how words develop and change over time. Let's test your knowledge with a quiz!",
+  "quiz": [
+    {
+      "question": "According to the scientist in the video, which words are some of the oldest in the English language?",
+      "choices": [
+        "two",
+        "seven",
+        "who"
+      ],
+      "answer": "two",
+      "explanation": "The scientist mentions that 'two', 'three', 'five', 'I', and 'who' are some of the oldest words in the English language."
+    },
+    {
+      "question": "What does the scientist predict might become 'extinct' in the future?",
+      "choices": [
+        "clean",
+        "dirty",
+        "fresh"
+      ],
+      "answer": "dirty",
+      "explanation": "The scientist predicts that the word 'dirty' may become extinct in the future due to rapid replacement by other words with the same meaning."
+    },
+    {
+      "question": "What does the word 'frequency' mean in the context of the video?",
+      "choices": [
+        "time",
+        "repetition",
+        "speed"
+      ],
+      "answer": "repetition",
+      "explanation": "'Frequency' in this context refers to how often a word is used, indicating the repetition of word usage."
+    },
+    {
+      "question": "What is meant by 'retained' as discussed in the video?",
+      "choices": [
+        "to lose",
+        "to keep",
+        "to find"
+      ],
+      "answer": "to keep",
+      "explanation": "'Retained' means 'to keep', indicating that if a word is retained, it will continue to be used."
+    },
+    {
+      "question": "What conclusion does the scientist draw about the relationship between word usage and retention?",
+      "choices": [
+        "Least used words are retained",
+        "Most common words are retained",
+        "New words are retained"
+      ],
+      "answer": "Most common words are retained",
+      "explanation": "The video suggests that the words used most frequently in common everyday speech are more likely to be retained or continue to be used in the future."
+    }
+  ]
+}

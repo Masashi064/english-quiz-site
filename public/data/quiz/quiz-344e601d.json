@@ -1,0 +1,101 @@
+{
+  "slug": "344e601d",
+  "video_id": "oHHSSJDJ4oo",
+  "movie_title": "Could Solar Storms Destroy Civilization? Solar Flares & Coronal Mass Ejections",
+  "movie_url": "https://youtu.be/oHHSSJDJ4oo",
+  "published_at": "2020-06-07T12:31:34Z",
+  "duration": "8:23",
+  "tags": [
+    "Solar storm",
+    "magnetic storm",
+    "solar wind",
+    "solar flare",
+    "sun flare",
+    "geomagnetic storm",
+    "coronal mass ejections",
+    "CME",
+    "earth",
+    "sun",
+    "solar system",
+    "plasma",
+    "solar plasma",
+    "magnetic field",
+    "magnetism",
+    "electromagnetism",
+    "electricity",
+    "gravitation",
+    "dynamo",
+    "feedback",
+    "magnetic nodes",
+    "proton",
+    "protons",
+    "Proton Storm",
+    "Super Sun Storm",
+    "Carrington Event",
+    "Atmosphere",
+    "Satellite",
+    "Space Weather",
+    "Aurora Borealis",
+    "Electricity",
+    "Infrastructure",
+    "Energy",
+    "Power Grid",
+    "Quebec 1989",
+    "Sun Hurricanes",
+    "Super Eruption"
+  ],
+  "introduction": "Get Merch designed with ❤ from https://kgs.link/shop-123  \nJoin the Patreon Bird Army 🐧 https://kgs",
+  "lead_intro": "Learn about the fascinating world of solar storms and how they can impact our planet's technology. Discover how scientists and engineers work to protect us from the Sun's powerful outbursts.",
+  "quiz": [
+    {
+      "question": "What is the space weather phenomenon created by the Sun's constant trickle of solar plasma?",
+      "choices": [
+        "Solar Wind",
+        "Solar Flares",
+        "Thunderstorms"
+      ],
+      "answer": "Solar Wind",
+      "explanation": "The solar wind is the constant flow of solar plasma created by the Sun's magnetic field."
+    },
+    {
+      "question": "What causes the Earth's atmosphere to glow and create beautiful auroras during a solar storm?",
+      "choices": [
+        "Electrified plasma from CMEs",
+        "High-energy radiation",
+        "Earth's gravitational field"
+      ],
+      "answer": "Electrified plasma from CMEs",
+      "explanation": "During a solar storm, electrified plasma from Coronal Mass Ejections (CMEs) interacts with the Earth's magnetic field, causing the atmosphere to glow and producing auroras."
+    },
+    {
+      "question": "What event in 1989 caused the Quebec power grid to fail?",
+      "choices": [
+        "Strong solar storm",
+        "Geomagnetic storm",
+        "Solar hurricane"
+      ],
+      "answer": "Strong solar storm",
+      "explanation": "The Quebec power grid failed after a strong solar storm in 1989, highlighting the vulnerability of technology to space weather events."
+    },
+    {
+      "question": "What percentage chance is estimated for a significant solar storm to occur in the next decade?",
+      "choices": [
+        "5%",
+        "12%",
+        "25%"
+      ],
+      "answer": "12%",
+      "explanation": "Experts estimate a 12% probability of a significant solar storm occurring per decade, emphasizing the need for preparedness."
+    },
+    {
+      "question": "What can engineers do to protect the world's electric grid from the impact of solar storms?",
+      "choices": [
+        "Short preventive blackouts",
+        "Unplugging transformers",
+        "Investing in upgrades"
+      ],
+      "answer": "Investing in upgrades",
+      "explanation": "Engineers can protect the electric grid by investing in upgrades and taking preventive measures like opening extra lines to dissipate power during solar storms."
+    }
+  ]
+}
