@@ -1,0 +1,63 @@
+{
+  "slug": "bd87003e",
+  "video_id": "4u5I8GYB79Y",
+  "movie_title": "The Deadliest Virus on Earth",
+  "movie_url": "https://youtu.be/4u5I8GYB79Y",
+  "published_at": "2022-07-26T13:58:55Z",
+  "duration": "9:00",
+  "tags": [],
+  "introduction": "Sources & further reading:\nhttps://sites.google.com/view/sources-rabies/\n\nIn the 1970s thousands of",
+  "lead_intro": "Rabies, a deadly virus with a fascinating history and survival strategy, continues to haunt humans and wildlife. Let's explore how this virus evades our defenses and the importance of vaccination.",
+  "quiz": [
+    {
+      "question": "What is the ancient Greek spirit after which Rabies is named?",
+      "choices": [
+        "Lyssa",
+        "Rage",
+        "Madness"
+      ],
+      "answer": "Lyssa",
+      "explanation": "Rabies is named after Lyssa, the ancient Greek spirit of mad rage."
+    },
+    {
+      "question": "How many genes does the lyssavirus have?",
+      "choices": [
+        "Two",
+        "Five",
+        "Ten"
+      ],
+      "answer": "Five",
+      "explanation": "The lyssavirus has only five genes, which encode the instructions for five proteins."
+    },
+    {
+      "question": "What specialized delivery system does Lyssa hijack to travel to the nucleus of nerve cells?",
+      "choices": [
+        "Microtubules",
+        "Ribosomes",
+        "Mitochondria"
+      ],
+      "answer": "Microtubules",
+      "explanation": "Lyssa hijacks microtubules, which provide a track system for a specialized delivery system, to travel to the nucleus of nerve cells."
+    },
+    {
+      "question": "What family of proteins does your immune system release to interfere with viruses?",
+      "choices": [
+        "Interferons",
+        "Antigens",
+        "Antibodies"
+      ],
+      "answer": "Interferons",
+      "explanation": "Your immune system releases interferons, which interfere with viruses and activate the production of antivirus weapons."
+    },
+    {
+      "question": "What is the most effective way to prevent Rabies infection?",
+      "choices": [
+        "Avoid contact with wild animals",
+        "Use insect repellent",
+        "Get vaccinated"
+      ],
+      "answer": "Get vaccinated",
+      "explanation": "Vaccination is crucial in preventing Rabies infection, as it prepares your immune system to fight the virus effectively."
+    }
+  ]
+}
