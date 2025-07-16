@@ -1,0 +1,63 @@
+{
+  "slug": "5a5be4d4",
+  "video_id": "XFqn3uy238E",
+  "movie_title": "...And We'll Do it Again",
+  "movie_url": "https://youtu.be/XFqn3uy238E",
+  "published_at": "2021-12-07T14:59:44Z",
+  "duration": "8:47",
+  "tags": [],
+  "introduction": "Sources & further reading:\nhttps://sites.google.com/view/sources-behindthelies\n\nThis video is part o",
+  "lead_intro": "Have you ever thought about how science is communicated to the public? Dive into the concept of simplifying complex ideas with Kurzgesagt in this thought-provoking video.",
+  "quiz": [
+    {
+      "question": "What is the term used in the video for starting off with a little lie, a useful oversimplification, to make it easier to grasp a concept?",
+      "choices": [
+        "lies to children",
+        "science education",
+        "absolute truth generator"
+      ],
+      "answer": "lies to children",
+      "explanation": "The video discusses the concept of 'lies to children' as a way to simplify complex ideas for better understanding."
+    },
+    {
+      "question": "According to the video, why do we need summaries and simplifications in science communication?",
+      "choices": [
+        "to provide a solid overview",
+        "to confuse the audience",
+        "to complicate understanding"
+      ],
+      "answer": "to provide a solid overview",
+      "explanation": "Summaries and simplifications help individuals grasp the essence of complex subjects and build a foundation for deeper understanding."
+    },
+    {
+      "question": "What can happen if a simplification of a scientific concept is too engaging?",
+      "choices": [
+        "distort the true complexity",
+        "enhance understanding",
+        "have no impact"
+      ],
+      "answer": "distort the true complexity",
+      "explanation": "An overly engaging simplification can lead to a false sense of security and an illusion of deep knowledge, distorting the true complexity of the subject."
+    },
+    {
+      "question": "Why can overconfidence in one's understanding of science lead to bad decisions?",
+      "choices": [
+        "ignoring actual experts",
+        "increased knowledge retention",
+        "enhanced scientific progress"
+      ],
+      "answer": "ignoring actual experts",
+      "explanation": "Overconfidence can lead individuals to ignore actual experts, potentially resulting in making uninformed and harmful decisions."
+    },
+    {
+      "question": "What is emphasized as the most important goal of Kurzgesagt's videos in the video?",
+      "choices": [
+        "inspire and spark curiosity for science",
+        "discourage scientific exploration",
+        "promote misinformation"
+      ],
+      "answer": "inspire and spark curiosity for science",
+      "explanation": "The primary goal of Kurzgesagt's videos is to inspire viewers, spark curiosity for science, and motivate individuals to learn more about how the world works."
+    }
+  ]
+}

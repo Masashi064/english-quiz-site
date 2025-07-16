@@ -1,0 +1,63 @@
+{
+  "slug": "93b93498",
+  "video_id": "wmP3MBjsx20",
+  "movie_title": "How A Nuclear War Will Start - Minute by Minute",
+  "movie_url": "https://youtu.be/wmP3MBjsx20",
+  "published_at": "2023-08-22T14:00:08Z",
+  "duration": "8:54",
+  "tags": [],
+  "introduction": "This video was made possible through a grant by Open Philanthropy.\nSources & further reading: https:",
+  "lead_intro": "In a high-stakes scenario, the decision to launch nuclear weapons rests on a single person. Learn more about the complexities and risks of nuclear warfare in this thought-provoking video.",
+  "quiz": [
+    {
+      "question": "What kind of missiles are intercontinental ballistic missiles (ICBMs) considered to be?",
+      "choices": [
+        "rockets",
+        "torpedoes",
+        "fighter jets"
+      ],
+      "answer": "rockets",
+      "explanation": "ICBMs are essentially rockets launched into space before re-entering the atmosphere over their target and releasing multiple warheads."
+    },
+    {
+      "question": "How many nuclear submarines are mentioned to be presently at sea as a back-up for a nuclear retaliation?",
+      "choices": [
+        "2",
+        "5",
+        "10"
+      ],
+      "answer": "5",
+      "explanation": "There are 5 nuclear submarines presently at sea, which are mentioned as a back-up option in case the silos and bombers are lost."
+    },
+    {
+      "question": "What kind of system caused a false alarm in 1983 showing five ICBMs launched from the US?",
+      "choices": [
+        "radar",
+        "satellite alert",
+        "weather monitoring"
+      ],
+      "answer": "satellite alert",
+      "explanation": "The false alarm in 1983 showing five ICBMs launched from the US was caused by the Soviet satellite alert system, triggered by sunlight reflected on clouds."
+    },
+    {
+      "question": "What is the success rate of the anti-ballistic missiles mentioned in the video during tests?",
+      "choices": [
+        "30%",
+        "45%",
+        "55%"
+      ],
+      "answer": "55%",
+      "explanation": "The anti-ballistic missiles have had a 55% success rate in tests, although facing new challenges with many decoys and intense radar interference."
+    },
+    {
+      "question": "How many nuclear weapons were estimated to exist during the Cold War period?",
+      "choices": [
+        "100,000",
+        "50,000",
+        "70,000"
+      ],
+      "answer": "70,000",
+      "explanation": "During the Cold War, the world had over 70,000 nuclear weapons. Through arms reduction treaties, this number has significantly decreased."
+    }
+  ]
+}
