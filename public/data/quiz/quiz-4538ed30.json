@@ -1,0 +1,95 @@
+{
+  "slug": "4538ed30",
+  "video_id": "as-vRWOmJWU",
+  "movie_title": "What’s the point of blood types? 6 Minute English",
+  "movie_url": "https://youtu.be/as-vRWOmJWU",
+  "published_at": "2020-08-27T10:36:13Z",
+  "duration": "6:19",
+  "tags": [
+    "learn English",
+    "English vocabulary",
+    "speak English",
+    "bbc english",
+    "English teacher",
+    "英語",
+    "영어",
+    "อังกฤษ",
+    "Anh",
+    "English tutorial",
+    "Ingilizce ders",
+    "English grammar",
+    "IELTS",
+    "British English",
+    "English pronunciation",
+    "English lesson",
+    "idiom",
+    "English expressions",
+    "BBC Learning English",
+    "tefl",
+    "slang",
+    "BBC",
+    "Online English",
+    "how to speak English",
+    "English speaking",
+    "ELT",
+    "6 minute english",
+    "blood",
+    "blood ypes",
+    "blood grpups",
+    "topical vocabulary"
+  ],
+  "introduction": "What's your blood type? In this programme we’ll be finding out all about blood – why humans have dif",
+  "lead_intro": "Do you know what your blood type says about your personality? Let's dive into the fascinating world of blood types and their cultural significance in Japan!",
+  "quiz": [
+    {
+      "question": "Which blood type in Japan is considered to have a less desirable personality?",
+      "choices": [
+        "blood type A",
+        "blood type B",
+        "blood type O"
+      ],
+      "answer": "blood type B",
+      "explanation": "In Japan, blood type B individuals are considered to have the least desirable personality, being described as selfish and independent."
+    },
+    {
+      "question": "What is the common personality trait associated with blood type A in Japan?",
+      "choices": [
+        "perfectionists",
+        "generous",
+        "stubborn"
+      ],
+      "answer": "perfectionists",
+      "explanation": "Blood type A individuals in Japan are commonly viewed as perfectionists who are detail-oriented, good at teamwork, and respect rules and customs."
+    },
+    {
+      "question": "Which blood type is known to be stubborn and determined in Japan?",
+      "choices": [
+        "blood type A",
+        "blood type B",
+        "blood type AB"
+      ],
+      "answer": "blood type O",
+      "explanation": "In Japan, blood type O individuals are considered stubborn and determined, often unwilling to change their minds and determined to pursue their own desires."
+    },
+    {
+      "question": "What is the high demand blood type in blood transfusions because it can be given to anyone?",
+      "choices": [
+        "blood type A",
+        "blood type B",
+        "blood type O"
+      ],
+      "answer": "blood type O",
+      "explanation": "Type O blood is in high demand for blood transfusions as it can be universally given to patients regardless of their blood type."
+    },
+    {
+      "question": "According to Dr. Emma Pomeroy, is there a scientific basis linking blood types to personalities?",
+      "choices": [
+        "Yes",
+        "No",
+        "Maybe"
+      ],
+      "answer": "No",
+      "explanation": "Dr. Emma Pomeroy of Cambridge University's archaeology department states that like horoscopes, there is no scientific evidence supporting a connection between blood types and personalities."
+    }
+  ]
+}

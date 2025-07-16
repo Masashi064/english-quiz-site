@@ -1,0 +1,95 @@
+{
+  "slug": "a035423e",
+  "video_id": "5iPH-br_eJQ",
+  "movie_title": "What if We Nuke a City?",
+  "movie_url": "https://youtu.be/5iPH-br_eJQ",
+  "published_at": "2019-10-13T12:30:00Z",
+  "duration": "8:56",
+  "tags": [
+    "Nuclear weapon",
+    "nuclear weapons",
+    "atom bomb",
+    "nuclear",
+    "Nuke",
+    "atomic bomb",
+    "nuclear bomb",
+    "hydrogen bomb",
+    "nuclear war",
+    "fallout",
+    "A-bomb",
+    "H-bomb",
+    "fireball",
+    "flash",
+    "thermal pulse",
+    "shock wave",
+    "mushroom cloud",
+    "firestorm",
+    "black rain",
+    "hiroshima",
+    "nagasaki",
+    "warhead",
+    "thermonuclear weapon",
+    "radiation",
+    "cancer",
+    "contamination",
+    "red cross",
+    "icrc",
+    "city",
+    "nuclear explosion",
+    "red crescent movement"
+  ],
+  "introduction": "Learn more about nuclear weapons and what you can do to stop them\nEN: http://www.notonukes.org \nFR:",
+  "lead_intro": "Have you ever thought about the real impact of a nuclear explosion in a major city? Dive into the sobering details in this video.",
+  "quiz": [
+    {
+      "question": "What is the first phase of a nuclear explosion, as described in the video?",
+      "choices": [
+        "A ball of plasma hotter than the Sun appears and grows in a fireball",
+        "A dark shadow is cast over the city",
+        "A mushroom cloud rises kilometers into the sky"
+      ],
+      "answer": "A ball of plasma hotter than the Sun appears and grows in a fireball",
+      "explanation": "The video mentions that within less than a second, a ball of plasma hotter than the Sun appears and grows in a fireball."
+    },
+    {
+      "question": "How far does the thermal pulse burn everything from the detonation site?",
+      "choices": [
+        "Up to 2 kilometers",
+        "Up to 13 kilometers",
+        "Up to 21 kilometers"
+      ],
+      "answer": "Up to 13 kilometers",
+      "explanation": "The video states that the thermal pulse burns everything as far as 13 kilometers from the detonation site."
+    },
+    {
+      "question": "What is the effect of the shockwave in the second phase of a nuclear explosion?",
+      "choices": [
+        "Creates winds stronger than hurricanes and tornadoes",
+        "Causes a blizzard of sharp glass",
+        "Generates a dark shadow over the city"
+      ],
+      "answer": "Creates winds stronger than hurricanes and tornadoes",
+      "explanation": "The shockwave creates winds stronger than hurricanes and tornadoes, ground up major buildings, and causes trees to snap like toothpicks."
+    },
+    {
+      "question": "What happens in the third phase of a nuclear explosion?",
+      "choices": [
+        "An awful black rain of radioactive ash and dust begins",
+        "Fresh air surrounds the city, providing oxygen",
+        "Help arrives immediately to assist the victims"
+      ],
+      "answer": "An awful black rain of radioactive ash and dust begins",
+      "explanation": "In the third phase, an awful black rain of radioactive ash and dust begins, causing further harm to survivors."
+    },
+    {
+      "question": "What is the suggested solution to prevent the catastrophic impact of nuclear weapons?",
+      "choices": [
+        "Building more nuclear weapons for deterrence",
+        "Prohibiting and eliminating all nuclear weapons",
+        "Increasing the stockpile of nuclear weapons"
+      ],
+      "answer": "Prohibiting and eliminating all nuclear weapons",
+      "explanation": "The video advocates for eliminating all nuclear weapons and vowing never to build them again as a solution to the threat they pose."
+    }
+  ]
+}

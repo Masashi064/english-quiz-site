@@ -1,0 +1,83 @@
+{
+  "slug": "1019c6e1",
+  "video_id": "NtQkz0aRDe8",
+  "movie_title": "How We Could Build a Moon Base TODAY – Space Colonization 1",
+  "movie_url": "https://youtu.be/NtQkz0aRDe8",
+  "published_at": "2018-09-16T12:27:14Z",
+  "duration": "8:58",
+  "tags": [
+    "space",
+    "universe",
+    "planet",
+    "in a nutshell",
+    "solar system",
+    "kurzgesagt",
+    "star",
+    "animation",
+    "moon",
+    "speed of light",
+    "funny",
+    "satire",
+    "innovation",
+    "space race",
+    "colony",
+    "apollo",
+    "shuttle",
+    "space elevator",
+    "Colonization"
+  ],
+  "introduction": "Did you know that we could start building a Lunar Base today?\n\nSources and further reading:\nhttps://",
+  "lead_intro": "Have you ever wondered about the possibility of building a Moon base? This video explores the potential of starting a new space race by establishing a Moon colony. Let's dive into some quiz questions based on the content!",
+  "quiz": [
+    {
+      "question": "What is the estimated cost to build a Moon base according to NASA and private sector estimates?",
+      "choices": [
+        "10-20 billion dollars",
+        "20-40 billion dollars",
+        "50-70 billion dollars"
+      ],
+      "answer": "20-40 billion dollars",
+      "explanation": "The video mentions that building a Moon base could be done for 20 to 40 billion dollars, as estimated by NASA and the private sector."
+    },
+    {
+      "question": "In which phase of lunar colonization will astronauts build the first Moonbase?",
+      "choices": [
+        "First phase",
+        "Second phase",
+        "Third phase"
+      ],
+      "answer": "Second phase",
+      "explanation": "Astronauts will build the first Moonbase in the second phase of lunar colonization, which could begin today according to the video."
+    },
+    {
+      "question": "What is a significant challenge of living on the Moon mentioned in the video?",
+      "choices": [
+        "Extreme temperatures",
+        "Harsh radiation",
+        "Lack of water"
+      ],
+      "answer": "Extreme temperatures",
+      "explanation": "The video highlights that the Moon presents challenges such as extreme temperature differences, lack of atmosphere, and exposure to harsh radiation."
+    },
+    {
+      "question": "What important resource can be extracted from the Moon and used as rocket fuel?",
+      "choices": [
+        "Water",
+        "Helium-3",
+        "Carbon dioxide"
+      ],
+      "answer": "Helium-3",
+      "explanation": "Helium-3 is mentioned in the video as an isotope that could be extracted from the Moon and used as rocket fuel, contributing to space missions beyond the Moon."
+    },
+    {
+      "question": "What technology could be developed on the Moon to bring spacecraft back and forth from lunar orbit without using rockets?",
+      "choices": [
+        "Space elevator",
+        "Solar panels",
+        "Satellites"
+      ],
+      "answer": "Space elevator",
+      "explanation": "The video discusses the potential development of a space elevator on the Moon, which could facilitate the transportation of spacecraft, astronauts, and resources between lunar orbit and the Moon's surface without relying on rockets."
+    }
+  ]
+}

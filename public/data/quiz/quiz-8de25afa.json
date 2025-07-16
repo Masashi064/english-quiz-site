@@ -1,0 +1,107 @@
+{
+  "slug": "8de25afa",
+  "video_id": "xwbAWiqMuNE",
+  "movie_title": "Why we press buttons - 6 Minute English",
+  "movie_url": "https://youtu.be/xwbAWiqMuNE",
+  "published_at": "2018-12-20T11:37:44Z",
+  "duration": "6:19",
+  "tags": [
+    "english videos",
+    "esl",
+    "english grammar",
+    "English",
+    "BBC",
+    "learn English",
+    "british accent",
+    "grammar",
+    "tense",
+    "how to speak English",
+    "English speaking",
+    "pronunciation",
+    "English vocabulary",
+    "accent",
+    "native",
+    "learning",
+    "how to study",
+    "speak English",
+    "exam",
+    "elt",
+    "study",
+    "authentic",
+    "bbc english",
+    "language",
+    "lesson",
+    "teacher",
+    "student",
+    "English teacher",
+    "英語",
+    "영어",
+    "อังกฤษ",
+    "Anh",
+    "how",
+    "buttons",
+    "fidgeting",
+    "english discussion",
+    "Study English",
+    "Phobias",
+    "English Online",
+    "Free English",
+    "Intermediate English",
+    "IELTS",
+    "British English"
+  ],
+  "introduction": "Improve your English vocabulary and speaking with 6 Minute English! Buttons are what we have on our",
+  "lead_intro": "Are you ready to test your knowledge on buttons and phobias? Let's dive into a quiz based on the 6 Minute English video!",
+  "quiz": [
+    {
+      "question": "What is the fear of buttons called?",
+      "choices": [
+        "buttonophobia",
+        "koumpounophobia",
+        "coulrophobia"
+      ],
+      "answer": "koumpounophobia",
+      "explanation": "In the video, it is mentioned that 'buttonophobia' is a made-up word and 'coulrophobia' is a fear of clowns, leaving 'koumpounophobia' as the correct term for the fear of buttons."
+    },
+    {
+      "question": "According to Professor Connor, why do buttons have to be kept away from children?",
+      "choices": [
+        "They are too small",
+        "They are a temptation",
+        "They are boring"
+      ],
+      "answer": "They are a temptation",
+      "explanation": "Professor Connor mentioned that buttons are a temptation for children, making it necessary to keep them out of reach to avoid potential dangers."
+    },
+    {
+      "question": "What did Professor Connor attribute the appeal of buttons to?",
+      "choices": [
+        "Digital technology",
+        "The grooming instinct in apes",
+        "The fear of clowns"
+      ],
+      "answer": "The grooming instinct in apes",
+      "explanation": "Professor Connor suggested that the appeal of buttons may be linked to the grooming instinct in apes, where they use their hands to clean the body hair of others."
+    },
+    {
+      "question": "What does the term 'convenient' refer to in the context of buttons?",
+      "choices": [
+        "Difficult to use",
+        "Hard to reach",
+        "Easy to use without difficulty"
+      ],
+      "answer": "Easy to use without difficulty",
+      "explanation": "In the video, it is explained that buttons meant for everyday use need to be convenient, meaning they are easy to use without any trouble."
+    },
+    {
+      "question": "What does the word 'grooming' refer to as mentioned in the video?",
+      "choices": [
+        "Cleaning and tidying oneself",
+        "Playing with buttons",
+        "Eating insects"
+      ],
+      "answer": "Cleaning and tidying oneself",
+      "explanation": "In the context of the video, 'grooming' is described as the act of making oneself look nice by cleaning, washing, and tidying up, similar to how animals like apes groom each other."
+    }
+  ]
+}

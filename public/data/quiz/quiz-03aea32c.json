@@ -1,0 +1,63 @@
+{
+  "slug": "03aea32c",
+  "video_id": "Qsbe1pD8ocE",
+  "movie_title": "The Horror of the Slaver Ant",
+  "movie_url": "https://youtu.be/Qsbe1pD8ocE",
+  "published_at": "2022-12-06T15:52:00Z",
+  "duration": "8:59",
+  "tags": [],
+  "introduction": "Sources & further reading:\nhttps://sites.google.com/view/sources-slaver-ants/\n\nEverything changed wh",
+  "lead_intro": "Enter the brutal world of ant slavery and witness the intense raiding and brainwashing tactics used by Polyergus ants. Are you ready to delve into the cruel banality of nature?",
+  "quiz": [
+    {
+      "question": "What percentage of the ants in Polyergus colonies are slaves?",
+      "choices": [
+        "80 to 90%",
+        "50 to 60%",
+        "70 to 80%"
+      ],
+      "answer": "80 to 90%",
+      "explanation": "Slaves make up 80 to 90% of the ants in Polyergus colonies."
+    },
+    {
+      "question": "How do Polyergus ants make defenders panic during attacks?",
+      "choices": [
+        "Release a propaganda pheromone",
+        "Use brute force",
+        "Avoid the defenders"
+      ],
+      "answer": "Release a propaganda pheromone",
+      "explanation": "Polyergus ants release a propaganda pheromone that makes the defenders panic and unable to mount an organized defense."
+    },
+    {
+      "question": "How do Polyergus ants brainwash stolen Formica offspring?",
+      "choices": [
+        "Cover them in Polyergus pheromones",
+        "Feed them to the queen",
+        "Ignore them"
+      ],
+      "answer": "Cover them in Polyergus pheromones",
+      "explanation": "The stolen Formica offspring are covered in Polyergus pheromones, chemically imprinting them to behave as part of the Polyergus colony."
+    },
+    {
+      "question": "What do Polyergus queens do to start new colonies?",
+      "choices": [
+        "Kill the Formica queen and take over",
+        "Search for food",
+        "Build nests"
+      ],
+      "answer": "Kill the Formica queen and take over",
+      "explanation": "Polyergus queens can start new colonies by killing the Formica queen and taking over the shaken colony."
+    },
+    {
+      "question": "What happens to the enslaved brood in a usurped Formica colony?",
+      "choices": [
+        "They serve the new queen",
+        "They rebel against the queen",
+        "They escape the colony"
+      ],
+      "answer": "They serve the new queen",
+      "explanation": "The enslaved brood in a usurped Formica colony begins to serve the new Polyergus queen by caring for her eggs until new Polyergus ants hatch."
+    }
+  ]
+}
