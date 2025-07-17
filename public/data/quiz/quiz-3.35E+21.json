@@ -1,0 +1,85 @@
+{
+  "slug": "3.35E+21",
+  "video_id": "F3QpgXBtDeo",
+  "movie_title": "How The Stock Exchange Works (For Dummies)",
+  "movie_url": "https://youtu.be/F3QpgXBtDeo",
+  "published_at": "2013-11-28T17:03:32Z",
+  "duration": "3:34",
+  "tags": [
+    "Stock market",
+    "wallstreet",
+    "stock exchange",
+    "market",
+    "Trading",
+    "money",
+    "crisis",
+    "stocks",
+    "buisness",
+    "finance",
+    "explained",
+    "Economy",
+    "kurzgesagt",
+    "science",
+    "dummies",
+    "funny",
+    "crash",
+    "taco",
+    "animation",
+    "motion graphics",
+    "flat design"
+  ],
+  "introduction": "Why are there stocks at all?\n\nEveryday in the news we hear about the stock exchange, stocks and mone",
+  "lead_intro": "Have you ever wondered how the Stock Exchange works and why shares are traded? Let's dive into the world of securities and investments!",
+  "quiz": [
+    {
+      "question": "What are predominantly traded on the Stock Exchange?",
+      "choices": [
+        "securities",
+        "apples",
+        "toothbrushes"
+      ],
+      "answer": "securities",
+      "explanation": "The Stock Exchange predominantly trades securities, which are rights to assets, mostly in the form of shares."
+    },
+    {
+      "question": "How does the value of a share relate to a company?",
+      "choices": [
+        "decreases",
+        "increases",
+        "remains the same"
+      ],
+      "answer": "increases",
+      "explanation": "The value of a share relates to the company behind it. If a company's profits increase, the value of its shares increases as well."
+    },
+    {
+      "question": "Why can companies like Facebook benefit from trading shares?",
+      "choices": [
+        "raise funds",
+        "decrease profits",
+        "reduce investments"
+      ],
+      "answer": "raise funds",
+      "explanation": "Companies like Facebook can raise funds by selling shares on the Stock Exchange, which allows them to invest or expand their business."
+    },
+    {
+      "question": "What can cause the demand for a share to fall quickly?",
+      "choices": [
+        "simple rumor",
+        "real value appreciation",
+        "good reputation"
+      ],
+      "answer": "simple rumor",
+      "explanation": "Even a simple rumor can cause the demand for a share to fall fast, regardless of the real value of the company."
+    },
+    {
+      "question": "What does the DAX share index summarize?",
+      "choices": [
+        "value of Germany's biggest thirty companies",
+        "global share prices",
+        "cryptocurrency market"
+      ],
+      "answer": "value of Germany's biggest thirty companies",
+      "explanation": "The DAX share index summarizes the value of Germany's biggest thirty companies, reflecting how well or poorly they are performing and indicating the economy's status."
+    }
+  ]
+}

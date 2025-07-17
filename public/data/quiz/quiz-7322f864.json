@@ -1,0 +1,93 @@
+{
+  "slug": "7322f864",
+  "video_id": "ypXp6-MT_Co",
+  "movie_title": "Welcome to the 'metaverse' - 6 Minute English",
+  "movie_url": "https://youtu.be/ypXp6-MT_Co",
+  "published_at": "2022-01-06T16:00:24Z",
+  "duration": "6:22",
+  "tags": [
+    "learn English",
+    "English vocabulary",
+    "speak English",
+    "bbc english",
+    "English teacher",
+    "英語",
+    "영어",
+    "อังกฤษ",
+    "Anh",
+    "English tutorial",
+    "English grammar",
+    "IELTS",
+    "British English",
+    "English pronunciation",
+    "English lesson",
+    "idiom",
+    "English expressions",
+    "BBC Learning English",
+    "slang",
+    "English speaking",
+    "ELT",
+    "podcast",
+    "Ingilizce",
+    "bbc",
+    "bbc learning english",
+    "English class",
+    "6 minute",
+    "metaverse",
+    "futuretech"
+  ],
+  "introduction": "Improve your English vocabulary and listening in just six minutes!\nHow will technology help us in th",
+  "lead_intro": "Are you ready to explore the future of virtual reality and the metaverse? Test your knowledge with this quiz based on the 6 Minute English video!",
+  "quiz": [
+    {
+      "question": "According to a 2021 survey by gaming company Thrive Analytics, what percentage of people who try virtual reality once want to try it again?",
+      "choices": [
+        "9 percent",
+        "49 percent",
+        "79 percent"
+      ],
+      "answer": "79 percent",
+      "explanation": "79 percent of people who try virtual reality once want to try it again, showing how immersive and engaging the experience can be."
+    },
+    {
+      "question": "What does Nicola Millard call virtual reality due to wearing a headset?",
+      "choices": [
+        "Vomity reality",
+        "Digital reality",
+        "Phygital reality"
+      ],
+      "answer": "Vomity reality",
+      "explanation": "Nicola Millard refers to virtual reality as 'vomity reality' because wearing the headset makes her feel sick, highlighting a common issue with VR technology."
+    },
+    {
+      "question": "What does AR stand for in the context of technology?",
+      "choices": [
+        "Virtual reality",
+        "Augmented reality",
+        "Alternate reality"
+      ],
+      "answer": "Augmented reality",
+      "explanation": "AR stands for 'augmented reality', a technology that adds virtual elements to the real world, enhancing the user's perception of reality."
+    },
+    {
+      "question": "What does the term 'phygital' refer to in the video?",
+      "choices": [
+        "Physical and digital worlds",
+        "Digital art",
+        "Physical reality"
+      ],
+      "answer": "Physical and digital worlds",
+      "explanation": "'Phygital' is a word combining physical and digital features, emphasizing the integration of digital elements into the physical world."
+    },
+    {
+      "question": "How does VR differ from AR in terms of user experience?",
+      "choices": [
+        "AR is more realistic",
+        "VR adds to physical reality",
+        "VR replaces what you hear and see"
+      ],
+      "answer": "VR replaces what you hear and see",
+      "explanation": "Virtual reality replaces the user's real-world environment with a simulated one, while augmented reality enhances the real world by overlaying virtual elements."
+    }
+  ]
+}
