@@ -1,0 +1,95 @@
+{
+  "slug": "621af9a1",
+  "video_id": "DxR2waii1Ck",
+  "movie_title": "Should we fear chatbots? ⏲️ 6 Minute English",
+  "movie_url": "https://youtu.be/DxR2waii1Ck",
+  "published_at": "2023-07-06T14:00:08Z",
+  "duration": "6:18",
+  "tags": [
+    "learn English",
+    "English vocabulary",
+    "speak English",
+    "bbc english",
+    "English teacher",
+    "英語",
+    "영어",
+    "อังกฤษ",
+    "Anh",
+    "English tutorial",
+    "English grammar",
+    "IELTS",
+    "British English",
+    "English pronunciation",
+    "English lesson",
+    "idiom",
+    "English expressions",
+    "BBC Learning English",
+    "slang",
+    "English speaking",
+    "ELT",
+    "podcast",
+    "Ingilizce",
+    "bbc",
+    "bbc learning english",
+    "English class",
+    "6 minute",
+    "English speaking practice",
+    "English words",
+    "English podcast",
+    "podcast English"
+  ],
+  "introduction": "How human are chatbots? Do they really know what we are thinking and should we fear them? That’s wha",
+  "lead_intro": "Have you ever interacted with a chatbot? Discover more about these fascinating computer programs in this BBC Learning English video.",
+  "quiz": [
+    {
+      "question": "What was the first computer program that allowed plausible conversation between humans and machines called?",
+      "choices": [
+        "Alexa",
+        "Eliza",
+        "Parry"
+      ],
+      "answer": "Eliza",
+      "explanation": "The correct answer is Eliza, developed in 1966 by Joseph Weizenbaum at Massachusetts Institute of Technology."
+    },
+    {
+      "question": "What is one concern about chatbots mentioned in the video?",
+      "choices": [
+        "They can't predict words in a sentence",
+        "They can overtake the level of information a human brain holds",
+        "They can't learn from experience"
+      ],
+      "answer": "They can overtake the level of information a human brain holds",
+      "explanation": "Geoffrey Hinton expressed concern that chatbots could surpass the information capacity of a human brain through deep learning."
+    },
+    {
+      "question": "What does the term 'authoritative' mean in the context of the video?",
+      "choices": [
+        "Respected, accurate, and important sounding",
+        "Random and unreliable",
+        "Incoherent and nonsensical"
+      ],
+      "answer": "Respected, accurate, and important sounding",
+      "explanation": "Authoritative refers to text that is respected, accurate, and carries importance, as explained by Professor Bender in the video."
+    },
+    {
+      "question": "What does it mean to be 'on guard' according to the video?",
+      "choices": [
+        "Being careless and inattentive",
+        "Being cautious and alert",
+        "Being overly trusting"
+      ],
+      "answer": "Being cautious and alert",
+      "explanation": "Being 'on guard' means being careful and alert about the accuracy of information or potential dangers around you."
+    },
+    {
+      "question": "What does it mean to 'provoke' a chatbot?",
+      "choices": [
+        "To praise it",
+        "To insult it",
+        "To do something that causes a reaction from it"
+      ],
+      "answer": "To do something that causes a reaction from it",
+      "explanation": "Provoking a chatbot means doing something that elicits a response from it, as mentioned in the video."
+    }
+  ]
+}

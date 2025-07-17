@@ -1,0 +1,63 @@
+{
+  "slug": "73bc264f",
+  "video_id": "yDMZJ7LgrGY",
+  "movie_title": "The Moment kurzgesagt Changed Forever",
+  "movie_url": "https://youtu.be/yDMZJ7LgrGY",
+  "published_at": "2023-12-05T16:30:09Z",
+  "duration": "2:09",
+  "tags": [],
+  "introduction": "We want to share a special story with you: \nkurzgesagt began as a small passion project, but thanks",
+  "lead_intro": "Have you ever heard of the Human Era Calendar by kurzgesagt? Dive into how this innovative calendar came to be and its impact on the world!",
+  "quiz": [
+    {
+      "question": "What was the founder of kurzgesagt, Philipp Dettmer's idea that led to the creation of the Human Era Calendar?",
+      "choices": [
+        "A new year zero for all people and cultures",
+        "Starting a new YouTube channel",
+        "Creating a digital art collection"
+      ],
+      "answer": "A new year zero for all people and cultures",
+      "explanation": "Philipp Dettmer's idea was to establish a new year zero that includes all people and cultures around the world, representing kurzgesagt's view of the world and humanity's potential for greatness."
+    },
+    {
+      "question": "How did the first Human Era Calendar perform when it was released?",
+      "choices": [
+        "Sold out within a few hours",
+        "Received negative reviews",
+        "Was forgotten by everyone"
+      ],
+      "answer": "Sold out within a few hours",
+      "explanation": "The first Human Era Calendar was a huge success, selling out within a few hours and inspiring thousands of people globally."
+    },
+    {
+      "question": "What has the success of the Human Era Calendar enabled kurzgesagt to do?",
+      "choices": [
+        "Grow their team and improve video quality",
+        "Stop creating videos for free",
+        "Decrease research standards"
+      ],
+      "answer": "Grow their team and improve video quality",
+      "explanation": "The success of the Human Era Calendar has enabled kurzgesagt to grow their team, enhance video quality, and maintain high research standards while still releasing videos for free."
+    },
+    {
+      "question": "What is special about this year's Human Era Calendar according to the video?",
+      "choices": [
+        "Extra special",
+        "No unique features",
+        "No information provided"
+      ],
+      "answer": "Extra special",
+      "explanation": "This year's Human Era Calendar is highlighted as extra special, teasing space experiments and the opportunity to contemplate humanity's future steps toward greatness."
+    },
+    {
+      "question": "What can viewers expect to learn from kurzgesagt in the future as mentioned in the video?",
+      "choices": [
+        "Conducting space experiments",
+        "Planning humanity's next steps",
+        "Both A and B"
+      ],
+      "answer": "Both A and B",
+      "explanation": "Viewers can anticipate learning about conducting space experiments and planning humanity's next steps towards greatness in the future with kurzgesagt."
+    }
+  ]
+}

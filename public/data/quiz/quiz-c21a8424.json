@@ -1,0 +1,90 @@
+{
+  "slug": "c21a8424",
+  "video_id": "LC_3i_EPd6s",
+  "movie_title": "A quieter world - 6 Minute English",
+  "movie_url": "https://youtu.be/LC_3i_EPd6s",
+  "published_at": "2021-04-29T15:00:07Z",
+  "duration": "6:18",
+  "tags": [
+    "learn English",
+    "English vocabulary",
+    "speak English",
+    "bbc english",
+    "English teacher",
+    "英語",
+    "영어",
+    "อังกฤษ",
+    "Anh",
+    "English tutorial",
+    "Ingilizce ders",
+    "English grammar",
+    "IELTS",
+    "British English",
+    "English pronunciation",
+    "English lesson",
+    "idiom",
+    "English expressions",
+    "BBC Learning English",
+    "tefl",
+    "slang",
+    "BBC",
+    "Online English",
+    "how to speak English",
+    "English speaking",
+    "ELT"
+  ],
+  "introduction": "Improve your English vocabulary and listening in just six minutes!\nWhether it’s the natural sounds o",
+  "lead_intro": "Are you aware of the impact of noise on our daily lives? Let's test your knowledge with a quiz based on the 6 Minute English video about noise and its effects!",
+  "quiz": [
+    {
+      "question": "According to a guide by the World Health Organisation, what is considered the highest level we can be safely exposed to for a maximum of eight hours?",
+      "choices": [
+        "55 decibels",
+        "85 decibels",
+        "125 decibels"
+      ],
+      "answer": "85 decibels",
+      "explanation": "The World Health Organisation considers 85 decibels as the highest level we can be safely exposed to for a maximum of eight hours."
+    },
+    {
+      "question": "What does the term 'grate' mean as discussed in the video?",
+      "choices": [
+        "Annoy or irritate",
+        "Encourage or motivate",
+        "Amuse or entertain"
+      ],
+      "answer": "Annoy or irritate",
+      "explanation": "'Grate' means to annoy or irritate as discussed in the video."
+    },
+    {
+      "question": "What does it mean to be conscious of something?",
+      "choices": [
+        "Be unaware of it",
+        "Be aware of it",
+        "Ignore it"
+      ],
+      "answer": "Be aware of it",
+      "explanation": "To be conscious of something means to be aware of it."
+    },
+    {
+      "question": "What does 'suppressing' mean in the context of the video?",
+      "choices": [
+        "Encouraging",
+        "Preventing or stopping",
+        "Praising"
+      ],
+      "answer": "Preventing or stopping",
+      "explanation": "'Suppressing' in the video context refers to preventing or stopping something."
+    },
+    {
+      "question": "What does the term 'honk' refer to in the video?",
+      "choices": [
+        "A soothing sound",
+        "A musical note",
+        "A short, loud sound a car horn makes"
+      ],
+      "answer": "A short, loud sound a car horn makes",
+      "explanation": "'Honk' refers to the short, loud sound a car horn makes in the video."
+    }
+  ]
+}

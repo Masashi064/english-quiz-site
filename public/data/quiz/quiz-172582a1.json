@@ -1,0 +1,96 @@
+{
+  "slug": "172582a1",
+  "video_id": "cR9uphgMZ8U",
+  "movie_title": "How to catch a Dwarf Planet -- Triton MM#3",
+  "movie_url": "https://youtu.be/cR9uphgMZ8U",
+  "published_at": "2014-05-26T13:00:08Z",
+  "duration": "2:07",
+  "tags": [
+    "Dwarf Planet (Celestial Object Category)",
+    "Planet (Ontology Class)",
+    "Triton",
+    "Neptun",
+    "Space",
+    "Moon",
+    "Jupiter",
+    "Pluto",
+    "future",
+    "nasa",
+    "the moon",
+    "earth",
+    "moons",
+    "satellite",
+    "universe",
+    "solar system",
+    "astronomy",
+    "venus",
+    "mars",
+    "galaxy",
+    "Spacecraft",
+    "size",
+    "funny",
+    "double system",
+    "esa",
+    "eso",
+    "science",
+    "education",
+    "infographic",
+    "flat design",
+    "kurzgesagt",
+    "Milky Way (Galaxy)"
+  ],
+  "introduction": "If Neptune didn't catch Triton we might have another Dwarf Planet in our Solar system -- maybe even",
+  "lead_intro": "Learn about the fascinating moons of Neptune and their unique characteristics in this video.",
+  "quiz": [
+    {
+      "question": "What is Triton's surface area comparable to?",
+      "choices": [
+        "The mainland of Russia and Australia combined",
+        "The size of the moon",
+        "The area of the Pacific Ocean"
+      ],
+      "answer": "The mainland of Russia and Australia combined",
+      "explanation": "The video mentions that Triton's surface area is about as big as the mainland of Russia and Australia together."
+    },
+    {
+      "question": "How much of all the mass around Neptune is concentrated in Triton?",
+      "choices": [
+        "99.5%",
+        "50%",
+        "75%"
+      ],
+      "answer": "99.5%",
+      "explanation": "The video states that 99.5% of all the mass around Neptune is concentrated in Triton."
+    },
+    {
+      "question": "What is unique about Triton's orbit around Neptune?",
+      "choices": [
+        "It goes against the rotation of Neptune",
+        "It moves at the same speed as Neptune's rotation",
+        "It has a perfectly circular orbit"
+      ],
+      "answer": "It goes against the rotation of Neptune",
+      "explanation": "The video mentions that Triton orbits Neptune in the 'wrong' direction, against the rotation of Neptune, which is unique in our solar system for an object as big as Triton."
+    },
+    {
+      "question": "What is Triton's status as one of only four objects in the solar system?",
+      "choices": [
+        "Geologically active",
+        "Completely frozen",
+        "Made of pure ice"
+      ],
+      "answer": "Geologically active",
+      "explanation": "Triton is described in the video as one of only four objects in the solar system that we know is geologically active."
+    },
+    {
+      "question": "What is the fate predicted for Triton in the future?",
+      "choices": [
+        "Crash into Neptune or form a ring system",
+        "Migrate to another planet",
+        "Escape Neptune's orbit"
+      ],
+      "answer": "Crash into Neptune or form a ring system",
+      "explanation": "The video suggests that Triton will eventually either crash into Neptune or be ground by Neptune's gravity into a huge ring system, similar to Saturn's."
+    }
+  ]
+}
