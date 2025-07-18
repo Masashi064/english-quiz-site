@@ -1,0 +1,63 @@
+{
+  "slug": "164324b7",
+  "video_id": "itBBsQRv0EU",
+  "movie_title": "Your Hidden Superpower",
+  "movie_url": "https://youtu.be/itBBsQRv0EU",
+  "published_at": "2024-05-28T14:00:01Z",
+  "duration": "1:47",
+  "tags": [],
+  "introduction": "There are rumors of a superpower. Only a few special birbs are able to master it. They see the world",
+  "lead_intro": "Join kurzgesagt on an adventure to awaken your curiosity potential and uncover hidden truths about the world!",
+  "quiz": [
+    {
+      "question": "What special power is mentioned in the video?",
+      "choices": [
+        "imagination",
+        "curiosity",
+        "intelligence"
+      ],
+      "answer": "curiosity",
+      "explanation": "In the video, the special power associated with uncovering mysteries and finding exciting science is referred to as curiosity."
+    },
+    {
+      "question": "How many curiosity quests are there in the 'Guide to Curiosity'?",
+      "choices": [
+        "10",
+        "18",
+        "25"
+      ],
+      "answer": "18",
+      "explanation": "The 'Guide to Curiosity' offers 18 curiosity quests designed to awaken your curiosity potential and change your perspective on the world."
+    },
+    {
+      "question": "Where were the 18 curiosity quests developed?",
+      "choices": [
+        "in a lab",
+        "at the beach",
+        "at kurzgesagt headquarters"
+      ],
+      "answer": "at kurzgesagt headquarters",
+      "explanation": "The 18 curiosity quests were developed at the kurzgesagt headquarters after extensive research and trial and error."
+    },
+    {
+      "question": "What will buying kurzgesagt products help fund?",
+      "choices": [
+        "video games",
+        "charity projects",
+        "working on videos"
+      ],
+      "answer": "working on videos",
+      "explanation": "Every kurzgesagt product purchased directly funds the time spent working on their videos, allowing them to create more content."
+    },
+    {
+      "question": "What is the ultimate adventure experience created by kurzgesagt?",
+      "choices": [
+        "a movie",
+        "a book",
+        "a curiosity adventure"
+      ],
+      "answer": "a curiosity adventure",
+      "explanation": "Kurzgesagt created the ultimate curiosity adventure with 160 interactive pages designed to awaken curiosity potential and change perspectives."
+    }
+  ]
+}
