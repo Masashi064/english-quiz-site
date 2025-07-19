@@ -1,0 +1,90 @@
+{
+  "slug": "97905f43",
+  "video_id": "5w-zLrlTcY4",
+  "movie_title": "Is English really English? 6 Minute English",
+  "movie_url": "https://youtu.be/5w-zLrlTcY4",
+  "published_at": "2021-04-01T14:45:00Z",
+  "duration": "6:18",
+  "tags": [
+    "learn English",
+    "English vocabulary",
+    "speak English",
+    "bbc english",
+    "English teacher",
+    "英語",
+    "영어",
+    "อังกฤษ",
+    "Anh",
+    "English tutorial",
+    "Ingilizce ders",
+    "English grammar",
+    "IELTS",
+    "British English",
+    "English pronunciation",
+    "English lesson",
+    "idiom",
+    "English expressions",
+    "BBC Learning English",
+    "tefl",
+    "slang",
+    "BBC",
+    "Online English",
+    "how to speak English",
+    "English speaking",
+    "ELT"
+  ],
+  "introduction": "Many of the English words we use today like beer, hand, mother and love have all survived from Old E",
+  "lead_intro": "Explore the fascinating history of the English language with this 6 Minute English episode from BBC Learning English! Let's test your knowledge with a quiz based on what you've learned.",
+  "quiz": [
+    {
+      "question": "In the year 1066, which famous battle involved the French-speaking Norman king, William the Conqueror invading England?",
+      "choices": [
+        "The Battle of Waterloo",
+        "The Battle of Hastings",
+        "The Battle of Trafalgar"
+      ],
+      "answer": "The Battle of Hastings",
+      "explanation": "The Battle of Hastings in 1066 was when William the Conqueror invaded England, making it the correct answer."
+    },
+    {
+      "question": "What percentage of spoken English in common parlance is estimated to come from Anglo Saxon?",
+      "choices": [
+        "40%",
+        "60%",
+        "80%"
+      ],
+      "answer": "80%",
+      "explanation": "Professor Orchard estimates that about 80% of spoken English in common parlance comes from Anglo Saxon, making it the correct answer."
+    },
+    {
+      "question": "When someone sees something through someone's eyes, what does it mean?",
+      "choices": [
+        "They hear the perspective",
+        "They taste the viewpoint",
+        "They see it from their point of view"
+      ],
+      "answer": "They see it from their point of view",
+      "explanation": "Seeing something through someone's eyes means viewing it from their perspective or point of view, making it the correct answer."
+    },
+    {
+      "question": "What are building blocks in the context of the English language?",
+      "choices": [
+        "Basic parts used to construct new words",
+        "Blocks used in construction sites",
+        "Pieces of a puzzle"
+      ],
+      "answer": "Basic parts used to construct new words",
+      "explanation": "In English, building blocks refer to the basic parts that are put together to create something, like words forming sentences, making it the correct answer."
+    },
+    {
+      "question": "What does the phrase 'at heart' mean?",
+      "choices": [
+        "In the center of the body",
+        "The main essence or true nature of something",
+        "With a lot of passion"
+      ],
+      "answer": "The main essence or true nature of something",
+      "explanation": "The phrase 'at heart' is used to describe the fundamental nature or essence of something, indicating what it is truly like, making it the correct answer."
+    }
+  ]
+}

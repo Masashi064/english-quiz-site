@@ -1,0 +1,90 @@
+{
+  "slug": "7c06e670",
+  "video_id": "Xv5i11wmpQM",
+  "movie_title": "The woman whose cells never die - 6 Minute English",
+  "movie_url": "https://youtu.be/Xv5i11wmpQM",
+  "published_at": "2021-01-28T16:02:21Z",
+  "duration": "6:18",
+  "tags": [
+    "learn English",
+    "English vocabulary",
+    "speak English",
+    "bbc english",
+    "English teacher",
+    "英語",
+    "영어",
+    "อังกฤษ",
+    "Anh",
+    "English tutorial",
+    "Ingilizce ders",
+    "English grammar",
+    "IELTS",
+    "British English",
+    "English pronunciation",
+    "English lesson",
+    "idiom",
+    "English expressions",
+    "BBC Learning English",
+    "tefl",
+    "slang",
+    "BBC",
+    "Online English",
+    "how to speak English",
+    "English speaking",
+    "ELT"
+  ],
+  "introduction": "Henrietta Lacks made an amazing contribution to medical research which has only recently been recogn",
+  "lead_intro": "Discover the remarkable story of Henrietta Lacks, whose cells led to groundbreaking medical discoveries. Test your knowledge with a quiz on important medical breakthroughs!",
+  "quiz": [
+    {
+      "question": "What important medical breakthrough happened in 1921?",
+      "choices": [
+        "the discovery of insulin",
+        "the discovery of penicillin",
+        "the discovery of vitamin E"
+      ],
+      "answer": "the discovery of insulin",
+      "explanation": "The correct answer is the discovery of insulin, which was discovered by Canadian doctor Frederick Banting and saved the lives of millions of diabetics."
+    },
+    {
+      "question": "What term refers to a medical technique for women who cannot become pregnant naturally?",
+      "choices": [
+        "in vitro fertilization",
+        "HeLa cells",
+        "workhorse"
+      ],
+      "answer": "in vitro fertilization",
+      "explanation": "In vitro fertilization, or IVF, is a medical technique for women who cannot become pregnant naturally."
+    },
+    {
+      "question": "How are Henrietta Lacks' cells described in relation to their contribution to science?",
+      "choices": [
+        "HeLa cells are a workhorse",
+        "HeLa cells are unknowing",
+        "HeLa cells are consented"
+      ],
+      "answer": "HeLa cells are a workhorse",
+      "explanation": "Henrietta Lacks' HeLa cells are described as a workhorse because they have contributed significantly to various medical discoveries."
+    },
+    {
+      "question": "What does the term 'scourge' mean in the context of the video?",
+      "choices": [
+        "something causing pain and suffering",
+        "a medical breakthrough",
+        "a remarkable woman"
+      ],
+      "answer": "something causing pain and suffering",
+      "explanation": "'Scourge' in the context of the video refers to something that causes much pain and suffering, like terrible diseases."
+    },
+    {
+      "question": "How did Henrietta Lacks' cells contribute to understanding cell growth?",
+      "choices": [
+        "by helping doctors figure out cell growth",
+        "by stopping cell growth",
+        "by slowing down cell growth"
+      ],
+      "answer": "by helping doctors figure out cell growth",
+      "explanation": "Henrietta Lacks' HeLa cells helped doctors understand how cells grow, leading to crucial medical discoveries."
+    }
+  ]
+}

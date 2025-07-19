@@ -1,0 +1,93 @@
+{
+  "slug": "23bb48aa",
+  "video_id": "Tqt9hZcWhJM",
+  "movie_title": "How Big is the Moon? MM#1",
+  "movie_url": "https://youtu.be/Tqt9hZcWhJM",
+  "published_at": "2014-05-05T10:59:23Z",
+  "duration": "1:40",
+  "tags": [
+    "Moon",
+    "the moon",
+    "to the moon",
+    "space",
+    "earth",
+    "mars",
+    "moons",
+    "universe",
+    "solar system",
+    "astronomy",
+    "jupiter",
+    "neptune",
+    "pluto",
+    "Ganymede",
+    "galaxy",
+    "the sun",
+    "io",
+    "ISS",
+    "Spacecraft",
+    "Satellite",
+    "size",
+    "funny",
+    "esa",
+    "nasa",
+    "mount everest",
+    "science",
+    "education",
+    "kurzgesagt",
+    "Milky Way (Galaxy)"
+  ],
+  "introduction": "The Moon might be much bigger than you think it is. \n\nMoon May! One video about cool moon stuff ever",
+  "lead_intro": "Have you ever wondered how big the moon actually is compared to Earth? Let's test your knowledge with a quiz based on the video!",
+  "quiz": [
+    {
+      "question": "What is the surface area of the moon compared to the whole European continent, China, the USA, Brazil, and South Africa combined?",
+      "choices": [
+        "Same size",
+        "Smaller",
+        "Bigger"
+      ],
+      "answer": "Bigger",
+      "explanation": "The surface area of the moon is as big as the whole European continent, China, the USA, Brazil, and South Africa combined."
+    },
+    {
+      "question": "How does the mass of the moon compare to the mass of Earth?",
+      "choices": [
+        "1/81th",
+        "1/10th",
+        "1/100th"
+      ],
+      "answer": "1/81th",
+      "explanation": "The moon's mass is only about 1/81th of the mass of Earth."
+    },
+    {
+      "question": "In relation to its planet, where does Earth's moon rank in size among moons in the solar system?",
+      "choices": [
+        "Largest",
+        "Second largest",
+        "Fifth largest"
+      ],
+      "answer": "Largest",
+      "explanation": "Earth's moon is the biggest moon in the solar system in relation to its planet."
+    },
+    {
+      "question": "How far away is the moon from Earth to appear small in the night sky?",
+      "choices": [
+        "370 km",
+        "3600 km",
+        "36000 km"
+      ],
+      "answer": "36000 km",
+      "explanation": "The moon is about 36000 km away from Earth, which is why it appears small in the night sky."
+    },
+    {
+      "question": "How long would it take for a 747 airplane to fly to the moon?",
+      "choices": [
+        "1 day",
+        "2 days",
+        "28 days"
+      ],
+      "answer": "28 days",
+      "explanation": "A 747 airplane would need 28 straight days to fly to the moon, given its distance from Earth."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "b34f94bc",
+  "video_id": "xP2tHAXjZhI",
+  "movie_title": "How many organs can YOU live without? Turns out: More than we thought.",
+  "movie_url": "https://youtu.be/xP2tHAXjZhI",
+  "published_at": "2025-07-17T14:01:35Z",
+  "duration": "1:15",
+  "tags": [],
+  "introduction": "The human body is surprisingly resilient. From kidneys and spleens to chunks of your liver and even",
+  "lead_intro": "Ever wondered how many organs you can live without? Test your knowledge with this quiz based on the video!",
+  "quiz": [
+    {
+      "question": "Which organ can you live without because your liver can compensate for its functions?",
+      "choices": [
+        "appendix",
+        "gallbladder",
+        "spleen"
+      ],
+      "answer": "gallbladder",
+      "explanation": "The gallbladder can be removed as the liver can still produce enough bile to aid in digestion."
+    },
+    {
+      "question": "How much of your liver can be removed and still regenerate?",
+      "choices": [
+        "50%",
+        "70%",
+        "90%"
+      ],
+      "answer": "70%",
+      "explanation": "Up to 70% of the liver can be removed in a healthy individual, and it will regenerate."
+    },
+    {
+      "question": "What percentage of blood can be safely taken from a person?",
+      "choices": [
+        "5%",
+        "10%",
+        "20%"
+      ],
+      "answer": "20%",
+      "explanation": "Up to 20% of blood can be taken safely from a person without significant harm."
+    },
+    {
+      "question": "How long does it take for bone marrow to regenerate?",
+      "choices": [
+        "1 week",
+        "2 weeks",
+        "3 weeks"
+      ],
+      "answer": "3 weeks",
+      "explanation": "Bone marrow takes around 3 weeks to regenerate after a portion of it is taken."
+    },
+    {
+      "question": "Which organs are mentioned as vital and cannot be removed?",
+      "choices": [
+        "lungs and liver",
+        "heart and brain",
+        "kidneys and spleen"
+      ],
+      "answer": "heart and brain",
+      "explanation": "The heart and brain are mentioned as organs that are vital and cannot be removed without dire consequences."
+    }
+  ]
+}
