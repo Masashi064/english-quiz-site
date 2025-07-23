@@ -1,0 +1,74 @@
+{
+  "slug": "3ed5cf1b",
+  "video_id": "3hYe6isTynk",
+  "movie_title": "These Were the Tallest Buildings Before Burj Khalifa",
+  "movie_url": "https://youtu.be/3hYe6isTynk",
+  "published_at": "2023-02-11T14:06:00Z",
+  "duration": "0:44",
+  "tags": [
+    "burj khalifa",
+    "dubai",
+    "tallest building",
+    "new york city",
+    "skyscraper",
+    "record",
+    "explained",
+    "understanding",
+    "shorts",
+    "neo"
+  ],
+  "introduction": "Before the Burj Khalifa in Dubai became the tallest building on earth, which buildings held the titl",
+  "lead_intro": "Discover the history of some of the world's tallest buildings and their record-breaking heights.",
+  "quiz": [
+    {
+      "question": "Which building held the title of the tallest building on Earth before the Burj Khalifa in Dubai?",
+      "choices": [
+        "Singer Building in New York",
+        "Empire State Building in New York",
+        "Sears Tower in Chicago"
+      ],
+      "answer": "Empire State Building in New York",
+      "explanation": "The Empire State Building in New York held the title before the Burj Khalifa in Dubai."
+    },
+    {
+      "question": "For how many years did the Empire State Building hold the title of the tallest building?",
+      "choices": [
+        "25 years",
+        "40 years",
+        "60 years"
+      ],
+      "answer": "40 years",
+      "explanation": "The Empire State Building held the title for 40 years before being replaced by the World Trade Center."
+    },
+    {
+      "question": "Which tower ended the Sears Tower's 25-year streak as the tallest building?",
+      "choices": [
+        "Patronus Towers in Malaysia",
+        "Taipei 101 in Taiwan",
+        "Burj Khalifa in Dubai"
+      ],
+      "answer": "Patronus Towers in Malaysia",
+      "explanation": "The Patronus Towers in Malaysia ended the Sears Tower's streak as the tallest building."
+    },
+    {
+      "question": "In which city did the Sears Tower hold the title of the tallest building?",
+      "choices": [
+        "Dubai",
+        "Chicago",
+        "Taiwan"
+      ],
+      "answer": "Chicago",
+      "explanation": "The Sears Tower held the title in Chicago for nearly 25 years."
+    },
+    {
+      "question": "Which country houses the Taipei 101, one of the buildings that held the record for being the tallest?",
+      "choices": [
+        "Malaysia",
+        "Dubai",
+        "Taiwan"
+      ],
+      "answer": "Taiwan",
+      "explanation": "The Taipei 101 is in Taiwan, one of the countries where height records were set."
+    }
+  ]
+}

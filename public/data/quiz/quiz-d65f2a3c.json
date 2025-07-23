@@ -1,0 +1,63 @@
+{
+  "slug": "d65f2a3c",
+  "video_id": "Jzfpyo-q-RM",
+  "movie_title": "Worst Nuclear Accidents in History",
+  "movie_url": "https://youtu.be/Jzfpyo-q-RM",
+  "published_at": "2021-02-02T15:02:01Z",
+  "duration": "9:13",
+  "tags": [],
+  "introduction": "Get Merch designed with ❤ from https://kgs.link/shop-138  \nJoin the Patreon Bird Army 🐧 https://kgs",
+  "lead_intro": "Have you ever wondered about the safety of nuclear energy compared to other energy sources? Let's dive into the numbers and see how it stacks up!",
+  "quiz": [
+    {
+      "question": "What is the estimated long-term death toll from the Chernobyl nuclear accident according to the WHO?",
+      "choices": [
+        "60,000",
+        "4,000",
+        "1,000"
+      ],
+      "answer": "4,000",
+      "explanation": "The WHO estimated that in total the long-term death toll from the Chernobyl nuclear accident will be around 4,000."
+    },
+    {
+      "question": "Which energy source has caused the most environmental-related deaths in the world?",
+      "choices": [
+        "Nuclear energy",
+        "Renewable energy",
+        "Fossil fuel"
+      ],
+      "answer": "Fossil fuel",
+      "explanation": "Fossil fuel is the number one cause of environmental-related deaths in the world, contributing to various deadly diseases through air pollution."
+    },
+    {
+      "question": "How many deaths per energy unit produced does renewable energy cause?",
+      "choices": [
+        "25",
+        "18",
+        "1"
+      ],
+      "answer": "1",
+      "explanation": "Renewable energy causes one death every few decades per energy unit produced, making it a safer option compared to fossil fuels."
+    },
+    {
+      "question": "According to a study, how often would nuclear energy cause a death in the worst case scenario?",
+      "choices": [
+        "25 years",
+        "14 years",
+        "5 years"
+      ],
+      "answer": "14 years",
+      "explanation": "In the worst case scenario, nuclear energy would cause one death every 14 years, making it one of the safest forms of energy generation."
+    },
+    {
+      "question": "What is the estimated number of deaths per year in Germany due to increased air pollution following the nuclear phase-out?",
+      "choices": [
+        "500",
+        "1,100",
+        "2,000"
+      ],
+      "answer": "1,100",
+      "explanation": "The nuclear phase-out in Germany led to 1,100 avoidable deaths per year due to increased air pollution caused by the shift to coal production."
+    }
+  ]
+}

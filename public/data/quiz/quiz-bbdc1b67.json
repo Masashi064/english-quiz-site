@@ -1,0 +1,95 @@
+{
+  "slug": "bbdc1b67",
+  "video_id": "GPerZGWDJvA",
+  "movie_title": "Grammar Challenge: Simple passives",
+  "movie_url": "https://youtu.be/GPerZGWDJvA",
+  "published_at": "2024-02-27T09:00:08Z",
+  "duration": "6:23",
+  "tags": [
+    "learn English",
+    "English vocabulary",
+    "speak English",
+    "bbc english",
+    "English teacher",
+    "英語",
+    "영어",
+    "อังกฤษ",
+    "Anh",
+    "English tutorial",
+    "English grammar",
+    "IELTS",
+    "British English",
+    "English pronunciation",
+    "English lesson",
+    "idiom",
+    "English expressions",
+    "BBC Learning English",
+    "slang",
+    "English speaking",
+    "ELT",
+    "podcast",
+    "Ingilizce",
+    "bbc",
+    "bbc learning english",
+    "English class",
+    "6 minute",
+    "English speaking practice",
+    "English words",
+    "English podcast",
+    "podcast English"
+  ],
+  "introduction": "Do you know how to make and use English passive sentences? Join English learner Jin as he takes on o",
+  "lead_intro": "Welcome to Grammar Challenge! Test your grammar skills with this quiz based on the difference between active and passive sentences.",
+  "quiz": [
+    {
+      "question": "What is the difference between an active and a passive sentence?",
+      "choices": [
+        "The subject goes first in a passive sentence.",
+        "The verb goes first in an active sentence.",
+        "The object goes first in an active sentence."
+      ],
+      "answer": "The subject goes first in a passive sentence.",
+      "explanation": "In a passive sentence, the subject comes after the verb 'to be' and the past participle of the verb."
+    },
+    {
+      "question": "In an active sentence, what is the order of subject, verb, and object?",
+      "choices": [
+        "Subject, verb, object",
+        "Verb, subject, object",
+        "Object, verb, subject"
+      ],
+      "answer": "Subject, verb, object",
+      "explanation": "The correct order in an active sentence is subject first, then the verb, and finally the object."
+    },
+    {
+      "question": "How is the verb 'to be' used in a passive sentence?",
+      "choices": [
+        "It is followed by the past participle of the verb.",
+        "It is followed by an infinitive verb.",
+        "It is followed by a gerund."
+      ],
+      "answer": "It is followed by the past participle of the verb.",
+      "explanation": "In a passive sentence, the verb 'to be' is followed by the past participle of the main verb."
+    },
+    {
+      "question": "Which sentence is in the passive form: 'The cat chased the mouse'?",
+      "choices": [
+        "The mouse was chased by the cat.",
+        "The cat chased the mouse quickly.",
+        "The mouse chased the cat."
+      ],
+      "answer": "The mouse was chased by the cat.",
+      "explanation": "This sentence is in passive form because the object 'the mouse' comes first followed by 'was' and the past participle 'chased'."
+    },
+    {
+      "question": "How can the subject be included in a passive sentence?",
+      "choices": [
+        "By adding it at the beginning of the sentence.",
+        "By removing it completely.",
+        "By placing it after the object."
+      ],
+      "answer": "By adding it at the end of the sentence.",
+      "explanation": "In a passive sentence, the subject can be added at the end of the sentence after 'by' to show who performed the action."
+    }
+  ]
+}

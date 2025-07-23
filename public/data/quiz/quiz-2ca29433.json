@@ -1,0 +1,63 @@
+{
+  "slug": "2ca29433",
+  "video_id": "zFhYJRqz_xk",
+  "movie_title": "Your Body Killed Cancer 5 Minutes Ago",
+  "movie_url": "https://youtu.be/zFhYJRqz_xk",
+  "published_at": "2023-05-09T14:00:42Z",
+  "duration": "9:14",
+  "tags": [],
+  "introduction": "Sources & further reading: https://sites.google.com/view/sources-cancervsimmune/\nThis video was part",
+  "lead_intro": "Did you know that your immune system constantly works to kill cancer cells in your body? Let's dive into the fascinating world of how your body fights cancer.",
+  "quiz": [
+    {
+      "question": "What is the function of tumor suppressor genes (TSGs) in your body?",
+      "choices": [
+        "control cell division",
+        "repair DNA mistakes",
+        "trigger cell apoptosis"
+      ],
+      "answer": "repair DNA mistakes",
+      "explanation": "Tumor suppressor genes produce control mechanisms that continuously scan your DNA for mistakes and copying errors and fix them right away."
+    },
+    {
+      "question": "What happens when oncogenes are turned on in a cell?",
+      "choices": [
+        "cell multiplies rapidly",
+        "cell commits suicide",
+        "cell stops dividing"
+      ],
+      "answer": "cell multiplies rapidly",
+      "explanation": "Oncogenes, when turned on, signal the cell to multiply rapidly, a process necessary for rapid growth such as during fetal development."
+    },
+    {
+      "question": "What is the role of MHC class I molecules in identifying corrupted cells?",
+      "choices": [
+        "display proteins made by cells",
+        "trigger cell division",
+        "repair DNA mutations"
+      ],
+      "answer": "display proteins made by cells",
+      "explanation": "MHC class I molecules act as a display window for cells to showcase the proteins they are making, helping the immune system distinguish between healthy and corrupted cells."
+    },
+    {
+      "question": "How do Natural Killer Cells identify corrupted cells?",
+      "choices": [
+        "by the presence of MHC class I molecules",
+        "by the absence of display windows",
+        "by sensing rapid cell division"
+      ],
+      "answer": "by the absence of display windows",
+      "explanation": "Natural Killer Cells look for cells lacking MHC class I molecules, indicating that the cell is hiding something and potentially corrupted."
+    },
+    {
+      "question": "What is the main strategy of cancer cells to evade the immune system?",
+      "choices": [
+        "stop producing MHC class I molecules",
+        "increase DNA mutations",
+        "commit suicide"
+      ],
+      "answer": "stop producing MHC class I molecules",
+      "explanation": "Cancer cells can become invisible to the immune system by ceasing to produce MHC class I molecules, making it harder for immune cells to recognize and kill them."
+    }
+  ]
+}

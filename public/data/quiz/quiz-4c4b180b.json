@@ -1,0 +1,63 @@
+{
+  "slug": "4c4b180b",
+  "video_id": "nGggU-Cxhv0",
+  "movie_title": "Your Tattoo is INSIDE Your Immune System. Literally",
+  "movie_url": "https://youtu.be/nGggU-Cxhv0",
+  "published_at": "2023-12-12T15:00:01Z",
+  "duration": "9:09",
+  "tags": [],
+  "introduction": "Go to https://brilliant.org/nutshell/ to dive deeper into these topics and more with a free 30-day t",
+  "lead_intro": "Ever wondered what happens inside your skin when you get a tattoo? Dive into the fascinating world of your immune system's battle when ink meets skin!",
+  "quiz": [
+    {
+      "question": "How many dead skin cells do you shed every hour?",
+      "choices": [
+        "200,000,000",
+        "100,000",
+        "1,000,000"
+      ],
+      "answer": "200,000,000",
+      "explanation": "The video mentions that every hour, you shed around 200,000,000 dead skin cells."
+    },
+    {
+      "question": "What is the main job of your immune system when it encounters foreign substances?",
+      "choices": [
+        "Identify and smash it until it's dead",
+        "Embrace and absorb it",
+        "Ignore it and let it stay"
+      ],
+      "answer": "Identify and smash it until it's dead",
+      "explanation": "The immune system's main job is to identify what is not you and smash it until it's dead."
+    },
+    {
+      "question": "What happens to the ink particles when the Macrophages try to dissolve them?",
+      "choices": [
+        "Ink particles don't react in any way",
+        "They dissolve easily in acid",
+        "They change color"
+      ],
+      "answer": "Ink particles don't react in any way",
+      "explanation": "The Macrophages try to dissolve the ink particles by showering them in acid, but the particles don't react in any way."
+    },
+    {
+      "question": "What causes the tattoo ink to spread around your body over time?",
+      "choices": [
+        "Fluids flowing from your tissue",
+        "Excessive sweating",
+        "Exposure to sunlight"
+      ],
+      "answer": "Fluids flowing from your tissue",
+      "explanation": "As your Macrophages get old and die, some ink can escape, riding fluids flowing from your tissue and spreading around your body."
+    },
+    {
+      "question": "What happens when you remove a tattoo with lasers?",
+      "choices": [
+        "Ink particles break into smaller chunks",
+        "Macrophages protect the ink",
+        "Tattoo becomes more vibrant"
+      ],
+      "answer": "Ink particles break into smaller chunks",
+      "explanation": "When tattoos are removed with lasers, the ink particles are heated up until they break into smaller chunks, eventually carried away by fluids."
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "slug": "f301574f",
+  "video_id": "Vx0MhpSh1TM",
+  "movie_title": "The Korean Peninsula at Night",
+  "movie_url": "https://youtu.be/Vx0MhpSh1TM",
+  "published_at": "2023-02-10T10:20:00Z",
+  "duration": "0:40",
+  "tags": [
+    "earth at night",
+    "nasa",
+    "korea",
+    "north korea",
+    "south korea",
+    "peninsula",
+    "lights",
+    "light pollution",
+    "understanding",
+    "why",
+    "explained",
+    "shorts"
+  ],
+  "introduction": "This short takes a look at the Korean Peninsula, with North and South Korea, at night. This is a NAS",
+  "lead_intro": "Discover the stark contrast between the brightly lit South Korea and the dark North Korea at night in this fascinating video.",
+  "quiz": [
+    {
+      "question": "What is the population density of the capital of South Korea compared to New York City?",
+      "choices": [
+        "Half that of New York City",
+        "Twice that of New York City",
+        "Equal to that of New York City"
+      ],
+      "answer": "Twice that of New York City",
+      "explanation": "The population density of the capital of South Korea is twice that of New York City."
+    },
+    {
+      "question": "How does North Korea appear in the night view of the Korean Peninsula?",
+      "choices": [
+        "Completely black",
+        "Brightly lit",
+        "Moderately lit"
+      ],
+      "answer": "Completely black",
+      "explanation": "North Korea appears almost completely black in contrast to the brightly lit South Korea."
+    },
+    {
+      "question": "What stands out as the only illuminated area in North Korea?",
+      "choices": [
+        "The DMZ",
+        "The capital Pyongyang",
+        "The border with South Korea"
+      ],
+      "answer": "The capital Pyongyang",
+      "explanation": "The only illuminated area in North Korea is the capital, Pyongyang."
+    },
+    {
+      "question": "What does the DMZ stand for in Korea?",
+      "choices": [
+        "Democratic Military Zone",
+        "Dangerous Military Zone",
+        "Demilitarized Zone"
+      ],
+      "answer": "Demilitarized Zone",
+      "explanation": "The DMZ stands for Demilitarized Zone, dividing North and South Korea."
+    },
+    {
+      "question": "How long has the division between North and South Korea lasted?",
+      "choices": [
+        "50 years",
+        "70 years",
+        "100 years"
+      ],
+      "answer": "70 years",
+      "explanation": "The division between North and South Korea has lasted for more than 70 years."
+    }
+  ]
+}
