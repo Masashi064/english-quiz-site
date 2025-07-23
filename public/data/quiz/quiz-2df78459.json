@@ -1,0 +1,115 @@
+{
+  "slug": "2df78459",
+  "video_id": "RS7IzU2VJIQ",
+  "movie_title": "Plastic Pollution: How Humans are Turning the World into Plastic",
+  "movie_url": "https://youtu.be/RS7IzU2VJIQ",
+  "published_at": "2018-07-01T13:03:14Z",
+  "duration": "9:02",
+  "tags": [
+    "plastic pollution",
+    "plastic",
+    "ocean",
+    "microplastics",
+    "microplastic",
+    "waste",
+    "garbage",
+    "trash",
+    "pollution",
+    "coffee cup",
+    "plastic bag",
+    "plastic bottle",
+    "ban",
+    "recycle",
+    "recycling",
+    "animal",
+    "fish",
+    "marine animals",
+    "whale",
+    "toxic",
+    "food chain",
+    "cancer",
+    "polymer",
+    "polymer chain",
+    "BPA",
+    "Testosterone",
+    "DEHP",
+    "PET",
+    "Bakelite",
+    "PVC",
+    "Acrylic",
+    "Nylon",
+    "China",
+    "India",
+    "Africa",
+    "Algeria",
+    "Indonesia",
+    "developing countries",
+    "UN",
+    "UN Environment",
+    "clean seas",
+    "midas",
+    "gold",
+    "animation",
+    "kurzgesagt",
+    "satire",
+    "in a nutshell",
+    "funny",
+    "plastic straw",
+    "environment",
+    "co2"
+  ],
+  "introduction": "Modern life would be impossible without plastic – but we have long since lost control over our inven",
+  "lead_intro": "Plastic pollution is a global issue that impacts our environment and health. Let's dive into the world of plastics and its consequences.",
+  "quiz": [
+    {
+      "question": "What is plastic made from?",
+      "choices": [
+        "Long chains of molecule groups",
+        "Short repeating chains of molecule groups",
+        "Single molecules"
+      ],
+      "answer": "Long chains of molecule groups",
+      "explanation": "Plastic is made from polymers, which are long repeating chains of molecule groups."
+    },
+    {
+      "question": "How long does it take for plastic to break down?",
+      "choices": [
+        "100 years",
+        "500 years",
+        "1,000 years"
+      ],
+      "answer": "500 years",
+      "explanation": "Due to its durability, plastic takes between 500 and 1,000 years to break down."
+    },
+    {
+      "question": "What percentage of plastics are used for packaging?",
+      "choices": [
+        "20%",
+        "40%",
+        "60%"
+      ],
+      "answer": "40%",
+      "explanation": "40% of plastics are used for packaging, contributing significantly to plastic waste."
+    },
+    {
+      "question": "How much plastic waste enters the ocean annually?",
+      "choices": [
+        "2 million tons",
+        "5 million tons",
+        "8 million tons"
+      ],
+      "answer": "8 million tons",
+      "explanation": "Around 8 million tons of plastic waste enter the ocean each year, causing harm to marine life."
+    },
+    {
+      "question": "What do microplastics refer to?",
+      "choices": [
+        "Pieces larger than 5 millimeters",
+        "Synthetic polymers",
+        "Pieces smaller than 5 millimeters"
+      ],
+      "answer": "Pieces smaller than 5 millimeters",
+      "explanation": "Microplastics are plastic particles smaller than 5 millimeters, posing a threat to marine organisms and potentially human health."
+    }
+  ]
+}

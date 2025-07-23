@@ -1,0 +1,75 @@
+{
+  "slug": "1a3c757a",
+  "video_id": "iPDQaEP8E6o",
+  "movie_title": "This Map Shows Things You Normally Can’t See on a Map",
+  "movie_url": "https://youtu.be/iPDQaEP8E6o",
+  "published_at": "2023-02-15T15:39:00Z",
+  "duration": "0:46",
+  "tags": [
+    "satellite",
+    "map",
+    "lights",
+    "earth at night",
+    "NASA",
+    "geography",
+    "explained",
+    "understanding",
+    "why",
+    "shorts",
+    "neo"
+  ],
+  "introduction": "This night time map of earth published by NASA is a composite satellite image that shows light pollu",
+  "lead_intro": "Have you ever wondered what an image of the Earth at night can reveal about life on our planet? Let's dive into the insights provided by the lights visible from space!",
+  "quiz": [
+    {
+      "question": "What can be observed from the bright lights in Saudi Arabia?",
+      "choices": [
+        "cities",
+        "oil extraction",
+        "wildfires"
+      ],
+      "answer": "oil extraction",
+      "explanation": "In Saudi Arabia, the bright lights visible are a result of the extraction of oil, particularly from the flaring of gas."
+    },
+    {
+      "question": "Which region shows clearly traceable features like the Nile River and the Benelux region?",
+      "choices": [
+        "Western Australia",
+        "Europe",
+        "South Korea"
+      ],
+      "answer": "Europe",
+      "explanation": "In Europe, features like the path of the Nile River and regions like the Benelux region are clearly visible from space at night."
+    },
+    {
+      "question": "What can cause odd shapes like completely straight lines visible on the Earth at night?",
+      "choices": [
+        "fishing boats",
+        "wildfires",
+        "regulate fishing"
+      ],
+      "answer": "regulate fishing",
+      "explanation": "Agreements between countries that regulate fishing can sometimes lead to odd shapes like completely straight lines visible from space at night."
+    },
+    {
+      "question": "What emits bright lights in the water surrounding South Korea?",
+      "choices": [
+        "cities",
+        "fishing boats",
+        "oil extraction"
+      ],
+      "answer": "fishing boats",
+      "explanation": "The numerous fishing boats in the water surrounding South Korea emit bright lights that are visible from space at night."
+    },
+    {
+      "question": "What type of regions in Western Australia emit light visible from space due to wildfires?",
+      "choices": [
+        "inhabited",
+        "mostly uninhabited",
+        "urban"
+      ],
+      "answer": "mostly uninhabited",
+      "explanation": "The mostly uninhabited regions of Western Australia emit light visible from space at night due to wildfires that occurred over a span of time."
+    }
+  ]
+}

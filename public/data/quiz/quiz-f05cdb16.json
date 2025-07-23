@@ -1,0 +1,77 @@
+{
+  "slug": "f05cdb16",
+  "video_id": "7TmcXYp8xu4",
+  "movie_title": "Are GMOs Good or Bad? Genetic Engineering & Our Food",
+  "movie_url": "https://youtu.be/7TmcXYp8xu4",
+  "published_at": "2017-03-30T14:00:42Z",
+  "duration": "9:03",
+  "tags": [
+    "GMO",
+    "gmos",
+    "genetically modified organism",
+    "genetics",
+    "cripsr",
+    "food",
+    "agriculture",
+    "bt crops",
+    "monsanto",
+    "organic",
+    "natural",
+    "pesticide",
+    "herbicide"
+  ],
+  "introduction": "Are GMOs bad for your health? Or is this fear unfounded?\n\n\nOUR CHANNELS\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\nG",
+  "lead_intro": "Genetic modification is a hot topic in the world of science and agriculture. Let's delve into the facts, fears, and future of GMOs to understand why they spark such controversy.",
+  "quiz": [
+    {
+      "question": "What is one major difference between genetic engineering and selective breeding?",
+      "choices": [
+        "Genetic engineering allows for choosing specific traits",
+        "Genetic engineering relies on luck for trait selection",
+        "Genetic engineering is less precise than selective breeding"
+      ],
+      "answer": "Genetic engineering allows for choosing specific traits",
+      "explanation": "Genetic engineering enables the selection of desired traits, unlike selective breeding which relies on chance."
+    },
+    {
+      "question": "What is one concern people have about GMOs related to gene flow?",
+      "choices": [
+        "GM crops mixing with traditional crops",
+        "GM crops being resistant to pesticides",
+        "GM crops causing allergic reactions"
+      ],
+      "answer": "GM crops mixing with traditional crops",
+      "explanation": "Gene flow concerns arise from the potential mixing of GM crops with traditional ones, introducing new characteristics."
+    },
+    {
+      "question": "What is the purpose of Terminator seeds in the context of GMOs?",
+      "choices": [
+        "Produce sterile plants",
+        "Increase crop yields",
+        "Enhance crop flavor"
+      ],
+      "answer": "Produce sterile plants",
+      "explanation": "Terminator seeds are designed to produce sterile plants, requiring farmers to purchase new seeds each year."
+    },
+    {
+      "question": "Why are BT crops considered safe for human consumption despite producing a protein toxic to insects?",
+      "choices": [
+        "The protein targets specific insect digestive systems",
+        "The protein is harmful to all living organisms",
+        "The protein is completely removed during processing"
+      ],
+      "answer": "The protein targets specific insect digestive systems",
+      "explanation": "BT crops produce a protein that is harmless to humans but lethal to specific insects due to their unique digestive systems."
+    },
+    {
+      "question": "In what way could GMOs help address the increasing global food demand by 2050?",
+      "choices": [
+        "By intensifying farming on existing land",
+        "By expanding forests for agriculture",
+        "By reducing pesticide use entirely"
+      ],
+      "answer": "By intensifying farming on existing land",
+      "explanation": "GMOs could enable more efficient farming on current land, potentially meeting the rising food demand without expanding agriculture into new areas."
+    }
+  ]
+}

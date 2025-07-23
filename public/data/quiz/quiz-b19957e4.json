@@ -1,0 +1,73 @@
+{
+  "slug": "b19957e4",
+  "video_id": "fE6TbXCJ8q4",
+  "movie_title": "What Happens to Plastic in the Ocean?",
+  "movie_url": "https://youtu.be/fE6TbXCJ8q4",
+  "published_at": "2023-01-06T21:32:55Z",
+  "duration": "0:55",
+  "tags": [
+    "ocean",
+    "waste",
+    "explained",
+    "shorts",
+    "plastic",
+    "garbage patch",
+    "atlantic",
+    "pacific",
+    "teamseas"
+  ],
+  "introduction": "Have you ever wondered yourself what happens if you place a piece of waste into the ocean? Where wil",
+  "lead_intro": "Ever wondered where a piece of plastic garbage thrown into the ocean might end up? Dive into the world of ocean currents and trash accumulation.",
+  "quiz": [
+    {
+      "question": "According to the video, where is the first place the plastic garbage is heading?",
+      "choices": [
+        "north to the barren sea in the Arctic Ocean",
+        "south to the South Atlantic Garbage Patch",
+        "east to the Indian Ocean"
+      ],
+      "answer": "north to the barren sea in the Arctic Ocean",
+      "explanation": "The video mentions that the plastic garbage first heads north to the barren sea in the Arctic Ocean."
+    },
+    {
+      "question": "What is the name of the area in the North Atlantic Ocean where the piece of plastic appears to be circling?",
+      "choices": [
+        "North Atlantic Garbage Patch",
+        "South Atlantic Garbage Patch",
+        "Indian Ocean Trash Zone"
+      ],
+      "answer": "North Atlantic Garbage Patch",
+      "explanation": "The video refers to the area where the plastic seems trapped as the North Atlantic Garbage Patch."
+    },
+    {
+      "question": "According to the video, where else, besides the North Atlantic, are there Garbage Patches?",
+      "choices": [
+        "South Atlantic, Indian Ocean, South Pacific, North Pacific",
+        "Arctic Ocean, Mediterranean Sea, Black Sea, Baltic Sea",
+        "Antarctic Ocean, Red Sea, Caribbean Sea, Caspian Sea"
+      ],
+      "answer": "South Atlantic, Indian Ocean, South Pacific, North Pacific",
+      "explanation": "The video mentions Garbage Patches in the South Atlantic, Indian Ocean, South Pacific, and North Pacific, besides the North Atlantic."
+    },
+    {
+      "question": "What causes the accumulation of large amounts of trash in the North Atlantic Garbage Patch?",
+      "choices": [
+        "natural ocean currents",
+        "marine animals",
+        "volcanic eruptions"
+      ],
+      "answer": "natural ocean currents",
+      "explanation": "The video explains that natural ocean currents accumulate large amounts of trash in the North Atlantic Garbage Patch."
+    },
+    {
+      "question": "What did the computational simulation mentioned in the video show about the placement of particles in the ocean?",
+      "choices": [
+        "They will eventually form a migration pattern",
+        "They will disappear",
+        "They will sink to the ocean floor"
+      ],
+      "answer": "They will eventually form a migration pattern",
+      "explanation": "The video states that a computational simulation showed that particles evenly placed across the ocean will eventually form a migration pattern."
+    }
+  ]
+}

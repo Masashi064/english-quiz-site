@@ -1,0 +1,63 @@
+{
+  "slug": "05fee932",
+  "video_id": "EhAemz1v7dQ",
+  "movie_title": "Do we Need Nuclear Energy to Stop Climate Change?",
+  "movie_url": "https://youtu.be/EhAemz1v7dQ",
+  "published_at": "2021-04-13T14:00:11Z",
+  "duration": "9:03",
+  "tags": [],
+  "introduction": "Get Merch designed with ❤ from https://kgs.link/shop-140  \nJoin the Patreon Bird Army 🐧 https://kgs",
+  "lead_intro": "As the world grapples with the challenge of climate change, the debate around the role of nuclear energy becomes crucial. Should we rely more on nuclear power to combat global warming? Let's test your understanding with some quiz questions based on the video.",
+  "quiz": [
+    {
+      "question": "What percentage of the world's primary energy currently comes from fossil fuels?",
+      "choices": [
+        "84%",
+        "67%",
+        "10%"
+      ],
+      "answer": "84%",
+      "explanation": "The video mentions that currently, 84% of the world's primary energy comes from fossil fuels."
+    },
+    {
+      "question": "Which two countries get most of their low carbon electricity from nuclear and hydropower?",
+      "choices": [
+        "France and Sweden",
+        "Germany and Japan",
+        "China and India"
+      ],
+      "answer": "France and Sweden",
+      "explanation": "France and Sweden are highlighted as countries that mainly rely on nuclear and hydropower for low carbon electricity."
+    },
+    {
+      "question": "What is identified as one of the most impactful things to do to combat climate change?",
+      "choices": [
+        "Electrifying as many sectors as possible",
+        "Burning more fossil fuels",
+        "Reducing renewable energy usage"
+      ],
+      "answer": "Electrifying as many sectors as possible",
+      "explanation": "The video suggests that electrifying various sectors is highly impactful in addressing climate change."
+    },
+    {
+      "question": "What is the main problem highlighted regarding the reliability of renewable energy sources?",
+      "choices": [
+        "Variability in wind and solar power",
+        "Excessive energy storage capacity",
+        "Consistent energy production"
+      ],
+      "answer": "Variability in wind and solar power",
+      "explanation": "The video points out the challenge of variability in wind and solar power affecting the reliability of renewable energy sources."
+    },
+    {
+      "question": "Why is the transition away from fossil fuels to alternative energy sources considered challenging?",
+      "choices": [
+        "Lack of investment and innovation in nuclear technology",
+        "Concerns about nuclear waste",
+        "Reliability and consistency issues with renewables"
+      ],
+      "answer": "Reliability and consistency issues with renewables",
+      "explanation": "The difficulty in transitioning from fossil fuels is attributed to the reliability and consistency challenges faced by renewable energy sources."
+    }
+  ]
+}

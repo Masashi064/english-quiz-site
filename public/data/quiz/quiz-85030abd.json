@@ -1,0 +1,74 @@
+{
+  "slug": "85030abd",
+  "video_id": "smygOm4S9W4",
+  "movie_title": "Which Building Is Taller?",
+  "movie_url": "https://youtu.be/smygOm4S9W4",
+  "published_at": "2023-01-09T15:22:50Z",
+  "duration": "0:50",
+  "tags": [
+    "architecture",
+    "buildings",
+    "skyscraper",
+    "tall",
+    "sears tower",
+    "petronas towers",
+    "explained",
+    "understanding",
+    "learn",
+    "shorts"
+  ],
+  "introduction": "This seems like a simple question, take two skyscrapers, like the petronas towers in Malaysia or the",
+  "lead_intro": "Are you ready to test your knowledge about the tallest buildings in the world? Let's dive into a quiz based on the Sears Tower and the Patronus Towers!",
+  "quiz": [
+    {
+      "question": "Which building held the title of the tallest building on Earth from 1973?",
+      "choices": [
+        "Sears Tower",
+        "Patronus Towers",
+        "Empire State Building"
+      ],
+      "answer": "Sears Tower",
+      "explanation": "The Sears Tower in Chicago held the title of tallest building on Earth from 1973."
+    },
+    {
+      "question": "What feature on the Patronus Towers contributed to their height advantage over the Sears Tower?",
+      "choices": [
+        "Thin spines",
+        "Antennas",
+        "Observation decks"
+      ],
+      "answer": "Thin spines",
+      "explanation": "The thin spines on the Patronus Towers, which are almost 10 meters above the roof, contributed to their height advantage."
+    },
+    {
+      "question": "Why do the thin spines on the Patronus Towers count towards building height?",
+      "choices": [
+        "Permanent fixtures",
+        "Removable",
+        "Decorative elements"
+      ],
+      "answer": "Permanent fixtures",
+      "explanation": "The thin spines on the Patronus Towers count towards building height because they are considered permanent fixtures."
+    },
+    {
+      "question": "Which tower has the highest occupied floor that is usable and accessible?",
+      "choices": [
+        "Sears Tower",
+        "Patronus Towers",
+        "Burj Khalifa"
+      ],
+      "answer": "Sears Tower",
+      "explanation": "The Sears Tower has the highest occupied floor that is usable and accessible when compared to the Patronus Towers."
+    },
+    {
+      "question": "What year were the Patronus Towers in Malaysia completed?",
+      "choices": [
+        "1998",
+        "1973",
+        "2000"
+      ],
+      "answer": "1998",
+      "explanation": "The Patronus Towers in Malaysia were finished in 1998, making them a significant addition to the world's tallest buildings."
+    }
+  ]
+}
