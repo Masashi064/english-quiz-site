@@ -1,0 +1,79 @@
+{
+  "slug": "034387ae",
+  "video_id": "qP65siuTLFc",
+  "movie_title": "Cooking a Chicken in a Particle Accelerator",
+  "movie_url": "https://youtu.be/qP65siuTLFc",
+  "published_at": "2023-12-28T15:00:39Z",
+  "duration": "1:00",
+  "tags": [
+    "kurzgesagt",
+    "kurzgesagt_inanutshell",
+    "kurzgesagt_discover",
+    "inanutshell",
+    "cookingwithshorts",
+    "learnwithshorts",
+    "particleaccelerator",
+    "largehadroncollider",
+    "physicsshort",
+    "particlephysics",
+    "science",
+    "CERN",
+    "physics",
+    "in a nutshell",
+    "kurzgesagt in a nutshell"
+  ],
+  "introduction": "Who needs an oven when you can just use a particle accelerator?\n\n#kurzgesagt #kurzgesagt_inanutshell",
+  "lead_intro": "Ever wondered how cooking a chicken with a particle accelerator would work? Let's dive into the fascinating process!",
+  "quiz": [
+    {
+      "question": "What happens to the outer layer of the chicken when all the air is pumped out of the beam pipe?",
+      "choices": [
+        "It becomes dried and brittle",
+        "It gets cooked evenly",
+        "It turns into liquid"
+      ],
+      "answer": "It becomes dried and brittle",
+      "explanation": "When the air is pumped out, moisture and other molecules vaporize, leaving the outer layer of the chicken dried and brittle."
+    },
+    {
+      "question": "What effect does the energy of the collisions have on the chicken?",
+      "choices": [
+        "It burns the meat around it",
+        "It freezes the chicken",
+        "It turns the chicken radioactive"
+      ],
+      "answer": "It burns the meat around it",
+      "explanation": "The tremendous energy of the collisions burns the meat around the narrow strand of chicken being targeted."
+    },
+    {
+      "question": "What happens to the space around the hole in the chicken after the cooking process?",
+      "choices": [
+        "It becomes radioactive",
+        "It stays raw",
+        "It turns into liquid"
+      ],
+      "answer": "It becomes radioactive",
+      "explanation": "The space around the hole becomes radioactive after the chicken is pulled out of the accelerator."
+    },
+    {
+      "question": "Can you eat the chicken immediately after it's cooked in the particle accelerator?",
+      "choices": [
+        "Yes, once it thaws",
+        "No, it needs further cooking",
+        "Yes, it's fully cooked"
+      ],
+      "answer": "No, it needs further cooking",
+      "explanation": "Although not fully raw, the chicken needs further cooking after being in the accelerator to be safe for consumption."
+    },
+    {
+      "question": "Why can't the creators recommend eating the chicken cooked in the particle accelerator?",
+      "choices": [
+        "Risk of food poisoning",
+        "It becomes too dry",
+        "It loses its flavor"
+      ],
+      "answer": "Risk of food poisoning",
+      "explanation": "Due to the risk of food poisoning or radiation poisoning, the creators can't recommend consuming the chicken cooked in the particle accelerator."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "f234e94c",
+  "video_id": "eEboSllrZpA",
+  "movie_title": "Digital help for blind people - 6 Minute English",
+  "movie_url": "https://youtu.be/eEboSllrZpA",
+  "published_at": "2021-03-18T16:00:32Z",
+  "duration": "6:18",
+  "tags": [],
+  "introduction": "Digital technology is dramatically improving the lives of blind people all around the world. Neil an",
+  "lead_intro": "Discover how assistive technology is transforming the lives of blind individuals in the digital age! Let's dive into some fascinating insights shared on BBC Learning English.",
+  "quiz": [
+    {
+      "question": "Who invented the system of reading using printed raised dots that blind people can feel with their fingertips?",
+      "choices": [
+        "Margaret Walker",
+        "Louis Braille",
+        "Samuel Morse"
+      ],
+      "answer": "Louis Braille",
+      "explanation": "Louis Braille invented the reading system using raised dots, known as braille, specifically designed for blind individuals."
+    },
+    {
+      "question": "What technology is used by some assistive devices for blind people to detect obstacles?",
+      "choices": [
+        "Radar",
+        "Echo-location",
+        "GPS"
+      ],
+      "answer": "Echo-location",
+      "explanation": "Some assistive devices for blind individuals use echo-location, similar to the ultrasound detection system used by bats, to detect obstacles."
+    },
+    {
+      "question": "In the context of blindness, what is the difference between being blind and being visually impaired?",
+      "choices": [
+        "Blind people cannot see anything, visually impaired people have blurry vision",
+        "Blind people can see shapes, visually impaired people have no vision",
+        "Being blind means unable to see, visually impaired means decreased ability to see"
+      ],
+      "answer": "Being blind means unable to see, visually impaired means decreased ability to see",
+      "explanation": "Being blind refers to the inability to see, while being visually impaired indicates having a reduced ability to see, whether partially or completely."
+    },
+    {
+      "question": "What is the goal of using assistive technology in helping blind individuals in society?",
+      "choices": [
+        "To make blindness a bigger issue",
+        "To normalize disability",
+        "To isolate blind individuals"
+      ],
+      "answer": "To normalize disability",
+      "explanation": "The aim of utilizing assistive technology is to normalize disability, changing perceptions to accept it as a regular part of life and not a significant problem."
+    },
+    {
+      "question": "What invention is considered an early example of assistive technology for individuals with disabilities?",
+      "choices": [
+        "Smartphone apps",
+        "Braille reading system",
+        "White cane"
+      ],
+      "answer": "Braille reading system",
+      "explanation": "The braille reading system, created by Louis Braille, is recognized as an early form of assistive technology designed to aid individuals with visual impairments in reading and communication."
+    }
+  ]
+}
