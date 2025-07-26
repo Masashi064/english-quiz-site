@@ -3,5 +3,6 @@
   "/_not-found/page": "app/_not-found/page.js",
   "/account/page": "app/account/page.js",
   "/top/page": "app/top/page.js",
-  "/word-review/page": "app/word-review/page.js"
+  "/word-review/page": "app/word-review/page.js",
+  "/article/[slug]/page": "app/article/[slug]/page.js"
 }

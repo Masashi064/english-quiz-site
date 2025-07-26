@@ -32,11 +32,6 @@ export default function FilterSidebar({
     setCompletion('all');
   };
 
-  const applyFilters = () => {
-    // 必要に応じてフィルター適用時のロジックをここに追加
-    // 今のところ set～ がすでに反映しているので、ボタンはあくまで「意図を明確にする」ための見た目用
-  };
-
   return (
     <div className="space-y-4 p-4 text-sm text-black dark:text-white">
       <div>
@@ -98,18 +93,9 @@ export default function FilterSidebar({
         </select>
       </div>
 
-      {/* ✅ 追加：検索ボタン */}
-      <button
-        onClick={applyFilters}
-        className="w-full px-4 py-2 rounded bg-blue-600 text-white hover:bg-blue-700"
-      >
-        Apply Filters
-      </button>
-
-      {/* ✅ 移動：リセットボタン */}
       <button
         onClick={resetFilters}
-        className="w-full px-4 py-2 rounded bg-gray-300 text-gray-900 dark:bg-gray-600 dark:text-white hover:bg-gray-400 dark:hover:bg-gray-500"
+        className="mt-4 w-full px-4 py-2 rounded bg-gray-300 text-gray-900 dark:bg-gray-600 dark:text-white hover:bg-gray-400 dark:hover:bg-gray-500"
       >
         Reset Filters
       </button>
