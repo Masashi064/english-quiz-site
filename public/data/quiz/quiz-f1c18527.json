@@ -1,0 +1,72 @@
+{
+  "slug": "f1c18527",
+  "video_id": "bhyoWw2nxfc",
+  "movie_title": "What Is the Tallest Building In NYC?",
+  "movie_url": "https://youtu.be/bhyoWw2nxfc",
+  "published_at": "2023-02-05T14:00:30Z",
+  "duration": "0:31",
+  "tags": [
+    "nyc",
+    "new york city",
+    "world trade center",
+    "construction",
+    "tall buildings",
+    "explained",
+    "shorts",
+    "understanding"
+  ],
+  "introduction": "Many people think of the One World Trade Center as the tallest building in New York City and in the",
+  "lead_intro": "Think you know which is the tallest building in New York City? Let's test your knowledge with this quiz!",
+  "quiz": [
+    {
+      "question": "Which building in New York City is generally regarded as the tallest?",
+      "choices": [
+        "Empire State Building",
+        "One World Trade Center",
+        "Chrysler Building"
+      ],
+      "answer": "One World Trade Center",
+      "explanation": "One World Trade Center is generally regarded as the tallest building in New York City."
+    },
+    {
+      "question": "What makes up much of the height of One World Trade Center?",
+      "choices": [
+        "Large spire",
+        "Helipad",
+        "Observation deck"
+      ],
+      "answer": "Large spire",
+      "explanation": "Much of the height of One World Trade Center is made up of its large spire."
+    },
+    {
+      "question": "Which building is taller than One World Trade Center when measured by roof height?",
+      "choices": [
+        "Central Park Tower",
+        "Empire State Building",
+        "Flatiron Building"
+      ],
+      "answer": "Central Park Tower",
+      "explanation": "The Central Park Tower is taller than One World Trade Center when measured by roof height."
+    },
+    {
+      "question": "In what year did the Central Park Tower open?",
+      "choices": [
+        "2019",
+        "2020",
+        "2021"
+      ],
+      "answer": "2021",
+      "explanation": "The Central Park Tower opened in 2021."
+    },
+    {
+      "question": "How can different buildings contest the title of the tallest in New York City?",
+      "choices": [
+        "By roof height",
+        "By spire height",
+        "By floor area"
+      ],
+      "answer": "By roof height",
+      "explanation": "Different buildings can contest the title of the tallest by being taller when measured by roof height."
+    }
+  ]
+}

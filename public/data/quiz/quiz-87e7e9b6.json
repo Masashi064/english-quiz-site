@@ -1,0 +1,63 @@
+{
+  "slug": "87e7e9b6",
+  "video_id": "VB_GWz25B3Q",
+  "movie_title": "What if the World turned to Gold? - The Gold Apocalypse",
+  "movie_url": "https://youtu.be/VB_GWz25B3Q",
+  "published_at": "2021-03-09T14:59:36Z",
+  "duration": "9:17",
+  "tags": [],
+  "introduction": "The Map of Evolution and other sciency posters, researched and designed with love, are now available",
+  "lead_intro": "Join us in exploring the scientific mystery of what would happen if Earth suddenly turned into gold in this intriguing video by Kurzgesagt.",
+  "quiz": [
+    {
+      "question": "What happens when Midas touches something and it turns into gold?",
+      "choices": [
+        "The object becomes much too dense and explodes",
+        "The object becomes a foamy gold without exploding",
+        "The object remains unchanged"
+      ],
+      "answer": "The object becomes much too dense and explodes",
+      "explanation": "When Midas touches something, the atoms are reassembled into gold, making the object much denser and causing it to explode."
+    },
+    {
+      "question": "What happens to the Earth when it is turned into gold?",
+      "choices": [
+        "The Earth implodes and shrinks to two-thirds of its radius",
+        "The Earth expands and becomes lighter",
+        "The Earth remains unchanged"
+      ],
+      "answer": "The Earth implodes and shrinks to two-thirds of its radius",
+      "explanation": "Turning Earth into gold results in an implosion due to the spongy nature of the gold, causing Earth to contract and gravity to momentarily disappear."
+    },
+    {
+      "question": "What happens when the Earth is replaced by a solid gold object with the same volume?",
+      "choices": [
+        "The Earth becomes three and a half times more massive",
+        "The Earth becomes lighter and expands",
+        "The Earth becomes denser but stays the same mass"
+      ],
+      "answer": "The Earth becomes three and a half times more massive",
+      "explanation": "Replacing Earth with gold of the same volume makes the Earth significantly more massive, leading to increased gravity, atmospheric pressure, and catastrophic consequences."
+    },
+    {
+      "question": "What effect does the increased gravity have on the Earth's surface?",
+      "choices": [
+        "The tallest mountains are compressed to about two kilometers high",
+        "The oceans dry up as the water evaporates",
+        "The Earth's surface becomes smoother and more even"
+      ],
+      "answer": "The tallest mountains are compressed to about two kilometers high",
+      "explanation": "The increased gravity causes the tallest mountains to compress, limiting their height, and leads to significant geological changes like earthquakes and landslides."
+    },
+    {
+      "question": "What is the final state of the Earth after being turned into gold?",
+      "choices": [
+        "Covered by an ocean 3 kilometers deep",
+        "Transformed into a frozen wasteland",
+        "Becomes a lush paradise with gold mountains"
+      ],
+      "answer": "Covered by an ocean 3 kilometers deep",
+      "explanation": "After the transformation, the Earth is entirely covered by a 3-kilometer-deep ocean, with a super hot atmosphere and catastrophic consequences for life."
+    }
+  ]
+}

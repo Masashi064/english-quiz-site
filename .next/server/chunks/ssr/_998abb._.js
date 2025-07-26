@@ -18,6 +18,10 @@ function FilterSidebar({ category, setCategory, channel, setChannel, level, setL
         setLevel('all');
         setCompletion('all');
     };
+    const applyFilters = ()=>{
+    // 必要に応じてフィルター適用時のロジックをここに追加
+    // 今のところ set～ がすでに反映しているので、ボタンはあくまで「意図を明確にする」ための見た目用
+    };
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
         className: "space-y-4 p-4 text-sm text-black dark:text-white",
         children: [
@@ -28,7 +32,7 @@ function FilterSidebar({ category, setCategory, channel, setChannel, level, setL
                         children: "Channel"
                     }, void 0, false, {
                         fileName: "[project]/app/components/FilterSidebar.tsx",
-                        lineNumber: 38,
+                        lineNumber: 43,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("select", {
@@ -41,7 +45,7 @@ function FilterSidebar({ category, setCategory, channel, setChannel, level, setL
                                 children: "All Channels"
                             }, void 0, false, {
                                 fileName: "[project]/app/components/FilterSidebar.tsx",
-                                lineNumber: 44,
+                                lineNumber: 49,
                                 columnNumber: 11
                             }, this),
                             allChannels.map((c)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("option", {
@@ -49,19 +53,19 @@ function FilterSidebar({ category, setCategory, channel, setChannel, level, setL
                                     children: c
                                 }, c, false, {
                                     fileName: "[project]/app/components/FilterSidebar.tsx",
-                                    lineNumber: 46,
+                                    lineNumber: 51,
                                     columnNumber: 13
                                 }, this))
                         ]
                     }, void 0, true, {
                         fileName: "[project]/app/components/FilterSidebar.tsx",
-                        lineNumber: 39,
+                        lineNumber: 44,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/app/components/FilterSidebar.tsx",
-                lineNumber: 37,
+                lineNumber: 42,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -71,7 +75,7 @@ function FilterSidebar({ category, setCategory, channel, setChannel, level, setL
                         children: "Category"
                     }, void 0, false, {
                         fileName: "[project]/app/components/FilterSidebar.tsx",
-                        lineNumber: 54,
+                        lineNumber: 59,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("select", {
@@ -84,7 +88,7 @@ function FilterSidebar({ category, setCategory, channel, setChannel, level, setL
                                 children: "All Categories"
                             }, void 0, false, {
                                 fileName: "[project]/app/components/FilterSidebar.tsx",
-                                lineNumber: 60,
+                                lineNumber: 65,
                                 columnNumber: 11
                             }, this),
                             allCategories.map((c)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("option", {
@@ -92,19 +96,19 @@ function FilterSidebar({ category, setCategory, channel, setChannel, level, setL
                                     children: c
                                 }, c, false, {
                                     fileName: "[project]/app/components/FilterSidebar.tsx",
-                                    lineNumber: 62,
+                                    lineNumber: 67,
                                     columnNumber: 13
                                 }, this))
                         ]
                     }, void 0, true, {
                         fileName: "[project]/app/components/FilterSidebar.tsx",
-                        lineNumber: 55,
+                        lineNumber: 60,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/app/components/FilterSidebar.tsx",
-                lineNumber: 53,
+                lineNumber: 58,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -114,7 +118,7 @@ function FilterSidebar({ category, setCategory, channel, setChannel, level, setL
                         children: "Level"
                     }, void 0, false, {
                         fileName: "[project]/app/components/FilterSidebar.tsx",
-                        lineNumber: 70,
+                        lineNumber: 75,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("select", {
@@ -127,7 +131,7 @@ function FilterSidebar({ category, setCategory, channel, setChannel, level, setL
                                 children: "All Levels"
                             }, void 0, false, {
                                 fileName: "[project]/app/components/FilterSidebar.tsx",
-                                lineNumber: 76,
+                                lineNumber: 81,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("option", {
@@ -135,7 +139,7 @@ function FilterSidebar({ category, setCategory, channel, setChannel, level, setL
                                 children: "Beginner"
                             }, void 0, false, {
                                 fileName: "[project]/app/components/FilterSidebar.tsx",
-                                lineNumber: 77,
+                                lineNumber: 82,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("option", {
@@ -143,7 +147,7 @@ function FilterSidebar({ category, setCategory, channel, setChannel, level, setL
                                 children: "Intermediate"
                             }, void 0, false, {
                                 fileName: "[project]/app/components/FilterSidebar.tsx",
-                                lineNumber: 78,
+                                lineNumber: 83,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("option", {
@@ -151,19 +155,19 @@ function FilterSidebar({ category, setCategory, channel, setChannel, level, setL
                                 children: "Advanced"
                             }, void 0, false, {
                                 fileName: "[project]/app/components/FilterSidebar.tsx",
-                                lineNumber: 79,
+                                lineNumber: 84,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/app/components/FilterSidebar.tsx",
-                        lineNumber: 71,
+                        lineNumber: 76,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/app/components/FilterSidebar.tsx",
-                lineNumber: 69,
+                lineNumber: 74,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -173,7 +177,7 @@ function FilterSidebar({ category, setCategory, channel, setChannel, level, setL
                         children: "Completion"
                     }, void 0, false, {
                         fileName: "[project]/app/components/FilterSidebar.tsx",
-                        lineNumber: 84,
+                        lineNumber: 89,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("select", {
@@ -186,7 +190,7 @@ function FilterSidebar({ category, setCategory, channel, setChannel, level, setL
                                 children: "All Quizzes"
                             }, void 0, false, {
                                 fileName: "[project]/app/components/FilterSidebar.tsx",
-                                lineNumber: 90,
+                                lineNumber: 95,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("option", {
@@ -194,7 +198,7 @@ function FilterSidebar({ category, setCategory, channel, setChannel, level, setL
                                 children: "Completed"
                             }, void 0, false, {
                                 fileName: "[project]/app/components/FilterSidebar.tsx",
-                                lineNumber: 91,
+                                lineNumber: 96,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("option", {
@@ -202,34 +206,43 @@ function FilterSidebar({ category, setCategory, channel, setChannel, level, setL
                                 children: "Yet to try"
                             }, void 0, false, {
                                 fileName: "[project]/app/components/FilterSidebar.tsx",
-                                lineNumber: 92,
+                                lineNumber: 97,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/app/components/FilterSidebar.tsx",
-                        lineNumber: 85,
+                        lineNumber: 90,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/app/components/FilterSidebar.tsx",
-                lineNumber: 83,
+                lineNumber: 88,
+                columnNumber: 7
+            }, this),
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
+                onClick: applyFilters,
+                className: "w-full px-4 py-2 rounded bg-blue-600 text-white hover:bg-blue-700",
+                children: "Apply Filters"
+            }, void 0, false, {
+                fileName: "[project]/app/components/FilterSidebar.tsx",
+                lineNumber: 102,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
                 onClick: resetFilters,
-                className: "mt-4 w-full px-4 py-2 rounded bg-gray-300 text-gray-900 dark:bg-gray-600 dark:text-white hover:bg-gray-400 dark:hover:bg-gray-500",
+                className: "w-full px-4 py-2 rounded bg-gray-300 text-gray-900 dark:bg-gray-600 dark:text-white hover:bg-gray-400 dark:hover:bg-gray-500",
                 children: "Reset Filters"
             }, void 0, false, {
                 fileName: "[project]/app/components/FilterSidebar.tsx",
-                lineNumber: 96,
+                lineNumber: 110,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/app/components/FilterSidebar.tsx",
-        lineNumber: 36,
+        lineNumber: 41,
         columnNumber: 5
     }, this);
 }
