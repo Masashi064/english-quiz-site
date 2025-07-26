@@ -1,5 +1,5 @@
 {
-  "slug": "3fa34867",
+  "slug": "",
   "video_id": "_5siHrpPnmw",
   "movie_title": "The health benefits of apples ⏲️ 6 Minute English",
   "movie_url": "https://youtu.be/_5siHrpPnmw",
@@ -39,57 +39,57 @@
     "podcast English"
   ],
   "introduction": "As the proverb says: An apple a day keeps the doctor away. We’ll hear from an expert about the lates",
-  "lead_intro": "Do you know the health benefits of eating apples? Let's test your knowledge with some questions based on the video content!",
+  "lead_intro": "Do you know which English proverb suggests that an apple a day keeps the doctor away? Let's test your knowledge with some questions based on this interesting video!",
   "quiz": [
     {
-      "question": "According to the video, which chemical compound found in apple skins is known to reduce blood pressure and improve brain and heart health?",
+      "question": "What does the proverb 'Actions speak louder than words' mean?",
       "choices": [
-        "fibre",
-        "vitamins",
-        "flavonoids"
+        "What people say is more important than what they do",
+        "What people do is more important than what they say",
+        "Words and actions are equally significant"
       ],
-      "answer": "flavonoids",
-      "explanation": "The video mentions that apple skins are full of flavonoids, a chemical compound known to reduce blood pressure and improve brain and heart health."
+      "answer": "What people do is more important than what they say",
+      "explanation": "The proverb 'Actions speak louder than words' means that what people do is more important than what they say."
+    },
+    {
+      "question": "According to the video, what is the name of a real type of English apple?",
+      "choices": [
+        "a Taylor's gold",
+        "a Golden pippin",
+        "a Black Worcester"
+      ],
+      "answer": "a Golden pippin",
+      "explanation": "Golden pippin is the name of a real type of English apple, while Black Worcester and Taylor's gold are types of English pear."
     },
     {
       "question": "What does the phrase 'trim the waistline' mean?",
       "choices": [
-        "to lose weight",
-        "to build muscle",
-        "to improve flexibility"
+        "To gain weight",
+        "To lose weight",
+        "To maintain a healthy body weight"
       ],
-      "answer": "to keep your body weight healthy with no extra fat around your waistline",
-      "explanation": "In the video, 'trim the waistline' is explained as keeping your body weight healthy with no extra fat around your waistline."
+      "answer": "To maintain a healthy body weight",
+      "explanation": "The phrase 'trim the waistline' means to keep your body weight healthy with no extra fat around your waistline."
     },
     {
       "question": "How does Dr. Mosley describe apples in terms of their versatility?",
       "choices": [
-        "as a superfood",
-        "as a common fruit",
-        "as something that can be used in many different ways"
+        "Limited in their uses",
+        "Can be used for many purposes",
+        "Only suitable for snacking"
       ],
-      "answer": "as something which can be used for many purposes, or in many different ways",
+      "answer": "Can be used for many purposes",
       "explanation": "Dr. Mosley describes apples as versatile, meaning they can be used for many different purposes or in many different ways."
     },
     {
-      "question": "What does it mean if someone is described as 'exotic'?",
+      "question": "What does the video suggest about the health benefits of apple skins?",
       "choices": [
-        "unusual and exciting",
-        "common and boring",
-        "traditional and well-known"
+        "They have no significant benefits",
+        "They are packed with fibre and vitamins",
+        "They are harmful for health"
       ],
-      "answer": "unusual and exciting",
-      "explanation": "In the video, 'exotic' is explained as something unusual and exciting, often because it comes from an unfamiliar place."
-    },
-    {
-      "question": "Which of the following is the name of a real type of English apple?",
-      "choices": [
-        "Taylor’s gold",
-        "Golden pippin",
-        "Black Worcester"
-      ],
-      "answer": "Golden pippin",
-      "explanation": "In the video, it is revealed that 'Golden pippin' is the name of a real type of English apple, while the other options are types of English pear."
+      "answer": "They are packed with fibre and vitamins",
+      "explanation": "The video mentions that apple skins are full of good stuff like fibre and vitamins, making them beneficial for health."
     }
   ]
 }
