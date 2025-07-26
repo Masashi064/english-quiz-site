@@ -34,57 +34,57 @@
     "Ted Education"
   ],
   "introduction": "Practice more problem-solving at https://brilliant.org/TedEd\n\n--\n\nSmuggling yourself aboard the rogu",
-  "lead_intro": "Can you solve the puzzle and figure out the launch override code? Test your logic with the following quiz questions!",
+  "lead_intro": "Can you solve the intelligence puzzle and prevent a nuclear missile launch? Test your deduction skills with this challenging quiz!",
   "quiz": [
     {
-      "question": "What two numbers were used as the override code to stop the missile launch?",
+      "question": "What did the boss reveal to Minion A and Minion B respectively?",
       "choices": [
-        "5 and 4",
-        "6 and 2",
-        "7 and 3"
+        "Sum and product",
+        "Product and sum",
+        "Numbers and launch time"
       ],
-      "answer": "5 and 4",
-      "explanation": "By analyzing the information and statements made by A and B, it is deduced that the correct override code to stop the missile launch is 5 and 4."
+      "answer": "Sum and product",
+      "explanation": "The boss told Minion A the sum of the numbers and Minion B the product of the numbers."
     },
     {
-      "question": "Why were the numbers 3 and 4 eliminated as potential override codes?",
+      "question": "What were the possible numbers that Minion A could have based on the clues?",
       "choices": [
-        "Limited product possibilities",
-        "Contradiction in A's knowledge",
-        "Exceeding the sum limit"
+        "3, 4, 5, 6",
+        "1, 2, 3, 4",
+        "4, 6, 8, 10"
       ],
-      "answer": "Contradiction in A's knowledge",
-      "explanation": "The numbers 3 and 4 were eliminated because if they were the sum, the product could only be 2 or 3, which would contradict A's statement that B wouldn't know A's number."
+      "answer": "3, 4, 5, 6",
+      "explanation": "Minion A's possible numbers were 3, 4, 5, or 6 based on the given information."
     },
     {
-      "question": "What was the key insight gained from A's first statement?",
+      "question": "Why were the numbers 3 and 4 eliminated as Minion A's potential numbers?",
       "choices": [
-        "B must have a unique product",
-        "A's number is a sum of B's factors",
-        "The product must be a prime number"
+        "Too few product options",
+        "Contradiction in B's statement",
+        "Exceeding the boss's limit"
       ],
-      "answer": "A's number is a sum of B's factors",
-      "explanation": "A's statement led to the conclusion that A's number must be a sum of B's factors, narrowing down the possibilities for the launch code."
+      "answer": "Contradiction in B's statement",
+      "explanation": "If Minion A had 3 or 4, B could deduce A's number, contradicting the second statement."
     },
     {
-      "question": "Why was it crucial to consider the ambiguity in B's knowledge of A's number?",
+      "question": "How did the deduction process lead to the conclusion that the override code was 5 and 4?",
       "choices": [
-        "To ensure multiple possibilities",
-        "To determine the sum factors",
-        "To eliminate erroneous combinations"
+        "Unique product options",
+        "Consistent with A's statement",
+        "Limited sum possibilities"
       ],
-      "answer": "To eliminate erroneous combinations",
-      "explanation": "Considering the ambiguity in B's knowledge helped in eliminating options that would contradict the statements made by A and B, leading to a more accurate deduction of the launch code."
+      "answer": "Consistent with A's statement",
+      "explanation": "Based on the deductions made, 5 and 4 were consistent with the statements made by Minion A and Minion B."
     },
     {
-      "question": "What was the final step in confirming the correct launch override code?",
+      "question": "What was the critical factor that determined the correctness of the override code?",
       "choices": [
-        "Analyzing B's knowledge of A's number",
-        "Checking the sum and product possibilities",
-        "Verifying the sum of potential launch codes"
+        "The number of steps in the deduction process",
+        "B's access to information",
+        "Elimination of contradictory options"
       ],
-      "answer": "Analyzing B's knowledge of A's number",
-      "explanation": "The final step involved analyzing B's knowledge to confirm that the override code had to be 5 and 4 based on the deductions made from the statements and possibilities."
+      "answer": "Elimination of contradictory options",
+      "explanation": "The elimination of contradictory options based on the statements led to the determination of the correct override code."
     }
   ]
 }
