@@ -1,0 +1,102 @@
+{
+  "slug": "0abab09b",
+  "video_id": "a6pqpINjdRQ",
+  "movie_title": "Can you solve the private eye riddle? - Henri Picciotto",
+  "movie_url": "https://youtu.be/a6pqpINjdRQ",
+  "published_at": "2022-04-26T15:01:15Z",
+  "duration": "6:17",
+  "tags": [
+    "vampires",
+    "detective",
+    "investigation",
+    "numberland",
+    "digitopolis",
+    "prime numbers",
+    "natural numbers",
+    "prime",
+    "vampire",
+    "slime",
+    "number patterns",
+    "infinite numbers",
+    "non prime numbers",
+    "minions",
+    "vampire slayers",
+    "vampire slayer",
+    "vampire detective",
+    "Pi",
+    "propechy",
+    "riddles",
+    "ted ed riddles",
+    "math riddles",
+    "logic riddles",
+    "logic puzzles",
+    "reasoning",
+    "deductive reasoning",
+    "puzzle solving",
+    "education",
+    "mathematics",
+    "animation",
+    "henri picciotto",
+    "igor coric",
+    "artrake studio",
+    "TED",
+    "TED-Ed",
+    "TED Ed",
+    "Teded",
+    "Ted Education"
+  ],
+  "introduction": "Practice more problem-solving at https://brilliant.org/TedEd\n\n--\n\nAs Numberland’s best detective, yo",
+  "lead_intro": "Join the thrilling mystery in Digitopolis as you uncover the secrets behind the desiccated corpses of prominent natural numbers. Can you identify the immune numbers and solve the case before it's too late?",
+  "quiz": [
+    {
+      "question": "What is the significance of the slime-lines on the victims?",
+      "choices": [
+        "They indicate prime numbers",
+        "They show non-prime digits",
+        "They represent even numbers"
+      ],
+      "answer": "They indicate prime numbers",
+      "explanation": "The slime-lines on the victims represent prime numbers, as prime numbers are only divisible by 1 and themselves."
+    },
+    {
+      "question": "How many one-digit numbers are immune in the mystery?",
+      "choices": [
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "4",
+      "explanation": "The four one-digit immune numbers are 2, 3, 5, and 7, all of which have been kidnapped in the story."
+    },
+    {
+      "question": "Why are numbers ending in 2 or 5 eliminated as immune numbers?",
+      "choices": [
+        "They are divisible by 3",
+        "They are divisible by 2 and 5",
+        "They are divisible by 11"
+      ],
+      "answer": "They are divisible by 2 and 5",
+      "explanation": "Numbers ending in 2 or 5 are always divisible by 2 and 5, making them non-prime and thus not immune."
+    },
+    {
+      "question": "How many three-digit immune numbers are identified in the mystery?",
+      "choices": [
+        "6",
+        "7",
+        "8"
+      ],
+      "answer": "8",
+      "explanation": "There are 8 three-digit immune numbers that are identified by following the pattern of the two-digit immune numbers with additional 3s or 7s."
+    },
+    {
+      "question": "Why can't a four-digit number be immune in the mystery?",
+      "choices": [
+        "It is divisible by 2 and 5",
+        "It does not follow the pattern",
+        "It starts with a 7"
+      ],
+      "answer": "It starts with a 7",
+      "explanation": "A four-digit number cannot be immune because any consecutive three digits would have to be immune, and there is no three-digit immune number that starts with a 7."
+    }
+  ]
+}

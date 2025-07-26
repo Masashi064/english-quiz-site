@@ -1,0 +1,94 @@
+{
+  "slug": "5b19b8b5",
+  "video_id": "SEDabz-hyKo",
+  "movie_title": "Can you solve the Big Bang riddle? - James Tanton",
+  "movie_url": "https://youtu.be/SEDabz-hyKo",
+  "published_at": "2022-02-24T16:01:02Z",
+  "duration": "6:24",
+  "tags": [
+    "antimatter",
+    "big bang",
+    "matter",
+    "galaxy",
+    "particles",
+    "particle of matter",
+    "gluon",
+    "cosmic particles",
+    "antiparticles",
+    "pure energy",
+    "energy",
+    "mathematics",
+    "mathematical riddle",
+    "riddles",
+    "brain teaser",
+    "ted ed riddles",
+    "critical thinking",
+    "antimatter cube",
+    "universe",
+    "creation of the universe",
+    "education",
+    "animation",
+    "james tanton",
+    "igor coric",
+    "artrake studio",
+    "TED",
+    "TED-Ed",
+    "TED Ed",
+    "Teded",
+    "Ted Education"
+  ],
+  "introduction": "Practice more problem-solving at https://brilliant.org/TedEd\n\n--\n\nIt’s moments after the Big Bang an",
+  "lead_intro": "Imagine being a particle of matter amidst the chaos of the early universe, navigating through a game of survival. Let's dive into a mind-bending scenario and explore the strategy to ensure you're the last one standing!",
+  "quiz": [
+    {
+      "question": "In the first scenario with a circle of particles where matter and antimatter particles annihilate if they are adjacent, where should you position yourself to be the last particle standing?",
+      "choices": [
+        "Between two matter particles",
+        "To the left of a matter particle",
+        "To the right of an antimatter particle"
+      ],
+      "answer": "To the left of a matter particle",
+      "explanation": "By strategically positioning yourself to the left of a matter particle, you ensure that you will survive until the endgame state where only one matter particle remains."
+    },
+    {
+      "question": "In the second scenario with a large ring of matter and antimatter cubes, how do you program the device to identify safe spots?",
+      "choices": [
+        "Add 1 for each matter cube and subtract 1 for each antimatter cube, ensuring the sum never reaches 0",
+        "Add 1 for each antimatter cube and subtract 1 for each matter cube, ensuring the sum reaches 0",
+        "Add 1 for each matter cube and antimatter cube without any conditions"
+      ],
+      "answer": "Add 1 for each matter cube and subtract 1 for each antimatter cube, ensuring the sum never reaches 0",
+      "explanation": "By keeping a running sum where you add 1 for each matter cube and subtract 1 for each antimatter cube and ensuring the sum never hits 0, you can identify safe spots where you won't be annihilated."
+    },
+    {
+      "question": "How many attendees bring a cube of matter and a cube of antimatter in the second scenario?",
+      "choices": [
+        "27,182",
+        "54,364",
+        "108,728"
+      ],
+      "answer": "27,182",
+      "explanation": "In the second scenario, each of the 27,182 attendees brings a cube of matter and a cube of antimatter for the reenactment."
+    },
+    {
+      "question": "What is the ultimate goal in both scenarios?",
+      "choices": [
+        "To form pairs of cubes",
+        "To survive without being annihilated",
+        "To create a large circle of cubes"
+      ],
+      "answer": "To survive without being annihilated",
+      "explanation": "The main objective in both scenarios is to strategize and ensure survival until the end without being annihilated by adjacent matter or antimatter particles."
+    },
+    {
+      "question": "What mathematical concept is used to determine safe spots in the second scenario?",
+      "choices": [
+        "Multiplication",
+        "Addition",
+        "Subtraction"
+      ],
+      "answer": "Addition",
+      "explanation": "In the second scenario, the concept of adding 1 for each matter cube and subtracting 1 for each antimatter cube helps in identifying safe spots through a running sum."
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "slug": "eb2c3eef",
+  "video_id": "h8GqaAp3cGs",
+  "movie_title": "Einstein's twin paradox explained - Amber Stuver",
+  "movie_url": "https://youtu.be/h8GqaAp3cGs",
+  "published_at": "2019-09-26T15:01:49Z",
+  "duration": "6:16",
+  "tags": [
+    "einstein",
+    "twin paradox",
+    "time dilation",
+    "theory of relativity",
+    "space time",
+    "special relativity",
+    "lorentz factor",
+    "space",
+    "space travel",
+    "paradoxes of relativity",
+    "einstein's theory of special relativity",
+    "interstellar travel",
+    "physics",
+    "science",
+    "physics of relativity",
+    "thought experiment",
+    "twins",
+    "TED",
+    "TED-Ed",
+    "TED Ed",
+    "Teded",
+    "Ted Education",
+    "education",
+    "animation",
+    "amber stuver",
+    "aim creative studios"
+  ],
+  "introduction": "Follow two astronauts into outer space to explore time dilation and Einstein’s theory of relativity",
+  "lead_intro": "Join the adventure of identical twin astronauts, Terra and Stella, as they embark on a space journey that leads to a mind-bending exploration of special relativity and the 'Twin Paradox'.",
+  "quiz": [
+    {
+      "question": "What is the Lorentz factor at 86.6% of the speed of light?",
+      "choices": [
+        "1.5",
+        "2",
+        "2.5"
+      ],
+      "answer": "2",
+      "explanation": "At 86.6% of the speed of light, the Lorentz factor is 2, indicating that time will pass twice as slowly aboard the spaceship."
+    },
+    {
+      "question": "Why does time pass differently for Terra and Stella during their separation?",
+      "choices": [
+        "Due to distance contraction",
+        "Due to time dilation",
+        "Due to gravitational effects"
+      ],
+      "answer": "Due to time dilation",
+      "explanation": "Time passes differently for Terra and Stella due to time dilation, where the faster an object moves through space, the slower it moves through time compared to an unmoving observer."
+    },
+    {
+      "question": "Why does Stella observe Terra aging slowly for most of their time apart?",
+      "choices": [
+        "Due to length contraction",
+        "Due to time dilation",
+        "Due to speed increase"
+      ],
+      "answer": "Due to time dilation",
+      "explanation": "Stella observes Terra aging slowly for most of their time apart due to time dilation, where Terra's aging rate appears slower from Stella's perspective as she is moving at a high speed."
+    },
+    {
+      "question": "What is the age difference between Terra and Stella when they are reunited?",
+      "choices": [
+        "12 years",
+        "11 years",
+        "10 years"
+      ],
+      "answer": "12 years",
+      "explanation": "When Terra and Stella are reunited, Terra will be 43 years old, while Stella will be 31, resulting in a 12-year age difference between them."
+    },
+    {
+      "question": "Why can Terra be considered an inertial observer while Stella cannot?",
+      "choices": [
+        "Due to being on Earth",
+        "Due to maintaining a constant speed and direction",
+        "Due to being older"
+      ],
+      "answer": "Due to maintaining a constant speed and direction",
+      "explanation": "Terra can be considered an inertial observer because she maintained a constant speed and direction (zero velocity) relative to the rest of the universe throughout the experiment, unlike Stella who changed her direction during the return journey."
+    }
+  ]
+}

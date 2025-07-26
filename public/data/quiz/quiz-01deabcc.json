@@ -1,5 +1,5 @@
 {
-  "slug": "",
+  "slug": "01deabcc",
   "video_id": "iNgJCYPdmdQ",
   "movie_title": "Can you solve the rogue submarine riddle? - Alex Rosenthal",
   "movie_url": "https://youtu.be/iNgJCYPdmdQ",
@@ -34,57 +34,67 @@
     "Ted Education"
   ],
   "introduction": "Practice more problem-solving at https://brilliant.org/TedEd\n\n--\n\nSmuggling yourself aboard the rogu",
-  "lead_intro": "Can you solve the intelligence puzzle and find the correct launch override codes? Test your deduction skills with this thrilling scenario!",
+  "lead_intro": "In a high-stakes scenario involving nuclear missiles and codes, you must decipher a complex puzzle to prevent a catastrophic launch. Let's break down the logic behind the code solution together.",
   "quiz": [
     {
-      "question": "What were the two numbers that needed to be entered to override the missile launch?",
+      "question": "What numbers were used as the override code to prevent the missile launch?",
       "choices": [
+        "3 and 4",
         "5 and 4",
-        "3 and 5",
-        "6 and 7"
+        "5 and 6",
+        "4 and 6",
+        "6 and 8"
       ],
       "answer": "5 and 4",
-      "explanation": "Based on the deductions made from the statements of Minion A and Minion B, the correct numbers to override the missile launch were 5 and 4."
+      "explanation": "Based on the deductions made from the statements of Minion A and Minion B, the correct override code numbers were 5 and 4. This solution was reached through a series of logical eliminations and deductions."
     },
     {
-      "question": "Why were the numbers 3 and 4 eliminated as possible launch codes?",
+      "question": "Why were numbers 3 and 4 eliminated as potential override codes?",
       "choices": [
-        "Only one option for product",
-        "Contradicted A's statement",
-        "Not prime numbers"
+        "They did not add up to the correct sum.",
+        "They led to multiple product possibilities for Minion B.",
+        "Minion A could not determine Minion B's number with these codes.",
+        "They exceeded the limit set by the boss.",
+        "They were not positive integers."
       ],
-      "answer": "Contradicted A's statement",
-      "explanation": "If the launch codes were 3 and 4, it would lead to a contradiction with Minion A's statement regarding Minion B's knowledge of A's number."
+      "answer": "Minion A could not determine Minion B's number with these codes.",
+      "explanation": "Numbers 3 and 4 were eliminated as potential override codes because if Minion A had 3 or 4, Minion B would have multiple options for the product, making it impossible for Minion A to deduce Minion B's number based on his statement."
     },
     {
-      "question": "What was the key insight gained from A's first statement?",
+      "question": "Why was it crucial to consider both the sum and product of the numbers in the puzzle?",
       "choices": [
-        "A's number must be a sum of B's factors",
-        "B's number must be a prime",
-        "The product must be a square"
+        "To confuse Minion A and Minion B.",
+        "To ensure the numbers were prime.",
+        "To limit the possibilities based on Minion A's and Minion B's statements.",
+        "To increase the difficulty of the puzzle.",
+        "To reveal the boss's intentions."
       ],
-      "answer": "A's number must be a sum of B's factors",
-      "explanation": "A's statement led to the deduction that A's number had to be a sum of the possible factors of B's number, narrowing down the options."
+      "answer": "To limit the possibilities based on Minion A's and Minion B's statements.",
+      "explanation": "Considering both the sum and product of the numbers was crucial in narrowing down the possibilities based on the statements of Minion A and Minion B. It helped eliminate certain numbers and focus on those that aligned with the given clues."
     },
     {
-      "question": "Why were the numbers 6 and 7 not considered as possible launch codes?",
+      "question": "Why did Minion B know Minion A's number when the correct override code was 5 and 4?",
       "choices": [
-        "Not prime numbers",
-        "Contradicted B's statement",
-        "Sum was already used"
+        "Because the boss revealed the numbers to Minion B.",
+        "Because the sum and product uniquely identified the numbers.",
+        "Because Minion B guessed correctly.",
+        "Because Minion A confessed the number.",
+        "Because of a lucky guess."
       ],
-      "answer": "Contradicted B's statement",
-      "explanation": "If the launch codes were 6 and 7, it would contradict Minion B's statement about knowing A's number and vice versa."
+      "answer": "Because the sum and product uniquely identified the numbers.",
+      "explanation": "In the scenario where the correct override code was 5 and 4, Minion B was able to deduce Minion A's number based on the unique relationship between the sum and product of the numbers. This logic led to the successful identification of the override code."
     },
     {
-      "question": "What was the final reason for concluding that 5 and 4 were the correct launch codes?",
+      "question": "What was the key insight that led to determining the correct override code numbers?",
       "choices": [
-        "Only option where B knows A's number",
-        "Least common multiples",
-        "Prime factorization"
+        "Minion A's confession.",
+        "The boss's intervention.",
+        "The relationship between the sum and product of the numbers.",
+        "Minion B's deduction.",
+        "A lucky guess."
       ],
-      "answer": "Only option where B knows A's number",
-      "explanation": "After considering all possibilities, it was evident that only with the launch codes 5 and 4 could B know A's number and vice versa, confirming the correctness of these codes."
+      "answer": "The relationship between the sum and product of the numbers.",
+      "explanation": "The key insight that led to determining the correct override code numbers was understanding the relationship between the sum and product of the numbers provided by the boss. This relationship allowed for the elimination of certain numbers and the identification of the final code."
     }
   ]
 }

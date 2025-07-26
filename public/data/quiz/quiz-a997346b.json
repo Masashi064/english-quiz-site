@@ -1,0 +1,63 @@
+{
+  "slug": "a997346b",
+  "video_id": "xaQJbozY_Is",
+  "movie_title": "What Dinosaurs ACTUALLY Looked Like?",
+  "movie_url": "https://youtu.be/xaQJbozY_Is",
+  "published_at": "2021-10-12T14:00:09Z",
+  "duration": "9:53",
+  "tags": [],
+  "introduction": "The 12,022 Calendar is sold out check out more scienc-y products created with love here: https://kgs",
+  "lead_intro": "Exploring the mysteries of the past and the incredible creatures that once roamed the Earth opens up a world of wonder and curiosity. Join us on a journey to uncover the secrets of the past and learn about the creatures that have shaped our world today.",
+  "quiz": [
+    {
+      "question": "What is the most important window on the past according to the text?",
+      "choices": [
+        "Fossil record",
+        "Amber",
+        "Rainforests"
+      ],
+      "answer": "Fossil record",
+      "explanation": "The text mentions that the totality of all fossils on Earth is called the fossil record, which is described as the most important window on the past."
+    },
+    {
+      "question": "How many new dinosaur species are discovered each year in the golden era of discovery?",
+      "choices": [
+        "10",
+        "25",
+        "50"
+      ],
+      "answer": "50",
+      "explanation": "The text states that about 50 new dinosaur species are discovered each year in the current golden era of discovery."
+    },
+    {
+      "question": "What parts of animals are mainly preserved in the fossil record?",
+      "choices": [
+        "Soft tissues",
+        "Bones and teeth",
+        "Feathers"
+      ],
+      "answer": "Bones and teeth",
+      "explanation": "The text explains that the crystalized parts of bones and teeth are what remain the longest and are mainly preserved in the fossil record."
+    },
+    {
+      "question": "What modern technology combined with rare fossils provides a glimpse of the real colors of extinct dinosaurs?",
+      "choices": [
+        "X-rays",
+        "Scanning technology",
+        "Microscopes"
+      ],
+      "answer": "Scanning technology",
+      "explanation": "The text mentions that modern technology combined with rare fossils with preserved remains of fuzzy feathers give us a glimpse of the real colors of extinct dinosaurs."
+    },
+    {
+      "question": "Based on existing animals, what can we draw conclusions about regarding dinosaur behavior?",
+      "choices": [
+        "Hunting techniques",
+        "Communication",
+        "Mating rituals"
+      ],
+      "answer": "Mating rituals",
+      "explanation": "The text suggests that based on the behavior of existing animals, we can draw conclusions about dinosaur behavior, such as their mating rituals and displays to attract mates."
+    }
+  ]
+}

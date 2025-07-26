@@ -1,0 +1,63 @@
+{
+  "slug": "c5b1bedc",
+  "video_id": "Fkjr7XT95Jo",
+  "movie_title": "Forget shopping. Soon you'll download your new clothes - Danit Peleg",
+  "movie_url": "https://youtu.be/Fkjr7XT95Jo",
+  "published_at": "2015-12-17T16:11:52Z",
+  "duration": "6:23",
+  "tags": [],
+  "introduction": "View full lesson: http://ed.ted.com/lessons/forget-shopping-soon-you-ll-download-your-new-clothes-da",
+  "lead_intro": "Imagine being able to design and print your own clothes from the comfort of your home! Join Danit Peleg on her journey of 3D printing a fashion collection and revolutionizing the way we think about clothing.",
+  "quiz": [
+    {
+      "question": "What inspired Danit Peleg to start experimenting with 3D printing clothes?",
+      "choices": [
+        "Her love for technology",
+        "Her senior collection at fashion design school",
+        "Her internship at a fashion house in New York"
+      ],
+      "answer": "Her senior collection at fashion design school",
+      "explanation": "Danit Peleg was inspired to try and 3D print an entire fashion collection for her senior project at fashion design school."
+    },
+    {
+      "question": "What was the main challenge Danit faced in finding the right material for 3D printing clothes?",
+      "choices": [
+        "Printing speed",
+        "Printer size",
+        "Filament type"
+      ],
+      "answer": "Filament type",
+      "explanation": "The main challenge Danit faced was finding the right filament for printing clothes, experimenting with different materials until she found one that was strong and flexible."
+    },
+    {
+      "question": "What word was embedded into the red jacket Danit printed?",
+      "choices": [
+        "Hope",
+        "Liberté",
+        "Love"
+      ],
+      "answer": "Liberté",
+      "explanation": "The word 'Liberté' meaning 'freedom' in French, was embedded into the red jacket that Danit printed, symbolizing her empowerment and freedom in designing and printing her garments."
+    },
+    {
+      "question": "How did Danit solve the challenge of printing textiles that could be used like regular fabrics?",
+      "choices": [
+        "Modified an architect's open-source file",
+        "Bought specialized 3D printing equipment",
+        "Sourced materials from old factories"
+      ],
+      "answer": "Modified an architect's open-source file",
+      "explanation": "Danit found an open-source file from an architect, modified it, and printed a beautiful textile that could be used like a regular fabric, resembling lace."
+    },
+    {
+      "question": "How did Danit overcome the slow printing process of her collection?",
+      "choices": [
+        "Brought more printers to her home",
+        "Outsourced the printing",
+        "Changed the filament material"
+      ],
+      "answer": "Brought more printers to her home",
+      "explanation": "To speed up the printing process, Danit brought six printers to her home and printed 24-7, allowing her to complete her collection despite the time-consuming nature of 3D printing."
+    }
+  ]
+}

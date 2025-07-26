@@ -1,0 +1,93 @@
+{
+  "slug": "6b59b2cc",
+  "video_id": "Id3TCbpWR2M",
+  "movie_title": "Can you outsmart the college admissions fallacy? - Elizabeth Cox",
+  "movie_url": "https://youtu.be/Id3TCbpWR2M",
+  "published_at": "2022-06-07T15:01:32Z",
+  "duration": "6:17",
+  "tags": [
+    "circular reasoning",
+    "circular reasoning fallacy",
+    "circular logic",
+    "begging the question",
+    "begging the question fallacy",
+    "VMI",
+    "virginia military institute",
+    "united states vs virginia",
+    "14th amendment",
+    "equal protection clause",
+    "single sex education",
+    "government institution",
+    "supreme court",
+    "us supreme court",
+    "RBG",
+    "supreme court justices",
+    "ruth bader ginsburg",
+    "education",
+    "history",
+    "fallacies",
+    "logical fallacies",
+    "animation",
+    "elizabeth cox",
+    "TOGETHER",
+    "TED",
+    "TED-Ed",
+    "TED Ed",
+    "Teded",
+    "Ted Education"
+  ],
+  "introduction": "Explore the circular reasoning fallacy, which occurs when the end of an argument comes back to the s",
+  "lead_intro": "Join Aristotle on a journey through time as he critiques circular reasoning and fallacious arguments, ultimately leading to a landmark Supreme Court ruling. Let's explore the logic behind assumptions and the power of reasoned arguments.",
+  "quiz": [
+    {
+      "question": "What is circular reasoning also known as?",
+      "choices": [
+        "Fallacy of logic",
+        "Begging the question",
+        "Appeal to authority"
+      ],
+      "answer": "Begging the question",
+      "explanation": "Circular reasoning, also known as 'begging the question,' occurs when the reason given for a conclusion assumes the conclusion is true, rather than explaining why it’s true."
+    },
+    {
+      "question": "What was the state of Virginia's argument for excluding women from VMI based on?",
+      "choices": [
+        "Educational advancement",
+        "Single-sex education as a necessary step",
+        "Historical traditions"
+      ],
+      "answer": "Single-sex education as a necessary step",
+      "explanation": "The state of Virginia argued that the exclusion of women from VMI was essential for their single-sex education policy, which they claimed was an 'important governmental objective.'"
+    },
+    {
+      "question": "In the Supreme Court ruling, what was Justice Ruth Bader Ginsburg's criticism of Virginia's justification for excluding women?",
+      "choices": [
+        "Lack of historical evidence",
+        "Circular reasoning",
+        "Lack of funding"
+      ],
+      "answer": "Circular reasoning",
+      "explanation": "Justice Ruth Bader Ginsburg criticized Virginia's justification for excluding women from VMI as circular reasoning, stating that it used the school's mission of single-sex education as an end in itself."
+    },
+    {
+      "question": "What was the main aim of Virginia Military Institute (VMI) according to Justice Ginsburg?",
+      "choices": [
+        "To promote physical fitness",
+        "To produce citizen soldiers",
+        "To excel in academic research"
+      ],
+      "answer": "To produce citizen soldiers",
+      "explanation": "Justice Ginsburg argued that the main aim of VMI was to produce citizen soldiers prepared for leadership roles in society, a goal broad enough to include women."
+    },
+    {
+      "question": "What is the key message about assumptions and reasoned arguments conveyed in the video?",
+      "choices": [
+        "Assumptions should always be accepted",
+        "Reasoned arguments are based on facts",
+        "Just because something is true doesn't make it right"
+      ],
+      "answer": "Just because something is true doesn't make it right",
+      "explanation": "The video emphasizes that accepting something as true doesn't automatically make it the right course of action. It stresses the importance of reasoned arguments over assumptions or circular reasoning."
+    }
+  ]
+}

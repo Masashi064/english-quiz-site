@@ -1,0 +1,63 @@
+{
+  "slug": "cd56f2f1",
+  "video_id": "IZ55YvFE960",
+  "movie_title": "The 5 Times Life on Earth Almost Ended",
+  "movie_url": "https://youtu.be/IZ55YvFE960",
+  "published_at": "2025-07-24T14:00:34Z",
+  "duration": "2:50",
+  "tags": [],
+  "introduction": "Life on Earth has nearly ended five times, and it may be happening again right now.\nFrom massive vol",
+  "lead_intro": "Join us as we delve into the fascinating world of mass extinction events that have shaped the biodiversity on Earth. Let's explore the five major extinction events that have significantly impacted the course of life on our planet.",
+  "quiz": [
+    {
+      "question": "What was the likely cause of the Ordovician-Silurian extinction event?",
+      "choices": [
+        "Global warming",
+        "Volcanic activity",
+        "Global cooling"
+      ],
+      "answer": "Global cooling",
+      "explanation": "The Ordovician-Silurian extinction event, which occurred around 445 million years ago, was likely caused by the onset of a global cooling phase and drops in ocean levels."
+    },
+    {
+      "question": "What led to the Devonian extinction event?",
+      "choices": [
+        "Depleted oxygen levels in the oceans",
+        "Rapid growth of algae",
+        "Volcanic activity"
+      ],
+      "answer": "Depleted oxygen levels in the oceans",
+      "explanation": "The Devonian extinction event, around 360 million years ago, was caused by a rapid growth of algae that depleted oxygen levels in the oceans, leading to the suffocation of marine animals."
+    },
+    {
+      "question": "Which event is also known as the 'Great Dying'?",
+      "choices": [
+        "Triassic extinction",
+        "Permian extinction",
+        "Cretaceous extinction"
+      ],
+      "answer": "Permian extinction",
+      "explanation": "The Permian extinction, also known as the 'Great Dying,' occurred around 250 million years ago and led to the death of more than 90% of all species, including insects, fin reptiles, and corals."
+    },
+    {
+      "question": "What event heralded in the dominance of dinosaurs on Earth?",
+      "choices": [
+        "Devonian extinction",
+        "Triassic extinction",
+        "Cretaceous extinction"
+      ],
+      "answer": "Triassic extinction",
+      "explanation": "The Triassic extinction, around 200 million years ago, allowed dinosaurs to become the dominant inhabitants of Earth by wiping out about 80% of other species."
+    },
+    {
+      "question": "What caused the Cretaceous extinction event?",
+      "choices": [
+        "Global warming",
+        "Asteroid impact",
+        "Volcanic activity"
+      ],
+      "answer": "Asteroid impact",
+      "explanation": "The Cretaceous extinction event, around 66 million years ago, was caused by an asteroid hitting Earth, resulting in widespread devastation and the extinction of around 75% of all species."
+    }
+  ]
+}
