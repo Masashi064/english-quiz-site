@@ -40,7 +40,7 @@ export default function SiteHeader() {
         <div className="flex items-center gap-6">
           <Link href="/" className="flex items-center">
             <img
-              src="/img/logo-dark.png"
+              src="/img/logo-dark.webp"
               alt="SABACAN"
               width={140}
               height={60}
@@ -48,7 +48,7 @@ export default function SiteHeader() {
               loading="eager"
             />
             <img
-              src="/img/logo-light.png"
+              src="/img/logo-light.webp"
               alt="SABACAN"
               width={140}
               height={60}
