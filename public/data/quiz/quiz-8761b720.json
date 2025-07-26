@@ -1,0 +1,95 @@
+{
+  "slug": "8761b720",
+  "video_id": "ovl_XbgmCbw",
+  "movie_title": "Can the ocean run out of oxygen? - Kate Slabosky",
+  "movie_url": "https://youtu.be/ovl_XbgmCbw",
+  "published_at": "2020-08-18T15:00:36Z",
+  "duration": "6:21",
+  "tags": [
+    "marine dead zones",
+    "dead zones",
+    "dead zones in the ocean",
+    "gulf of mexico",
+    "gulf of mexico dead zone",
+    "ocean",
+    "ocean life",
+    "climate change",
+    "global warming",
+    "ecosystem",
+    "marine ecosystem",
+    "cyanobacteria",
+    "algae",
+    "photosynthesis",
+    "eutrophication",
+    "fertilizer",
+    "oxygenated water",
+    "industrial run off",
+    "science",
+    "biology",
+    "ecology",
+    "oceanography",
+    "education",
+    "animation",
+    "kate slabosky",
+    "mette ilene holmriis",
+    "TED",
+    "TED-Ed",
+    "TED Ed",
+    "Teded",
+    "Ted Education"
+  ],
+  "introduction": "Get to know how a healthy marine ecosystem functions, and what creates the lethal conditions that le",
+  "lead_intro": "Explore the annual curse of the marine dead zone in the Gulf of Mexico and its global impact. Learn about the causes of dead zones and the urgent need for sustainable solutions to protect our marine ecosystems.",
+  "quiz": [
+    {
+      "question": "What causes the annual formation of a marine dead zone in the Gulf of Mexico?",
+      "choices": [
+        "Extreme weather conditions",
+        "Nutrient-rich waste from human activities",
+        "Migration patterns of marine animals"
+      ],
+      "answer": "Nutrient-rich waste from human activities",
+      "explanation": "The dead zone in the Gulf of Mexico is primarily caused by nutrient-rich waste from human activities, particularly fertilizer runoff that leads to eutrophication."
+    },
+    {
+      "question": "What impact does eutrophication have on a body of water?",
+      "choices": [
+        "Increases biodiversity",
+        "Creates oxygen-rich conditions",
+        "Forms dead zones by depleting oxygen supply"
+      ],
+      "answer": "Forms dead zones by depleting oxygen supply",
+      "explanation": "Eutrophication leads to the formation of dead zones by causing an increase in algae growth that depletes the water's oxygen supply, making it uninhabitable for aquatic life."
+    },
+    {
+      "question": "How does human activity contribute to the growth of dead zones worldwide?",
+      "choices": [
+        "By reducing nutrient levels in water",
+        "By promoting natural eutrophication",
+        "By releasing nutrient-rich waste into water bodies"
+      ],
+      "answer": "By releasing nutrient-rich waste into water bodies",
+      "explanation": "Human activity, such as releasing nutrient-rich waste from sewage systems and industrial processes into water bodies, contributes to the widespread growth of dead zones around the world."
+    },
+    {
+      "question": "What are short term solutions to reduce dead zones?",
+      "choices": [
+        "Planting diverse crops in agricultural fields",
+        "Setting tighter regulations on industrial run-off",
+        "Encouraging the use of nitrogen-rich fertilizers"
+      ],
+      "answer": "Setting tighter regulations on industrial run-off",
+      "explanation": "Short term solutions to reduce dead zones include setting tighter regulations on industrial run-off and banning the dumping of untreated sewage into ocean waters."
+    },
+    {
+      "question": "What is a long term solution to prevent dead zones?",
+      "choices": [
+        "Increasing the use of nitrogen-rich fertilizers",
+        "Restoring soil's natural nutrients through diverse crops",
+        "Expanding industrial run-off into water bodies"
+      ],
+      "answer": "Restoring soil's natural nutrients through diverse crops",
+      "explanation": "A long term solution to prevent dead zones involves restoring the soil's natural nutrients by planting diverse crops that manage soil erosion and fertility, reducing the reliance on nitrogen-rich fertilizers."
+    }
+  ]
+}

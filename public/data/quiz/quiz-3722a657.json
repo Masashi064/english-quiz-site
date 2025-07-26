@@ -1,0 +1,63 @@
+{
+  "slug": "3722a657",
+  "video_id": "JXeJANDKwDc",
+  "movie_title": "When This Number Hits 5200 - You Will be Dead",
+  "movie_url": "https://youtu.be/JXeJANDKwDc",
+  "published_at": "2021-05-25T13:59:34Z",
+  "duration": "9:36",
+  "tags": [],
+  "introduction": "Gain a new perspective on your life with our \"Calendar & Timeline of Your Life Posters\":\nhttps://kgs",
+  "lead_intro": "Life is like swimming in the ocean - full of distractions and decisions. Let's take a step back and look at the big picture. Are you making the most of your time?",
+  "quiz": [
+    {
+      "question": "How many weeks of life does the average person have at their disposal when they are born?",
+      "choices": [
+        "400 weeks",
+        "5200 weeks",
+        "1000 weeks"
+      ],
+      "answer": "5200 weeks",
+      "explanation": "The average person has 5200 weeks of life at their disposal when they are born, according to the video."
+    },
+    {
+      "question": "At what age do most people start working for real?",
+      "choices": [
+        "15",
+        "20",
+        "30"
+      ],
+      "answer": "20",
+      "explanation": "Most people start working for real in their twenties at the latest, which marks the beginning of the productive period in their life."
+    },
+    {
+      "question": "At what age do people tend to work until?",
+      "choices": [
+        "50",
+        "60",
+        "65"
+      ],
+      "answer": "65",
+      "explanation": "People tend to work until the age of 65, which signifies spending a significant portion of life in serious adult work."
+    },
+    {
+      "question": "What is the average lifespan in the US?",
+      "choices": [
+        "75",
+        "79",
+        "84"
+      ],
+      "answer": "79",
+      "explanation": "The average lifespan in the US is 79 years, highlighting the limited time we have in our lives."
+    },
+    {
+      "question": "What visual tools were created by Kurzgesagt to help track how you spend your weeks?",
+      "choices": [
+        "Calendar of Your Life",
+        "Timeline of Your Life",
+        "Both"
+      ],
+      "answer": "Both",
+      "explanation": "Kurzgesagt created both the 'Calendar of Your Life' and the 'Timeline of Your Life' as visual reminders to track how you spend your weeks."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "7ff4253c",
+  "video_id": "hnQviWSwkYY",
+  "movie_title": "Find out how to listen for specific information in part 2 of \"The Case of the Missing Ring\"",
+  "movie_url": "https://youtu.be/hnQviWSwkYY",
+  "published_at": "2015-02-23T13:48:51Z",
+  "duration": "8:23",
+  "tags": [],
+  "introduction": "Inspector Stone, a world-weary detective, is on an important case, He is trying to find a £5000 wedd",
+  "lead_intro": "Join Inspector Stone in the thrilling case of the missing ring in this English learning episode where you'll practice listening for specific information.",
+  "quiz": [
+    {
+      "question": "Where was the wedding ring kept according to the bride's mother?",
+      "choices": [
+        "In a small blue plastic box in the groom's pocket",
+        "In a small red plastic box in the best man's pocket",
+        "In a small red wooden box in the best man's pocket"
+      ],
+      "answer": "In a small red plastic box in the best man's pocket",
+      "explanation": "The bride's mother mentioned that the best man kept the ring in a small red plastic box in his pocket, not a blue box as the groom claimed."
+    },
+    {
+      "question": "What was the material of the box that the best man claimed the ring was kept in?",
+      "choices": [
+        "Plastic",
+        "Wooden",
+        "Metal"
+      ],
+      "answer": "Wooden",
+      "explanation": "The best man stated that the ring was in a small red wooden box in his pocket, contradicting the other guests who mentioned it was plastic."
+    },
+    {
+      "question": "What color did the groom say the box containing the ring was?",
+      "choices": [
+        "Red",
+        "Blue",
+        "Green"
+      ],
+      "answer": "Blue",
+      "explanation": "The groom claimed the box containing the ring was small and blue, while others mentioned it as red, indicating a discrepancy in their stories."
+    },
+    {
+      "question": "Who saw the best man take the ring out of his pocket and show it to the groom?",
+      "choices": [
+        "The bride",
+        "The groom",
+        "The bride's mother"
+      ],
+      "answer": "The bride",
+      "explanation": "The bride witnessed the best man taking the ring out of his pocket and showing it to the groom, which conflicted with the groom's account."
+    },
+    {
+      "question": "What realization did Inspector Stone come to about the discrepancies in the guests' stories?",
+      "choices": [
+        "They were telling the truth",
+        "They were all lying",
+        "They had made mistakes"
+      ],
+      "answer": "They had made mistakes",
+      "explanation": "Inspector Stone realized that each guest had made mistakes in their stories, such as inconsistencies in the color and material of the box, leading him to uncover the truth."
+    }
+  ]
+}

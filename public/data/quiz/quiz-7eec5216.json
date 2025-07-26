@@ -1,0 +1,91 @@
+{
+  "slug": "7eec5216",
+  "video_id": "dGiQaabX3_o",
+  "movie_title": "What Happened Before History? Human Origins",
+  "movie_url": "https://youtu.be/dGiQaabX3_o",
+  "published_at": "2016-06-23T12:04:23Z",
+  "duration": "9:39",
+  "tags": [
+    "history",
+    "humans",
+    "evolution",
+    "early humans",
+    "homo spapiens",
+    "human developement",
+    "prehistory",
+    "human evolution",
+    "ape",
+    "nature",
+    "anatomy",
+    "brain",
+    "conciousness",
+    "behaviour",
+    "stone age",
+    "neanderthals",
+    "extinction",
+    "past",
+    "farming",
+    "genome",
+    "intelligence",
+    "language",
+    "origins",
+    "revolution",
+    "funny",
+    "species",
+    "documentary"
+  ],
+  "introduction": "Humans. We have been around for a while now. When we think about our past we think about ancient civ",
+  "lead_intro": "Have you ever wondered about the history of humanity and how far we've come? Let's delve into the past and explore the evolution of humans through the ages.",
+  "quiz": [
+    {
+      "question": "When did the tribe of hominini split and end their relationship with the apes?",
+      "choices": [
+        "6 million years ago",
+        "2.8 million years ago",
+        "200,000 years ago"
+      ],
+      "answer": "6 million years ago",
+      "explanation": "The tribe of hominini split and ended their relationship with the apes 6 million years ago."
+    },
+    {
+      "question": "How many other human species existed when homo sapiens sapiens came into existence?",
+      "choices": [
+        "Four",
+        "Six",
+        "Two"
+      ],
+      "answer": "Six",
+      "explanation": "When homo sapiens sapiens came into existence 200,000 years ago, there were at least six other human species around."
+    },
+    {
+      "question": "What major development contributed to the development of the human brain?",
+      "choices": [
+        "Control of fire",
+        "Agriculture",
+        "Building shelters"
+      ],
+      "answer": "Control of fire",
+      "explanation": "The control of fire contributed to the development of the human brain by making food more nutritious and providing light, warmth, and hunting opportunities."
+    },
+    {
+      "question": "Around how many years ago did humans begin agriculture?",
+      "choices": [
+        "500 years ago",
+        "12,000 years ago",
+        "50,000 years ago"
+      ],
+      "answer": "12,000 years ago",
+      "explanation": "Around 12,000 years ago, in multiple locations, humans developed agriculture, leading to significant changes in human society and civilization."
+    },
+    {
+      "question": "When did the Scientific Revolution begin?",
+      "choices": [
+        "20 generations ago",
+        "500 years ago",
+        "7,500 generations ago"
+      ],
+      "answer": "500 years ago",
+      "explanation": "The Scientific Revolution began about 500 years ago, transforming various fields of knowledge and laying the foundation for the modern world."
+    }
+  ]
+}

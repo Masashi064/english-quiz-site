@@ -1,0 +1,63 @@
+{
+  "slug": "ea89a84d",
+  "video_id": "q4DF3j4saCE",
+  "movie_title": "The Most Extreme Explosion in the Universe",
+  "movie_url": "https://youtu.be/q4DF3j4saCE",
+  "published_at": "2022-11-23T15:00:13Z",
+  "duration": "9:29",
+  "tags": [],
+  "introduction": "Sources & further reading:\nhttps://sites.google.com/view/sources-supernovadeath\n\nSupernovae are the",
+  "lead_intro": "Supernovae, the most powerful explosions in the universe, hold immense destructive potential. But how would Earth fare if one hit? Let's explore the stages of impact and the consequences in this quiz.",
+  "quiz": [
+    {
+      "question": "What are the two main ways to make a supernova?",
+      "choices": [
+        "A star implodes, or a white dwarf ignites explosive nuclear fusion.",
+        "A comet collides with a planet, or a black hole explodes.",
+        "A supernova is caused by a solar eclipse, or a meteor shower."
+      ],
+      "answer": "A star implodes, or a white dwarf ignites explosive nuclear fusion.",
+      "explanation": "Supernovae can be created when the core of a massive star implodes or when a white dwarf gains enough mass to ignite explosive nuclear fusion."
+    },
+    {
+      "question": "What happens when a supernova occurs around 300 light years away?",
+      "choices": [
+        "It creates a colorful ball of hot gas.",
+        "It has no impact on Earth.",
+        "It affects the Earth with weak waves of radiation."
+      ],
+      "answer": "It affects the Earth with weak waves of radiation.",
+      "explanation": "When a supernova occurs around 300 light years away, it can impact Earth with weak waves of radiation, although not strong enough to cause significant damage."
+    },
+    {
+      "question": "How does a supernova within 100 light years affect the Earth's climate?",
+      "choices": [
+        "It leads to increased rainfall.",
+        "It results in extreme heat waves.",
+        "It disrupts the ozone layer and may trigger an ice age."
+      ],
+      "answer": "It disrupts the ozone layer and may trigger an ice age.",
+      "explanation": "A supernova within 100 light years can disrupt the ozone layer, leading to increased UV radiation exposure and potentially triggering an ice age due to massive cloud formation."
+    },
+    {
+      "question": "What is a significant consequence of a supernova closer than 25 light years?",
+      "choices": [
+        "Global wildfires.",
+        "Mass extinction.",
+        "Increased rainfall."
+      ],
+      "answer": "Mass extinction.",
+      "explanation": "A supernova closer than 25 light years can lead to a mass extinction event, as the intense radiation and climatic disruptions would devastate ecosystems and likely result in human extinction."
+    },
+    {
+      "question": "What would happen if a supernova occurred just 4 light years away from Earth?",
+      "choices": [
+        "The surface of the Earth would be as hot as a sauna.",
+        "The ozone layer would be reinforced.",
+        "Life would thrive in the extreme conditions."
+      ],
+      "answer": "The surface of the Earth would be as hot as a sauna.",
+      "explanation": "If a supernova occurred just 4 light years away, the Earth's surface would heat up drastically, causing widespread destruction and potentially leading to the largest extinction event in history."
+    }
+  ]
+}

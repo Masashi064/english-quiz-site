@@ -1,0 +1,100 @@
+{
+  "slug": "dbaa172d",
+  "video_id": "8NGBG5pKAAY",
+  "movie_title": "How much do you really know about Ancient Rome? - Stephanie Honchell Smith",
+  "movie_url": "https://youtu.be/8NGBG5pKAAY",
+  "published_at": "2025-06-10T15:01:37Z",
+  "duration": "6:21",
+  "tags": [
+    "ancient rome",
+    "roman empire",
+    "ancient roman empire",
+    "roman empire myths",
+    "roman gods",
+    "roman goddesses",
+    "minerva",
+    "colosseum",
+    "rome",
+    "amphitheater",
+    "two truths and a lie",
+    "caligula",
+    "gladiator",
+    "gladiator battle",
+    "gladiator guild",
+    "toga",
+    "roman toga",
+    "vomitorium",
+    "Pythagoreans",
+    "Pythagoras",
+    "Romulus Augustulus",
+    "fall of the roman empire",
+    "byzantine empire",
+    "roman emperor",
+    "justinian",
+    "history",
+    "historical myths",
+    "stephanie honchell smith",
+    "Raghav Arumugam",
+    "education",
+    "animation",
+    "TED",
+    "TED-Ed",
+    "TED Ed",
+    "teded",
+    "Ted Education"
+  ],
+  "introduction": "Explore 4 common misconceptions about Ancient Rome, and find out what living in this time period was",
+  "lead_intro": "Join me, Minerva, the Roman goddess of wisdom, as we test your knowledge of Ancient Rome with a fun game of 'two truths and a lie'!",
+  "quiz": [
+    {
+      "question": "Which statement about Roman gladiators is false?",
+      "choices": [
+        "Gladiators had their own guilds.",
+        "Most gladiatorial fights ended before anyone died.",
+        "Gladiators were from an enslaved class."
+      ],
+      "answer": "Most gladiatorial fights ended before anyone died.",
+      "explanation": "While Roman gladiators were often enslaved or convicted criminals, most fights did not end in death as it was expensive to train them."
+    },
+    {
+      "question": "Which statement about Roman fashion is false?",
+      "choices": [
+        "The toga was the cornerstone of daily Roman dress.",
+        "Many Roman women wore dresses made with Chinese silk.",
+        "Urine was the primary laundry detergent for Roman clothes."
+      ],
+      "answer": "Urine was the primary laundry detergent for Roman clothes.",
+      "explanation": "While Roman launderers did use ammonia from urine to clean clothes, it was not the primary laundry detergent for Roman clothing."
+    },
+    {
+      "question": "Which statement about Roman practices is false?",
+      "choices": [
+        "Many Roman homes featured a vomitorium.",
+        "The Pythagoreans embraced a vegetarian diet.",
+        "A favorite Roman condiment was sauce made from fermented fish guts."
+      ],
+      "answer": "The Pythagoreans embraced a vegetarian diet.",
+      "explanation": "The Pythagoreans followed a vegetarian diet, believing that eating animal flesh increased aggressive behavior, contrary to the statement."
+    },
+    {
+      "question": "Which statement regarding the fall of the Roman Empire is false?",
+      "choices": [
+        "The city of Rome was sacked twice during the 5th century CE.",
+        "The last western Roman emperor was Romulus Augustulus.",
+        "The Roman Empire fell in 476 CE."
+      ],
+      "answer": "The Roman Empire fell in 476 CE.",
+      "explanation": "While the western Roman Empire saw significant changes, the Roman Empire did not completely fall in 476 CE; the eastern part continued as the Byzantine Empire."
+    },
+    {
+      "question": "What was a common motivation for freemen and former soldiers to become gladiators?",
+      "choices": [
+        "Fame and fortune.",
+        "Enslavement.",
+        "Punishment."
+      ],
+      "answer": "Fame and fortune.",
+      "explanation": "Freemen and former soldiers were lured by the potential for fame and regular employment when they signed up to become gladiators."
+    }
+  ]
+}

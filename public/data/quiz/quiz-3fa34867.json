@@ -1,5 +1,5 @@
 {
-  "slug": "",
+  "slug": "3fa34867",
   "video_id": "_5siHrpPnmw",
   "movie_title": "The health benefits of apples ⏲️ 6 Minute English",
   "movie_url": "https://youtu.be/_5siHrpPnmw",
@@ -39,57 +39,57 @@
     "podcast English"
   ],
   "introduction": "As the proverb says: An apple a day keeps the doctor away. We’ll hear from an expert about the lates",
-  "lead_intro": "Do you know which English proverb suggests that an apple a day keeps the doctor away? Let's test your knowledge with some questions based on this interesting video!",
+  "lead_intro": "Join Neil and Sam from BBC Learning English as they explore the health benefits of eating apples and discuss famous English proverbs. Let's test your knowledge with a quiz on English apples and vocabulary!",
   "quiz": [
     {
-      "question": "What does the proverb 'Actions speak louder than words' mean?",
+      "question": "Which of the following is the name of a real type of English apple?",
       "choices": [
-        "What people say is more important than what they do",
-        "What people do is more important than what they say",
-        "Words and actions are equally significant"
+        "a) Taylor's gold",
+        "b) Golden pippin",
+        "c) Black Worcester"
       ],
-      "answer": "What people do is more important than what they say",
-      "explanation": "The proverb 'Actions speak louder than words' means that what people do is more important than what they say."
+      "answer": "b) Golden pippin",
+      "explanation": "Golden pippin apples were first grown in Arundel, while Black Worcester and Taylor's gold are types of English pear."
     },
     {
-      "question": "According to the video, what is the name of a real type of English apple?",
+      "question": "What does it mean to be 'peckish'?",
       "choices": [
-        "a Taylor's gold",
-        "a Golden pippin",
-        "a Black Worcester"
+        "a) Extremely full",
+        "b) Slightly hungry",
+        "c) Thirsty"
       ],
-      "answer": "a Golden pippin",
-      "explanation": "Golden pippin is the name of a real type of English apple, while Black Worcester and Taylor's gold are types of English pear."
+      "answer": "b) Slightly hungry",
+      "explanation": "If you're feeling peckish, it means you're slightly hungry."
     },
     {
-      "question": "What does the phrase 'trim the waistline' mean?",
+      "question": "How would you describe something as 'exotic'?",
       "choices": [
-        "To gain weight",
-        "To lose weight",
-        "To maintain a healthy body weight"
+        "a) Common and boring",
+        "b) Unusual and exciting",
+        "c) Healthy and beneficial"
       ],
-      "answer": "To maintain a healthy body weight",
-      "explanation": "The phrase 'trim the waistline' means to keep your body weight healthy with no extra fat around your waistline."
+      "answer": "b) Unusual and exciting",
+      "explanation": "The adjective 'exotic' describes something that is unusual and exciting, often from a faraway place."
     },
     {
-      "question": "How does Dr. Mosley describe apples in terms of their versatility?",
+      "question": "What does it mean to 'trim the waistline'?",
       "choices": [
-        "Limited in their uses",
-        "Can be used for many purposes",
-        "Only suitable for snacking"
+        "a) Gain weight",
+        "b) Lose weight",
+        "c) Maintain a healthy body weight"
       ],
-      "answer": "Can be used for many purposes",
-      "explanation": "Dr. Mosley describes apples as versatile, meaning they can be used for many different purposes or in many different ways."
+      "answer": "c) Maintain a healthy body weight",
+      "explanation": "To 'trim the waistline' means to keep your body weight healthy with no extra fat around your waist."
     },
     {
-      "question": "What does the video suggest about the health benefits of apple skins?",
+      "question": "How would you describe something as 'versatile'?",
       "choices": [
-        "They have no significant benefits",
-        "They are packed with fibre and vitamins",
-        "They are harmful for health"
+        "a) Limited in use",
+        "b) Specialized",
+        "c) Able to be used in many ways"
       ],
-      "answer": "They are packed with fibre and vitamins",
-      "explanation": "The video mentions that apple skins are full of good stuff like fibre and vitamins, making them beneficial for health."
+      "answer": "c) Able to be used in many ways",
+      "explanation": "Something versatile can be used for many purposes or in many different ways."
     }
   ]
 }

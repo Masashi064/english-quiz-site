@@ -1,0 +1,63 @@
+{
+  "slug": "f97ca4a3",
+  "video_id": "JOiGEI9pQBs",
+  "movie_title": "Ancient Life as Old as the Universe",
+  "movie_url": "https://youtu.be/JOiGEI9pQBs",
+  "published_at": "2023-10-10T14:00:02Z",
+  "duration": "9:35",
+  "tags": [],
+  "introduction": "Check out some of our favorite shop products here: https://kgs.link/shop Our shop is not only our mo",
+  "lead_intro": "Have you ever wondered about the origins of life in the universe? Join us as we delve into the fascinating possibilities of life starting right after the Big Bang and how it might be thriving in various forms across the cosmos.",
+  "quiz": [
+    {
+      "question": "Why is the emergence of life on Earth considered strange?",
+      "choices": [
+        "It happened very quickly after the formation of oceans.",
+        "It required a long time for trial and error.",
+        "It happened before the formation of oceans."
+      ],
+      "answer": "It happened very quickly after the formation of oceans.",
+      "explanation": "The emergence of life on Earth is considered strange because it appeared very quickly after the formation of oceans, almost as old as the planet itself."
+    },
+    {
+      "question": "What is one of the biggest riddles in science regarding the origin of life?",
+      "choices": [
+        "How to make proteins without a functioning genome.",
+        "How dead things with no genome became living things with genomes.",
+        "How genomes evolved over billions of years."
+      ],
+      "answer": "How dead things with no genome became living things with genomes.",
+      "explanation": "One of the biggest riddles in science regarding the origin of life is how dead things with no genome became living things with genomes, a chicken-egg paradox."
+    },
+    {
+      "question": "According to the video, what is the clock of evolution?",
+      "choices": [
+        "A mechanism that measures the age of organisms on Earth.",
+        "A theory about the increasing complexity of genomes over time.",
+        "An exponential clock that tracks the evolution of life forms."
+      ],
+      "answer": "An exponential clock that tracks the evolution of life forms.",
+      "explanation": "The clock of evolution refers to an exponential clock that tracks the evolution of life forms, suggesting that genomes have been doubling in size on average every 350 million years."
+    },
+    {
+      "question": "What temperature range was the universe in during a window of time shortly after the Big Bang?",
+      "choices": [
+        "0 ºC to -100 ºC",
+        "100 ºC to 0 ºC",
+        "20 ºC to -50 ºC"
+      ],
+      "answer": "100 ºC to 0 ºC",
+      "explanation": "Approximately between 10 and 17 million years after the Big Bang, the universe was between 100 ºC and 0 ºC, providing the right temperature to support life."
+    },
+    {
+      "question": "What does the video suggest about the possibility of life originating in space?",
+      "choices": [
+        "Life may have started on Earth and spread to space.",
+        "Life originated only on Earth and nowhere else in the universe.",
+        "Life could have started in space and later thrived on Earth."
+      ],
+      "answer": "Life could have started in space and later thrived on Earth.",
+      "explanation": "The video suggests that life could have started in space, explaining the quick emergence and high sophistication of life on Earth, indicating that life may have evolved elsewhere in the universe."
+    }
+  ]
+}

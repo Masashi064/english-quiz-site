@@ -1,0 +1,105 @@
+{
+  "slug": "3194e22d",
+  "video_id": "ZvhFeGEDFC8",
+  "movie_title": "How can we solve the antibiotic resistance crisis? - Gerry Wright",
+  "movie_url": "https://youtu.be/ZvhFeGEDFC8",
+  "published_at": "2020-03-16T15:00:31Z",
+  "duration": "6:23",
+  "tags": [
+    "antibiotic resistance",
+    "antibiotics",
+    "medicine",
+    "bacteria",
+    "virus",
+    "viruses",
+    "body vs virus",
+    "health",
+    "surgery",
+    "chemo",
+    "chemotherapy",
+    "infectious diseases",
+    "modern medicine",
+    "human body",
+    "science",
+    "biology",
+    "physiology",
+    "penicillin",
+    "microbiology",
+    "germs",
+    "cells",
+    "white blood cells",
+    "immune system",
+    "immunosuppression",
+    "CDC",
+    "infection",
+    "medication",
+    "WHO",
+    "world health",
+    "public health",
+    "pharmaceutical industry",
+    "drug development",
+    "education",
+    "animation",
+    "gerry wright",
+    "artrake studio",
+    "TED",
+    "TED-Ed",
+    "TED Ed",
+    "Teded",
+    "Ted Education"
+  ],
+  "introduction": "Take a closer look at the challenges of antibiotic resistance and what we can do to prevent losing t",
+  "lead_intro": "Antibiotics play a crucial role in modern medicine, but the rise of antibiotic resistance poses a serious threat. How did we get into this situation and what can we do about it? Let's dive into the challenges and potential solutions.",
+  "quiz": [
+    {
+      "question": "Who discovered the first widely used antibiotic, penicillin, in 1928?",
+      "choices": [
+        "Marie Curie",
+        "Alexander Fleming",
+        "Louis Pasteur"
+      ],
+      "answer": "Alexander Fleming",
+      "explanation": "Alexander Fleming discovered penicillin in 1928, which revolutionized the field of antibiotics and modern medicine."
+    },
+    {
+      "question": "What did Alexander Fleming warn about in his 1945 Nobel Prize acceptance speech?",
+      "choices": [
+        "The potential of bacterial resistance",
+        "The need for more antibiotics",
+        "The benefits of vaccines"
+      ],
+      "answer": "The potential of bacterial resistance",
+      "explanation": "In his Nobel Prize speech, Fleming warned about the potential of bacterial resistance that could undermine the effectiveness of antibiotics."
+    },
+    {
+      "question": "What is one reason why pharmaceutical companies shifted focus from antibiotic development?",
+      "choices": [
+        "Decreased profitability",
+        "Increased bacterial infections",
+        "Lack of scientific interest"
+      ],
+      "answer": "Decreased profitability",
+      "explanation": "Pharmaceutical companies shifted focus from antibiotic development due to decreased profitability, as newer antibiotics were less broad-spectrum and sold in fewer doses."
+    },
+    {
+      "question": "What is the largest consumer of antibiotics?",
+      "choices": [
+        "Hospitals",
+        "Agriculture",
+        "Pharmacies"
+      ],
+      "answer": "Agriculture",
+      "explanation": "Agriculture is the largest consumer of antibiotics, using them not only to treat infections but also to promote the growth of food animals, contributing to antibiotic resistance."
+    },
+    {
+      "question": "What is a promising approach to combat bacterial infections mentioned in the text?",
+      "choices": [
+        "Developing vaccines",
+        "Increasing antibiotic use",
+        "Limiting funding for research"
+      ],
+      "answer": "Developing vaccines",
+      "explanation": "Developing vaccines for common infections is a promising approach to prevent disease and reduce the reliance on antibiotics, helping to combat resistance."
+    }
+  ]
+}
