@@ -34,57 +34,57 @@
     "Ted Education"
   ],
   "introduction": "Practice more problem-solving at https://brilliant.org/TedEd\n\n--\n\nSmuggling yourself aboard the rogu",
-  "lead_intro": "Can you solve the intelligence puzzle and prevent a nuclear missile launch? Test your deduction skills with this challenging quiz!",
+  "lead_intro": "Can you solve the intelligence puzzle and find the correct launch override codes? Test your deduction skills with this thrilling scenario!",
   "quiz": [
     {
-      "question": "What did the boss reveal to Minion A and Minion B respectively?",
+      "question": "What were the two numbers that needed to be entered to override the missile launch?",
       "choices": [
-        "Sum and product",
-        "Product and sum",
-        "Numbers and launch time"
+        "5 and 4",
+        "3 and 5",
+        "6 and 7"
       ],
-      "answer": "Sum and product",
-      "explanation": "The boss told Minion A the sum of the numbers and Minion B the product of the numbers."
+      "answer": "5 and 4",
+      "explanation": "Based on the deductions made from the statements of Minion A and Minion B, the correct numbers to override the missile launch were 5 and 4."
     },
     {
-      "question": "What were the possible numbers that Minion A could have based on the clues?",
+      "question": "Why were the numbers 3 and 4 eliminated as possible launch codes?",
       "choices": [
-        "3, 4, 5, 6",
-        "1, 2, 3, 4",
-        "4, 6, 8, 10"
+        "Only one option for product",
+        "Contradicted A's statement",
+        "Not prime numbers"
       ],
-      "answer": "3, 4, 5, 6",
-      "explanation": "Minion A's possible numbers were 3, 4, 5, or 6 based on the given information."
+      "answer": "Contradicted A's statement",
+      "explanation": "If the launch codes were 3 and 4, it would lead to a contradiction with Minion A's statement regarding Minion B's knowledge of A's number."
     },
     {
-      "question": "Why were the numbers 3 and 4 eliminated as Minion A's potential numbers?",
+      "question": "What was the key insight gained from A's first statement?",
       "choices": [
-        "Too few product options",
-        "Contradiction in B's statement",
-        "Exceeding the boss's limit"
+        "A's number must be a sum of B's factors",
+        "B's number must be a prime",
+        "The product must be a square"
       ],
-      "answer": "Contradiction in B's statement",
-      "explanation": "If Minion A had 3 or 4, B could deduce A's number, contradicting the second statement."
+      "answer": "A's number must be a sum of B's factors",
+      "explanation": "A's statement led to the deduction that A's number had to be a sum of the possible factors of B's number, narrowing down the options."
     },
     {
-      "question": "How did the deduction process lead to the conclusion that the override code was 5 and 4?",
+      "question": "Why were the numbers 6 and 7 not considered as possible launch codes?",
       "choices": [
-        "Unique product options",
-        "Consistent with A's statement",
-        "Limited sum possibilities"
+        "Not prime numbers",
+        "Contradicted B's statement",
+        "Sum was already used"
       ],
-      "answer": "Consistent with A's statement",
-      "explanation": "Based on the deductions made, 5 and 4 were consistent with the statements made by Minion A and Minion B."
+      "answer": "Contradicted B's statement",
+      "explanation": "If the launch codes were 6 and 7, it would contradict Minion B's statement about knowing A's number and vice versa."
     },
     {
-      "question": "What was the critical factor that determined the correctness of the override code?",
+      "question": "What was the final reason for concluding that 5 and 4 were the correct launch codes?",
       "choices": [
-        "The number of steps in the deduction process",
-        "B's access to information",
-        "Elimination of contradictory options"
+        "Only option where B knows A's number",
+        "Least common multiples",
+        "Prime factorization"
       ],
-      "answer": "Elimination of contradictory options",
-      "explanation": "The elimination of contradictory options based on the statements led to the determination of the correct override code."
+      "answer": "Only option where B knows A's number",
+      "explanation": "After considering all possibilities, it was evident that only with the launch codes 5 and 4 could B know A's number and vice versa, confirming the correctness of these codes."
     }
   ]
 }
