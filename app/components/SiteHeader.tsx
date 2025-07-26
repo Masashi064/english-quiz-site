@@ -5,7 +5,6 @@ import { useAuth } from '@/context/AuthContext';
 import { signOut } from 'firebase/auth';
 import { auth } from '@/lib/firebase';
 import { useRouter } from 'next/navigation';
-import Image from 'next/image';
 import { doc, getDoc } from 'firebase/firestore';
 import { db } from '@/lib/firebase';
 import { useEffect, useState } from 'react';
@@ -40,24 +39,23 @@ export default function SiteHeader() {
       <header className="flex justify-between items-center px-4 py-2 border-b border-gray-700">
         <div className="flex items-center gap-6">
           <Link href="/" className="flex items-center">
-            <Image
+            <img
               src="/img/logo-dark.png"
               alt="SABACAN"
               width={140}
               height={60}
               className="h-8 w-auto object-contain cursor-pointer dark:block hidden"
-              priority
+              loading="eager"
             />
-            <Image
+            <img
               src="/img/logo-light.png"
               alt="SABACAN"
               width={140}
               height={60}
               className="h-8 w-auto object-contain cursor-pointer dark:hidden block"
-              priority
+              loading="eager"
             />
           </Link>
-
           <Link href="/how-to-use" className="text-sm text-gray-700 dark:text-gray-300 hover:text-blue-500">
             How to Use
           </Link>

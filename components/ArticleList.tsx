@@ -1,6 +1,5 @@
 'use client'
 
-import Image from 'next/image'
 import { useEffect, useState } from 'react'
 import Link from 'next/link'
 import { useAuth } from '@/lib/useAuth'
@@ -346,13 +345,11 @@ useEffect(() => {
               className="block border rounded shadow hover:shadow-lg overflow-hidden bg-white dark:bg-gray-900"
             >
               <div className="relative w-full aspect-video">
-                <Image
+                <img
                   src={`/img/img-${a.slug}.webp`}
                   alt={a.movie_title}
-                  fill
-                  sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw"
-                  priority={index === 0}
-                  className="object-cover"
+                  loading={index === 0 ? 'eager' : 'lazy'}
+                  className="object-cover w-full h-full absolute top-0 left-0"
                 />
               </div>
               <div className="p-4">

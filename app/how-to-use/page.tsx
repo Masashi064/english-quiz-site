@@ -5,7 +5,6 @@ export const metadata = {
 
 import fs from 'fs';
 import path from 'path';
-import Image from 'next/image';
 import Link from 'next/link';
 
 type QuizMeta = {
@@ -85,13 +84,11 @@ export default function HowToUsePage() {
               className="block border rounded shadow hover:shadow-lg overflow-hidden"
             >
               <div className="relative w-full aspect-video">
-                <Image
+                <img
                   src={`/img/img-${item.slug}.webp`}
                   alt={item.title}
-                  fill
-                  sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw"
-                  priority={index === 0}
-                  className="object-cover rounded-t"
+                  loading={index === 0 ? 'eager' : 'lazy'}
+                  className="absolute top-0 left-0 w-full h-full object-cover rounded-t"
                 />
               </div>
               <div className="p-4">

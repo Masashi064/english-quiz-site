@@ -1,5 +1,4 @@
 import articles from './data/all-articles.json';
-import Image from 'next/image';
 import Link from 'next/link';
 import heroImage from './assets/top-img1.webp';
 
@@ -12,18 +11,18 @@ export default function HomePage() {
     <main className="text-black dark:text-white">
       {/* Hero セクション */}
       <section className="relative w-full h-[60vh] bg-black text-white flex items-center justify-center">
-        <Image
-          src={heroImage}
+        <img
+          src="/assets/top-img1.webp"
           alt="Hero image"
-          fill
-          priority
-          className="object-cover opacity-60"
+          className="absolute top-0 left-0 w-full h-full object-cover opacity-60"
+          loading="eager"
         />
         <div className="z-10 text-center">
           <h1 className="text-4xl font-bold mb-4 drop-shadow-lg">Welcome to SABACAN</h1>
           <p className="text-lg drop-shadow-md">Boost your English skills with fun video quizzes!</p>
         </div>
       </section>
+
 
       {/* 最新クイズ */}
       <section className="max-w-6xl mx-auto px-4 py-10">
@@ -36,15 +35,14 @@ export default function HomePage() {
               className="block border rounded shadow hover:shadow-lg overflow-hidden"
             >
               <div className="relative w-full aspect-video">
-                <Image
+                <img
                   src={`/img/img-${item.slug}.webp`}
                   alt={item.movie_title}
-                  fill
-                  sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw"
-                  priority={index === 0}
-                  className="object-cover rounded-t"
+                  className="absolute top-0 left-0 w-full h-full object-cover rounded-t"
+                  loading={index === 0 ? 'eager' : 'lazy'}
                 />
               </div>
+
               <div className="p-4">
                 <h3 className="font-semibold text-lg mb-1">{item.movie_title}</h3>
                 <p className="text-sm text-gray-500 dark:text-gray-300">
