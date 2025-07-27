@@ -1,0 +1,102 @@
+{
+  "slug": "c70177fd",
+  "video_id": "wbR-5mHI6bo",
+  "movie_title": "Is It Too Late To Stop Climate Change? Well, it's Complicated.",
+  "movie_url": "https://youtu.be/wbR-5mHI6bo",
+  "published_at": "2020-09-29T14:00:26Z",
+  "duration": "10:07",
+  "tags": [
+    "Climate change",
+    "solve",
+    "stop",
+    "climate",
+    "CO2",
+    "greenhouse gas",
+    "emission",
+    "Carbon Dioxide",
+    "Methan",
+    "Nitrous Oxide",
+    "responsible",
+    "solution",
+    "fix",
+    "China",
+    "USA",
+    "Germany",
+    "Europe",
+    "UK",
+    "India",
+    "Canada",
+    "Australia",
+    "bushfire",
+    "bushfires",
+    "Paris Agreement",
+    "hot",
+    "glaciers",
+    "fire",
+    "drought",
+    "melting",
+    "thawing",
+    "poles",
+    "ice",
+    "sea level",
+    "Population size",
+    "Economic Growth",
+    "Energy Intensity",
+    "Emissions per Energy",
+    "Global Carbon Footprint"
+  ],
+  "introduction": "Head over to our shop to get exclusive kurzgesagt merch and sciency products designed with love. \nGe",
+  "lead_intro": "In a world grappling with the challenges of climate change, understanding the factors contributing to CO2 emissions is crucial. Let's delve into the complexities of population growth, economic development, energy efficiency, and carbon footprint in this informative video.",
+  "quiz": [
+    {
+      "question": "What are the four factors that contribute to humanity's CO2 emissions according to the video?",
+      "choices": [
+        "A. Population Size, Economic Stability, Renewable Energy, Emissions per Capita",
+        "B. Population Size, Economic Growth, Energy Intensity, Emissions per Energy unit produced",
+        "C. Population Density, Urbanization, Technology Advancement, Carbon Footprint"
+      ],
+      "answer": "B. Population Size, Economic Growth, Energy Intensity, Emissions per Energy unit produced",
+      "explanation": "The video discusses how population size, economic growth, energy intensity, and emissions per energy unit produced are the four factors contributing to CO2 emissions."
+    },
+    {
+      "question": "Why does population growth contribute to an increase in global CO2 emissions?",
+      "choices": [
+        "A. Higher population leads to lower CO2 emissions",
+        "B. More people demand luxury products with lower emissions",
+        "C. Lower birth rates lead to higher CO2 emissions"
+      ],
+      "answer": "B. More people demand luxury products with lower emissions",
+      "explanation": "Population growth leads to higher CO2 emissions as more people demand luxury products that contribute to emissions, as explained in the video."
+    },
+    {
+      "question": "What does the video suggest is one of the most important ways to reduce modern world CO2 dependency?",
+      "choices": [
+        "A. Increasing population growth",
+        "B. Advancing economic growth",
+        "C. Improving energy efficiency"
+      ],
+      "answer": "C. Improving energy efficiency",
+      "explanation": "The video highlights that improving energy efficiency is crucial in reducing modern world CO2 dependency by using resources more efficiently."
+    },
+    {
+      "question": "What are some reasons why increasing efficiency alone may not lead to a significant reduction in energy use?",
+      "choices": [
+        "A. Reduced costs and increased consumption",
+        "B. Direct and indirect rebound effects",
+        "C. Limited technology advancements"
+      ],
+      "answer": "B. Direct and indirect rebound effects",
+      "explanation": "The video explains that direct and indirect rebound effects, where increased efficiency may lead to increased consumption or spending elsewhere, can counteract the intended reduction in energy use."
+    },
+    {
+      "question": "What are some strategies mentioned in the video to speed the transition away from fossil fuels?",
+      "choices": [
+        "A. Increase subsidies to the fossil fuel industry",
+        "B. Use real leverage with today's technology, invent new technologies",
+        "C. Continue relying solely on innovation"
+      ],
+      "answer": "B. Use real leverage with today's technology, invent new technologies",
+      "explanation": "The video suggests using existing technology leverage, transitioning away from fossil fuels, and innovating new technologies as strategies to accelerate the shift towards cleaner energy sources."
+    }
+  ]
+}

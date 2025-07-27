@@ -1,0 +1,84 @@
+{
+  "slug": "1502b68d",
+  "video_id": "A9fQPzZ1-hg",
+  "movie_title": "The rise and fall of the Berlin Wall - Konrad H. Jarausch",
+  "movie_url": "https://youtu.be/A9fQPzZ1-hg",
+  "published_at": "2017-08-16T15:02:16Z",
+  "duration": "6:26",
+  "tags": [
+    "TED",
+    "TED-Ed",
+    "TED Education",
+    "Konrad H. Jarausch",
+    "Remus & Kiki",
+    "Berlin",
+    "Berlin Wall",
+    "East Germany",
+    "West Germany",
+    "Germany",
+    "Soviet Union",
+    "Iron Curtain",
+    "Communism",
+    "World War II",
+    "Allies",
+    "Axis Powers",
+    "Federal Republic of Germany",
+    "German Democratic Republic",
+    "freedom",
+    "escape"
+  ],
+  "introduction": "Check out our Patreon page: https://www.patreon.com/teded\n\nView full lesson: https://ed.ted.com/less",
+  "lead_intro": "The Berlin Wall, one of history's most infamous dividing lines, was erected in 1961 to prevent East Germans from fleeing to the West. Learn more about this significant historical event in this passage.",
+  "quiz": [
+    {
+      "question": "When did the construction of the Berlin Wall begin?",
+      "choices": [
+        "August 13, 1945",
+        "August 13, 1961",
+        "November 9, 1989"
+      ],
+      "answer": "August 13, 1961",
+      "explanation": "The construction of the Berlin Wall began on August 13, 1961, as East German workers started erecting barriers to prevent people from fleeing to the West."
+    },
+    {
+      "question": "What was the initial barrier of the Berlin Wall made of?",
+      "choices": [
+        "Barbed wire and mesh fencing",
+        "Concrete barricades",
+        "Guard dogs and landmines"
+      ],
+      "answer": "Barbed wire and mesh fencing",
+      "explanation": "Initially, the Berlin Wall consisted of barbed wire and mesh fencing. It was later fortified with concrete barricades, guard dogs, and landmines to prevent people from escaping."
+    },
+    {
+      "question": "What was the purpose of the 'death strip' in the Berlin Wall?",
+      "choices": [
+        "To deter people from escaping",
+        "To provide a clear line of sight for guards",
+        "To prevent any contact between East and West Berlin"
+      ],
+      "answer": "To deter people from escaping",
+      "explanation": "The 'death strip' in the Berlin Wall was designed to deter people from escaping by creating a 100-meter area where guards were ordered to shoot anyone attempting to cross."
+    },
+    {
+      "question": "How many people managed to flee East Germany between 1961 and 1989?",
+      "choices": [
+        "Over 10,000 people",
+        "Around 5,000 people",
+        "Less than 1,000 people"
+      ],
+      "answer": "Around 5,000 people",
+      "explanation": "Despite the heavily fortified Berlin Wall, around 5,000 people managed to flee East Germany between 1961 and 1989 through various daring methods such as tunnels, hot air balloons, and even crashing a tank through the wall."
+    },
+    {
+      "question": "When was Germany officially reunified?",
+      "choices": [
+        "November 9, 1989",
+        "October 3, 1990",
+        "August 13, 1961"
+      ],
+      "answer": "October 3, 1990",
+      "explanation": "Germany was officially reunified on October 3, 1990, after four decades of division following the fall of the Berlin Wall in 1989."
+    }
+  ]
+}

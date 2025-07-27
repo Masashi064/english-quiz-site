@@ -1,0 +1,75 @@
+{
+  "slug": "2366c17f",
+  "video_id": "kl39KHS07Xc",
+  "movie_title": "Universal Basic Income Explained – Free Money for Everybody? UBI",
+  "movie_url": "https://youtu.be/kl39KHS07Xc",
+  "published_at": "2017-12-07T14:08:08Z",
+  "duration": "10:06",
+  "tags": [
+    "universal basic income",
+    "ubi",
+    "basic income",
+    "basic",
+    "society",
+    "funny",
+    "humans",
+    "poverty",
+    "future",
+    "futurism",
+    "wellfare"
+  ],
+  "introduction": "What is UBI? How would free money change our lives.\n\n\nOUR CHANNELS\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\nGerman",
+  "lead_intro": "Have you ever wondered about a world where the state covers your cost of living? Imagine receiving a universal basic income (UBI) that could potentially change the way we work and live. Let's delve into the concept of UBI and explore its implications.",
+  "quiz": [
+    {
+      "question": "What is a universal basic income (UBI) intended to provide?",
+      "choices": [
+        "Additional income for the wealthy",
+        "Free extra for existing programs",
+        "Cost of living coverage for everyone"
+      ],
+      "answer": "Cost of living coverage for everyone",
+      "explanation": "UBI aims to provide a fixed amount of money to cover basic living expenses for all individuals, regardless of their income level."
+    },
+    {
+      "question": "According to the video, what is the amount of money that would be required to be above the poverty line in the US?",
+      "choices": [
+        "$500 a month",
+        "$1,000 a month",
+        "$2,000 a month"
+      ],
+      "answer": "$1,000 a month",
+      "explanation": "In the US, an amount of $1,000 a month is considered sufficient to keep individuals above the poverty line."
+    },
+    {
+      "question": "What was the key finding of the World Bank study regarding poor people receiving cash handouts?",
+      "choices": [
+        "They spent it on tobacco and alcohol",
+        "They wasted it on luxury items",
+        "They did not misuse it on tobacco and alcohol"
+      ],
+      "answer": "They did not misuse it on tobacco and alcohol",
+      "explanation": "Contrary to stereotypes, the study found that poor individuals did not waste their cash handouts on tobacco and alcohol."
+    },
+    {
+      "question": "How did the UBI test runs in Canada in the 1970s impact recipients' work behavior?",
+      "choices": [
+        "80% stopped working entirely",
+        "1% stopped working, mainly to care for their children",
+        "People worked longer hours"
+      ],
+      "answer": "1% stopped working, mainly to care for their children",
+      "explanation": "The test runs showed that only around 1% of recipients stopped working, primarily to take care of their children, while others used the extra time to pursue education or find better job opportunities."
+    },
+    {
+      "question": "What is one potential economic benefit mentioned in the video related to implementing a UBI?",
+      "choices": [
+        "Decrease in GDP",
+        "Increase in inflation",
+        "Growth in GDP by 12% over eight years"
+      ],
+      "answer": "Growth in GDP by 12% over eight years",
+      "explanation": "A recent study suggested that implementing a UBI of $1,000 per month in the US could lead to a 12% growth in GDP over an eight-year period by boosting overall demand."
+    }
+  ]
+}

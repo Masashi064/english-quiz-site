@@ -1,0 +1,100 @@
+{
+  "slug": "f6f792b9",
+  "video_id": "wefiAkgs09M",
+  "movie_title": "We can prevent the next epidemic - George Zaidan",
+  "movie_url": "https://youtu.be/wefiAkgs09M",
+  "published_at": "2023-05-23T15:00:45Z",
+  "duration": "6:26",
+  "tags": [
+    "epidemics",
+    "epidemic prevention",
+    "epidemic preparation",
+    "epidemic preparedness",
+    "virus",
+    "disease",
+    "outbreak",
+    "ebola",
+    "ebola outbreak",
+    "disease outbreak",
+    "ebola epidemic",
+    "cholera",
+    "guinea",
+    "epidemic response",
+    "emergency response system",
+    "test and trace",
+    "contact tracing",
+    "rapid test",
+    "vaccines",
+    "vaccination",
+    "epidemic response system",
+    "health",
+    "public health",
+    "yellow fever",
+    "healthcare",
+    "healthcare workers",
+    "education",
+    "animation",
+    "George Zaidan",
+    "Gavin Edwards",
+    "Movult",
+    "TED",
+    "TED-Ed",
+    "TED Ed",
+    "Teded",
+    "Ted Education"
+  ],
+  "introduction": "What makes for an effective outbreak response? Explore successful systems from around the world that",
+  "lead_intro": "Learn about the importance of effective outbreak response systems in this intriguing video that highlights the Ebola outbreaks in Guinea in 2013 and 2021, as well as responses to other infectious diseases in different countries.",
+  "quiz": [
+    {
+      "question": "What was the initial suspected cause of the nurse's symptoms in Guinea in January 2021?",
+      "choices": [
+        "Malaria",
+        "Yellow fever",
+        "Ebola"
+      ],
+      "answer": "Ebola",
+      "explanation": "Health officials suspected Ebola due to the nurse's symptoms and her exposure at the funeral of another Ebola victim."
+    },
+    {
+      "question": "How many people contracted Ebola in the 2021 outbreak in Guinea?",
+      "choices": [
+        "23",
+        "12",
+        "100"
+      ],
+      "answer": "23",
+      "explanation": "Only 23 people contracted Ebola in the 2021 outbreak, with 12 deaths, a significant improvement compared to the previous epidemic."
+    },
+    {
+      "question": "How did Brazil successfully control an outbreak of yellow fever?",
+      "choices": [
+        "Mass vaccination campaign",
+        "Antibiotic treatment",
+        "Community alert system"
+      ],
+      "answer": "Mass vaccination campaign",
+      "explanation": "Brazil controlled the yellow fever outbreak by implementing a massive vaccination campaign, leveraging its vaccine production capacity and population's familiarity with vaccinations."
+    },
+    {
+      "question": "What approach did Burkina Faso use to stop the cholera outbreak in 2021?",
+      "choices": [
+        "Vaccination campaign",
+        "Antibiotic treatment",
+        "Community alert system"
+      ],
+      "answer": "Antibiotic treatment",
+      "explanation": "Burkina Faso responded to the cholera outbreak by providing antibiotics to those exposed or potentially exposed, resulting in zero deaths in the country that year."
+    },
+    {
+      "question": "What method did health officials in Chiang Mai, Thailand, use to monitor animal health for potential outbreaks?",
+      "choices": [
+        "Mass vaccination campaign",
+        "Community alert system",
+        "Antibiotic treatment"
+      ],
+      "answer": "Community alert system",
+      "explanation": "Health officials in Chiang Mai employed a community-owned, community-driven outbreak alert system using an app to monitor animal health and prevent potential human outbreaks."
+    }
+  ]
+}

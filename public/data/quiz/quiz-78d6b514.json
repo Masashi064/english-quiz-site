@@ -1,0 +1,63 @@
+{
+  "slug": "78d6b514",
+  "video_id": "HR2C_7G_yRQ",
+  "movie_title": "How To Destroy The Universe",
+  "movie_url": "https://youtu.be/HR2C_7G_yRQ",
+  "published_at": "2023-12-08T15:00:01Z",
+  "duration": "10:03",
+  "tags": [],
+  "introduction": "Check out some of our favorite shop products here: https://kgs.link/shop. Our shop is not only our m",
+  "lead_intro": "Ever wondered how the universe will meet its end? Dive into the cosmic battle between matter and dark energy that will decide the fate of the universe!",
+  "quiz": [
+    {
+      "question": "What are the two cosmic forces fighting for dominance in the universe?",
+      "choices": [
+        "Matter and antimatter",
+        "Galaxies and dark matter",
+        "Matter and dark energy"
+      ],
+      "answer": "Matter and dark energy",
+      "explanation": "The two cosmic forces fighting for dominance in the universe are matter (galaxies, gas, dark matter) and dark energy."
+    },
+    {
+      "question": "What is the scenario if dark energy's strength remains constant?",
+      "choices": [
+        "Heat Death",
+        "Big Rip",
+        "Big Crunch"
+      ],
+      "answer": "Heat Death",
+      "explanation": "If dark energy's strength remains constant, the universe will face Heat Death, where it expands at an exponential rate, leading to a cold and eternally expanding universe."
+    },
+    {
+      "question": "What happens in the Big Rip scenario?",
+      "choices": [
+        "Matter collapses into a singularity",
+        "Dark energy weakens over time",
+        "Dark energy overcomes the pull of gravity"
+      ],
+      "answer": "Dark energy overcomes the pull of gravity",
+      "explanation": "In the Big Rip scenario, dark energy becomes stronger over time, overcoming the pull of gravity and tearing matter apart, leading to the complete destruction of the universe."
+    },
+    {
+      "question": "In the Big Crunch scenario, what is the possible outcome if the universe collapses completely?",
+      "choices": [
+        "A new baby universe is created",
+        "The universe becomes a singularity",
+        "Stars and galaxies merge into a single ball of hot plasma"
+      ],
+      "answer": "The universe becomes a singularity",
+      "explanation": "In the Big Crunch scenario, if the universe collapses completely, it might end up as a singularity with zero size and infinite density, or it could potentially bounce back and create a new universe."
+    },
+    {
+      "question": "What is the likely fate of the universe according to most scientists?",
+      "choices": [
+        "Big Rip",
+        "Big Crunch",
+        "Heat Death"
+      ],
+      "answer": "Heat Death",
+      "explanation": "Most scientists believe that dark energy will stay constant, leading to Heat Death as the likely fate of the universe – eternal cold and boredom, allowing trillions of years for exploration and discovery."
+    }
+  ]
+}

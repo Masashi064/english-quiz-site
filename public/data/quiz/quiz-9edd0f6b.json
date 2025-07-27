@@ -1,0 +1,102 @@
+{
+  "slug": "9edd0f6b",
+  "video_id": "10QcbISOKrg",
+  "movie_title": "How do drugs make you hallucinate? - Anees Bahji",
+  "movie_url": "https://youtu.be/10QcbISOKrg",
+  "published_at": "2025-06-05T15:01:23Z",
+  "duration": "6:27",
+  "tags": [
+    "psychedelics",
+    "psychedelic drugs",
+    "lsd",
+    "mdma",
+    "therapy",
+    "therapeutic drugs",
+    "psychedelic therapy",
+    "neurotransmitters",
+    "ptsd",
+    "depression",
+    "mental health",
+    "mental health disorder",
+    "mental illness",
+    "psilocybin",
+    "serotonin",
+    "hallucination",
+    "mood",
+    "cognition",
+    "perception",
+    "ego dissolution",
+    "medicinal psychedelics",
+    "brain",
+    "dopamine",
+    "oxytocin",
+    "norepinephrine",
+    "amygdala",
+    "schizophrenia",
+    "drug effects",
+    "clinical trials",
+    "education",
+    "animation",
+    "Anees Bahji",
+    "Rowena Sheehan",
+    "TED",
+    "TED-Ed",
+    "TED Ed",
+    "Teded",
+    "Ted Education"
+  ],
+  "introduction": "Dig into the science of how psychedelic drugs affect your brain, and how they could be used for psyc",
+  "lead_intro": "Discover the fascinating world of psychedelic drugs and their potential medicinal benefits. From LSD to psilocybin and MDMA, learn how these substances interact with the body's neurotransmitter system and may offer new avenues for treating various conditions.",
+  "quiz": [
+    {
+      "question": "How do psychedelic drugs like LSD and psilocybin affect serotonin signaling in the body?",
+      "choices": [
+        "Increase the amount of serotonin signaling",
+        "Decrease serotonin signaling",
+        "Have no effect on serotonin signaling"
+      ],
+      "answer": "Increase the amount of serotonin signaling",
+      "explanation": "Psychedelic drugs increase the amount of serotonin signaling in the body, which can lead to positive moods and emotional stability."
+    },
+    {
+      "question": "What is the default mode network in the brain and how do LSD and psilocybin affect it?",
+      "choices": [
+        "Responsible for self-referential thinking; LSD and psilocybin activate it",
+        "Important in social behavior; LSD and psilocybin suppress it",
+        "Involved in ego dissolution; LSD and psilocybin suppress it"
+      ],
+      "answer": "Involved in ego dissolution; LSD and psilocybin suppress it",
+      "explanation": "The default mode network is associated with self-referential thinking and mind wandering. LSD and psilocybin suppress this network, leading to ego dissolution and a shift in self-perception."
+    },
+    {
+      "question": "How does MDMA affect neurotransmitters and hormones in the body?",
+      "choices": [
+        "Triggers release of dopamine and norepinephrine; lowers oxytocin levels",
+        "Increases serotonin levels; has no effect on dopamine",
+        "Triggers release of dopamine, norepinephrine, and serotonin; elevates oxytocin levels"
+      ],
+      "answer": "Triggers release of dopamine, norepinephrine, and serotonin; elevates oxytocin levels",
+      "explanation": "MDMA triggers the release of neurotransmitters like dopamine, norepinephrine, and serotonin, while also elevating levels of the hormone oxytocin, leading to effects like heightened heart rate and feelings of bonding and empathy."
+    },
+    {
+      "question": "What is a potential therapeutic application of MDMA being researched for?",
+      "choices": [
+        "Treating depression",
+        "Addressing chronic pain",
+        "Managing post-traumatic stress disorder"
+      ],
+      "answer": "Managing post-traumatic stress disorder",
+      "explanation": "Researchers are investigating MDMA as a possible therapy for post-traumatic stress disorder, as it may help patients discuss trauma without debilitating negative emotions."
+    },
+    {
+      "question": "What are some risks associated with the use of psychedelics?",
+      "choices": [
+        "Highly addictive",
+        "Potential stress on the heart",
+        "No psychological effects"
+      ],
+      "answer": "Potential stress on the heart",
+      "explanation": "Some research suggests that psychedelics can be stressful on the heart. Additionally, they can unmask pre-existing psychiatric disorders and may lead to side effects like paranoia, psychosis, and hallucinations."
+    }
+  ]
+}
