@@ -1,0 +1,95 @@
+{
+  "slug": "ecc8ba29",
+  "video_id": "x7KKkElpyKQ",
+  "movie_title": "Which is better: Soap or hand sanitizer? - Alex Rosenthal and Pall Thordarson",
+  "movie_url": "https://youtu.be/x7KKkElpyKQ",
+  "published_at": "2020-05-05T15:00:31Z",
+  "duration": "6:15",
+  "tags": [
+    "coronavirus",
+    "covid 19",
+    "soap",
+    "sanitizer",
+    "hand sanitizer",
+    "lipids",
+    "virus",
+    "viral outbreak",
+    "pandemic",
+    "science",
+    "biology",
+    "health",
+    "public health",
+    "hand washing",
+    "hydrophobic effect",
+    "ethanol",
+    "pathogens",
+    "disease",
+    "illness",
+    "healthy habits",
+    "hygiene",
+    "education",
+    "animation",
+    "alex rosenthal",
+    "pall thordarson",
+    "artrake studio",
+    "TED",
+    "TED-Ed",
+    "TED Ed",
+    "Teded",
+    "Ted Education"
+  ],
+  "introduction": "Dig into the science of how soap breaks down a coronavirus, and the effectiveness of hand sanitizer",
+  "lead_intro": "Learn about the effectiveness of soap and hand sanitizer in fighting viruses like the coronavirus. Discover the science behind how these simple solutions can help keep you safe from infections.",
+  "quiz": [
+    {
+      "question": "What is the outer protective surface of the coronavirus made of?",
+      "choices": [
+        "Proteins",
+        "Lipid bilayer",
+        "Capsid"
+      ],
+      "answer": "Lipid bilayer",
+      "explanation": "The coronavirus has an outer protective surface made of a lipid bilayer, which is important for understanding how soap and hand sanitizer work against it."
+    },
+    {
+      "question": "How do soap molecules help in destroying the coronavirus?",
+      "choices": [
+        "By directly attacking the virus's RNA",
+        "By breaking up the virus's membrane",
+        "By neutralizing the virus's spikes"
+      ],
+      "answer": "By breaking up the virus's membrane",
+      "explanation": "Soap molecules compete with the lipids in the virus's membrane, breaking up its structure and causing it to disintegrate."
+    },
+    {
+      "question": "What effect does hand sanitizer have on the coronavirus's membrane?",
+      "choices": [
+        "Strengthens it",
+        "Destabilizes it",
+        "Makes it invisible"
+      ],
+      "answer": "Destabilizes it",
+      "explanation": "Hand sanitizer, containing alcohol, destabilizes the virus's membrane by disrupting the hydrophobic effect, leading to its collapse."
+    },
+    {
+      "question": "Why do doctors recommend washing hands for at least 20 seconds?",
+      "choices": [
+        "To kill bacteria",
+        "To prevent skin dryness",
+        "To ensure thorough coverage"
+      ],
+      "answer": "To ensure thorough coverage",
+      "explanation": "The intricate landscape of the hand requires at least 20 seconds of washing to ensure soap or sanitizer reaches all areas and provides effective protection."
+    },
+    {
+      "question": "What is a device mentioned in the video that can provide clean water for hand-washing in communities without access to clean drinking water?",
+      "choices": [
+        "Water filter",
+        "Hand pump",
+        "Device using salt and a car battery"
+      ],
+      "answer": "Device using salt and a car battery",
+      "explanation": "A device using salt, water, and a car battery can produce chlorinated water to kill harmful pathogens, offering a solution for communities lacking clean water for hand-washing."
+    }
+  ]
+}

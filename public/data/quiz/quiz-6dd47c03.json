@@ -1,0 +1,67 @@
+{
+  "slug": "6dd47c03",
+  "video_id": "aeWyp2vXxqA",
+  "movie_title": "Black Hole Star – The Star That Shouldn't Exist",
+  "movie_url": "https://youtu.be/aeWyp2vXxqA",
+  "published_at": "2022-12-15T15:00:12Z",
+  "duration": "9:57",
+  "tags": [
+    "black hole",
+    "black hole star",
+    "blackhole"
+  ],
+  "introduction": "►► https://kgs.link/shop-172  \nYou want to learn more about science? Check out our sciency products",
+  "lead_intro": "Black hole stars, the largest stars to ever exist, were occupied by a cosmic parasite, a black hole. Learn more about these fascinating and bizarre celestial beings in this video!",
+  "quiz": [
+    {
+      "question": "What made black hole stars special and weird?",
+      "choices": [
+        "Their immense scale",
+        "Their cosmic parasite - a black hole inside",
+        "Both A and B"
+      ],
+      "answer": "Both A and B",
+      "explanation": "Black hole stars were special and weird due to their immense scale, being larger than any star today, and the fact that they contained a black hole inside them, making them occupied by a cosmic parasite."
+    },
+    {
+      "question": "How were black hole stars different from regular stars in terms of mass?",
+      "choices": [
+        "Black hole stars had up to 10 million solar masses of hydrogen",
+        "Regular stars have a maximum of 300 solar masses",
+        "Both A and B"
+      ],
+      "answer": "Both A and B",
+      "explanation": "Black hole stars had up to 10 million solar masses of nearly pure hydrogen, far exceeding the mass of even the most massive stars today, which have about 300 solar masses."
+    },
+    {
+      "question": "What is the ultimate fate of a regular star after running out of fuel?",
+      "choices": [
+        "It collapses into a black hole",
+        "It explodes in a supernova",
+        "It remains as a dead star"
+      ],
+      "answer": "It explodes in a supernova",
+      "explanation": "After running out of fuel, a regular star explodes in a supernova, releasing energy and matter into space."
+    },
+    {
+      "question": "How did the black hole inside a black hole star affect its growth?",
+      "choices": [
+        "It restricted the growth of the star",
+        "It caused the star to expand rapidly",
+        "It accelerated the consumption of the star from within"
+      ],
+      "answer": "It accelerated the consumption of the star from within",
+      "explanation": "The black hole inside a black hole star accelerated the consumption of the star from within, causing it to grow rapidly and eventually lead to its destruction."
+    },
+    {
+      "question": "What role could Black Hole Stars play in explaining supermassive black holes in galaxies?",
+      "choices": [
+        "They could be the seeds for supermassive black holes",
+        "They are unrelated to the formation of supermassive black holes",
+        "Both A and B"
+      ],
+      "answer": "They could be the seeds for supermassive black holes",
+      "explanation": "Black Hole Stars could be the seeds for supermassive black holes by forming early in the Universe and giving rise to black holes with thousands of solar masses, which could later evolve into supermassive black holes at the centers of galaxies."
+    }
+  ]
+}

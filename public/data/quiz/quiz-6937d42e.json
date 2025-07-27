@@ -1,0 +1,63 @@
+{
+  "slug": "6937d42e",
+  "video_id": "W93XyXHI8Nw",
+  "movie_title": "Is Civilization on the Brink of Collapse?",
+  "movie_url": "https://youtu.be/W93XyXHI8Nw",
+  "published_at": "2022-08-16T13:59:34Z",
+  "duration": "9:55",
+  "tags": [],
+  "introduction": "Sources & further reading:\nhttps://sites.google.com/view/sources-civilization-collapse/\n\nAt its heig",
+  "lead_intro": "The rise and fall of civilizations throughout history have shaped the world we live in today. Despite the challenges and potential risks facing modern global civilization, there are reasons for optimism and resilience.",
+  "quiz": [
+    {
+      "question": "What is one of the benefits that citizens of the Roman Empire enjoyed?",
+      "choices": [
+        "Access to smartphones",
+        "Central heating",
+        "Space travel"
+      ],
+      "answer": "Central heating",
+      "explanation": "Citizens of the Roman Empire enjoyed central heating, concrete, double glazing, and other advancements."
+    },
+    {
+      "question": "How long, on average, do civilizations last before collapsing?",
+      "choices": [
+        "100 years",
+        "340 years",
+        "500 years"
+      ],
+      "answer": "340 years",
+      "explanation": "On average, civilizations last around 340 years before facing collapse."
+    },
+    {
+      "question": "What was a significant global pandemic that caused a rapid population decrease in the fourteenth century?",
+      "choices": [
+        "Smallpox",
+        "Spanish flu",
+        "Black Death"
+      ],
+      "answer": "Black Death",
+      "explanation": "The Black Death, a bubonic plague pandemic, caused a significant population decrease in the fourteenth century."
+    },
+    {
+      "question": "What event led to the beginning of the Industrial Revolution?",
+      "choices": [
+        "Atomic bombing of Hiroshima",
+        "Global pandemic",
+        "Black Death pandemic"
+      ],
+      "answer": "Black Death pandemic",
+      "explanation": "The Black Death pandemic in the fourteenth century led to significant disruptions but also paved the way for the Industrial Revolution in later centuries."
+    },
+    {
+      "question": "What is one factor that could hinder recovery after a global collapse?",
+      "choices": [
+        "Abundance of modern knowledge",
+        "Reliance on easily-accessible coal",
+        "Recovery plans in place"
+      ],
+      "answer": "Reliance on easily-accessible coal",
+      "explanation": "Reliance on easily-accessible coal could hinder recovery efforts after a global collapse and impact the ability to re-industrialize quickly."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "af3ff2fe",
+  "video_id": "rXhpK_lhonA",
+  "movie_title": "How does the Nobel Peace Prize work? - Adeline Cuvelier and Toril Rokseth",
+  "movie_url": "https://youtu.be/rXhpK_lhonA",
+  "published_at": "2016-10-06T15:04:16Z",
+  "duration": "6:15",
+  "tags": [],
+  "introduction": "View full lesson: http://ed.ted.com/lessons/how-does-the-nobel-peace-prize-work-adeline-cuvelier-and",
+  "lead_intro": "The Nobel Peace Prize has honored remarkable individuals and organizations for their contributions to peace. Let's delve into the history and significance of this prestigious award.",
+  "quiz": [
+    {
+      "question": "Who was the first woman to be awarded the Nobel Peace Prize?",
+      "choices": [
+        "Martin Luther King Jr.",
+        "Desmond Tutu",
+        "Bertha Von Suttner"
+      ],
+      "answer": "Bertha Von Suttner",
+      "explanation": "Bertha Von Suttner, an Austrian pacifist, was awarded the Nobel Peace Prize in 1905, becoming the first woman to receive this prestigious honor."
+    },
+    {
+      "question": "How many criteria did Alfred Nobel outline for the Peace Prize in his will?",
+      "choices": [
+        "One",
+        "Two",
+        "Three"
+      ],
+      "answer": "Three",
+      "explanation": "Alfred Nobel outlined three criteria for the Nobel Peace Prize in his will: disarmament, peace congresses, and brotherhood between nations."
+    },
+    {
+      "question": "Who announced the Nobel Peace Prize laureate each year?",
+      "choices": [
+        "Alfred Nobel",
+        "The Norwegian Nobel Committee",
+        "The Swedish Parliament"
+      ],
+      "answer": "The Norwegian Nobel Committee",
+      "explanation": "The Norwegian Nobel Committee, consisting of five appointed members, is responsible for selecting and announcing the Nobel Peace Prize laureate each year."
+    },
+    {
+      "question": "What is inscribed on the Nobel Peace Prize gold medal?",
+      "choices": [
+        "Alfred Nobel's name",
+        "A quote from the laureate",
+        "Latin words for peace and brotherhood"
+      ],
+      "answer": "Latin words for peace and brotherhood",
+      "explanation": "The Nobel Peace Prize gold medal is inscribed with the Latin words 'Pro pace et fraternitate gentium,' which translates to 'For the peace and brotherhood of men.'"
+    },
+    {
+      "question": "How much is the Nobel Peace Prize cash prize in recent years?",
+      "choices": [
+        "$100,000",
+        "$1 million",
+        "$8 million"
+      ],
+      "answer": "$8 million",
+      "explanation": "In recent years, the Nobel Peace Prize cash prize has been 8 million Swedish kronor, which is approximately a million US dollars, and is divided among multiple laureates, if applicable."
+    }
+  ]
+}

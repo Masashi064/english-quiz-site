@@ -1,0 +1,63 @@
+{
+  "slug": "724e7093",
+  "video_id": "gLZJlf5rHVs",
+  "movie_title": "What If Earth got Kicked Out of the Solar System? Rogue Earth",
+  "movie_url": "https://youtu.be/gLZJlf5rHVs",
+  "published_at": "2020-12-01T15:00:41Z",
+  "duration": "10:00",
+  "tags": [],
+  "introduction": "Get Merch designed with ❤ from https://kgs.link/shop-135  \nJoin the Patreon Bird Army 🐧 https://kgs",
+  "lead_intro": "Ever wondered about the potential dangers stars pose to our solar system and the earth? Let's dive into the fascinating world of cosmic threats in this video summary!",
+  "quiz": [
+    {
+      "question": "What percentage of all the mass in the solar system does the sun make up?",
+      "choices": [
+        "50%",
+        "75%",
+        "99.75%"
+      ],
+      "answer": "99.75%",
+      "explanation": "The sun makes up 99.75% of all the mass in the solar system, shaping the behavior and orbits of everything else in it."
+    },
+    {
+      "question": "What is Gliese 710, and what potential impact does it have on the solar system?",
+      "choices": [
+        "A red dwarf headed towards the solar system; could trigger planetary bombardment",
+        "A black hole orbiting the sun; no impact expected",
+        "An asteroid on a collision course with earth"
+      ],
+      "answer": "A red dwarf headed towards the solar system; could trigger planetary bombardment",
+      "explanation": "Gliese 710, a red dwarf with about half the mass of the sun, is currently headed towards the solar system and could disrupt the orbits of objects in the Oort cloud, potentially leading to planetary bombardment."
+    },
+    {
+      "question": "What would happen if another star passed as close to the earth as the sun?",
+      "choices": [
+        "It would cause the earth to rotate faster",
+        "It could eject the earth from the solar system",
+        "It would bring about a new ice age"
+      ],
+      "answer": "It could eject the earth from the solar system",
+      "explanation": "If another star were to pass by as close as the earth is from the sun, it could easily eject the earth from the solar system, although the odds of such an event are estimated to be around 1/100,000 in the next five billion years."
+    },
+    {
+      "question": "What would be the surface temperature of earth once it reaches Jupiter's orbit after being kicked out of the solar system?",
+      "choices": [
+        "-20°C",
+        "-50°C",
+        "-150°C"
+      ],
+      "answer": "-150°C",
+      "explanation": "By the time earth reaches Jupiter's orbit after being kicked out of the solar system, the average surface temperature has plummeted to near -150°C."
+    },
+    {
+      "question": "What happens to earth after it leaves the solar system?",
+      "choices": [
+        "It becomes a rogue planet",
+        "It collides with another planet",
+        "It enters a parallel universe"
+      ],
+      "answer": "It becomes a rogue planet",
+      "explanation": "After leaving the solar system, earth becomes a rogue planet, traveling alone through the dark, lifeless and in solitude."
+    }
+  ]
+}

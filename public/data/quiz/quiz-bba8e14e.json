@@ -1,0 +1,88 @@
+{
+  "slug": "bba8e14e",
+  "video_id": "xvjK-4NXRsM",
+  "movie_title": "What happens when you have a concussion? - Clifford Robbins",
+  "movie_url": "https://youtu.be/xvjK-4NXRsM",
+  "published_at": "2017-07-27T15:02:17Z",
+  "duration": "6:15",
+  "tags": [
+    "TED",
+    "TED-Ed",
+    "TED Education",
+    "TED Ed",
+    "Clifford Robbins",
+    "Boniato Studio",
+    "concussion",
+    "PCS",
+    "post concussion syndrome",
+    "sub-concussive hit",
+    "sports",
+    "football",
+    "soccer",
+    "brain",
+    "neuron",
+    "axon",
+    "axon bundle",
+    "tau",
+    "microtubule",
+    "memory",
+    "dementia",
+    "chronic traumatic encephalopathy",
+    "CTE",
+    "injury"
+  ],
+  "introduction": "View full lesson: https://ed.ted.com/lessons/what-happens-when-you-have-a-concussion-clifford-robbin",
+  "lead_intro": "Concussions are a common occurrence in sports and recreational activities, but understanding their impact on the brain is crucial. Let's delve into the complexities of concussions and how they affect our brain health.",
+  "quiz": [
+    {
+      "question": "What is the brain made of?",
+      "choices": [
+        "Hard plastic",
+        "Soft fatty tissue",
+        "Metallic alloy"
+      ],
+      "answer": "Soft fatty tissue",
+      "explanation": "The brain is made of soft fatty tissue, similar to jello, with a delicate network of 90 billion neurons."
+    },
+    {
+      "question": "What can happen to neurons when the brain is impacted?",
+      "choices": [
+        "Strengthen",
+        "Stretch and tear",
+        "Multiply"
+      ],
+      "answer": "Stretch and tear",
+      "explanation": "When impacted, neurons in the brain can stretch and tear, disrupting their ability to communicate and leading to the release of toxins."
+    },
+    {
+      "question": "What is a common symptom of a concussion?",
+      "choices": [
+        "Blurry vision",
+        "Superhuman strength",
+        "Invisibility"
+      ],
+      "answer": "Blurry vision",
+      "explanation": "Symptoms of a concussion can include blurry vision, headache, balance problems, altered mood, memory issues, and more."
+    },
+    {
+      "question": "What is post-concussion syndrome (PCS)?",
+      "choices": [
+        "A type of headache",
+        "A sleep disorder",
+        "A condition with persistent symptoms after a concussion"
+      ],
+      "answer": "A condition with persistent symptoms after a concussion",
+      "explanation": "PCS is a condition where individuals may experience constant headaches, learning difficulties, and behavioral symptoms for months or years after a concussion."
+    },
+    {
+      "question": "What degenerative brain disease is linked to an overload of subconcussive hits?",
+      "choices": [
+        "Alzheimer's disease",
+        "Chronic Traumatic Encephalopathy (CTE)",
+        "Parkinson's disease"
+      ],
+      "answer": "Chronic Traumatic Encephalopathy (CTE)",
+      "explanation": "CTE is a degenerative brain disease associated with repeated subconcussive hits, leading to changes in mood, behavior, thinking problems, and in severe cases, dementia."
+    }
+  ]
+}

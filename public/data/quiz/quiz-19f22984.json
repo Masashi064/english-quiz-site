@@ -1,0 +1,88 @@
+{
+  "slug": "19f22984",
+  "video_id": "2K2gB8b7qUw",
+  "movie_title": "Deep-sea mining - 6 Minute English",
+  "movie_url": "https://youtu.be/2K2gB8b7qUw",
+  "published_at": "2022-12-08T15:53:13Z",
+  "duration": "6:23",
+  "tags": [
+    "learn English",
+    "English vocabulary",
+    "speak English",
+    "bbc english",
+    "English teacher",
+    "英語",
+    "영어",
+    "อังกฤษ",
+    "Anh",
+    "English grammar",
+    "IELTS",
+    "British English",
+    "English pronunciation",
+    "English lesson",
+    "English expressions",
+    "BBC Learning English",
+    "ELT",
+    "podcast",
+    "Ingilizce",
+    "deep sea",
+    "ocean",
+    "mining",
+    "climate change",
+    "6 minute english"
+  ],
+  "introduction": "Some solutions to deal with climate change could damage the environment. An idea under scrutiny is d",
+  "lead_intro": "Join us for an insightful discussion on deep-sea mining and its impact on the environment. Discover how this controversial technology could provide vital resources for green technology while potentially harming delicate ocean ecosystems.",
+  "quiz": [
+    {
+      "question": "According to recent estimates by Unesco oceanographers, how many different marine species have their home in the ocean?",
+      "choices": [
+        "a) 70,000",
+        "b) 170,000",
+        "c) 700,000"
+      ],
+      "answer": "c) 700,000",
+      "explanation": "There are estimated to be around 700,000 marine species, only about 226,000 of which have been identified so far."
+    },
+    {
+      "question": "What does the term 'conundrum' mean?",
+      "choices": [
+        "a) A simple solution to a complicated problem",
+        "b) A situation or habit that is difficult to stop and gets worse",
+        "c) A problem that is very difficult to fix"
+      ],
+      "answer": "c) A problem that is very difficult to fix",
+      "explanation": "A conundrum is a problem that is very difficult to solve."
+    },
+    {
+      "question": "What does the term 'paradox' describe?",
+      "choices": [
+        "a) A problem that is very difficult to fix",
+        "b) A simple solution to a complicated problem",
+        "c) A situation that seems impossible because it contains two opposite ideas"
+      ],
+      "answer": "c) A situation that seems impossible because it contains two opposite ideas",
+      "explanation": "A paradox is a situation that seems impossible because it contains two opposite ideas."
+    },
+    {
+      "question": "What does it mean if something grows 'by a factor of ten'?",
+      "choices": [
+        "a) It decreases by ten times",
+        "b) It multiplies by ten times",
+        "c) It remains the same"
+      ],
+      "answer": "b) It multiplies by ten times",
+      "explanation": "If something grows by a factor of ten, it becomes multiplied ten times."
+    },
+    {
+      "question": "What does the idiom 'open the door to something' mean?",
+      "choices": [
+        "a) To close off possibilities",
+        "b) To allow something new to start or make it possible",
+        "c) To prevent any changes"
+      ],
+      "answer": "b) To allow something new to start or make it possible",
+      "explanation": "To open the door to something means to allow something new to start or to make it possible."
+    }
+  ]
+}

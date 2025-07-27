@@ -1,0 +1,67 @@
+{
+  "slug": "a0a936ae",
+  "video_id": "fXb02MQ78yQ",
+  "movie_title": "The Biggest Eruptions That Changed Earth Forever",
+  "movie_url": "https://youtu.be/fXb02MQ78yQ",
+  "published_at": "2022-10-18T13:59:41Z",
+  "duration": "9:59",
+  "tags": [
+    "size comparison",
+    "supervolcano",
+    "super volcano"
+  ],
+  "introduction": "Sources & further reading:\nhttps://sites.google.com/view/sources-supervolcanoes/\n\nThe Earth is a gig",
+  "lead_intro": "Explore the fascinating world of volcanoes and supervolcanoes with this insightful video. Learn about the different types of volcanic eruptions and the potential impact on our planet.",
+  "quiz": [
+    {
+      "question": "What is the main source of volcanoes at tectonic plate boundaries?",
+      "choices": [
+        "Mantle plumes",
+        "Earth's core",
+        "Tectonic plates"
+      ],
+      "answer": "Tectonic plates",
+      "explanation": "Volcanoes are mainly formed at tectonic plate boundaries where plates interact and create geological activity."
+    },
+    {
+      "question": "What is the Volcanic Explosivity Index (VEI) used to measure?",
+      "choices": [
+        "Volume of lava",
+        "Frequency of eruptions",
+        "Intensity of eruptions"
+      ],
+      "answer": "Intensity of eruptions",
+      "explanation": "The VEI is a scale that measures the intensity of volcanic eruptions based on the volume of materials ejected during the eruption."
+    },
+    {
+      "question": "What is the estimated frequency of catastrophic supereruptions on Earth?",
+      "choices": [
+        "Every 100 years",
+        "Every 1,000 years",
+        "Every 17,000 years"
+      ],
+      "answer": "Every 17,000 years",
+      "explanation": "Supereruptions, capable of catastrophic eruptions, are estimated to occur on Earth every 17,000 years on average."
+    },
+    {
+      "question": "What is formed after a supereruption, where the ground collapses into a void?",
+      "choices": [
+        "Caldera",
+        "Magma reservoir",
+        "Lava dome"
+      ],
+      "answer": "Caldera",
+      "explanation": "After a supereruption, a caldera is formed when the ground collapses into the void left behind by the eruption."
+    },
+    {
+      "question": "What caused the Permian-Triassic extinction event, killing over 90% of all species?",
+      "choices": [
+        "Volcanic winter",
+        "Siberian Traps eruptions",
+        "Supereruptions"
+      ],
+      "answer": "Siberian Traps eruptions",
+      "explanation": "The Siberian Traps eruptions around 250 million years ago caused the Permian-Triassic extinction event, leading to the death of over 90% of all species."
+    }
+  ]
+}
