@@ -1,0 +1,95 @@
+{
+  "slug": "02b7f2d0",
+  "video_id": "StEB_wntlZ0",
+  "movie_title": "Is technology harmful to youngsters? 6 Minute English",
+  "movie_url": "https://youtu.be/StEB_wntlZ0",
+  "published_at": "2022-04-16T12:00:11Z",
+  "duration": "6:23",
+  "tags": [
+    "learn English",
+    "English vocabulary",
+    "speak English",
+    "bbc english",
+    "English teacher",
+    "英語",
+    "영어",
+    "อังกฤษ",
+    "Anh",
+    "English tutorial",
+    "English grammar",
+    "IELTS",
+    "British English",
+    "English pronunciation",
+    "English lesson",
+    "idiom",
+    "English expressions",
+    "BBC Learning English",
+    "Online English",
+    "ELT",
+    "podcast",
+    "Ingilizce",
+    "bbc learning english",
+    "tech savvy",
+    "technology",
+    "computers",
+    "mobile phone",
+    "cell phone",
+    "addiction",
+    "millennials",
+    "new generation"
+  ],
+  "introduction": "Improve your English vocabulary and listening in just six minutes! In this programme, Neil and Sam t",
+  "lead_intro": "Are teenagers spending too much time on screens? In this BBC Learning English video, Neil and Sam discuss the impact of technology on young people's mental health. Let's dive into a quiz to test your understanding!",
+  "quiz": [
+    {
+      "question": "On average, how many hours per day do British teenagers spend on their screens?",
+      "choices": [
+        "5 and a half hours",
+        "6 and a half hours",
+        "7 and a half hours"
+      ],
+      "answer": "6 and a half hours",
+      "explanation": "The correct answer is b) 6 and a half hours. According to the video, British teenagers spend an average of 6 and a half hours per day on their screens."
+    },
+    {
+      "question": "What does the term 'digital native' refer to in the context of the video?",
+      "choices": [
+        "Someone who is addicted to technology",
+        "Someone who is skilled in using technology because they grew up with it",
+        "Someone who dislikes using technology"
+      ],
+      "answer": "Someone who is skilled in using technology because they grew up with it",
+      "explanation": "'Digital native' refers to someone who is very familiar and comfortable using computers and digital technology because they've grown up with them."
+    },
+    {
+      "question": "What is an 'app blocker' as mentioned in the video?",
+      "choices": [
+        "Software that encourages more app usage",
+        "Software that prevents unwanted apps and websites",
+        "Software that creates addiction to apps"
+      ],
+      "answer": "Software that prevents unwanted apps and websites",
+      "explanation": "An 'app blocker' is software that blocks pop-up apps and websites and allows users to set screen time limits, helping to control screen time."
+    },
+    {
+      "question": "What does the expression 'designed for addiction' mean in the video?",
+      "choices": [
+        "Designed to provide useful information",
+        "Designed to limit screen time",
+        "Designed to manipulate human psychology and encourage prolonged use"
+      ],
+      "answer": "Designed to manipulate human psychology and encourage prolonged use",
+      "explanation": "'Designed for addiction' refers to video games and social media that are created to manipulate human psychology and make users want to continue using them."
+    },
+    {
+      "question": "What did the research team leader, Dr Matti Vuorre, call teenagers in the video?",
+      "choices": [
+        "Digital enthusiasts",
+        "Digital natives",
+        "Tech novices"
+      ],
+      "answer": "Digital natives",
+      "explanation": "Dr Matti Vuorre referred to teenagers as 'digital natives,' meaning individuals who are very familiar and comfortable using digital technology due to growing up with it."
+    }
+  ]
+}
