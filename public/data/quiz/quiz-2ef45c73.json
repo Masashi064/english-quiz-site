@@ -1,0 +1,63 @@
+{
+  "slug": "2ef45c73",
+  "video_id": "F1Hq8eVOMHs",
+  "movie_title": "Is Meat Really that Bad?",
+  "movie_url": "https://youtu.be/F1Hq8eVOMHs",
+  "published_at": "2021-11-30T15:01:34Z",
+  "duration": "10:14",
+  "tags": [],
+  "introduction": "Getting something from the kurzgesagt shop is the best way to support us and to keep our videos free",
+  "lead_intro": "Food is an essential part of our lives, but did you know it also plays a significant role in climate change? Let's explore the complex relationship between food, particularly meat, and its impact on the environment.",
+  "quiz": [
+    {
+      "question": "What percentage of worldwide food production is responsible for human-made greenhouse gas emissions?",
+      "choices": [
+        "18%",
+        "26%",
+        "33%"
+      ],
+      "answer": "26%",
+      "explanation": "Worldwide food production is responsible for about 26% of all human-made greenhouse gas emissions, making it a significant contributor to climate change."
+    },
+    {
+      "question": "On average, how many kilograms of CO2 equivalents does a kilogram of beef emit?",
+      "choices": [
+        "40 kg",
+        "71 kg",
+        "105 kg"
+      ],
+      "answer": "71 kg",
+      "explanation": "On average, a kilogram of beef emits 71 kilograms of CO2 equivalents, making beef one of the highest-emission food items."
+    },
+    {
+      "question": "What is the main factor contributing to emissions from beef production?",
+      "choices": [
+        "Transportation",
+        "Methane emissions from animals",
+        "Packaging"
+      ],
+      "answer": "Methane emissions from animals",
+      "explanation": "The largest share of beef emissions comes from methane released directly by the animals, making it a significant factor in the environmental impact of beef production."
+    },
+    {
+      "question": "What percentage of globally produced cereals is used directly as human food?",
+      "choices": [
+        "19%",
+        "41%",
+        "50%"
+      ],
+      "answer": "41%",
+      "explanation": "Less than half of the world's cereals are used directly as human food, with 41% being fed to animals, highlighting the significant role of feed crops in meat production."
+    },
+    {
+      "question": "How much CO2 could be removed from the air over 100 years if 3 billion hectares of land were spared?",
+      "choices": [
+        "500 billion tonnes",
+        "800 billion tonnes",
+        "1 trillion tonnes"
+      ],
+      "answer": "800 billion tonnes",
+      "explanation": "If 3 billion hectares of land were spared, it could remove about 800 billion tonnes of CO2 from the air over 100 years, showcasing the potential impact of land use on carbon sequestration."
+    }
+  ]
+}

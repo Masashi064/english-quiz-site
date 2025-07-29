@@ -1,0 +1,63 @@
+{
+  "slug": "b4a84ffb",
+  "video_id": "4Stzj2_Rlo4",
+  "movie_title": "Are You A Dream Of The Universe?",
+  "movie_url": "https://youtu.be/4Stzj2_Rlo4",
+  "published_at": "2023-09-12T14:00:06Z",
+  "duration": "10:16",
+  "tags": [],
+  "introduction": "To get started planning a fulfilling career that does a lot of good, go to https://80000hours.org/ku",
+  "lead_intro": "Have you ever considered that everything you perceive about yourself and the universe could be an illusion? Let's dive into some mind-bending concepts from science and philosophy to explore the possibility of being the dream of a dead universe!",
+  "quiz": [
+    {
+      "question": "What distinguishes the past from the future according to the video?",
+      "choices": [
+        "The presence of dark energy",
+        "Probability and randomness",
+        "The spread of ink in a glass of water"
+      ],
+      "answer": "Probability and randomness",
+      "explanation": "The video explains that the arrow of time, or the direction in which time flows, is based on probability and randomness rather than fundamental laws. This is illustrated by the analogy of the ink spreading in a glass of water."
+    },
+    {
+      "question": "In about 100 trillion years, what is predicted to happen in the universe?",
+      "choices": [
+        "The universe will shrink in size",
+        "The last star will die",
+        "The universe will stop expanding"
+      ],
+      "answer": "The last star will die",
+      "explanation": "After approximately 100 trillion years, the last star in the universe is predicted to die, leading to a series of events where the universe becomes dominated by dark energy and expands at an increasing speed."
+    },
+    {
+      "question": "What does dark energy create in a universe dominated by it?",
+      "choices": [
+        "A cosmic horizon",
+        "A black hole",
+        "A time loop"
+      ],
+      "answer": "A cosmic horizon",
+      "explanation": "Dark energy causes space to expand dramatically, creating a cosmic horizon beyond which nothing, not even light, can reach. This results in the universe resembling a giant black hole turned inside out."
+    },
+    {
+      "question": "What analogy is used to describe the fluctuating particles creating various combinations in the universe?",
+      "choices": [
+        "A monkey typing on a typewriter",
+        "A scientist conducting experiments",
+        "A child playing with blocks"
+      ],
+      "answer": "A monkey typing on a typewriter",
+      "explanation": "The video likens the fluctuating particles in the universe to a monkey typing randomly on a typewriter, eventually producing every possible combination of particles through repeated interactions."
+    },
+    {
+      "question": "According to the video, what is the probability that you are a floating brain in a dead universe?",
+      "choices": [
+        "Virtually impossible",
+        "Equal to being a real human",
+        "Inconceivably larger than being a real human"
+      ],
+      "answer": "Inconceivably larger than being a real human",
+      "explanation": "The video suggests that in a dead universe where all possible fluctuations occur, the probability of being a floating brain emerging by chance is infinitely greater than being a real human, highlighting the concept of randomness and probability at play."
+    }
+  ]
+}

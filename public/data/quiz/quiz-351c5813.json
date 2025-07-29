@@ -1,0 +1,101 @@
+{
+  "slug": "351c5813",
+  "video_id": "W5w75eGTnag",
+  "movie_title": "The problem with the U.S. bail system - Camilo Ramirez",
+  "movie_url": "https://youtu.be/W5w75eGTnag",
+  "published_at": "2020-09-29T15:00:47Z",
+  "duration": "6:30",
+  "tags": [
+    "cash bail",
+    "bail system",
+    "bail",
+    "bail in the us",
+    "united states bail",
+    "us judicial system",
+    "crime",
+    "jail",
+    "prison",
+    "imprisonment",
+    "innocent",
+    "guilt",
+    "the bail project",
+    "presumption of innocence",
+    "bail bond",
+    "bail bondsman",
+    "pretrial detention",
+    "verdict",
+    "bail money",
+    "judiciary system",
+    "government",
+    "branches of government",
+    "mass incarceration",
+    "systemic racism",
+    "racism",
+    "poverty",
+    "history",
+    "united states",
+    "education",
+    "animation",
+    "camilo ramirez",
+    "patrick smith",
+    "TED",
+    "TED-Ed",
+    "TED Ed",
+    "Teded",
+    "Ted Education"
+  ],
+  "introduction": "Explore the U.S. bail system’s reliance on cash bail and how it disproportionately hurts people in l",
+  "lead_intro": "Learn about the challenges and injustices of the cash bail system in the United States and how it impacts individuals, especially those in low-income communities and communities of color.",
+  "quiz": [
+    {
+      "question": "What is the primary purpose of the bail system in the U.S.?",
+      "choices": [
+        "To punish individuals accused of crimes before their trial.",
+        "To provide financial assistance to defendants.",
+        "To secure the appearance of defendants in court."
+      ],
+      "answer": "To secure the appearance of defendants in court.",
+      "explanation": "The bail system is intended to ensure that individuals awaiting trial will return to court to face charges by providing a financial incentive."
+    },
+    {
+      "question": "Why has the bail system in the U.S. been criticized?",
+      "choices": [
+        "For being too lenient on defendants.",
+        "For disproportionately affecting low-income communities and communities of color.",
+        "For ensuring equal justice for all individuals."
+      ],
+      "answer": "For disproportionately affecting low-income communities and communities of color.",
+      "explanation": "The cash bail system has been criticized for its impact on marginalized communities, with higher bail amounts set for individuals from these communities compared to white defendants for similar offenses."
+    },
+    {
+      "question": "What role do commercial bail bond companies play in the U.S. bail system?",
+      "choices": [
+        "They provide free bail assistance to low-income individuals.",
+        "They pay defendants' bail in exchange for a fee.",
+        "They determine the guilt or innocence of defendants."
+      ],
+      "answer": "They pay defendants' bail in exchange for a fee.",
+      "explanation": "Commercial bail bond companies pay the bail for defendants in exchange for a fee and often target individuals they believe can pay them back, turning a profit from the bail system."
+    },
+    {
+      "question": "How has Washington, D.C. approached the issue of cash bail?",
+      "choices": [
+        "By setting unaffordable bail amounts for defendants.",
+        "By largely abolishing cash bail.",
+        "By increasing the financial incentive of bail."
+      ],
+      "answer": "By largely abolishing cash bail.",
+      "explanation": "Washington, D.C. largely abolished cash bail in the 1990s, releasing the majority of defendants without requiring bail money, leading to high rates of court appearance."
+    },
+    {
+      "question": "What negative impact can pretrial detention due to unaffordable bail have on individuals?",
+      "choices": [
+        "Increase the likelihood of rearrests and reoffending.",
+        "Improve the chances of successful rehabilitation.",
+        "Have no impact on future criminal behavior."
+      ],
+      "answer": "Increase the likelihood of rearrests and reoffending.",
+      "explanation": "Studies have shown that holding individuals in jail before trial due to unaffordable bail can actually increase the chances of rearrests and reoffending, perpetuating a cycle of incarceration."
+    }
+  ]
+}

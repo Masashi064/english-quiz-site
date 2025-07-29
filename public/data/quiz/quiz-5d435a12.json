@@ -1,0 +1,74 @@
+{
+  "slug": "5d435a12",
+  "video_id": "yWO-cvGETRQ",
+  "movie_title": "Why Black Holes Could Delete The Universe – The Information Paradox",
+  "movie_url": "https://youtu.be/yWO-cvGETRQ",
+  "published_at": "2017-08-24T12:44:22Z",
+  "duration": "10:13",
+  "tags": [
+    "black holes",
+    "holographic principle",
+    "information paradox",
+    "hawkings radiation",
+    "space",
+    "universe",
+    "earth",
+    "end of the universe",
+    "future",
+    "far future"
+  ],
+  "introduction": "Black holes are scary things. But they also might reveal the true nature of the universe to us.\n\nThi",
+  "lead_intro": "Black holes are mysterious and powerful entities in the universe, capable of swallowing everything in their path. But do they also have the ability to delete the universe itself? Let's explore this mind-bending concept through the intriguing science of black holes.",
+  "quiz": [
+    {
+      "question": "What is Hawking radiation?",
+      "choices": [
+        "Radiation emitted by stars",
+        "The process of black holes losing mass",
+        "A type of energy found inside black holes"
+      ],
+      "answer": "The process of black holes losing mass",
+      "explanation": "Hawking radiation is the phenomenon where black holes emit radiation and gradually lose a tiny amount of their mass over time."
+    },
+    {
+      "question": "What is the information paradox related to black holes?",
+      "choices": [
+        "The mystery of how black holes store information",
+        "The question of whether information can be lost in black holes",
+        "The theory that black holes contain hidden messages"
+      ],
+      "answer": "The question of whether information can be lost in black holes",
+      "explanation": "The information paradox revolves around the debate on whether information can be permanently lost in black holes, challenging the fundamental laws of physics."
+    },
+    {
+      "question": "According to the holographic principle, where is information encoded in a black hole?",
+      "choices": [
+        "In the core of the black hole",
+        "In the Hawking radiation",
+        "On the black hole's event horizon"
+      ],
+      "answer": "On the black hole's event horizon",
+      "explanation": "The holographic principle suggests that information falling into a black hole is encoded on its event horizon, challenging our understanding of how information is stored."
+    },
+    {
+      "question": "How does the holographic principle compare a black hole to a hologram?",
+      "choices": [
+        "Both are 3D objects",
+        "Both encode information on a flat surface",
+        "Both emit visible light"
+      ],
+      "answer": "Both encode information on a flat surface",
+      "explanation": "Just as a hologram encodes a 3D image on a flat surface, the holographic principle proposes that a black hole encodes three-dimensional information on its two-dimensional event horizon."
+    },
+    {
+      "question": "What is the potential implication of the holographic principle on our understanding of the universe?",
+      "choices": [
+        "The universe may be a hologram",
+        "Black holes may not exist",
+        "The laws of physics are entirely wrong"
+      ],
+      "answer": "The universe may be a hologram",
+      "explanation": "If the holographic principle holds true, it suggests that the entire universe could be viewed as a hologram, challenging traditional notions of reality and dimensions."
+    }
+  ]
+}

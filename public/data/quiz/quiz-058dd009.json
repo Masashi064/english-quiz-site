@@ -1,0 +1,102 @@
+{
+  "slug": "058dd009",
+  "video_id": "W2bKaw2AJxs",
+  "movie_title": "The dark history of IQ tests - Stefan C. Dombrowski",
+  "movie_url": "https://youtu.be/W2bKaw2AJxs",
+  "published_at": "2020-04-27T15:00:58Z",
+  "duration": "6:10",
+  "tags": [
+    "iq tests",
+    "IQ",
+    "testing",
+    "intelligence",
+    "intelligence test",
+    "psychology",
+    "Alfred Binet",
+    "Théodore Simon",
+    "science",
+    "g factor",
+    "intelligence quotient",
+    "eugenics",
+    "racism",
+    "discrimination",
+    "immigration",
+    "nazis",
+    "holocaust",
+    "civil rights movement",
+    "flynn effect",
+    "education",
+    "healthcare",
+    "nutrition",
+    "environmental factors",
+    "learning",
+    "mental health",
+    "psychiatric conditions",
+    "history",
+    "politics",
+    "culture",
+    "iq score",
+    "animation",
+    "stefan dombrowski",
+    "kozmonot animation",
+    "TED",
+    "TED-Ed",
+    "TED Ed",
+    "Teded",
+    "Ted Education"
+  ],
+  "introduction": "Explore the history of IQ tests; how they measure a person’s intelligence and the ways they have bee",
+  "lead_intro": "Learn about the history, impact, and controversies surrounding IQ tests, from their origins with psychologists Binet and Simon to their misuse in supporting discriminatory practices.",
+  "quiz": [
+    {
+      "question": "Who were the psychologists that designed the test which formed the basis of the IQ test?",
+      "choices": [
+        "Binet and Watson",
+        "Watson and Skinner",
+        "Binet and Simon"
+      ],
+      "answer": "Binet and Simon",
+      "explanation": "Alfred Binet and Théodore Simon designed the test that formed the basis of the IQ test."
+    },
+    {
+      "question": "What does IQ stand for?",
+      "choices": [
+        "Intelligence Questionnaire",
+        "Intelligence Quotient",
+        "Intelligence Quota"
+      ],
+      "answer": "Intelligence Quotient",
+      "explanation": "IQ stands for Intelligence Quotient, which is calculated by dividing one's score by their age and then multiplying the result by 100."
+    },
+    {
+      "question": "What influenced the discriminatory uses of IQ tests in the mid-20th century?",
+      "choices": [
+        "The Renaissance",
+        "The Industrial Revolution",
+        "Eugenics"
+      ],
+      "answer": "Eugenics",
+      "explanation": "The discriminatory uses of IQ tests were influenced by eugenics, which promoted the idea of controlling genetic traits in humans through selective breeding."
+    },
+    {
+      "question": "What environmental factors were found to impact IQ scores over generations?",
+      "choices": [
+        "Improved education, better healthcare, and better nutrition",
+        "Industrial pollution and climate change",
+        "Decreased social interactions"
+      ],
+      "answer": "Improved education, better healthcare, and better nutrition",
+      "explanation": "Environmental factors such as improved education, better healthcare, and better nutrition were found to impact IQ scores over generations, leading to the Flynn Effect."
+    },
+    {
+      "question": "What do researchers increasingly agree on regarding IQ testing?",
+      "choices": [
+        "It accurately measures a person's potential",
+        "Individuals can be categorized by a single numerical score",
+        "It is a flawless and unbiased assessment tool"
+      ],
+      "answer": "Individuals can be categorized by a single numerical score",
+      "explanation": "More and more researchers agree that individuals cannot be accurately categorized by a single numerical score from an IQ test."
+    }
+  ]
+}

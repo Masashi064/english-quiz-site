@@ -1,0 +1,105 @@
+{
+  "slug": "ea0491ae",
+  "video_id": "e2vfBo-pG8I",
+  "movie_title": "3 ways to end a virus",
+  "movie_url": "https://youtu.be/e2vfBo-pG8I",
+  "published_at": "2022-12-22T16:00:23Z",
+  "duration": "6:10",
+  "tags": [
+    "virus",
+    "viruses",
+    "virus extinction",
+    "virus eradication",
+    "disease",
+    "illness",
+    "pandemics",
+    "pandemic",
+    "endemic",
+    "flu",
+    "covid",
+    "hepatitis",
+    "influenza",
+    "covid-19",
+    "sars",
+    "virus transmission",
+    "virus variants",
+    "covid variants",
+    "alpha",
+    "delta",
+    "virus competition",
+    "vaccines",
+    "innoculation",
+    "b/yamagata",
+    "flu strain",
+    "virus hosts",
+    "myxoma",
+    "vaccination campaign",
+    "smallpox",
+    "rinderpest",
+    "science",
+    "immunology",
+    "education",
+    "animation",
+    "george zaidan",
+    "anton bogaty",
+    "TED",
+    "TED-Ed",
+    "TED Ed",
+    "Teded",
+    "Ted education"
+  ],
+  "introduction": "Explore the three main ways viruses can be driven to extinction, and dig into the possibility of COV",
+  "lead_intro": "In the battle of viruses, the more transmissible Delta variant outcompetes the Alpha variant, driving it towards extinction. But how do viruses truly go extinct? Let's explore the three main ways viruses can vanish from existence.",
+  "quiz": [
+    {
+      "question": "What happened when the Delta variant competed with the Alpha variant in a hypothetical isolated city of 1 million people?",
+      "choices": [
+        "Alpha infected more people than Delta",
+        "Delta infected more people than Alpha",
+        "Both variants infected the same number of people"
+      ],
+      "answer": "Delta infected more people than Alpha",
+      "explanation": "Delta infected more people due to its higher transmission rate, driving Alpha towards extinction."
+    },
+    {
+      "question": "What is one way a virus can go extinct by running out of hosts?",
+      "choices": [
+        "Developing better immune responses",
+        "Being released into an environment with no hosts",
+        "Causing diseases severe enough to kill hosts"
+      ],
+      "answer": "Causing diseases severe enough to kill hosts",
+      "explanation": "Viruses that cause diseases severe enough to kill their hosts can potentially go extinct if they eliminate all available hosts."
+    },
+    {
+      "question": "How did the myxoma virus in Australia almost lead to the extinction of European rabbits?",
+      "choices": [
+        "By evolving to be less deadly",
+        "By killing all the rabbits",
+        "By spreading rapidly"
+      ],
+      "answer": "By evolving to be less deadly",
+      "explanation": "The myxoma virus evolved to be less deadly, allowing the rabbit population to bounce back and both the virus and rabbits to survive."
+    },
+    {
+      "question": "Which virus was essentially driven to extinction through vaccination campaigns?",
+      "choices": [
+        "COVID-19",
+        "Smallpox",
+        "Rinderpest"
+      ],
+      "answer": "Smallpox",
+      "explanation": "Vaccination campaigns successfully led to the eradication of smallpox, demonstrating how vaccines can drive viruses to extinction."
+    },
+    {
+      "question": "What is one way SARS-CoV-2—the virus causing COVID-19—could potentially go extinct?",
+      "choices": [
+        "Developing new variants",
+        "Outcompeting other viruses",
+        "Inventing a universal vaccine"
+      ],
+      "answer": "Inventing a universal vaccine",
+      "explanation": "The invention of a universal vaccine that prevents all SARS-CoV-2 infections could potentially lead to the extinction of the entire species."
+    }
+  ]
+}
