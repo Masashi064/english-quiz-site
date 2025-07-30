@@ -1,0 +1,84 @@
+{
+  "slug": "b04378bf",
+  "video_id": "ILDy6kYU-xQ",
+  "movie_title": "Are you a body with a mind or a mind with a body? - Maryam Alimardani",
+  "movie_url": "https://youtu.be/ILDy6kYU-xQ",
+  "published_at": "2017-09-25T14:59:34Z",
+  "duration": "6:10",
+  "tags": [
+    "TED",
+    "TED-Ed",
+    "TED Education",
+    "TED Ed",
+    "Maryam Alimardani",
+    "Ivana Bošnjak",
+    "Thomas Johnson",
+    "Mind",
+    "Body",
+    "rubber hand illusion",
+    "brain",
+    "Rene Descartes",
+    "cogito ergo sum",
+    "I think therefore I am",
+    "thinking",
+    "soul",
+    "psychology",
+    "neuroscience",
+    "virtual reality",
+    "artificial intelligence"
+  ],
+  "introduction": "Download a free audiobook version of “The Three Body Problem\" and support TED-Ed's nonprofit mission",
+  "lead_intro": "Have you ever experienced the rubber hand illusion? Dive into the intriguing debate on whether our bodies or minds primarily define our sense of self.",
+  "quiz": [
+    {
+      "question": "In the rubber hand illusion experiment, why do participants eventually start to feel like the dummy hand is theirs?",
+      "choices": [
+        "They are convinced by the researchers to believe so.",
+        "The dummy hand looks identical to their real hand.",
+        "Both the dummy hand and their real hand are simultaneously stroked, creating a sense of ownership."
+      ],
+      "answer": "Both the dummy hand and their real hand are simultaneously stroked, creating a sense of ownership.",
+      "explanation": "The illusion occurs because both the dummy hand and the participant's real hand are stroked simultaneously, leading the brain to create a sense of ownership over the dummy hand."
+    },
+    {
+      "question": "According to Descartes, what was the ultimate proof of human existence?",
+      "choices": [
+        "Physical sensations",
+        "Material body",
+        "Mind and thoughts"
+      ],
+      "answer": "Mind and thoughts",
+      "explanation": "Descartes believed that even if all physical sensations were illusions, the existence of the mind and thoughts was irrefutable, serving as the ultimate proof of human existence."
+    },
+    {
+      "question": "How did the philosopher George Berkeley view the material world?",
+      "choices": [
+        "As a physical reality",
+        "As an illusion",
+        "As a mental construct"
+      ],
+      "answer": "As an illusion",
+      "explanation": "George Berkeley concluded that the material world is an illusion and exists only as mental perceptions, suggesting a departure from the traditional view of physical reality."
+    },
+    {
+      "question": "What do many modern scientists believe regarding the distinction between mind and body?",
+      "choices": [
+        "They reject any distinction between mind and body.",
+        "They believe the mind is separate from the body.",
+        "They emphasize the body over the mind."
+      ],
+      "answer": "They reject any distinction between mind and body.",
+      "explanation": "Many modern scientists argue against the idea of a clear separation between mind and body, with neuroscience indicating a deep integration of physical bodies and brain activity in forming consciousness."
+    },
+    {
+      "question": "How does neuroscience suggest our mental development is shaped?",
+      "choices": [
+        "Primarily through internal processes",
+        "Through interactions with the external world",
+        "Through genetic predispositions"
+      ],
+      "answer": "Through interactions with the external world",
+      "explanation": "Neuroscience indicates that our mental development is largely influenced by interactions with the external world, including sensory experiences that shape brain maps and regulate our sense of self."
+    }
+  ]
+}

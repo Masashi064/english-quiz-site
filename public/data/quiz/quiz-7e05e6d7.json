@@ -1,0 +1,79 @@
+{
+  "slug": "7e05e6d7",
+  "video_id": "vyUnzfMh-zA",
+  "movie_title": "The journey to Pluto, the farthest world ever explored - Alan Stern",
+  "movie_url": "https://youtu.be/vyUnzfMh-zA",
+  "published_at": "2018-05-17T15:03:48Z",
+  "duration": "6:10",
+  "tags": [
+    "TED",
+    "TED-Ed",
+    "TED Ed",
+    "Teded",
+    "TED Education",
+    "Alan Stern",
+    "Eoin Duffy",
+    "NASA",
+    "New Horizons",
+    "Pluto",
+    "space",
+    "craft",
+    "Kuiper Belt",
+    "solar system",
+    "Sputnik Planitia"
+  ],
+  "introduction": "Check out Alan Stern's \"Chasing New Horizons\": https://shop.ed.ted.com/collections/ted-ed-book-recom",
+  "lead_intro": "Discover the thrilling journey of the NASA spacecraft New Horizons as it successfully reaches Pluto after a long voyage through the Kuiper Belt, uncovering fascinating mysteries of this distant world.",
+  "quiz": [
+    {
+      "question": "What region is Pluto located in?",
+      "choices": [
+        "Asteroid Belt",
+        "Kuiper Belt",
+        "Oort Cloud"
+      ],
+      "answer": "Kuiper Belt",
+      "explanation": "Pluto is located in the Kuiper Belt, a region home to many small planets, ancient icy objects, and trillions of comets."
+    },
+    {
+      "question": "Why was New Horizons on a flyby mission to Pluto?",
+      "choices": [
+        "To land on Pluto",
+        "To take measurements and observations",
+        "To establish communication with Earth"
+      ],
+      "answer": "To take measurements and observations",
+      "explanation": "New Horizons was on a flyby mission to Pluto, where it would get just one chance to gather data and make observations due to its high speed and inability to slow down for orbiting or landing."
+    },
+    {
+      "question": "What discovery about Pluto's surface was made by New Horizons?",
+      "choices": [
+        "Volcanoes",
+        "Glaciers",
+        "Rainforests"
+      ],
+      "answer": "Glaciers",
+      "explanation": "One of the exciting discoveries by New Horizons was the 1,000-kilometer-wide Sputnik Planitia glacier on Pluto, mainly composed of frozen nitrogen."
+    },
+    {
+      "question": "What was the main challenge faced by New Horizons just 10 days before reaching Pluto?",
+      "choices": [
+        "Lost communication with Earth",
+        "Computer malfunction",
+        "Navigation error"
+      ],
+      "answer": "Computer malfunction",
+      "explanation": "New Horizons faced a computer malfunction just 10 days before reaching Pluto, causing it to lose the core load and critical data, which was crucial for its mission."
+    },
+    {
+      "question": "Where did New Horizons head to after exploring Pluto?",
+      "choices": [
+        "Jupiter",
+        "Saturn",
+        "2014 MU69"
+      ],
+      "answer": "2014 MU69",
+      "explanation": "After successfully exploring Pluto, New Horizons set its sights on 2014 MU69, a Kuiper Belt Object orbiting the sun a billion kilometers farther away than Pluto, to continue its mission."
+    }
+  ]
+}

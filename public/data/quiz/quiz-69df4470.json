@@ -1,0 +1,98 @@
+{
+  "slug": "69df4470",
+  "video_id": "QImCld9YubE",
+  "movie_title": "Why Are You Alive – Life, Energy & ATP",
+  "movie_url": "https://youtu.be/QImCld9YubE",
+  "published_at": "2020-05-10T12:30:08Z",
+  "duration": "10:16",
+  "tags": [
+    "Life",
+    "alive",
+    "death",
+    "dead",
+    "energy",
+    "ATP",
+    "Adenosine Triphosphate",
+    "mitochondria",
+    "cell",
+    "universe",
+    "entropy",
+    "proteins",
+    "molecules",
+    "water",
+    "plants",
+    "fungi",
+    "bacteria",
+    "animals",
+    "sun",
+    "photosynthesis",
+    "Glucose",
+    "fat",
+    "sugar",
+    "evolution",
+    "biology",
+    "Blue whale",
+    "amoeba",
+    "dinosaur",
+    "jellyfish",
+    "Pink Fairy Armadillo",
+    "Sunda Colugo",
+    "human",
+    "mankind",
+    "Homo sapiens"
+  ],
+  "introduction": "Get Merch designed with ❤ from https://kgs.link/shop-121  \nJoin the Patreon Bird Army 🐧 https://kgs",
+  "lead_intro": "Discover the fascinating journey of life and the molecule that keeps you moving in this captivating video by Kurzgesagt. Let's dive into the quiz to test your understanding!",
+  "quiz": [
+    {
+      "question": "What is the molecule crucial for providing energy to living beings?",
+      "choices": [
+        "Glycerol",
+        "Adenosine Triphosphate (ATP)",
+        "Chlorophyll"
+      ],
+      "answer": "Adenosine Triphosphate (ATP)",
+      "explanation": "ATP is the molecule that living beings use to store and transfer energy for various cellular processes."
+    },
+    {
+      "question": "What is the process by which some cells convert sunlight into energy?",
+      "choices": [
+        "Photosynthesis",
+        "Respiration",
+        "Fermentation"
+      ],
+      "answer": "Photosynthesis",
+      "explanation": "Photosynthesis is the process by which some cells convert sunlight into chemical energy in the form of ATP and glucose."
+    },
+    {
+      "question": "What is the powerhouse of the cell responsible for producing ATP?",
+      "choices": [
+        "Nucleus",
+        "Mitochondria",
+        "Ribosome"
+      ],
+      "answer": "Mitochondria",
+      "explanation": "Mitochondria are known as the powerhouse of the cell as they produce ATP through cellular respiration, converting nutrients into energy."
+    },
+    {
+      "question": "Why is storing ATP in large quantities not feasible for living organisms?",
+      "choices": [
+        "ATP is too expensive to produce",
+        "ATP has low energy storage capacity",
+        "ATP is easily degraded"
+      ],
+      "answer": "ATP has low energy storage capacity",
+      "explanation": "ATP has low energy storage capacity compared to molecules like glucose, making it impractical for long-term energy storage."
+    },
+    {
+      "question": "What is the fundamental rule of the universe that living things try to counteract to stay alive?",
+      "choices": [
+        "Gravity",
+        "Entropy",
+        "Inertia"
+      ],
+      "answer": "Entropy",
+      "explanation": "Living things work against entropy, which is the tendency of systems to move towards disorder and randomness, to maintain their internal organization and stay alive."
+    }
+  ]
+}

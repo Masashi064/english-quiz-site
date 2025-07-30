@@ -1,0 +1,63 @@
+{
+  "slug": "776fc554",
+  "video_id": "lheapd7bgLA",
+  "movie_title": "What Happens if the Moon Crashes into Earth?",
+  "movie_url": "https://youtu.be/lheapd7bgLA",
+  "published_at": "2022-02-08T14:59:49Z",
+  "duration": "10:28",
+  "tags": [],
+  "introduction": "Getting something from the kurzgesagt shop is the best way to support us and to keep our videos free",
+  "lead_intro": "Have you ever wondered what would happen if the moon crashed into Earth? Join us on a journey to explore the fascinating and catastrophic consequences of such an event!",
+  "quiz": [
+    {
+      "question": "What keeps the Moon from crashing into Earth?",
+      "choices": [
+        "Opposite force to gravity",
+        "Sideways motion known as orbit",
+        "Air resistance"
+      ],
+      "answer": "Sideways motion known as orbit",
+      "explanation": "The Moon stays in its orbit around Earth due to its sideways motion, known as orbit, which allows it to fall sideways around Earth very fast without air resistance slowing it down."
+    },
+    {
+      "question": "How does changing an object's orbit affect its path?",
+      "choices": [
+        "It changes the object's trajectory",
+        "It changes the object's speed",
+        "It has no effect"
+      ],
+      "answer": "It changes the object's speed",
+      "explanation": "To change an object's orbit, you need to change its speed, which in turn changes where gravity takes it. Small changes in speed require enormous forces due to the object's mass."
+    },
+    {
+      "question": "What happens when the Moon draws close to Earth during the hypothetical scenario?",
+      "choices": [
+        "Tides decrease in intensity",
+        "Global infrastructure crumbles",
+        "Moon's gravitational pull weakens"
+      ],
+      "answer": "Global infrastructure crumbles",
+      "explanation": "As the Moon draws closer to Earth, tides increase in intensity, leading to the crumbling of global infrastructure, displacement of populations living near coastlines, and disruption of communication and navigation satellites."
+    },
+    {
+      "question": "What is the consequence of the moon reaching the Roche limit?",
+      "choices": [
+        "Moon disintegrates into rubble",
+        "Moon accelerates towards Earth",
+        "Earth's gravity weakens"
+      ],
+      "answer": "Moon disintegrates into rubble",
+      "explanation": "When the moon reaches the Roche limit, Earth's gravitational pull overpowers the Moon's gravity, causing the Moon to disintegrate into rubble and form a massive ring system around Earth."
+    },
+    {
+      "question": "What potential outcomes are mentioned after the moon disintegrates?",
+      "choices": [
+        "Boiling of the oceans",
+        "Global warming",
+        "Enhanced plant growth"
+      ],
+      "answer": "Boiling of the oceans",
+      "explanation": "After the moon disintegrates, potential outcomes include the oceans boiling due to friction heating from moondust, or a period of runaway cooling from shadows cast by the rings leading to a frozen surface."
+    }
+  ]
+}

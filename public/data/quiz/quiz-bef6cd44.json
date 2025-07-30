@@ -1,0 +1,93 @@
+{
+  "slug": "bef6cd44",
+  "video_id": "axBuiB55CfA",
+  "movie_title": "The Resistance | Think Like A Coder, Ep 2",
+  "movie_url": "https://youtu.be/axBuiB55CfA",
+  "published_at": "2019-10-14T15:00:56Z",
+  "duration": "6:10",
+  "tags": [
+    "conditionals",
+    "coding",
+    "programming",
+    "think like a coder",
+    "ted ed coding",
+    "how to code",
+    "learn to code",
+    "programming puzzles",
+    "girls who code",
+    "coding for beginners",
+    "coding projects",
+    "conditional probability",
+    "conditional statements",
+    "if then",
+    "flow chart",
+    "ethic",
+    "hedge",
+    "coding conditionals",
+    "code.org",
+    "coding lessons",
+    "TED",
+    "TED-Ed",
+    "TED Ed",
+    "Teded",
+    "Ted Education",
+    "alex rosenthal",
+    "kozmonot animation studio",
+    "animation",
+    "education"
+  ],
+  "introduction": "The adventure continues! Episode 2: Ethic and Hedge search for the leader of the Resistance. Can the",
+  "lead_intro": "Join Ethic and Hedge on a thrilling adventure as they navigate a frontier settlement in search of a key figure in the resistance movement. Discover how they use conditionals and systematic instructions to locate the resistance leader and embark on their next mission!",
+  "quiz": [
+    {
+      "question": "What characteristic does the resistance leader possess according to the information Hedge has gathered?",
+      "choices": [
+        "Green eyes",
+        "Red hair with at least one consecutive double letter in the name",
+        "Wearing glasses with exactly 2 vowels in the name"
+      ],
+      "answer": "Green eyes",
+      "explanation": "According to the information provided, the resistance leader has green eyes. This is the key characteristic that Hedge can use to identify the leader."
+    },
+    {
+      "question": "What would Hedge do if a person in the crowd has blue hair?",
+      "choices": [
+        "Skip the question about red hair",
+        "Ask about the number of vowels in the name",
+        "Mark an X and move on to the next person"
+      ],
+      "answer": "Skip the question about red hair",
+      "explanation": "If a person in the crowd has blue hair, Hedge would skip the question about red hair and move on to the next characteristic to determine if they could be the resistance leader."
+    },
+    {
+      "question": "How does Hedge know when to move on to the next person in the crowd?",
+      "choices": [
+        "After marking an X for any characteristic",
+        "After confirming all characteristics",
+        "Only if the person has green eyes"
+      ],
+      "answer": "After marking an X for any characteristic",
+      "explanation": "Hedge knows to move on to the next person in the crowd as soon as he marks an X for any characteristic, indicating that the person is not the resistance leader."
+    },
+    {
+      "question": "What is the first artifact that Adila agrees to help Ethic and Hedge steal?",
+      "choices": [
+        "The node of power",
+        "The key to the resistance movement",
+        "The artifact of knowledge"
+      ],
+      "answer": "The node of power",
+      "explanation": "Adila agrees to help Ethic and Hedge steal the first artifact, which is the node of power. This sets the stage for their revolutionary mission."
+    },
+    {
+      "question": "What task does Adila request Ethic and Hedge to do to jump-start the revolution?",
+      "choices": [
+        "Reprogram the furnace-bots",
+        "Steal more artifacts",
+        "Recruit more settlers"
+      ],
+      "answer": "Reprogram the furnace-bots",
+      "explanation": "Adila requests Ethic and Hedge to reprogram the furnace-bots that terrorize the town as a condition for helping them steal the artifact and jump-start the revolution."
+    }
+  ]
+}

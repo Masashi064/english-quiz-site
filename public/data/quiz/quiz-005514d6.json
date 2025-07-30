@@ -1,0 +1,63 @@
+{
+  "slug": "005514d6",
+  "video_id": "uoJwt9l-XhQ",
+  "movie_title": "The Reason Why Cancer is so Hard to Beat",
+  "movie_url": "https://youtu.be/uoJwt9l-XhQ",
+  "published_at": "2023-06-18T13:00:41Z",
+  "duration": "10:25",
+  "tags": [],
+  "introduction": "Sources & further reading: https://sites.google.com/view/sources-cancer-city/\nThis video was partial",
+  "lead_intro": "Ever wondered how your body fights cancer? Dive into the exciting battle for survival within your cells in this engaging narrative.",
+  "quiz": [
+    {
+      "question": "What is the first phase of the battle against cancer described in the video?",
+      "choices": [
+        "The Equilibrium Phase",
+        "The Escape Phase",
+        "The Elimination Phase"
+      ],
+      "answer": "The Elimination Phase",
+      "explanation": "The first phase, The Elimination Phase, involves the initial growth of a tumor and the immune system's response to eradicate it."
+    },
+    {
+      "question": "What happens when the tumor cells develop resistance and start a new phase of growth?",
+      "choices": [
+        "The Elimination Phase",
+        "The Equilibrium Phase",
+        "The Escape Phase"
+      ],
+      "answer": "The Equilibrium Phase",
+      "explanation": "The Equilibrium Phase occurs when the immune system inadvertently selects the fittest tumor cells, leading to a cycle of tumor growth and immune response."
+    },
+    {
+      "question": "How does the tumor cell in the Escape Phase evade the immune system?",
+      "choices": [
+        "By destroying the immune cells directly",
+        "By exploiting inhibitor receptors on anti-cancer cells",
+        "By hiding within healthy tissue"
+      ],
+      "answer": "By exploiting inhibitor receptors on anti-cancer cells",
+      "explanation": "The tumor cell in the Escape Phase deactivates the immune system by targeting inhibitor receptors on anti-cancer cells, preventing them from killing the tumor."
+    },
+    {
+      "question": "What is the consequence of the cancer cells creating a Cancer Microenvironment?",
+      "choices": [
+        "Increased vulnerability to immune attacks",
+        "Uncontrollable growth and expansion",
+        "Decreased ability to mutate"
+      ],
+      "answer": "Uncontrollable growth and expansion",
+      "explanation": "The Cancer Microenvironment created by cancer cells makes it difficult for the immune system to attack effectively, leading to uncontrolled tumor growth and spread."
+    },
+    {
+      "question": "What promising approach is mentioned at the end of the video in the fight against cancer?",
+      "choices": [
+        "Chemotherapy",
+        "Radiation therapy",
+        "Immunotherapy"
+      ],
+      "answer": "Immunotherapy",
+      "explanation": "Immunotherapy, a cutting-edge treatment that modifies immune cells to target and kill cancer cells effectively, is highlighted as a hopeful strategy in the battle against cancer."
+    }
+  ]
+}
