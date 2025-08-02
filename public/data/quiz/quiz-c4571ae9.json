@@ -1,0 +1,97 @@
+{
+  "slug": "c4571ae9",
+  "video_id": "qH0tUg4Enn0",
+  "movie_title": "The dark history of arsenic - Neil Bradbury",
+  "movie_url": "https://youtu.be/qH0tUg4Enn0",
+  "published_at": "2025-01-09T16:01:51Z",
+  "duration": "6:08",
+  "tags": [
+    "arsenic",
+    "arsenic poison",
+    "As",
+    "arsenic element",
+    "poison",
+    "king of poisons",
+    "history of arsenic",
+    "arsenic poisoning",
+    "white arsenic",
+    "islamic golden age",
+    "Jabir ibn Hayyan",
+    "renaissance",
+    "venetian council of ten",
+    "alchemy",
+    "house of borgia",
+    "cantarella",
+    "inheritance powder",
+    "affair of the poisons",
+    "Catherine Monvoisin",
+    "belladonna",
+    "industrial revolution",
+    "carl wilhelm scheele",
+    "arsenic wallpaper",
+    "education",
+    "animation",
+    "history",
+    "Neil Bradbury",
+    "Luisa Holanda",
+    "TED",
+    "TED-Ed",
+    "TED Ed",
+    "Teded",
+    "Ted Education"
+  ],
+  "introduction": "Dig into the history of arsenic dating back to ancient civilizations, and find out why this element",
+  "lead_intro": "Discover the dark history of arsenic, the 'king of poisons,' and its role in numerous notorious poisonings throughout history.",
+  "quiz": [
+    {
+      "question": "What is the most common poisonous form of arsenic?",
+      "choices": [
+        "Yellow arsenic",
+        "Green arsenic",
+        "White arsenic"
+      ],
+      "answer": "White arsenic",
+      "explanation": "When arsenic reacts with oxygen, it may assume its most common poisonous form: white arsenic, a powder that can be immediately lethal or kill over time."
+    },
+    {
+      "question": "Who is credited with the first preparation of white arsenic on record?",
+      "choices": [
+        "Jabir ibn Hayyan",
+        "Carl Wilhelm Scheele",
+        "James Marsh"
+      ],
+      "answer": "Jabir ibn Hayyan",
+      "explanation": "The first preparation of white arsenic on record is attributed to Islamic Golden Age alchemist Jabir ibn Hayyan, around the 8th century."
+    },
+    {
+      "question": "Which infamous family mastered the use of arsenic-laced powder called Cantarella for poisoning?",
+      "choices": [
+        "The Medicis",
+        "The Borgias",
+        "The Tudors"
+      ],
+      "answer": "The Borgias",
+      "explanation": "The House of Borgia mastered the murderous art, reportedly wielding an arsenic-laced powder called Cantarella that they’d sprinkle into special guests’ goblets."
+    },
+    {
+      "question": "In which historical event did Catherine Monvoisin play a significant role in poison peddling?",
+      "choices": [
+        "French Revolution",
+        "Affair of the Poisons",
+        "Industrial Revolution"
+      ],
+      "answer": "Affair of the Poisons",
+      "explanation": "Catherine Monvoisin was one of the central figures in the Affair of the Poisons, which kicked off in 1675 and exposed an extensive underground network of poison peddling in Paris."
+    },
+    {
+      "question": "Who developed the first truly reliable arsenic test that involved reacting a sample with zinc and acid to produce arsine gas?",
+      "choices": [
+        "Carl Wilhelm Scheele",
+        "James Marsh",
+        "Jabir ibn Hayyan"
+      ],
+      "answer": "James Marsh",
+      "explanation": "In 1832, chemist James Marsh created a new test for arsenic, whereby an arsenic-containing sample would react with zinc and acid to produce arsine gas, providing a more reliable detection method."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "44846030",
+  "video_id": "FtruQRWZ44U",
+  "movie_title": "Some and Any: The Grammar Gameshow Episode 8",
+  "movie_url": "https://youtu.be/FtruQRWZ44U",
+  "published_at": "2017-11-29T17:18:40Z",
+  "duration": "6:23",
+  "tags": [],
+  "introduction": "Welcome to the Grammar Gameshow! Test your knowledge in this crazy quiz! The presenter is a bit stra",
+  "lead_intro": "Welcome to the Grammar Gameshow! Join us as we explore the tricky words 'some' and 'any' in English grammar.",
+  "quiz": [
+    {
+      "question": "In the Grammar Gameshow, when do we usually use 'some' and 'any' in English sentences?",
+      "choices": [
+        "In affirmative sentences",
+        "In questions and negatives",
+        "In all types of sentences"
+      ],
+      "answer": "In questions and negatives",
+      "explanation": "The contestants explained that 'some' is used in affirmative sentences, while 'any' is used in questions and negatives."
+    },
+    {
+      "question": "Why can we use 'any' in the sentences 'There's hardly any food left' and 'He never has any money'?",
+      "choices": [
+        "Because they are questions",
+        "Because they are affirmative sentences with negative meanings",
+        "Because they contain the word 'any'"
+      ],
+      "answer": "Because they are affirmative sentences with negative meanings",
+      "explanation": "The sentences have affirmative structures but convey negative meanings due to words like 'hardly' and 'never', allowing the use of 'any'."
+    },
+    {
+      "question": "When do we use 'some of' and 'any of' in English sentences?",
+      "choices": [
+        "When followed by a determiner",
+        "When used in questions only",
+        "When used in affirmative sentences"
+      ],
+      "answer": "When followed by a determiner",
+      "explanation": "The correct usage of 'some of' and 'any of' is when they are followed by determiners like articles or possessives."
+    },
+    {
+      "question": "What do we use in a question or negative sentence in English?",
+      "choices": [
+        "Some",
+        "Any",
+        "Both some and any"
+      ],
+      "answer": "Any",
+      "explanation": "In English, 'any' is typically used in questions and negative sentences."
+    },
+    {
+      "question": "Why can 'some' be used in requests or offers to help?",
+      "choices": [
+        "Because it sounds more polite",
+        "Because it makes the sentence affirmative",
+        "Because it adds emphasis"
+      ],
+      "answer": "Because it sounds more polite",
+      "explanation": "In English, 'some' is also used in requests or offers to help to convey politeness."
+    }
+  ]
+}

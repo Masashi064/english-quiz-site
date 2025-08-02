@@ -1,0 +1,67 @@
+{
+  "slug": "04cae648",
+  "video_id": "cFslUSyfZPc",
+  "movie_title": "What Happens If You Destroy A Black Hole?",
+  "movie_url": "https://youtu.be/cFslUSyfZPc",
+  "published_at": "2023-08-16T13:59:54Z",
+  "duration": "10:53",
+  "tags": [
+    "black hole",
+    "destroy",
+    "nuke"
+  ],
+  "introduction": "Go ‘beyond the nutshell’ at https://brilliant.org/nutshell/ and dive deeper into these topics and mo",
+  "lead_intro": "Have you ever wondered if black holes can be destroyed? Let's explore the possibilities of destroying a black hole and the consequences it may bring.",
+  "quiz": [
+    {
+      "question": "What happens when you throw antimatter at a black hole?",
+      "choices": [
+        "The black hole gets destroyed",
+        "The black hole remains unchanged",
+        "The black hole gets more massive"
+      ],
+      "answer": "The black hole gets more massive",
+      "explanation": "When antimatter enters a black hole, it increases the black hole's mass, making it more massive."
+    },
+    {
+      "question": "What happens when a black hole collides with its corresponding anti black hole?",
+      "choices": [
+        "Both black holes cancel out",
+        "A new black hole twice as massive is formed",
+        "The black holes destroy each other"
+      ],
+      "answer": "A new black hole twice as massive is formed",
+      "explanation": "When a black hole collides with its corresponding anti black hole, the charge cancels out, resulting in a new black hole twice as massive with no charge."
+    },
+    {
+      "question": "How can you destroy the event horizon of a black hole?",
+      "choices": [
+        "Overfeeding the black hole",
+        "Throwing objects with charge or angular momentum",
+        "Breaking physics"
+      ],
+      "answer": "Overfeeding the black hole",
+      "explanation": "By overcharging or over-spinning a black hole through overfeeding it with objects, you can potentially destroy the event horizon."
+    },
+    {
+      "question": "What is the safe method to destroy a black hole?",
+      "choices": [
+        "Creating a naked singularity",
+        "Destroying the event horizon",
+        "Waiting for it to evaporate through Hawking radiation"
+      ],
+      "answer": "Waiting for it to evaporate through Hawking radiation",
+      "explanation": "All black holes emit Hawking radiation, causing them to lose mass over time until they eventually evaporate, leaving behind no horizon and no naked singularity."
+    },
+    {
+      "question": "What would be the consequence of destroying the event horizon of a black hole?",
+      "choices": [
+        "Formation of a naked singularity",
+        "Creation of a wormhole",
+        "No consequences"
+      ],
+      "answer": "Formation of a naked singularity",
+      "explanation": "Destroying the event horizon of a black hole could lead to the formation of a naked singularity, which may result in the breakdown of predictability, causality, and physics as we know it."
+    }
+  ]
+}

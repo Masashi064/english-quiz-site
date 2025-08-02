@@ -1,0 +1,91 @@
+{
+  "slug": "bc02f4ab",
+  "video_id": "NODkUzmamP8",
+  "movie_title": "Sleepy in South Korea - 6 Minute English",
+  "movie_url": "https://youtu.be/NODkUzmamP8",
+  "published_at": "2022-02-03T16:00:11Z",
+  "duration": "6:23",
+  "tags": [
+    "learn English",
+    "English vocabulary",
+    "speak English",
+    "bbc english",
+    "English teacher",
+    "英語",
+    "영어",
+    "อังกฤษ",
+    "Anh",
+    "English tutorial",
+    "English grammar",
+    "IELTS",
+    "British English",
+    "English pronunciation",
+    "English lesson",
+    "idiom",
+    "English expressions",
+    "BBC Learning English",
+    "podcast",
+    "Ingilizce",
+    "sleep",
+    "asleep",
+    "sleepy",
+    "south korea",
+    "tiredness",
+    "sleepless",
+    "6 minute english"
+  ],
+  "introduction": "Improve your English vocabulary and listening in just six mintues!\nHow many hours do you sleep? Not",
+  "lead_intro": "Do you struggle with getting enough sleep? In this BBC Learning English video, Sam and Neil discuss the importance of sleep, the impact of work-related stress on sleep patterns in South Korea, and the extreme case of a man who stayed awake for a record-breaking duration. Let's test your comprehension with a quiz!",
+  "quiz": [
+    {
+      "question": "What is the duration for which Randy Gardner set the world record for staying awake in the 1960s?",
+      "choices": [
+        "64 hours",
+        "164 hours",
+        "264 hours"
+      ],
+      "answer": "264 hours",
+      "explanation": "Randy Gardner set the world record for staying awake for an incredible 264.4 hours, which is equivalent to 11 days and 25 minutes."
+    },
+    {
+      "question": "What term is used to describe going to sleep very quickly?",
+      "choices": [
+        "Switch off",
+        "Agitated",
+        "Go out like a light"
+      ],
+      "answer": "Go out like a light",
+      "explanation": "The expression 'go out like a light' means to go to sleep very quickly."
+    },
+    {
+      "question": "What does the term 'encroach' mean in the context of the video?",
+      "choices": [
+        "Relaxing",
+        "Gradually take over",
+        "Sleepwalking"
+      ],
+      "answer": "Gradually take over",
+      "explanation": "In the video, 'encroach' is used to describe something gradually taking over, like work encroaching on leisure time."
+    },
+    {
+      "question": "What are the unpleasant and unexpected results from medication called?",
+      "choices": [
+        "Side-effects",
+        "Insomnia",
+        "Medication effects"
+      ],
+      "answer": "Side-effects",
+      "explanation": "Side-effects are the unpleasant and unexpected results that can occur from taking medication."
+    },
+    {
+      "question": "What does the term 'sleepwalking' refer to?",
+      "choices": [
+        "Having a quick nap",
+        "Moving around and doing things while still asleep",
+        "Taking medication to aid sleep"
+      ],
+      "answer": "Moving around and doing things while still asleep",
+      "explanation": "Sleepwalking describes the act of moving around and performing activities while still being asleep."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "47a24824",
+  "video_id": "xAUJYP8tnRE",
+  "movie_title": "Why We Should NOT Look For Aliens - The Dark Forest",
+  "movie_url": "https://youtu.be/xAUJYP8tnRE",
+  "published_at": "2021-12-14T15:00:03Z",
+  "duration": "10:31",
+  "tags": [],
+  "introduction": "Getting something from the kurzgesagt shop is the best way to support us and to keep our videos free",
+  "lead_intro": "The universe is vast and full of mysteries, including the possibility of other civilizations. The Fermi Paradox raises questions about the silence in space and the potential dangers of encountering alien life. Let's explore these intriguing concepts further.",
+  "quiz": [
+    {
+      "question": "What is the Fermi Paradox?",
+      "choices": [
+        "A theory about the existence of alien civilizations",
+        "The silence in space despite the potential for life",
+        "A solution to interstellar conflicts"
+      ],
+      "answer": "The silence in space despite the potential for life",
+      "explanation": "The Fermi Paradox refers to the contradiction between the high probability of extraterrestrial civilizations existing and the lack of evidence for or contact with such civilizations."
+    },
+    {
+      "question": "What is the Dark Forest solution to the Fermi Paradox?",
+      "choices": [
+        "The concept of civilizations hiding from each other in the universe",
+        "The idea of peaceful coexistence among alien civilizations",
+        "The theory of interstellar communication"
+      ],
+      "answer": "The concept of civilizations hiding from each other in the universe",
+      "explanation": "The Dark Forest solution suggests that civilizations may be deliberately silent or hiding from each other in the vastness of space, out of fear of potential threats."
+    },
+    {
+      "question": "How does the video compare human nature to potential alien civilizations?",
+      "choices": [
+        "Humans are peaceful while aliens are aggressive",
+        "Alien civilizations are identical to humans",
+        "Aliens may exhibit similar traits to humans, including competitiveness and expansionism"
+      ],
+      "answer": "Aliens may exhibit similar traits to humans, including competitiveness and expansionism",
+      "explanation": "The video implies that alien civilizations, if they exist, may share characteristics with humans such as competition for resources and expansionist tendencies."
+    },
+    {
+      "question": "What is the potential implication of technological advancements in interstellar conflicts?",
+      "choices": [
+        "Technological progress may lead to peaceful resolutions",
+        "Technological superiority can result in one-sided conflicts",
+        "Technological limitations prevent interstellar conflicts"
+      ],
+      "answer": "Technological superiority can result in one-sided conflicts",
+      "explanation": "Advancements in technology can give a significant advantage in interstellar conflicts, potentially leading to one-sided confrontations where the technologically superior civilization prevails."
+    },
+    {
+      "question": "What is suggested as a possible interplanetary annihilation weapon in the video?",
+      "choices": [
+        "Biological warfare",
+        "Nuclear weapons",
+        "Relativistic Kill Vehicle"
+      ],
+      "answer": "Relativistic Kill Vehicle",
+      "explanation": "The video mentions the concept of a Relativistic Kill Vehicle, which could be a devastating weapon capable of causing massive destruction by traveling at a significant fraction of the speed of light."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "f00b5e0c",
+  "video_id": "V4Z8EdiJxgk",
+  "movie_title": "The Black Hole That Kills Galaxies - Quasars",
+  "movie_url": "https://youtu.be/V4Z8EdiJxgk",
+  "published_at": "2023-06-11T12:59:39Z",
+  "duration": "10:50",
+  "tags": [],
+  "introduction": "Go ‘beyond the nutshell’ at https://brilliant.org/nutshell/ and dive deeper into these topics and mo",
+  "lead_intro": "Have you ever wondered about the mysterious and powerful objects in the universe known as quasars? Let's dive into the fascinating world of quasars and their impact on galaxies!",
+  "quiz": [
+    {
+      "question": "What are quasars?",
+      "choices": [
+        "Small stars",
+        "Galaxies",
+        "Powerful objects in the universe"
+      ],
+      "answer": "Powerful objects in the universe",
+      "explanation": "Quasars are not small stars or galaxies, but rather incredibly powerful objects in the universe, shining with the energy of trillions of stars."
+    },
+    {
+      "question": "How do quasars generate vast amounts of energy?",
+      "choices": [
+        "By consuming planets",
+        "By converting matter into energy using supermassive black holes",
+        "By absorbing light from stars"
+      ],
+      "answer": "By converting matter into energy using supermassive black holes",
+      "explanation": "Quasars generate vast amounts of energy by feeding supermassive black holes, which are highly efficient engines for converting matter into energy."
+    },
+    {
+      "question": "Why do quasars ultimately impact the galaxies they reside in?",
+      "choices": [
+        "By creating new stars",
+        "By heating up the galaxies and stopping star formation",
+        "By cooling down the galaxies"
+      ],
+      "answer": "By heating up the galaxies and stopping star formation",
+      "explanation": "Quasars impact galaxies by heating them up too much, which prevents the formation of new stars. Hot gas cannot collapse to form stars."
+    },
+    {
+      "question": "What happens when galaxies merge and their supermassive black holes combine?",
+      "choices": [
+        "They form new planets",
+        "The black holes disappear",
+        "They sink into the center of the new galaxy"
+      ],
+      "answer": "They sink into the center of the new galaxy",
+      "explanation": "When galaxies merge, their supermassive black holes also merge and sink into the center of the new galaxy, causing disruptions and changes in the galactic environment."
+    },
+    {
+      "question": "How can you start exploring scientific topics and deepen your understanding?",
+      "choices": [
+        "By watching more YouTube videos",
+        "By enrolling in courses on Brilliant.org",
+        "By attending astronomy events"
+      ],
+      "answer": "By enrolling in courses on Brilliant.org",
+      "explanation": "You can deepen your understanding of scientific topics by enrolling in courses on Brilliant.org, where you can explore various subjects and enhance your knowledge through interactive lessons."
+    }
+  ]
+}

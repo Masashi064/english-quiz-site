@@ -1,0 +1,63 @@
+{
+  "slug": "10cab991",
+  "video_id": "lXfEK8G8CUI",
+  "movie_title": "How The Immune System ACTUALLY Works – IMMUNE",
+  "movie_url": "https://youtu.be/lXfEK8G8CUI",
+  "published_at": "2021-08-10T13:59:41Z",
+  "duration": "10:48",
+  "tags": [],
+  "introduction": "To preorder IMMUNE click here: https://kgs.link/ImmuneBook –– It’s available in English and German a",
+  "lead_intro": "The human immune system is a marvel of biological complexity, tirelessly protecting us from threats every day. Dive into the fascinating world of our immune system and its epic battles within our bodies!",
+  "quiz": [
+    {
+      "question": "What is the role of macrophages in the immune system?",
+      "choices": [
+        "A. They produce antibodies",
+        "B. They fight and devour bacteria",
+        "C. They activate helper T cells"
+      ],
+      "answer": "B. They fight and devour bacteria",
+      "explanation": "Macrophages are large cells in the immune system that engulf and digest bacteria to defend the body against infections."
+    },
+    {
+      "question": "What is the function of neutrophils in the immune response?",
+      "choices": [
+        "A. They produce antibodies",
+        "B. They release chemical alarm signals",
+        "C. They are suicide warriors that kill bacteria"
+      ],
+      "answer": "C. They are suicide warriors that kill bacteria",
+      "explanation": "Neutrophils are intense suicide warriors that actively kill bacteria by releasing deadly chemicals and even exploding to trap and eliminate the invaders."
+    },
+    {
+      "question": "What do helper T cells do in the immune system?",
+      "choices": [
+        "A. Produce antibodies",
+        "B. Fight bacteria directly",
+        "C. Activate other immune cells"
+      ],
+      "answer": "C. Activate other immune cells",
+      "explanation": "Helper T cells play a crucial role in activating and coordinating other immune cells like macrophages and B cells to mount an effective defense against pathogens."
+    },
+    {
+      "question": "What are B cells responsible for in the immune response?",
+      "choices": [
+        "A. Fighting viruses",
+        "B. Producing antibodies",
+        "C. Engulfing bacteria"
+      ],
+      "answer": "B. Producing antibodies",
+      "explanation": "B cells are responsible for producing antibodies, which are protein super weapons that specifically target and neutralize pathogens in the body."
+    },
+    {
+      "question": "What is the significance of memory cells in the immune system?",
+      "choices": [
+        "A. They store genetic information",
+        "B. They help regulate body temperature",
+        "C. They provide long-term immunity"
+      ],
+      "answer": "C. They provide long-term immunity",
+      "explanation": "Memory cells are immune cells that remember past infections and provide long-lasting immunity, ensuring a rapid and effective response if the same pathogen reappears in the future."
+    }
+  ]
+}

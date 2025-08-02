@@ -1,0 +1,91 @@
+{
+  "slug": "adbd7028",
+  "video_id": "rD5goS69LT4",
+  "movie_title": "Why should you read \"Macbeth\"? - Brendan Pelsue",
+  "movie_url": "https://youtu.be/rD5goS69LT4",
+  "published_at": "2017-11-02T15:00:53Z",
+  "duration": "6:09",
+  "tags": [
+    "TED",
+    "TED-Ed",
+    "TED Education",
+    "TED Ed",
+    "Brendan Pelsue",
+    "Silvia Prietov",
+    "William Shakespeare",
+    "Shakespeare",
+    "Macbeth",
+    "Lady Macbeth",
+    "somethign wicked this way comes",
+    "The Scottish Play",
+    "The Tragedy of Macbeth",
+    "tragedy",
+    "Globe Theatre",
+    "king",
+    "Queen Elizabeth I",
+    "Gunpowder Plot",
+    "Holinshed's Chronicles",
+    "witches",
+    "Banquo",
+    "out damn spot",
+    "what's done is done",
+    "the milk of human kindness",
+    "double double toil and trouble",
+    "Throne of Blood",
+    "Scotland PA"
+  ],
+  "introduction": "Check out our Patreon page: https://www.patreon.com/teded\n\nView full lesson: https://ed.ted.com/less",
+  "lead_intro": "Discover the power and intrigue of Shakespeare's 'Macbeth,' a play filled with witchcraft, prophecy, and brutal murder that continues to captivate audiences worldwide.",
+  "quiz": [
+    {
+      "question": "When was 'Macbeth' first performed?",
+      "choices": [
+        "1606",
+        "1610",
+        "1599"
+      ],
+      "answer": "1606",
+      "explanation": "'Macbeth' was first performed at the Globe Theater in London in 1606."
+    },
+    {
+      "question": "What is one of the main themes explored in 'Macbeth'?",
+      "choices": [
+        "Love and friendship",
+        "Ambition and power",
+        "Nature and animals"
+      ],
+      "answer": "Ambition and power",
+      "explanation": "One of the main themes in 'Macbeth' is ambition and power, as seen through Macbeth's ruthless quest for the throne."
+    },
+    {
+      "question": "Who prophesizes that Macbeth will be king?",
+      "choices": [
+        "Lady Macbeth",
+        "The three witches",
+        "Banquo"
+      ],
+      "answer": "The three witches",
+      "explanation": "The three witches prophesize that Macbeth will be king, setting in motion his descent into tyranny."
+    },
+    {
+      "question": "What famous line does Lady Macbeth say when she believes she can't wash the blood off her hands?",
+      "choices": [
+        "'To be or not to be'",
+        "'Out, damned spot! Out, I say!'",
+        "'All the world's a stage'"
+      ],
+      "answer": "'Out, damned spot! Out, I say!'",
+      "explanation": "Lady Macbeth famously says, 'Out, damned spot! Out, I say!' when she is consumed by guilt over the murders."
+    },
+    {
+      "question": "Which phrase from 'Macbeth' has become a common expression in the English language?",
+      "choices": [
+        "'All's well that ends well'",
+        "'Double, double toil and trouble'",
+        "'To thine own self be true'"
+      ],
+      "answer": "'Double, double toil and trouble'",
+      "explanation": "The witches' spell 'Double, double toil and trouble; Fire burn, and caldron bubble' is a phrase from 'Macbeth' that has become widely recognized in the English language."
+    }
+  ]
+}
