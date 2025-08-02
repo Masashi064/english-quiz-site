@@ -1,0 +1,91 @@
+{
+  "slug": "212b06f2",
+  "video_id": "iHLgOqZ5CXc",
+  "movie_title": "The world of Agatha Christie - 6 Minute English",
+  "movie_url": "https://youtu.be/iHLgOqZ5CXc",
+  "published_at": "2022-03-24T15:30:05Z",
+  "duration": "6:23",
+  "tags": [
+    "learn English",
+    "English vocabulary",
+    "speak English",
+    "bbc english",
+    "English teacher",
+    "英語",
+    "영어",
+    "อังกฤษ",
+    "Anh",
+    "English grammar",
+    "IELTS",
+    "British English",
+    "English pronunciation",
+    "English expressions",
+    "BBC Learning English",
+    "English speaking",
+    "ELT",
+    "podcast",
+    "Ingilizce",
+    "6 minute",
+    "agatha christie",
+    "6 minute english",
+    "murder mystery",
+    "detective",
+    "Hercule Poirot",
+    "literature",
+    "murder in the orient express"
+  ],
+  "introduction": "If you like a good murder mystery, you probably read a book by the British writer Agatha Christie at",
+  "lead_intro": "Explore the intriguing world of Agatha Christie and her famous detective, Hercule Poirot, in this episode of 6 Minute English by BBC Learning English.",
+  "quiz": [
+    {
+      "question": "Who is Agatha Christie's other fictional detective, aside from Hercule Poirot?",
+      "choices": [
+        "Hetty Wainthropp",
+        "Jessica Fletcher",
+        "Miss Marple"
+      ],
+      "answer": "Miss Marple",
+      "explanation": "Miss Marple is Agatha Christie's other famous detective, known for her sharp wit and keen observational skills."
+    },
+    {
+      "question": "What is a 'whodunnit' in the context of a murder mystery story?",
+      "choices": [
+        "A story that reveals the murderer at the beginning",
+        "A story that reveals the murderer at the end",
+        "A story that focuses on the victim"
+      ],
+      "answer": "A story that reveals the murderer at the end",
+      "explanation": "A 'whodunnit' is a murder mystery story where the identity of the murderer is not revealed until the conclusion."
+    },
+    {
+      "question": "What does it mean when something is described as 'telltale'?",
+      "choices": [
+        "It reveals hidden information",
+        "It is easy to miss",
+        "It is insignificant"
+      ],
+      "answer": "It reveals hidden information",
+      "explanation": "Something described as 'tell-tale' provides clues or information that can uncover a secret or truth."
+    },
+    {
+      "question": "What does having an alibi mean in a criminal investigation?",
+      "choices": [
+        "Being at the crime scene",
+        "Having proof of being elsewhere during the crime",
+        "Having no involvement in the crime"
+      ],
+      "answer": "Having proof of being elsewhere during the crime",
+      "explanation": "An alibi is evidence proving that a person was not at the scene of a crime and was somewhere else when it occurred."
+    },
+    {
+      "question": "How would you describe Hercule Poirot's 'foibles'?",
+      "choices": [
+        "Harmful characteristics",
+        "Strange but harmless habits",
+        "Secret abilities"
+      ],
+      "answer": "Strange but harmless habits",
+      "explanation": "Poirot's 'foibles' refer to his eccentric yet harmless quirks and behaviors that make him unique as a detective."
+    }
+  ]
+}
