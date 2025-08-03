@@ -1,0 +1,94 @@
+{
+  "slug": "4972fab7",
+  "video_id": "0YpwaYUGF94",
+  "movie_title": "How colour affects us - 6 Minute English",
+  "movie_url": "https://youtu.be/0YpwaYUGF94",
+  "published_at": "2022-03-05T13:30:00Z",
+  "duration": "6:17",
+  "tags": [
+    "learn English",
+    "English vocabulary",
+    "speak English",
+    "bbc english",
+    "English teacher",
+    "英語",
+    "영어",
+    "อังกฤษ",
+    "Anh",
+    "English tutorial",
+    "Ingilizce ders",
+    "English grammar",
+    "IELTS",
+    "British English",
+    "English pronunciation",
+    "English lesson",
+    "idiom",
+    "English expressions",
+    "BBC Learning English",
+    "tefl",
+    "Online English",
+    "ELT",
+    "colour",
+    "mood",
+    "colourful",
+    "feeling blue",
+    "see red",
+    "6 minute english",
+    "lockdown",
+    "decoration"
+  ],
+  "introduction": "Improve your English vocabulary and listening in just six minutes! Do red and yellow make you happy?",
+  "lead_intro": "Explore the fascinating world of colors and how they affect our mood in this 6 Minute English program from BBC Learning English. Discover the science behind colors and how they can influence our emotions and behaviors.",
+  "quiz": [
+    {
+      "question": "What is the splitting of white light into its different colors called?",
+      "choices": [
+        "dispersion",
+        "reflection",
+        "refraction"
+      ],
+      "answer": "dispersion",
+      "explanation": "Dispersion is the correct term for the splitting of white light into its different colors, not refraction as mentioned in the conversation."
+    },
+    {
+      "question": "How is a wavelength described in the context of light?",
+      "choices": [
+        "the distance between two waves of sound",
+        "the distance between two waves of light",
+        "the separation of colors"
+      ],
+      "answer": "the distance between two waves of light",
+      "explanation": "A wavelength is the distance between two waves of light that are next to each other, influencing the colors we perceive."
+    },
+    {
+      "question": "What does it mean to govern in the context of the conversation?",
+      "choices": [
+        "to create",
+        "to control or influence",
+        "to understand"
+      ],
+      "answer": "to control or influence",
+      "explanation": "In this context, govern means to control or influence, particularly in relation to how colors can impact our emotions and behaviors."
+    },
+    {
+      "question": "How is a sanctuary described in the conversation?",
+      "choices": [
+        "a place for social gatherings",
+        "a place for exercise",
+        "a peaceful or relaxing place"
+      ],
+      "answer": "a peaceful or relaxing place",
+      "explanation": "A sanctuary is described as a peaceful or relaxing place where one can unwind and feel soothed, often using pale colors to create a calming atmosphere."
+    },
+    {
+      "question": "What term is used to describe feeling excited or interested by something?",
+      "choices": [
+        "relaxation",
+        "stimulation",
+        "meditation"
+      ],
+      "answer": "stimulation",
+      "explanation": "Stimulation refers to the feeling of being excited, interested, or enthused by something, which can influence our color choices and mood."
+    }
+  ]
+}

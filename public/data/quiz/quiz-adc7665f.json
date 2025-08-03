@@ -1,0 +1,83 @@
+{
+  "slug": "adc7665f",
+  "video_id": "tjrvKA4w9-Y",
+  "movie_title": "History vs. Che Guevara - Alex Gendler",
+  "movie_url": "https://youtu.be/tjrvKA4w9-Y",
+  "published_at": "2017-11-27T16:05:26Z",
+  "duration": "6:08",
+  "tags": [
+    "TED",
+    "TED-Ed",
+    "TED Education",
+    "TED Ed",
+    "Alex Gendler",
+    "Brett Underhill",
+    "Che Guevara",
+    "history vs",
+    "Fidel Castro",
+    "CIA",
+    "Cuba",
+    "Guatemala",
+    "Bolivia",
+    "communism",
+    "revolution",
+    "oligarchy",
+    "democracy",
+    "Jacobo Árbenz",
+    "Argentina"
+  ],
+  "introduction": "Check out our Patreon page: https://www.patreon.com/teded\n\nView full lesson: https://ed.ted.com/less",
+  "lead_intro": "Join us in exploring the complex legacy of Che Guevara, a revolutionary figure whose actions sparked debates on heroism and tyranny. Test your knowledge with the following quiz!",
+  "quiz": [
+    {
+      "question": "Where did Che Guevara travel through in the early 1950s, which influenced his revolutionary beliefs?",
+      "choices": [
+        "Europe",
+        "Middle East",
+        "Rural Latin America"
+      ],
+      "answer": "Rural Latin America",
+      "explanation": "Che Guevara traveled through rural Latin America in the early 1950s, where he witnessed poverty and misery that influenced his revolutionary beliefs."
+    },
+    {
+      "question": "Who was the democratically-elected President of Guatemala that Che Guevara supported and how did his presidency end?",
+      "choices": [
+        "Fulgencio Batista; Overthrown in a CIA-sponsored coup",
+        "Árbenz; Overthrown in a CIA-sponsored coup",
+        "Fidel Castro; Overthrown in a military coup"
+      ],
+      "answer": "Árbenz; Overthrown in a CIA-sponsored coup",
+      "explanation": "President Árbenz of Guatemala passed land reforms to redistribute uncultivated land back to the people but was overthrown in a CIA-sponsored coup."
+    },
+    {
+      "question": "What did Che Guevara help establish in Cuba following the revolution?",
+      "choices": [
+        "Forced labor camps",
+        "Universal education",
+        "Torture of prisoners"
+      ],
+      "answer": "Universal education",
+      "explanation": "After the Cuban Revolution, Che Guevara helped establish universal education in Cuba and organized volunteer literacy brigades, significantly raising the country's literacy rate."
+    },
+    {
+      "question": "What event did Che Guevara's decision to host Soviet nuclear weapons in Cuba lead to?",
+      "choices": [
+        "Bay of Pigs Invasion",
+        "Cuban Missile Crisis",
+        "Cuban Revolution"
+      ],
+      "answer": "Cuban Missile Crisis",
+      "explanation": "Che Guevara's suggestion to host Soviet nuclear weapons in Cuba led to the Cuban Missile Crisis, a tense standoff between the US and the Soviet Union."
+    },
+    {
+      "question": "How did Che Guevara's revolutionary efforts in the Congo and Bolivia end?",
+      "choices": [
+        "CIA capture and execution",
+        "Successful rebellion",
+        "Peaceful negotiations"
+      ],
+      "answer": "CIA capture and execution",
+      "explanation": "Che Guevara's attempts to rally rebels in the Congo and Bolivia were unsuccessful, leading to his capture and execution with the help of the CIA in Bolivia."
+    }
+  ]
+}

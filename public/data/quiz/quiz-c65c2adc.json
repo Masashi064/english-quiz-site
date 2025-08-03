@@ -1,0 +1,85 @@
+{
+  "slug": "c65c2adc",
+  "video_id": "WSKi8HfcxEk",
+  "movie_title": "The Rise of the Machines – Why Automation is Different this Time",
+  "movie_url": "https://youtu.be/WSKi8HfcxEk",
+  "published_at": "2017-06-08T16:28:31Z",
+  "duration": "10:57",
+  "tags": [
+    "automation",
+    "universal basic income",
+    "new automation",
+    "information age",
+    "inovation",
+    "computerization",
+    "robots",
+    "machines",
+    "thinking machines",
+    "AI",
+    "artificial intelligence",
+    "future",
+    "humanity",
+    "work",
+    "blue collar",
+    "white collar",
+    "animation",
+    "Kurzgesagt",
+    "in a nutshell",
+    "science",
+    "funny"
+  ],
+  "introduction": "Automation in the Information Age is different.\n\nBooks we used for this video:\n\nThe Rise of the Robo",
+  "lead_intro": "The rise of automation in the Information Age is changing the job market landscape rapidly. Will machines take over our jobs completely? Let's explore this topic further with a quiz!",
+  "quiz": [
+    {
+      "question": "What is one of the key differences in automation in the Information Age compared to previous eras?",
+      "choices": [
+        "Machines now focus on complex tasks rather than simple ones.",
+        "Automation creates more jobs than it eliminates.",
+        "Innovation has slowed down in the Information Age."
+      ],
+      "answer": "Machines now focus on complex tasks rather than simple ones.",
+      "explanation": "In the Information Age, machines are becoming proficient at breaking down complex jobs into predictable tasks, unlike in the past where they focused on repetitive tasks in factories."
+    },
+    {
+      "question": "What is machine learning and how does it contribute to job automation?",
+      "choices": [
+        "Machines learning from human specialists.",
+        "Machines acquiring skills through analyzing data.",
+        "Machines replacing human labor with physical tasks."
+      ],
+      "answer": "Machines acquiring skills through analyzing data.",
+      "explanation": "Machine learning enables machines to improve by analyzing data and discovering relationships, ultimately making them better at tasks without direct human input."
+    },
+    {
+      "question": "How has the job market trend shifted in the Information Age?",
+      "choices": [
+        "More jobs are being created in traditional industries.",
+        "The creation of new jobs is declining.",
+        "Automation has led to an increase in manual labor jobs."
+      ],
+      "answer": "The creation of new jobs is declining.",
+      "explanation": "While innovative industries in the Information Age are booming, they are creating fewer new jobs compared to the past, leading to a decline in overall job creation."
+    },
+    {
+      "question": "What impact does automation have on job specialization?",
+      "choices": [
+        "It encourages broader skill sets among workers.",
+        "It limits further specialization as machines can handle complex tasks.",
+        "It leads to an increase in niche job opportunities."
+      ],
+      "answer": "It limits further specialization as machines can handle complex tasks.",
+      "explanation": "As machines excel at breaking down complex jobs into predictable tasks, there is less room for human specialization in certain fields."
+    },
+    {
+      "question": "In what way does automation in the Information Age differ from previous innovations?",
+      "choices": [
+        "It creates more job opportunities in traditional sectors.",
+        "It relies heavily on human labor for advancements.",
+        "It leads to rapid job displacement due to technology advancements."
+      ],
+      "answer": "It leads to rapid job displacement due to technology advancements.",
+      "explanation": "Automation in the Information Age is characterized by rapid job displacement due to advancements in technology, unlike previous innovations that gradually shifted job roles."
+    }
+  ]
+}

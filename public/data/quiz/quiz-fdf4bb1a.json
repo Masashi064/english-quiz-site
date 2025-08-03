@@ -1,0 +1,74 @@
+{
+  "slug": "fdf4bb1a",
+  "video_id": "6PiyUjVxukI",
+  "movie_title": "What is the universe expanding into? - Sajan Saini",
+  "movie_url": "https://youtu.be/6PiyUjVxukI",
+  "published_at": "2018-09-06T15:30:37Z",
+  "duration": "6:07",
+  "tags": [
+    "TED",
+    "TED-Ed",
+    "TED Ed",
+    "Teded",
+    "Ted Education",
+    "Sajan Saini",
+    "Wooden Plane Productions",
+    "Universe Expansion",
+    "Space",
+    "Big Bang"
+  ],
+  "introduction": "Join TED-Ed's Student Program: http://bit.ly/2Nps4NW\n\nView full lesson: https://ed.ted.com/lessons/w",
+  "lead_intro": "Have you ever wondered what the universe is expanding into? Dive into the complexities of space and time with this intriguing explanation.",
+  "quiz": [
+    {
+      "question": "According to Einstein's equations of general relativity, how are space and time described in the universe?",
+      "choices": [
+        "As separate entities",
+        "As interconnected fabric",
+        "As expanding dimensions"
+      ],
+      "answer": "As interconnected fabric",
+      "explanation": "Einstein's equations describe space and time as a kind of inter-connected fabric for the universe, meaning that space and time exist only as part of the universe and not beyond it."
+    },
+    {
+      "question": "What did Edwin Hubble's astronomy observations reveal in 1929?",
+      "choices": [
+        "All galaxies move towards the Earth",
+        "All galaxies remain stationary",
+        "All faraway galaxies recede from the Earth"
+      ],
+      "answer": "All faraway galaxies recede from the Earth",
+      "explanation": "Hubble's observations found that all faraway galaxies move away from the Earth, with the further galaxies receding faster, indicating an expansion of the universe."
+    },
+    {
+      "question": "How is the expansion of the universe compared to a loaf of raisin bread rising in the oven?",
+      "choices": [
+        "The batter rises evenly around each raisin",
+        "The raisins move towards each other",
+        "The loaf shrinks as it rises"
+      ],
+      "answer": "The batter rises evenly around each raisin",
+      "explanation": "Just like the batter rises evenly around each raisin in a loaf of bread, the expansion of intergalactic space causes galaxies to move away from each other uniformly."
+    },
+    {
+      "question": "What does the inflationary model describe in relation to the early universe?",
+      "choices": [
+        "A period of rapid expansion leading to galaxy formation",
+        "A contraction of the universe",
+        "A stable state without any change"
+      ],
+      "answer": "A period of rapid expansion leading to galaxy formation",
+      "explanation": "The inflationary model describes a brief era of incredibly rapid expansion in the early universe, linking quantum fluctuations to the formation of gas clumps that eventually formed galaxies."
+    },
+    {
+      "question": "How do brane universes differ from universes in eternal inflation in the multiverse concept?",
+      "choices": [
+        "Branes are isolated, while universes in eternal inflation can bump into each other",
+        "Branes are smaller in size",
+        "Eternal inflation universes have a fixed size"
+      ],
+      "answer": "Branes are isolated, while universes in eternal inflation can bump into each other",
+      "explanation": "In the multiverse concept, brane universes are isolated entities, while universes in eternal inflation are separate and cannot interact. Brane universes have the potential to collide with each other."
+    }
+  ]
+}

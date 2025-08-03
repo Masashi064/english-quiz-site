@@ -1,0 +1,63 @@
+{
+  "slug": "8dc79a61",
+  "video_id": "FgnjdW-x7mQ",
+  "movie_title": "The Last Thing To Ever Happen In The Universe",
+  "movie_url": "https://youtu.be/FgnjdW-x7mQ",
+  "published_at": "2023-11-21T15:00:01Z",
+  "duration": "11:05",
+  "tags": [],
+  "introduction": "Get 50% off your first month of KiwiCo at https://www.kiwico.com/kurzgesagt with code KURZGESAGT.",
+  "lead_intro": "Have you ever wondered what will happen at the end of the universe? Let's explore the fascinating journey to the last thing that will ever happen!",
+  "quiz": [
+    {
+      "question": "What is the final step in creating the last interesting thing in the universe?",
+      "choices": [
+        "Two carbon nuclei combine to become magnesium",
+        "Two oxygen nuclei combine to form silicon",
+        "Silicon nuclei fuse to form Nickel-56"
+      ],
+      "answer": "Silicon nuclei fuse to form Nickel-56",
+      "explanation": "In the black dwarf, after eons pass, nuclei slowly combine, with silicon nuclei eventually fusing to form Nickel-56, which is radioactive and leads to the final event in the universe."
+    },
+    {
+      "question": "What happens when Nickel-56 decays into iron inside the black dwarf?",
+      "choices": [
+        "It emits two positrons",
+        "It absorbs electrons",
+        "It forms a black hole"
+      ],
+      "answer": "It emits two positrons",
+      "explanation": "When Nickel-56 decays into iron, it emits two positrons which then annihilate electrons, reducing the pressure that holds up the black dwarf."
+    },
+    {
+      "question": "What triggers the uncontrolled collapse of a black dwarf into a supernova?",
+      "choices": [
+        "Loss of electrons",
+        "Increase in temperature",
+        "Formation of a neutron star"
+      ],
+      "answer": "Loss of electrons",
+      "explanation": "When a black dwarf loses too many electrons, it can no longer support its mass, leading to an uncontrolled collapse known as a supernova."
+    },
+    {
+      "question": "What causes the pressure that holds up a black dwarf?",
+      "choices": [
+        "Gravity",
+        "Electron annihilation",
+        "Electron repulsion"
+      ],
+      "answer": "Electron repulsion",
+      "explanation": "Electrons in a black dwarf repel each other due to their density, creating pressure that counteracts gravity and holds up the star."
+    },
+    {
+      "question": "What process occurs when particles fuse together by jumping at each other?",
+      "choices": [
+        "Quantum fusion",
+        "Nuclear fusion",
+        "Quantum tunneling"
+      ],
+      "answer": "Quantum tunneling",
+      "explanation": "Quantum tunneling is the process where particles fuse by jumping at each other, occurring even at temperatures near absolute zero inside black dwarfs."
+    }
+  ]
+}

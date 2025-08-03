@@ -1,0 +1,105 @@
+{
+  "slug": "63a350b4",
+  "video_id": "I15FmhjEbQ0",
+  "movie_title": "The ancient medical practice that persisted for too long - Stephanie Honchell Smith",
+  "movie_url": "https://youtu.be/I15FmhjEbQ0",
+  "published_at": "2025-06-17T15:00:56Z",
+  "duration": "6:33",
+  "tags": [
+    "bloodletting",
+    "blood",
+    "bleeding",
+    "bleed patients",
+    "medicine",
+    "medical practice",
+    "hippocrates",
+    "galen",
+    "four humors",
+    "yellow bile",
+    "black bile",
+    "phlegm",
+    "humoral imbalance",
+    "blood draw",
+    "crusades",
+    "health",
+    "health treatments",
+    "placebo effect",
+    "lancet",
+    "illness",
+    "disease",
+    "infection",
+    "leeches",
+    "leeching",
+    "humoral theory",
+    "germ theory",
+    "blood disorders",
+    "bloodstream",
+    "blood donor",
+    "blood donation",
+    "benjamin rush",
+    "william cobbett",
+    "education",
+    "animation",
+    "history",
+    "Stephanie Honchell Smith",
+    "Denys Spolitak",
+    "TED",
+    "TED-Ed",
+    "TED Ed",
+    "teded"
+  ],
+  "introduction": "Trace the history of bloodletting, a medical practice dating back to ancient Greece and its continue",
+  "lead_intro": "Let's dive into the historical practice of bloodletting and its impact on medical treatments throughout history.",
+  "quiz": [
+    {
+      "question": "What did physicians like Hippocrates believe was essential for good health?",
+      "choices": [
+        "A. Regular enemas",
+        "B. Humoral balance",
+        "C. Bloodletting"
+      ],
+      "answer": "B. Humoral balance",
+      "explanation": "Physicians like Hippocrates believed that good health came from balance among the body's four humors: yellow bile, black bile, phlegm, and blood."
+    },
+    {
+      "question": "Which prolific Greco-Roman physician declared blood as the most dominant humor?",
+      "choices": [
+        "A. Hippocrates",
+        "B. Galen",
+        "C. Aristotle"
+      ],
+      "answer": "B. Galen",
+      "explanation": "Galen, the prolific Greco-Roman physician, declared blood as the most dominant humor and recommended bloodletting for various ailments."
+    },
+    {
+      "question": "Who called his physicians 'a set of butchers' during a bloodletting session?",
+      "choices": [
+        "A. King Richard the Lionheart",
+        "B. Lord Byron",
+        "C. King Charles II"
+      ],
+      "answer": "B. Lord Byron",
+      "explanation": "Lord Byron, in the days before his death, called his physicians 'a set of butchers' as they drained some 2.5 liters of his blood."
+    },
+    {
+      "question": "What theory finally replaced humoral theory and led to the decline of bloodletting?",
+      "choices": [
+        "A. Placebo theory",
+        "B. Germ theory",
+        "C. Iron theory"
+      ],
+      "answer": "B. Germ theory",
+      "explanation": "Germ theory, which demonstrated that many illnesses were caused by microorganisms, replaced humoral theory and led to the decline of bloodletting in the 20th century."
+    },
+    {
+      "question": "In modern medicine, bloodletting may be used to treat which blood disorder?",
+      "choices": [
+        "A. Anemia",
+        "B. Hemochromatosis",
+        "C. Leukemia"
+      ],
+      "answer": "B. Hemochromatosis",
+      "explanation": "In modern medicine, bloodletting is used to treat certain blood disorders like hemochromatosis, which leads to dangerous levels of iron in the bloodstream."
+    }
+  ]
+}

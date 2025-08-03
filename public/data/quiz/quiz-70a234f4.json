@@ -1,0 +1,63 @@
+{
+  "slug": "70a234f4",
+  "video_id": "GolsmOWvnHI",
+  "movie_title": "English Rewind - 6 Minute English: 6-word stories",
+  "movie_url": "https://youtu.be/GolsmOWvnHI",
+  "published_at": "2023-11-07T09:00:12Z",
+  "duration": "6:17",
+  "tags": [],
+  "introduction": "📻 Can you write a story in just six English words? Jackie and Callum find out. Find out more while y",
+  "lead_intro": "Discover the power of storytelling in just six words on BBC Learning English's 6 Minute English. Dive into the world of life stories and see how language can capture profound moments in a few words.",
+  "quiz": [
+    {
+      "question": "Who said, 'Happiness in intelligent people is the rarest thing I know'?",
+      "choices": [
+        "William Shakespeare",
+        "Oscar Wilde",
+        "Ernest Hemingway"
+      ],
+      "answer": "Ernest Hemingway",
+      "explanation": "The quote 'Happiness in intelligent people is the rarest thing I know' was said by Ernest Hemingway, an American writer known for his concise and impactful writing style."
+    },
+    {
+      "question": "What did Ernest Hemingway bet he could do with just six words?",
+      "choices": [
+        "Write a love letter",
+        "Compose a full story",
+        "Summarize his autobiography"
+      ],
+      "answer": "Compose a full story",
+      "explanation": "Ernest Hemingway bet that he could write a complete story in just six words, and he succeeded with the powerful six-word story 'For sale, baby shoes, never worn.'"
+    },
+    {
+      "question": "What does the word 'poignant' mean in storytelling?",
+      "choices": [
+        "Happy",
+        "Funny",
+        "Emotionally moving"
+      ],
+      "answer": "Emotionally moving",
+      "explanation": "'Poignant' in storytelling refers to something that is touching on an emotional level, often evoking feelings of sadness or deep emotion."
+    },
+    {
+      "question": "What does 'crackhead' mean in the context of Larry Smith's story?",
+      "choices": [
+        "A genius",
+        "A drug user",
+        "A comedian"
+      ],
+      "answer": "A drug user",
+      "explanation": "In the story mentioned, 'crackhead' is a slang term for someone addicted to taking crack cocaine, indicating a person with substance abuse issues."
+    },
+    {
+      "question": "What does 'twist and turn' refer to in storytelling?",
+      "choices": [
+        "A dance move",
+        "An unexpected change",
+        "A predictable outcome"
+      ],
+      "answer": "An unexpected change",
+      "explanation": "'Twist and turn' in storytelling signifies a life going off in a different direction, often involving unexpected changes or developments in the plot."
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "slug": "c4a34e76",
+  "video_id": "zBkVCpbNnkU",
+  "movie_title": "The Side Effects of Vaccines - How High is the Risk?",
+  "movie_url": "https://youtu.be/zBkVCpbNnkU",
+  "published_at": "2019-05-12T12:30:04Z",
+  "duration": "10:56",
+  "tags": [
+    "Vaccines",
+    "Risk",
+    "Side-effects",
+    "Child",
+    "Vaccinate",
+    "Measles",
+    "Virus",
+    "Flu",
+    "MMA",
+    "Polio",
+    "Pneumonia",
+    "Encephalitis",
+    "SSPE",
+    "Genitalia Imflammation",
+    "Memory Cell",
+    "Rash",
+    "Fever",
+    "Immunsystem",
+    "Infection",
+    "Medicine",
+    "Antibodies",
+    "Allergic",
+    "death",
+    "Allergic Reaction",
+    "Autism",
+    "Healthcare",
+    "Health",
+    "vaccine",
+    "public health",
+    "herd immunity",
+    "side effects",
+    "illness",
+    "sickness",
+    "human",
+    "funny"
+  ],
+  "introduction": "Sources: https://sites.google.com/view/sources-vaccines\n\nVaccines are one of our best tools to preve",
+  "lead_intro": "Vaccines play a crucial role in protecting us from dangerous diseases, but there are concerns about their safety. Let's delve into how vaccines work and explore the risks associated with them.",
+  "quiz": [
+    {
+      "question": "What is the purpose of memory cells in our immune system?",
+      "choices": [
+        "To actively fight infections",
+        "To remember past infections",
+        "To produce antibodies"
+      ],
+      "answer": "To remember past infections",
+      "explanation": "Memory cells in our immune system remain in our body for years, in a deep sleep, and their main function is to remember past infections. When an enemy attacks for a second time, these memory cells awaken and trigger a rapid immune response."
+    },
+    {
+      "question": "How do vaccines help us become immune to diseases?",
+      "choices": [
+        "By directly fighting infections",
+        "By tricking our bodies into creating memory cells",
+        "By weakening our immune system"
+      ],
+      "answer": "By tricking our bodies into creating memory cells",
+      "explanation": "Vaccines simulate a dangerous infection in our bodies, tricking our immune system into creating memory cells without causing harm. This process helps us become immune to specific diseases."
+    },
+    {
+      "question": "What is one way live vaccines differ from other types of vaccines?",
+      "choices": [
+        "Live vaccines are ineffective",
+        "Live vaccines contain dead pathogens",
+        "Live vaccines use weakened forms of pathogens"
+      ],
+      "answer": "Live vaccines use weakened forms of pathogens",
+      "explanation": "Live vaccines use weakened but live versions of pathogens to provoke a stronger immune response. This approach challenges the immune system more than vaccines with dead pathogens."
+    },
+    {
+      "question": "Why is herd immunity important for protecting unvaccinated individuals?",
+      "choices": [
+        "To weaken the immune response",
+        "To spread diseases faster",
+        "To prevent the spread of diseases"
+      ],
+      "answer": "To prevent the spread of diseases",
+      "explanation": "Herd immunity occurs when a high percentage of a population is vaccinated, making it difficult for diseases to spread. This indirectly protects unvaccinated individuals who may be vulnerable."
+    },
+    {
+      "question": "How do vaccines compare to seatbelts in terms of safety?",
+      "choices": [
+        "Both have equal risks",
+        "Seatbelts are more dangerous",
+        "Vaccines provide greater overall benefit"
+      ],
+      "answer": "Vaccines provide greater overall benefit",
+      "explanation": "Vaccines, like seatbelts, can have rare adverse effects, but the benefits of vaccines in preventing serious diseases and deaths far outweigh the minimal risks associated with them."
+    }
+  ]
+}

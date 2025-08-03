@@ -1,0 +1,103 @@
+{
+  "slug": "6cd8636f",
+  "video_id": "tMXjUWvJJto",
+  "movie_title": "Will there be another pandemic in your lifetime?",
+  "movie_url": "https://youtu.be/tMXjUWvJJto",
+  "published_at": "2022-11-10T16:00:48Z",
+  "duration": "6:07",
+  "tags": [
+    "pandemic",
+    "pandemics",
+    "black death",
+    "flu pandemic",
+    "1918 flu",
+    "spanish flu",
+    "covid 19",
+    "covid",
+    "covid pandemic",
+    "global pandemic",
+    "disease",
+    "illness",
+    "health",
+    "public health",
+    "disease outbreak",
+    "epidemic",
+    "endemic",
+    "epidemiology",
+    "probability",
+    "future pandemic",
+    "virus",
+    "spillover",
+    "pathogens",
+    "immunity",
+    "animal viruses",
+    "contact tracing",
+    "vaccines",
+    "antiviral drugs",
+    "pandemic prevention",
+    "pandemic readiness",
+    "education",
+    "animation",
+    "igor coric",
+    "artrake studio",
+    "TED",
+    "TED-Ed",
+    "TED Ed",
+    "Teded",
+    "Ted Education"
+  ],
+  "introduction": "Explore the probability of a future pandemic and the steps we can take to reduce its destructiveness",
+  "lead_intro": "Pandemics like COVID-19 are not as rare as we may think. Understanding the probability of future pandemics can help us prepare and take necessary precautions to mitigate their impact.",
+  "quiz": [
+    {
+      "question": "According to the team of scientists and engineers who studied documented epidemics and pandemics between 1600 and 1950, what is the estimated risk of a COVID-19-level pandemic per year?",
+      "choices": [
+        "0.1%",
+        "0.5%",
+        "1.0%"
+      ],
+      "answer": "0.5%",
+      "explanation": "The team estimated that the risk of a COVID-19-level pandemic is about 0.5% per year."
+    },
+    {
+      "question": "What percentage of the 1.7 million undiscovered viruses infecting mammals and birds are estimated to have the potential to spill over and infect humans according to scientists?",
+      "choices": [
+        "10%",
+        "20%",
+        "40%"
+      ],
+      "answer": "40%",
+      "explanation": "Scientists estimate that about 40% of the 1.7 million undiscovered viruses infecting mammals and birds have the potential to spill over and infect humans."
+    },
+    {
+      "question": "What is the probability range per year, estimated by a team of scientists, for another COVID-19-level pandemic based on modeling using data about global population, air travel networks, and other variables?",
+      "choices": [
+        "1.5% to 2.0%",
+        "2.5% to 3.3%",
+        "3.5% to 4.0%"
+      ],
+      "answer": "2.5% to 3.3%",
+      "explanation": "The team of scientists estimated that the probability of another COVID-19-level pandemic is 2.5% to 3.3% per year."
+    },
+    {
+      "question": "What is the likelihood of living through at least one more COVID-19-level pandemic in the next 75 years based on the probability tree diagram with an annual probability of 2%?",
+      "choices": [
+        "22%",
+        "31%",
+        "78%"
+      ],
+      "answer": "78%",
+      "explanation": "The likelihood of living through at least one more COVID-19-level pandemic in the next 75 years, based on the probability tree diagram with an annual probability of 2%, is 78%."
+    },
+    {
+      "question": "How did early warning systems, contact tracing, and public health measures impact the COVID-19 pandemic according to scientists?",
+      "choices": [
+        "Saved over a million lives in just the US",
+        "Had no significant impact",
+        "Resulted in more deaths"
+      ],
+      "answer": "Saved over a million lives in just the US",
+      "explanation": "Scientists estimated that early warning systems, contact tracing, and public health measures saved over a million lives in just the first six months of the COVID-19 pandemic in the US."
+    }
+  ]
+}

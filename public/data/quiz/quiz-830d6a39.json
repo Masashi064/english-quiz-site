@@ -1,0 +1,63 @@
+{
+  "slug": "830d6a39",
+  "video_id": "efOW5NUTYB8",
+  "movie_title": "When Your Body Attacks Itself – Autoimmune",
+  "movie_url": "https://youtu.be/efOW5NUTYB8",
+  "published_at": "2025-07-01T14:00:01Z",
+  "duration": "10:55",
+  "tags": [],
+  "introduction": "🔒 Get 20% off DeleteMe by going to https://joindeleteme.com/nutshell and use code NUTSHELL to protec",
+  "lead_intro": "Autoimmunity is a complex yet fascinating phenomenon where your immune system turns against your own body, leading to various diseases. Let's test your understanding of this topic with a quiz!",
+  "quiz": [
+    {
+      "question": "What is autoimmunity?",
+      "choices": [
+        "A condition where your immune system attacks foreign invaders",
+        "A condition where your immune system attacks your own body",
+        "A condition where your immune system is weakened"
+      ],
+      "answer": "A condition where your immune system attacks your own body",
+      "explanation": "Autoimmunity is when your immune system mistakenly targets and attacks healthy tissues in your body, thinking they are foreign invaders."
+    },
+    {
+      "question": "What triggers autoimmunity?",
+      "choices": [
+        "Vaccines",
+        "Infections",
+        "Healthy diet"
+      ],
+      "answer": "Infections",
+      "explanation": "Infections can trigger autoimmunity by activating your immune system and leading to a misguided attack on your own tissues."
+    },
+    {
+      "question": "How do autoimmune diseases affect the body?",
+      "choices": [
+        "They only affect the skin",
+        "They can affect any tissue in the body",
+        "They only affect the digestive system"
+      ],
+      "answer": "They can affect any tissue in the body",
+      "explanation": "Autoimmune diseases can impact various tissues in the body, including nerves, joints, pancreas, and more, leading to a wide range of symptoms and complications."
+    },
+    {
+      "question": "What is the role of T cells in autoimmunity?",
+      "choices": [
+        "T cells help fight infections",
+        "T cells activate the immune system against healthy tissues",
+        "T cells produce insulin"
+      ],
+      "answer": "T cells activate the immune system against healthy tissues",
+      "explanation": "In autoimmunity, T cells can mistakenly recognize healthy proteins as invaders and trigger an immune response against the body's own tissues."
+    },
+    {
+      "question": "Why are autoimmune diseases still present in the population despite being harmful?",
+      "choices": [
+        "They have no genetic component",
+        "They provide evolutionary advantages in fighting infections",
+        "They are easily curable"
+      ],
+      "answer": "They provide evolutionary advantages in fighting infections",
+      "explanation": "Autoimmune diseases may have persisted in the population due to past evolutionary advantages in combating infectious diseases, even though they pose risks in modern times."
+    }
+  ]
+}
