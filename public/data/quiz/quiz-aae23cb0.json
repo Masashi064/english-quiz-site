@@ -1,0 +1,63 @@
+{
+  "slug": "aae23cb0",
+  "video_id": "9FppammO1zk",
+  "movie_title": "The Most Dangerous Weapon Is Not Nuclear",
+  "movie_url": "https://youtu.be/9FppammO1zk",
+  "published_at": "2023-07-02T13:00:42Z",
+  "duration": "11:05",
+  "tags": [],
+  "introduction": "Sources & further reading: https://sites.google.com/view/sources-biorisk\nThis video was made possibl",
+  "lead_intro": "Biotechnology is advancing rapidly, offering both incredible opportunities and potential risks. Explore the fascinating world of biotechnology and its implications in this video.",
+  "quiz": [
+    {
+      "question": "What was the first major attempt to read human DNA in its entirety?",
+      "choices": [
+        "The Human Evolution Project",
+        "The Human Genome Project",
+        "The Human DNA Initiative"
+      ],
+      "answer": "The Human Genome Project",
+      "explanation": "The Human Genome Project, starting in 1990, was the first major attempt to read human DNA in its entirety."
+    },
+    {
+      "question": "How much did it cost to decode a human genome by the time the Human Genome Project was complete?",
+      "choices": [
+        "$10 million",
+        "$1,000",
+        "$100 million"
+      ],
+      "answer": "$100 million",
+      "explanation": "By the time the Human Genome Project was complete, the cost of decoding a human genome had fallen to about $100 million."
+    },
+    {
+      "question": "What is an infohazard in the context of biotechnology?",
+      "choices": [
+        "Information that benefits society",
+        "Information that poses a danger to society if shared carelessly",
+        "Information that is harmless"
+      ],
+      "answer": "Information that poses a danger to society if shared carelessly",
+      "explanation": "An infohazard in the context of biotechnology is information that poses a danger to society if shared carelessly, such as genetic data of dangerous viruses."
+    },
+    {
+      "question": "Why is it crucial to track those who order dangerous DNA online according to the video?",
+      "choices": [
+        "To increase sales of DNA",
+        "To ensure the safety and responsible use of the DNA",
+        "To make the process more difficult"
+      ],
+      "answer": "To ensure the safety and responsible use of the DNA",
+      "explanation": "Tracking those who order dangerous DNA online is crucial to ensure the safety and responsible use of the DNA and prevent it from falling into the wrong hands."
+    },
+    {
+      "question": "What is one of the key steps experts suggest to prevent catastrophic pandemics in the future?",
+      "choices": [
+        "Delay, Detect, Destroy",
+        "Share freely, Experiment, Innovate",
+        "Ignore, Deny, Delay"
+      ],
+      "answer": "Delay, Detect, Destroy",
+      "explanation": "Experts suggest the three key steps of Delay, Detect, Destroy to prevent catastrophic pandemics in the future, involving managing dangerous viruses, monitoring virus spread, and implementing measures to destroy threats."
+    }
+  ]
+}

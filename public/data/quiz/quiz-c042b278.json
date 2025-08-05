@@ -1,0 +1,99 @@
+{
+  "slug": "c042b278",
+  "video_id": "fLu080UX25o",
+  "movie_title": "How does extreme heat affect your body? - Carolyn Beans",
+  "movie_url": "https://youtu.be/fLu080UX25o",
+  "published_at": "2024-10-29T15:01:11Z",
+  "duration": "6:06",
+  "tags": [
+    "heat wave",
+    "heat",
+    "extreme heat",
+    "AC",
+    "aircon",
+    "air conditioning",
+    "climate",
+    "weather",
+    "temperature",
+    "humidity",
+    "sweat",
+    "sweat gland",
+    "wet bulb",
+    "wet bulb temperature",
+    "heat index",
+    "human body",
+    "body function",
+    "heat stroke",
+    "heat exhaustion",
+    "heat cramps",
+    "power outage",
+    "illness",
+    "health",
+    "public health",
+    "hydration",
+    "extreme weather",
+    "education",
+    "animation",
+    "carolyn beans",
+    "Reza Riahi",
+    "TED",
+    "TED-Ed",
+    "TED Ed",
+    "Teded",
+    "Ted Education"
+  ],
+  "introduction": "Explore how heat waves affect the body, what levels of extreme heat we can survive, and what you can",
+  "lead_intro": "As the effects of extreme heat waves become more prevalent, understanding how to handle and stay safe in high temperatures is crucial. Let's dive into the science behind heat management and the potential impacts of rising temperatures.",
+  "quiz": [
+    {
+      "question": "What happens to blood vessels near the skin and sweat glands when the body is trying to cool down?",
+      "choices": [
+        "They constrict and decrease blood flow near the skin.",
+        "They widen to allow more blood flow near the skin and activate sweat glands.",
+        "They remain unchanged."
+      ],
+      "answer": "They widen to allow more blood flow near the skin and activate sweat glands.",
+      "explanation": "When the body is trying to cool down, the hypothalamus signals for blood vessels near the skin to widen, allowing more blood flow near the body's surface to release heat. Additionally, sweat glands are activated to release sweat for evaporative cooling."
+    },
+    {
+      "question": "What is the wet-bulb temperature used to measure?",
+      "choices": [
+        "Humidity",
+        "Air temperature",
+        "Heat index"
+      ],
+      "answer": "Humidity",
+      "explanation": "The wet-bulb temperature is used to measure humidity. It is determined by wrapping a wet, room temperature cloth around a thermometer to see if evaporation will lower the reading. If evaporation is hindered due to high humidity, it indicates that it's too humid for sweat to effectively cool the body."
+    },
+    {
+      "question": "What is considered the limit of human survival in terms of wet-bulb temperature?",
+      "choices": [
+        "25°C",
+        "30°C",
+        "35°C"
+      ],
+      "answer": "35°C",
+      "explanation": "A wet-bulb temperature of roughly 35°C is generally considered the limit of human survival. Beyond this temperature, the body's natural cooling mechanisms become ineffective, posing severe risks to health."
+    },
+    {
+      "question": "According to the US National Weather Service, at what heat index is heat considered dangerous?",
+      "choices": [
+        "35°C",
+        "39.4°C",
+        "40°C"
+      ],
+      "answer": "39.4°C",
+      "explanation": "The US National Weather Service considers heat dangerous when the heat index climbs above 39.4°C. This metric takes into account the combined effects of humidity and air temperature, reflecting the perceived temperature a person experiences."
+    },
+    {
+      "question": "What defines a heat wave?",
+      "choices": [
+        "A single day of hot weather",
+        "Two or more days of unusually hot weather",
+        "A week of warm temperatures"
+      ],
+      "answer": "Two or more days of unusually hot weather",
+      "explanation": "A heat wave is defined as a streak of two or more days of unusually hot weather for a specific place and season. It signifies an extended period of high temperatures that can have significant impacts on various aspects of daily life."
+    }
+  ]
+}

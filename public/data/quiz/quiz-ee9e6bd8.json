@@ -1,0 +1,63 @@
+{
+  "slug": "ee9e6bd8",
+  "video_id": "Kr57ax0OWMk",
+  "movie_title": "The (Second) Deadliest Virus",
+  "movie_url": "https://youtu.be/Kr57ax0OWMk",
+  "published_at": "2023-08-08T13:59:49Z",
+  "duration": "11:09",
+  "tags": [],
+  "introduction": "Sources & further reading: https://sites.google.com/view/sources-smallpox/\nThis video was made possi",
+  "lead_intro": "Discover the incredible story of humanity's battle against the smallpox virus, one of the deadliest monsters in history. Learn how science triumphed over this ancient scourge and how vaccines played a crucial role in eradicating it for good.",
+  "quiz": [
+    {
+      "question": "Where are the only two laboratories left where the living smallpox virus is officially stored for research?",
+      "choices": [
+        "New York, USA and London, UK",
+        "Moscow, Russia and Tokyo, Japan",
+        "Koltsovo, Russia and Atlanta, USA"
+      ],
+      "answer": "Koltsovo, Russia and Atlanta, USA",
+      "explanation": "The only two laboratories left where the living smallpox virus is officially stored for research are in Koltsovo, Russia and in Atlanta, USA."
+    },
+    {
+      "question": "How did humanity achieve victory over smallpox?",
+      "choices": [
+        "Through variolation using smallpox scabs",
+        "By using cowpox material for vaccinations",
+        "By isolating infected individuals"
+      ],
+      "answer": "By using cowpox material for vaccinations",
+      "explanation": "Humanity achieved victory over smallpox by realizing that using material from cowpox, a milder variant that affected cows, for vaccinations was a safer and more effective way to provide immunity."
+    },
+    {
+      "question": "When was smallpox officially declared eradicated?",
+      "choices": [
+        "1900",
+        "1966",
+        "1980"
+      ],
+      "answer": "1980",
+      "explanation": "Smallpox was officially declared eradicated in 1980, marking a significant milestone in the fight against this deadly disease."
+    },
+    {
+      "question": "What was the global effort led by the World Health Organization to eradicate smallpox?",
+      "choices": [
+        "A global vaccination campaign",
+        "A smallpox news network",
+        "An international health summit"
+      ],
+      "answer": "A smallpox news network",
+      "explanation": "The World Health Organization initiated a global 'smallpox news network' in 1966, which focused on residents in hotspots to tackle local outbreaks of the virus and prevent further spread."
+    },
+    {
+      "question": "What was the dangerous practice of variolation used before the development of vaccines?",
+      "choices": [
+        "Injecting infected blood into individuals",
+        "Using cowpox material for immunity",
+        "Blowing smallpox powder into the nostrils or scratching the skin with it"
+      ],
+      "answer": "Blowing smallpox powder into the nostrils or scratching the skin with it",
+      "explanation": "Before the development of vaccines, the dangerous practice of variolation involved blowing smallpox powder into the nostrils or scratching the skin with it to induce a mild case of the disease for immunity."
+    }
+  ]
+}

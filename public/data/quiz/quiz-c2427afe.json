@@ -1,0 +1,101 @@
+{
+  "slug": "c2427afe",
+  "video_id": "_ivM7J2ao1s",
+  "movie_title": "The real reason polio is so dangerous",
+  "movie_url": "https://youtu.be/_ivM7J2ao1s",
+  "published_at": "2024-11-05T16:01:35Z",
+  "duration": "6:35",
+  "tags": [
+    "polio",
+    "poliovirus",
+    "polio virus",
+    "virus",
+    "polio vaccine",
+    "paralytic polio",
+    "iron lung",
+    "polio eradication",
+    "disease eradication",
+    "disease",
+    "infectious",
+    "infectious disease",
+    "sanitation",
+    "polio outbreak",
+    "jonas salk",
+    "albert sabin",
+    "inactivated poliovirus vaccine",
+    "IPV",
+    "oral polio vaccine",
+    "OPV",
+    "attenuated virus",
+    "polio strain",
+    "wild polio",
+    "monovalent opv",
+    "bivalent opv",
+    "immunization",
+    "vaccination",
+    "medical research",
+    "medicine",
+    "education",
+    "animation",
+    "anton bogaty",
+    "TED",
+    "TED-Ed",
+    "TED Ed",
+    "Teded",
+    "Ted Education"
+  ],
+  "introduction": "Explore what makes polio so dangerous, what is causing the 21st century resurgence of cases, and how",
+  "lead_intro": "Discover the fascinating history and ongoing battle against polio in this informative video. Join us to explore the challenges faced by researchers in eradicating this deadly disease.",
+  "quiz": [
+    {
+      "question": "What is the main source of recent spikes in polio cases?",
+      "choices": [
+        "Mutation of the poliovirus strains",
+        "Improper sanitation practices",
+        "Decreased effectiveness of existing vaccines"
+      ],
+      "answer": "Mutation of the poliovirus strains",
+      "explanation": "Recent spikes in polio cases are primarily due to the mutation of the poliovirus strains, leading to the emergence of new vaccine-derived strains in under-vaccinated populations."
+    },
+    {
+      "question": "What percentage of a community needs to be vaccinated to prevent strains from mutating?",
+      "choices": [
+        "50%",
+        "60%",
+        "80%"
+      ],
+      "answer": "80%",
+      "explanation": "At least 80% of every community needs to be vaccinated to prevent strains of poliovirus from mutating into new vaccine-derived strains."
+    },
+    {
+      "question": "What did US physician Jonas Salk develop in the early 1950s to combat polio?",
+      "choices": [
+        "Inactivated poliovirus vaccine (IPV)",
+        "Oral polio vaccine (OPV)",
+        "Improved sanitation practices"
+      ],
+      "answer": "Inactivated poliovirus vaccine (IPV)",
+      "explanation": "Jonas Salk developed the inactivated poliovirus vaccine (IPV) that prevented all three strains of poliovirus from causing paralysis when injected."
+    },
+    {
+      "question": "What role do monovalent and bivalent OPVs play in eradicating polio?",
+      "choices": [
+        "Preventing new strains from mutating",
+        "Preventing wild poliovirus type 1",
+        "Increasing the number of strains"
+      ],
+      "answer": "Preventing new strains from mutating",
+      "explanation": "Monovalent and bivalent OPVs respectively contain one or two types of attenuated poliovirus, reducing the number of strains that could mutate and aiding in the eradication of polio."
+    },
+    {
+      "question": "What technology is being used to ensure populations meet vaccination thresholds?",
+      "choices": [
+        "Satellite communication",
+        "Geospatial imaging and analysis",
+        "Social media campaigns"
+      ],
+      "answer": "Geospatial imaging and analysis",
+      "explanation": "Medical workers are using geospatial imaging and analysis to locate and immunize remote communities, ensuring that vaccination thresholds are met to prevent polio outbreaks."
+    }
+  ]
+}

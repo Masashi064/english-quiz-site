@@ -1,0 +1,97 @@
+{
+  "slug": "b4ac2489",
+  "video_id": "3rQi2uNqwxk",
+  "movie_title": "Ethical dilemma: Whose life is more valuable? - Rebecca L. Walker",
+  "movie_url": "https://youtu.be/3rQi2uNqwxk",
+  "published_at": "2022-11-08T16:00:02Z",
+  "duration": "6:06",
+  "tags": [
+    "ethical dilemma",
+    "ethics",
+    "thought experiment",
+    "animal testing",
+    "ethics of animal testing",
+    "smallpox",
+    "medical research",
+    "value of life",
+    "moral status",
+    "philosophy",
+    "shelly kagan",
+    "human moral status",
+    "animal moral status",
+    "immanuel kant",
+    "kant",
+    "enlightenment",
+    "christine korsgaard",
+    "jeremy bentham",
+    "utilitarianism",
+    "peter singer",
+    "suffering",
+    "capacity for suffering",
+    "morals",
+    "moral responsibility",
+    "education",
+    "animation",
+    "Rebecca L. Walker",
+    "Sharon Colman",
+    "TED",
+    "TED-Ed",
+    "TED Ed",
+    "Teded",
+    "Ted Education"
+  ],
+  "introduction": "Puzzle through a classic ethical dilemma and decide: how do we determine the value of a life, whethe",
+  "lead_intro": "Exploring the ethical dilemmas surrounding animal testing and moral status, this article delves into the complex considerations scientists face when conducting research that impacts both humans and animals.",
+  "quiz": [
+    {
+      "question": "What is one of the main concerns regarding smallpox samples that still exist?",
+      "choices": [
+        "They may be used for medical research",
+        "They may be weaponized by rogue actors",
+        "They may be destroyed by mistake"
+      ],
+      "answer": "They may be weaponized by rogue actors",
+      "explanation": "The concern is that samples of the smallpox virus could be used as a biological weapon by rogue actors."
+    },
+    {
+      "question": "What philosophical concept is discussed in relation to determining the value of a life?",
+      "choices": [
+        "Moral dilemma",
+        "Moral status",
+        "Moral relativism"
+      ],
+      "answer": "Moral status",
+      "explanation": "The article explores the concept of moral status and how it influences ethical considerations regarding the treatment of animals in research."
+    },
+    {
+      "question": "According to Immanuel Kant, what attributes grant moral status to humans?",
+      "choices": [
+        "Emotional intelligence",
+        "Rational nature and ability to will actions",
+        "Physical strength"
+      ],
+      "answer": "Rational nature and ability to will actions",
+      "explanation": "Kant believed that humans have moral status due to their rational nature and capacity to make choices."
+    },
+    {
+      "question": "What argument, proposed by Jeremy Bentham and Peter Singer, emphasizes the importance of suffering in determining moral consideration?",
+      "choices": [
+        "Utilitarianism",
+        "Deontology",
+        "Virtue ethics"
+      ],
+      "answer": "Utilitarianism",
+      "explanation": "Utilitarianism argues that the capacity for suffering is a key factor in determining moral consideration for entities."
+    },
+    {
+      "question": "How does the article highlight the uncertainty and ethical implications faced by scientists conducting animal experiments?",
+      "choices": [
+        "By emphasizing the financial risks involved",
+        "By discussing the potential impact on human health",
+        "By addressing the unpredictability of the research outcomes"
+      ],
+      "answer": "By addressing the unpredictability of the research outcomes",
+      "explanation": "The article points out that despite conducting animal experiments, there is no guarantee that the research will lead to improved medical care, adding to the uncertainty and ethical complexity of such endeavors."
+    }
+  ]
+}

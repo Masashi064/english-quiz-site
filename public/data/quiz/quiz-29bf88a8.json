@@ -1,0 +1,63 @@
+{
+  "slug": "29bf88a8",
+  "video_id": "M-K7mxdN62M",
+  "movie_title": "What Actually Happens When You Are Sick?",
+  "movie_url": "https://youtu.be/M-K7mxdN62M",
+  "published_at": "2023-02-28T14:59:23Z",
+  "duration": "11:12",
+  "tags": [],
+  "introduction": "Offset your carbon footprint on Wren: ​https://www.wren.co/kurzgesagt. \nFor the first 200 people who",
+  "lead_intro": "Have you ever heard the saying 'what doesn't kill you makes you stronger'? Let's delve into the fascinating world of the immune system and explore how surviving diseases can affect your body's defenses.",
+  "quiz": [
+    {
+      "question": "What are the signal proteins released by cells when they detect something off?",
+      "choices": [
+        "Antibodies",
+        "Cytokines",
+        "Neutrophils"
+      ],
+      "answer": "Cytokines",
+      "explanation": "Cytokines are the signal proteins released by cells to activate immune responses when they detect abnormalities or invaders in the body."
+    },
+    {
+      "question": "What is the purpose of sickness behavior in the body during an infection?",
+      "choices": [
+        "To boost energy levels",
+        "To enhance appetite",
+        "To reroute energy to the immune response"
+      ],
+      "answer": "To reroute energy to the immune response",
+      "explanation": "Sickness behavior, characterized by symptoms like fatigue, loss of appetite, and heightened pain sensitivity, aims to conserve energy and redirect it towards the immune system's defense mechanisms during an infection."
+    },
+    {
+      "question": "What is fever's role in the immune response?",
+      "choices": [
+        "To slow down metabolism",
+        "To decrease calorie consumption",
+        "To speed up metabolism and enhance cell activity"
+      ],
+      "answer": "To speed up metabolism and enhance cell activity",
+      "explanation": "Fever accelerates metabolism, making cells work harder and faster to combat infections, although it consumes a significant amount of calories to maintain."
+    },
+    {
+      "question": "What is a potential consequence of the immune system's response to an infection in terms of energy consumption?",
+      "choices": [
+        "Increased muscle growth",
+        "Breaking down muscle for energy",
+        "Enhanced digestion process"
+      ],
+      "answer": "Breaking down muscle for energy",
+      "explanation": "When the body needs extra energy during an infection, it may break down muscle tissue to access amino acids for fuel, particularly if energy from food intake is insufficient."
+    },
+    {
+      "question": "How do vaccines help train the immune system?",
+      "choices": [
+        "By causing permanent damage to the body",
+        "By mimicking diseases to create memory cells",
+        "By weakening the body's defenses"
+      ],
+      "answer": "By mimicking diseases to create memory cells",
+      "explanation": "Vaccines simulate infections to prompt the immune system to produce memory cells that can recognize and combat specific pathogens in the future, thereby enhancing the body's ability to defend against real infections."
+    }
+  ]
+}

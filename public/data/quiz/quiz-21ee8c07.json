@@ -1,0 +1,63 @@
+{
+  "slug": "21ee8c07",
+  "video_id": "dkP8NUwB2io",
+  "movie_title": "How do schools of fish swim in harmony? - Nathan S. Jacobs",
+  "movie_url": "https://youtu.be/dkP8NUwB2io",
+  "published_at": "2016-03-31T15:20:05Z",
+  "duration": "6:07",
+  "tags": [],
+  "introduction": "View full lesson: http://ed.ted.com/lessons/how-do-schools-of-fish-swim-in-harmony-nathan-s-jacobs",
+  "lead_intro": "Have you ever wondered how schools of fish swim in harmony or how the tiny cells in your brain give rise to complex thoughts? Both questions share a common answer - emergence. Let's explore this fascinating concept further!",
+  "quiz": [
+    {
+      "question": "Why do schools of fish stick together in groups?",
+      "choices": [
+        "For social interaction",
+        "To evade predators",
+        "To find food"
+      ],
+      "answer": "To evade predators",
+      "explanation": "Schools of fish exhibit complex swarming behaviors to help evade predators, as a lone fish is quickly singled out as easy prey."
+    },
+    {
+      "question": "What are the two basic rules that individual fish follow in a school?",
+      "choices": [
+        "Stay close to your neighbor and swim in circles",
+        "Stay close but not too close to your neighbor and keep swimming",
+        "Swim in zig-zag patterns and avoid other fish"
+      ],
+      "answer": "Stay close but not too close to your neighbor and keep swimming",
+      "explanation": "Individual fish in a school follow two basic rules: stay close, but not too close to your neighbor, and keep swimming."
+    },
+    {
+      "question": "How do emergent patterns of activity in the brain arise?",
+      "choices": [
+        "From chaotic interactions of neurons",
+        "From a single neuron's activity",
+        "From external stimuli"
+      ],
+      "answer": "From chaotic interactions of neurons",
+      "explanation": "Emergent patterns of activity in the brain arise from the chaotic interactions of numerous neurons that self-organize into reliable patterns."
+    },
+    {
+      "question": "What is the basic function of each neuron in the brain?",
+      "choices": [
+        "To store memories",
+        "To excite or inhibit other neurons",
+        "To produce consciousness"
+      ],
+      "answer": "To excite or inhibit other neurons",
+      "explanation": "The basic function of each neuron in the brain is to either excite or inhibit other neurons, contributing to the overall network activity."
+    },
+    {
+      "question": "What is a key characteristic of emergence in complex systems?",
+      "choices": [
+        "It requires a central leader",
+        "It results in unpredictable behaviors",
+        "It turns chaos into order"
+      ],
+      "answer": "It turns chaos into order",
+      "explanation": "Emergence in complex systems, like schools of fish or brain activity, turns chaos into order if the right rules are in place, leading to reproducible patterns."
+    }
+  ]
+}

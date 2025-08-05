@@ -1,0 +1,63 @@
+{
+  "slug": "688e0cfe",
+  "video_id": "tybKnGZRwcU",
+  "movie_title": "How to Win an Interstellar War",
+  "movie_url": "https://youtu.be/tybKnGZRwcU",
+  "published_at": "2023-11-15T15:00:01Z",
+  "duration": "11:05",
+  "tags": [],
+  "introduction": "Check out some of our favorite shop products here: https://kgs.link/shop Our shop is not only our mo",
+  "lead_intro": "Ever wondered how civilizations could wage war across light years using devastating weapons? Join us as we explore the mind-boggling world of interstellar warfare in this Kurzgesagt Labs video!",
+  "quiz": [
+    {
+      "question": "What is the name of the weapon that harnesses the energy of a star to create a powerful laser with an extreme range?",
+      "choices": [
+        "Relativistic Missile",
+        "Ultra-Relativistic Electron Beam",
+        "Star Laser"
+      ],
+      "answer": "Star Laser",
+      "explanation": "The weapon that harnesses the energy of a star to create a powerful laser with an extreme range is called the Star Laser. It concentrates 1% of a star's energy output into a beam that can travel over 2 million light years."
+    },
+    {
+      "question": "What dangerous material is required to build the Relativistic Missile?",
+      "choices": [
+        "Antimatter",
+        "Gamma rays",
+        "Plasma"
+      ],
+      "answer": "Antimatter",
+      "explanation": "The dangerous material required to build the Relativistic Missile is antimatter. When antimatter and matter mix, they annihilate, releasing gamma rays and plasma."
+    },
+    {
+      "question": "What is the main challenge with an electron beam weapon?",
+      "choices": [
+        "Maintaining speed",
+        "Controlling direction",
+        "Range"
+      ],
+      "answer": "Range",
+      "explanation": "The main challenge with an electron beam weapon is range. Electrons spread out quickly, so the Smorpians developed an Ultra-Relativistic Electron Beam to maintain focus over interstellar distances."
+    },
+    {
+      "question": "Which weapon has the capability to destroy DNA and make a planet sterile?",
+      "choices": [
+        "Star Laser",
+        "Relativistic Missile",
+        "Ultra-Relativistic Electron Beam"
+      ],
+      "answer": "Ultra-Relativistic Electron Beam",
+      "explanation": "The Ultra-Relativistic Electron Beam has the capability to destroy DNA and make a planet sterile. It accelerates electrons to nearly the speed of light, causing lethal doses of radiation."
+    },
+    {
+      "question": "What is one major downside mentioned for using these devastating weapons in interstellar warfare?",
+      "choices": [
+        "Limited range",
+        "High cost",
+        "Revealing your location"
+      ],
+      "answer": "Revealing your location",
+      "explanation": "One major downside mentioned for using these devastating weapons in interstellar warfare is revealing your location to others around the Milky Way, which may not be ideal as it could attract unwanted attention."
+    }
+  ]
+}

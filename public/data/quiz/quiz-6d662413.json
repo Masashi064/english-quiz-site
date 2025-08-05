@@ -1,0 +1,94 @@
+{
+  "slug": "6d662413",
+  "video_id": "WW4RnT1YuLg",
+  "movie_title": "The Rosetta Stone - 6 Minute English",
+  "movie_url": "https://youtu.be/WW4RnT1YuLg",
+  "published_at": "2021-06-03T15:00:13Z",
+  "duration": "6:17",
+  "tags": [
+    "learn English",
+    "English vocabulary",
+    "speak English",
+    "bbc english",
+    "English teacher",
+    "英語",
+    "영어",
+    "อังกฤษ",
+    "Anh",
+    "English tutorial",
+    "Ingilizce ders",
+    "English grammar",
+    "IELTS",
+    "British English",
+    "English pronunciation",
+    "English lesson",
+    "idiom",
+    "English expressions",
+    "BBC Learning English",
+    "tefl",
+    "Online English",
+    "ELT",
+    "6 minute english",
+    "history",
+    "egypt",
+    "egyptology",
+    "museum",
+    "rosetta stone",
+    "decypher",
+    "archaeology"
+  ],
+  "introduction": "In this programme, Rob and Sam talk about one of the most famous museum objects in the world, and ho",
+  "lead_intro": "Unlock the secrets of the ancient Egyptians with BBC Learning English's 6 Minute English! Dive into the world of hieroglyphs and the fascinating story of the Rosetta Stone.",
+  "quiz": [
+    {
+      "question": "The writing on the Rosetta Stone is a tax agreement between the priests and which Egyptian pharaoh?",
+      "choices": [
+        "Cleopatra",
+        "Ptolemy",
+        "Ramesses"
+      ],
+      "answer": "Ptolemy",
+      "explanation": "The correct answer is b) Ptolemy, the pharaoh who ruled from around 300 BCE. Cleopatra was from the same dynasty but ruled later."
+    },
+    {
+      "question": "What did the Rosetta Stone contain?",
+      "choices": [
+        "A poem",
+        "A tax agreement",
+        "A love letter"
+      ],
+      "answer": "A tax agreement",
+      "explanation": "The Rosetta Stone contained a tax agreement exempting priests from paying taxes to the King."
+    },
+    {
+      "question": "Who was the first person to decipher hieroglyphs since the ancient Egyptians themselves?",
+      "choices": [
+        "Richard Parker",
+        "Jean-François Champollion",
+        "Penelope Wilson"
+      ],
+      "answer": "Jean-François Champollion",
+      "explanation": "Jean-François Champollion became the first person to understand hieroglyphs since the ancient Egyptians nearly two thousand years earlier."
+    },
+    {
+      "question": "What does it mean to say Champollion was a prodigy?",
+      "choices": [
+        "He was a famous actor",
+        "He was a young person with great natural talent",
+        "He was a professional singer"
+      ],
+      "answer": "He was a young person with great natural talent",
+      "explanation": "Calling Champollion a prodigy means he was a young person with exceptional natural talent, particularly in studying languages."
+    },
+    {
+      "question": "What does the phrase 'there was no holding him back' mean?",
+      "choices": [
+        "He was unable to move forward",
+        "He was hesitant to progress",
+        "He was unstoppable in his progress"
+      ],
+      "answer": "He was unstoppable in his progress",
+      "explanation": "The phrase 'there was no holding him back' means that Champollion was so enthusiastic and determined that nothing could stop him from succeeding in deciphering hieroglyphs."
+    }
+  ]
+}

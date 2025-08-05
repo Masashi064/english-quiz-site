@@ -1,0 +1,63 @@
+{
+  "slug": "8d7d3184",
+  "video_id": "LrIRuqr_Ozg",
+  "movie_title": "What Happens AFTER Nuclear War?",
+  "movie_url": "https://youtu.be/LrIRuqr_Ozg",
+  "published_at": "2024-02-20T15:00:02Z",
+  "duration": "11:11",
+  "tags": [],
+  "introduction": "This video was made possible through a grant by Open Philanthropy.\nSources & further reading: https:",
+  "lead_intro": "Imagine a world torn apart by nuclear war, where devastating explosions lead to a catastrophic nuclear winter. Let's explore the science behind this chilling scenario and test your knowledge with a quiz!",
+  "quiz": [
+    {
+      "question": "What causes the formation of a pyrocumulonimbus cloud after a nuclear explosion?",
+      "choices": [
+        "Hot air rising from the fire",
+        "Rain washing out the soot",
+        "Cooling effect of the explosion"
+      ],
+      "answer": "Hot air rising from the fire",
+      "explanation": "The intense heat from the fire burning cities creates a pyrocumulonimbus cloud by heating up the air, causing it to rise and form a colossal cloud that carries soot into the stratosphere."
+    },
+    {
+      "question": "How long can soot remain aloft in the atmosphere after a nuclear explosion?",
+      "choices": [
+        "Months",
+        "Years",
+        "Decades"
+      ],
+      "answer": "Years",
+      "explanation": "Soot from a pyrocumulonimbus cloud can reach altitudes where rain clouds don't form, allowing it to stay aloft for years without being washed out, contributing to a prolonged nuclear winter effect."
+    },
+    {
+      "question": "What would be the immediate impact of a full-scale global nuclear war on agriculture?",
+      "choices": [
+        "Minimal disruption",
+        "Complete destruction",
+        "Drastic reduction in available calories"
+      ],
+      "answer": "Drastic reduction in available calories",
+      "explanation": "A global nuclear war would severely damage agriculture, leading to a significant drop in available calories for humanity, potentially causing widespread starvation."
+    },
+    {
+      "question": "Which nations are mentioned as potentially more resilient to nuclear winter due to their location and resources?",
+      "choices": [
+        "China and India",
+        "Russia and Canada",
+        "Australia and Argentina"
+      ],
+      "answer": "Australia and Argentina",
+      "explanation": "Countries in the southern hemisphere like Australia and Argentina may fare better during a nuclear winter due to milder effects, abundant livestock resources, and the potential to focus on sustaining their own populations."
+    },
+    {
+      "question": "What is emphasized as a crucial step to prevent the devastating effects of nuclear war?",
+      "choices": [
+        "Building more nuclear weapons",
+        "Increasing global food production",
+        "Taking actions to avoid nuclear war"
+      ],
+      "answer": "Taking actions to avoid nuclear war",
+      "explanation": "It is essential to take proactive measures to prevent nuclear war from happening to avoid the catastrophic consequences that could lead to a collapse of civilization and immense human suffering."
+    }
+  ]
+}

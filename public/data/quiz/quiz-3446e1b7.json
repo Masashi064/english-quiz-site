@@ -1,0 +1,93 @@
+{
+  "slug": "3446e1b7",
+  "video_id": "8E8DQnmd4zs",
+  "movie_title": "Flexible working - 6 Minute English",
+  "movie_url": "https://youtu.be/8E8DQnmd4zs",
+  "published_at": "2021-07-15T15:00:05Z",
+  "duration": "6:17",
+  "tags": [
+    "learn English",
+    "English vocabulary",
+    "speak English",
+    "bbc english",
+    "English teacher",
+    "英語",
+    "영어",
+    "อังกฤษ",
+    "Anh",
+    "English tutorial",
+    "Ingilizce ders",
+    "English grammar",
+    "IELTS",
+    "British English",
+    "English pronunciation",
+    "English lesson",
+    "idiom",
+    "English expressions",
+    "BBC Learning English",
+    "tefl",
+    "Online English",
+    "how to speak English",
+    "ELT",
+    "flexible work",
+    "workplace",
+    "6 minute english",
+    "work shift",
+    "flexible working",
+    "parenting"
+  ],
+  "introduction": "Improve your English vocabulary and listening in just six minutes!\nThe coronavirus pandemic might ha",
+  "lead_intro": "Join Georgina and Neil in this 6 Minute English video from BBC Learning English, as they discuss the world of work and the concept of flexible working. Test your understanding with the following quiz!",
+  "quiz": [
+    {
+      "question": "According to OECD data, workers from which country work the longest hours?",
+      "choices": [
+        "South Korea",
+        "Germany",
+        "Mexico"
+      ],
+      "answer": "Mexico",
+      "explanation": "According to the OECD, the average Mexican spends 2,255 hours at work per year, equivalent to around 43 hours per week."
+    },
+    {
+      "question": "What does it mean to work flexibly?",
+      "choices": [
+        "Working from home only",
+        "Having choice and control over when, where, and how long you work",
+        "Working fixed hours"
+      ],
+      "answer": "Having choice and control over when, where, and how long you work",
+      "explanation": "Flexibility means having the freedom to choose when, where, and how long you work, and agreeing on this with your manager."
+    },
+    {
+      "question": "What does it mean when something needs to match?",
+      "choices": [
+        "It needs to be equal on both sides",
+        "It needs to be different",
+        "It doesn't matter"
+      ],
+      "answer": "It needs to be equal on both sides",
+      "explanation": "Matching means that something should work equally well or be fair for both parties involved."
+    },
+    {
+      "question": "What does bias mean in the context of the video?",
+      "choices": [
+        "Fairness",
+        "Treating everyone equally",
+        "Unfairness"
+      ],
+      "answer": "Unfairness",
+      "explanation": "Bias refers to unfairness, where one group of people is treated more favorably than another."
+    },
+    {
+      "question": "Why is it important for men to be enabled to work flexibly?",
+      "choices": [
+        "To have more free time",
+        "To achieve equality at home and in the workplace",
+        "To avoid working long hours"
+      ],
+      "answer": "To achieve equality at home and in the workplace",
+      "explanation": "Enabling men to work flexibly can lead to fairness and equality both in family life and in work environments."
+    }
+  ]
+}
