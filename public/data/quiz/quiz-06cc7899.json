@@ -1,0 +1,97 @@
+{
+  "slug": "06cc7899",
+  "video_id": "46RDkiy5h3U",
+  "movie_title": "Why don’t companies want you to repair your stuff? - Aaron Perzanowski",
+  "movie_url": "https://youtu.be/46RDkiy5h3U",
+  "published_at": "2024-11-26T16:00:50Z",
+  "duration": "6:05",
+  "tags": [
+    "right to repair",
+    "repair",
+    "home repair",
+    "ownership",
+    "fair repair",
+    "industrial revolution",
+    "standardization",
+    "interchangeable parts",
+    "parts pairing",
+    "planned obsolescence",
+    "mass production",
+    "consumer rights",
+    "manufacturer",
+    "ewaste",
+    "ifixit",
+    "self repair",
+    "repair cafe",
+    "end of life",
+    "product end of life",
+    "consumer repair",
+    "ftc",
+    "fda",
+    "education",
+    "animation",
+    "business",
+    "corporations",
+    "Aaron Perzanowski",
+    "Nick Hilditch",
+    "TED",
+    "TED-Ed",
+    "TED Ed",
+    "Teded",
+    "Ted Education"
+  ],
+  "introduction": "Explore how the Right to Repair movement is pushing back against companies which don’t want consumer",
+  "lead_intro": "Discover the fascinating history of interchangeable parts and how they revolutionized mass production. Learn about the challenges faced today in the world of repair and consumer rights.",
+  "quiz": [
+    {
+      "question": "Who is credited with developing the highly precise lathe that allowed for the mass production of interchangeable parts?",
+      "choices": [
+        "Henry Maudslay",
+        "Thomas Edison",
+        "Alexander Graham Bell"
+      ],
+      "answer": "Henry Maudslay",
+      "explanation": "Henry Maudslay is the British metalworker credited with developing the highly precise lathe that revolutionized mass production by allowing for the creation of interchangeable parts."
+    },
+    {
+      "question": "What effect did the standardization of parts have on the Industrial Revolution?",
+      "choices": [
+        "It slowed down production",
+        "It had no impact",
+        "It helped usher in the Industrial Revolution"
+      ],
+      "answer": "It helped usher in the Industrial Revolution",
+      "explanation": "The standardization of parts played a crucial role in ushering in the Industrial Revolution by enabling mass production and making repair easier."
+    },
+    {
+      "question": "What is a common tactic used by companies to prevent consumers from repairing their own devices?",
+      "choices": [
+        "Gluing parts in place",
+        "Sharing product information",
+        "Encouraging repair"
+      ],
+      "answer": "Gluing parts in place",
+      "explanation": "Companies often make it physically more difficult to repair items by gluing parts in place rather than using screws, limiting consumers' ability to fix their own devices."
+    },
+    {
+      "question": "What is one way companies limit repair by preventing interchangeability of parts?",
+      "choices": [
+        "Assigning unique serial numbers to parts",
+        "Offering free repair services",
+        "Encouraging DIY repairs"
+      ],
+      "answer": "Assigning unique serial numbers to parts",
+      "explanation": "Companies limit repair by assigning unique serial numbers to parts, enabling the device's software to detect unauthorized replacements and restrict their functionality."
+    },
+    {
+      "question": "What is the term used to describe a manufacturing strategy where products are deliberately designed to fail to keep demand and profits high?",
+      "choices": [
+        "Planned obsolescence",
+        "Sustainable design",
+        "Longevity planning"
+      ],
+      "answer": "Planned obsolescence",
+      "explanation": "Planned obsolescence is a manufacturing strategy where products are intentionally designed to fail, ensuring continued demand and profitability for companies."
+    }
+  ]
+}

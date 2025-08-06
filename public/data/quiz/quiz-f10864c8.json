@@ -1,0 +1,103 @@
+{
+  "slug": "f10864c8",
+  "video_id": "PaErPyEnDvk",
+  "movie_title": "What’s Hiding at the Most Solitary Place on Earth? The Deep Sea",
+  "movie_url": "https://youtu.be/PaErPyEnDvk",
+  "published_at": "2019-09-15T12:30:01Z",
+  "duration": "11:20",
+  "tags": [
+    "Deep Sea",
+    "Sea",
+    "Ocean",
+    "Mariana Trench",
+    "Marianas trench",
+    "challenger deep",
+    "deepest point of the ocean",
+    "Scuba Dive",
+    "Pressure",
+    "Deep",
+    "Phytoplankton",
+    "Plankton",
+    "Alge",
+    "Bioluminescent",
+    "Jellyfish",
+    "Siphonophore",
+    "Marine Snow",
+    "Spermwales",
+    "Wales",
+    "Ginat squit",
+    "Vampiresquit",
+    "Viperfish",
+    "Frilled Shark",
+    "Dumbo octopus",
+    "Grenadier fish",
+    "extremophile",
+    "snail fish",
+    "Magma",
+    "Amphipod",
+    "Giant amphipod",
+    "Continental Shelf",
+    "Twillight Zone",
+    "Titanic",
+    "Abyssal",
+    "Abyssal Depth",
+    "Abyss",
+    "abyssal plain",
+    "Hadal Zone",
+    "Midnight Zone"
+  ],
+  "introduction": "Sources:\nhttps://sites.google.com/view/sources-deep-sea/\n\nDeep Sea Poster: https://shop.kurzgesagt.o",
+  "lead_intro": "Join us on a deep-sea adventure as we explore the mysterious and fascinating world beneath the ocean's surface.",
+  "quiz": [
+    {
+      "question": "What percentage of all biomass on Earth lives in the Earth's oceans?",
+      "choices": [
+        "Less than 1%",
+        "Around 5%",
+        "Less than 2%"
+      ],
+      "answer": "Less than 2%",
+      "explanation": "Less than 2% of all biomass on Earth lives in the Earth's oceans."
+    },
+    {
+      "question": "At what depth do we reach the edge of the continental shelf?",
+      "choices": [
+        "200 meters",
+        "500 meters",
+        "1000 meters"
+      ],
+      "answer": "200 meters",
+      "explanation": "We reach the edge of the continental shelf at a depth of 200 meters."
+    },
+    {
+      "question": "What is the deepest scuba dive ever recorded?",
+      "choices": [
+        "500 meters",
+        "332 meters",
+        "700 meters"
+      ],
+      "answer": "332 meters",
+      "explanation": "The deepest scuba dive ever recorded came in at 332 meters."
+    },
+    {
+      "question": "What is the name of the zone between twilight and darkness in the deep sea?",
+      "choices": [
+        "Midnight Zone",
+        "Twilight Zone",
+        "Dark Zone"
+      ],
+      "answer": "Twilight Zone",
+      "explanation": "The zone between twilight and darkness in the deep sea is known as the Twilight Zone."
+    },
+    {
+      "question": "Where do extremophile bacteria thrive in the deep sea?",
+      "choices": [
+        "Abyssal Plain",
+        "Mariana Trench",
+        "Hadal Zone"
+      ],
+      "answer": "Hadal Zone",
+      "explanation": "Extremophile bacteria thrive in the extreme environment of the Hadal Zone in the deep sea."
+    }
+  ]
+}

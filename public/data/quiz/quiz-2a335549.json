@@ -1,0 +1,104 @@
+{
+  "slug": "2a335549",
+  "video_id": "DgzxhDHjzms",
+  "movie_title": "This is what happens when you hit the gas - Shannon Odell",
+  "movie_url": "https://youtu.be/DgzxhDHjzms",
+  "published_at": "2023-09-05T15:03:04Z",
+  "duration": "6:05",
+  "tags": [
+    "gas pedal",
+    "gas",
+    "cars",
+    "driving",
+    "car engine",
+    "hypermiler",
+    "pulse and glide",
+    "mileage",
+    "fuel efficiency",
+    "EVs",
+    "ICEs",
+    "internal combustion engine",
+    "combustion engine",
+    "piston",
+    "cylinder",
+    "gasoline",
+    "crankshaft",
+    "stator",
+    "rotor",
+    "accelerator",
+    "tailpipe emissions",
+    "car emissions",
+    "fuel rating",
+    "4 cylinder",
+    "6 cylinder",
+    "8 cylinder",
+    "education",
+    "animation",
+    "science",
+    "design",
+    "engineering",
+    "innovation",
+    "shannon odell",
+    "AIM Creative Studios",
+    "TED",
+    "TED-Ed",
+    "TED Ed",
+    "Teded",
+    "Ted Education",
+    "Kevin Herrmann"
+  ],
+  "introduction": "Explore the differences between how a car’s internal combustion engine and an electric vehicle’s ind",
+  "lead_intro": "Discover the secrets of hypermiling and the fascinating world of fuel efficiency in cars. Learn about techniques like pulse-and-glide and how electric vehicles are revolutionizing energy efficiency.",
+  "quiz": [
+    {
+      "question": "What is the main technique used by hypermilers to maximize a car's fuel efficiency?",
+      "choices": [
+        "Pulse-and-glide",
+        "Speed racing",
+        "Sudden braking"
+      ],
+      "answer": "Pulse-and-glide",
+      "explanation": "Hypermilers use the pulse-and-glide technique where they accelerate slowly and then glide to save fuel."
+    },
+    {
+      "question": "In internal combustion engines, what powers the movements of the pistons?",
+      "choices": [
+        "Electricity",
+        "Combustion",
+        "Magnetism"
+      ],
+      "answer": "Combustion",
+      "explanation": "The movements of the pistons in internal combustion engines are powered by combustion, where air and fuel are ignited to create energy."
+    },
+    {
+      "question": "What percentage of the energy consumed by electric vehicles goes directly to moving the wheels?",
+      "choices": [
+        "16-25%",
+        "50-55%",
+        "65-69%"
+      ],
+      "answer": "65-69%",
+      "explanation": "65-69% of the energy consumed by electric vehicles goes directly to moving the wheels, making them highly efficient compared to internal combustion engine vehicles."
+    },
+    {
+      "question": "What innovative energy-saving device do most electric vehicles use for braking?",
+      "choices": [
+        "Regenerative braking",
+        "Hydraulic braking",
+        "Friction braking"
+      ],
+      "answer": "Regenerative braking",
+      "explanation": "Most electric vehicles utilize regenerative braking, where energy normally lost to friction is conserved by capturing the vehicle's kinetic energy to recharge the battery."
+    },
+    {
+      "question": "What is one factor that determines the emission profile of electric vehicles?",
+      "choices": [
+        "Battery size",
+        "Charging frequency",
+        "Source of electric utility"
+      ],
+      "answer": "Source of electric utility",
+      "explanation": "The emission profile of electric vehicles is determined by the source of the electric utility they plug into, highlighting the importance of using renewable energy sources for greener transportation."
+    }
+  ]
+}

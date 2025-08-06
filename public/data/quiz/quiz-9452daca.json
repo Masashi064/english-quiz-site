@@ -1,0 +1,63 @@
+{
+  "slug": "9452daca",
+  "video_id": "HpcTJW4ur54",
+  "movie_title": "How to Terraform Mars - WITH LASERS",
+  "movie_url": "https://youtu.be/HpcTJW4ur54",
+  "published_at": "2022-12-11T15:00:09Z",
+  "duration": "11:17",
+  "tags": [],
+  "introduction": "Sources & further reading:\nhttps://sites.google.com/view/sources-mars-terraforming\n\nMars is a disapp",
+  "lead_intro": "Have you ever imagined transforming Mars into a habitable planet for humans? Terraforming Mars may sound like science fiction, but with the right tools and technology, it could become a reality. Let's explore the challenges and solutions in making Mars a green new world.",
+  "quiz": [
+    {
+      "question": "What are the key components that Mars' atmosphere needs to be made of in order to become habitable for humans?",
+      "choices": [
+        "21% oxygen, 79% nitrogen, and a tiny bit of CO2",
+        "50% oxygen, 30% nitrogen, and 20% CO2",
+        "10% oxygen, 90% nitrogen, and trace amounts of CO2"
+      ],
+      "answer": "21% oxygen, 79% nitrogen, and a tiny bit of CO2",
+      "explanation": "To make Mars habitable, its atmosphere should resemble Earth's with 21% oxygen, 79% nitrogen, and a small amount of CO2."
+    },
+    {
+      "question": "What process is suggested to free the oxygen and carbon dioxide from Mars' rocks?",
+      "choices": [
+        "Photosynthesis",
+        "Thermolysis",
+        "Decomposition"
+      ],
+      "answer": "Thermolysis",
+      "explanation": "Thermolysis is the process proposed to free the gases locked in Mars' rocks by reversing the reactions at extremely high temperatures."
+    },
+    {
+      "question": "How long would it take to create an oxygen atmosphere on Mars through continuous lasering?",
+      "choices": [
+        "10 years",
+        "50 years",
+        "100 years"
+      ],
+      "answer": "50 years",
+      "explanation": "It would take about 50 years of continuous lasering to create an oxygen atmosphere on Mars by melting the surface rocks."
+    },
+    {
+      "question": "Where is the ideal source of nitrogen proposed to be imported from to enrich Mars' atmosphere?",
+      "choices": [
+        "Jupiter",
+        "Saturn's moon Titan",
+        "Venus"
+      ],
+      "answer": "Saturn's moon Titan",
+      "explanation": "The proposal suggests importing nitrogen from Saturn's moon Titan, which has a nitrogen-rich atmosphere, to enrich Mars' atmosphere."
+    },
+    {
+      "question": "What is the final step needed to protect Mars' new atmosphere from solar radiation and cosmic rays in the long term?",
+      "choices": [
+        "Creating an artificial magnetic field",
+        "Building underground shelters",
+        "Constructing wind barriers"
+      ],
+      "answer": "Creating an artificial magnetic field",
+      "explanation": "To protect Mars and its inhabitants from solar radiation and cosmic rays in the long term, an artificial magnetic field needs to be created."
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "slug": "1589b438",
+  "video_id": "95yoKdm5sMk",
+  "movie_title": "Can jellyfish help us solve our problems? 6 Minute English",
+  "movie_url": "https://youtu.be/95yoKdm5sMk",
+  "published_at": "2020-12-10T15:49:36Z",
+  "duration": "6:17",
+  "tags": [
+    "learn English",
+    "English vocabulary",
+    "speak English",
+    "bbc english",
+    "English teacher",
+    "英語",
+    "영어",
+    "อังกฤษ",
+    "Anh",
+    "English tutorial",
+    "Ingilizce ders",
+    "English grammar",
+    "IELTS",
+    "British English",
+    "English pronunciation",
+    "English lesson",
+    "idiom",
+    "English expressions",
+    "BBC Learning English",
+    "tefl",
+    "slang",
+    "BBC",
+    "Online English",
+    "how to speak English",
+    "English speaking",
+    "ELT"
+  ],
+  "introduction": "Improve your English vocabulary and listening in just six minutes!\nScientific research is discoverin",
+  "lead_intro": "Discover the fascinating world of jellyfish and their potential solution to plastic pollution in the seas in this 6 Minute English program by BBC Learning English.",
+  "quiz": [
+    {
+      "question": "What is the best way to treat jellyfish stings?",
+      "choices": [
+        "a) with ice",
+        "b) with salt",
+        "c) with vinegar"
+      ],
+      "answer": "c) with vinegar",
+      "explanation": "Vinegar is the best way to treat jellyfish stings as it inactivates the sting's venom."
+    },
+    {
+      "question": "What is the name of the European research team of jellyfish ecologists looking into the problem of microplastics?",
+      "choices": [
+        "a) Go Green",
+        "b) Go Jelly",
+        "c) Save Our Seas"
+      ],
+      "answer": "b) Go Jelly",
+      "explanation": "The European research team of jellyfish ecologists looking into the problem of microplastics is called Go Jelly."
+    },
+    {
+      "question": "What is the name of the BBC World Service program that Dr. Ana Rotter speaks to about microplastics?",
+      "choices": [
+        "a) People Talking about the World",
+        "b) People Fixing the World",
+        "c) People Saving the World"
+      ],
+      "answer": "b) People Fixing the World",
+      "explanation": "Dr. Ana Rotter speaks to the BBC World Service program 'People Fixing the World' about microplastics."
+    },
+    {
+      "question": "What does Dr. Rotter mention was more common when she was a child regarding single-use plastics?",
+      "choices": [
+        "a) Single-use plastic bags",
+        "b) Cloth bags",
+        "c) Metal spoons"
+      ],
+      "answer": "b) Cloth bags",
+      "explanation": "When Dr. Rotter was a child, cloth bags were commonly used instead of single-use plastic bags."
+    },
+    {
+      "question": "What does jellyfish mucus act as in relation to microplastic waste in the sea?",
+      "choices": [
+        "a) A repellent",
+        "b) A filter",
+        "c) A magnet"
+      ],
+      "answer": "c) A magnet",
+      "explanation": "Jellyfish mucus acts like a magnet for microplastic waste, trapping the tiny pieces of floating plastic."
+    }
+  ]
+}

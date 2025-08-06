@@ -1,0 +1,63 @@
+{
+  "slug": "9c1aefe0",
+  "video_id": "isdLel273rQ",
+  "movie_title": "The Paradox of an Infinite Universe",
+  "movie_url": "https://youtu.be/isdLel273rQ",
+  "published_at": "2024-02-27T15:00:02Z",
+  "duration": "11:21",
+  "tags": [],
+  "introduction": "Go to https://brilliant.org/nutshell/ to dive deeper into these topics and more with a free 30-day t",
+  "lead_intro": "Have you ever wondered if the universe is infinite or if it has an edge? Let's dive into the fascinating concepts of the universe's size and shape by exploring different possibilities!",
+  "quiz": [
+    {
+      "question": "What is the observable universe?",
+      "choices": [
+        "A. The entire universe that can be seen through telescopes",
+        "B. A sphere with a radius of 45 billion light years that we can observe",
+        "C. The space beyond the edge of the universe"
+      ],
+      "answer": "B. A sphere with a radius of 45 billion light years that we can observe",
+      "explanation": "The observable universe is a sphere with a radius of 45 billion light years, containing around 200 billion galaxies that we can observe from Earth."
+    },
+    {
+      "question": "What is the possible shape of a finite universe according to the video?",
+      "choices": [
+        "A. A cube",
+        "B. A hypersphere",
+        "C. A flat plane"
+      ],
+      "answer": "B. A hypersphere",
+      "explanation": "A finite universe could be shaped like a hypersphere, where 3D-space is curved on itself, similar to how the skin of an orange wraps around the fruit."
+    },
+    {
+      "question": "How does cosmic expansion affect the size of the universe?",
+      "choices": [
+        "A. It shrinks the universe",
+        "B. It keeps the universe the same size",
+        "C. It makes the universe bigger"
+      ],
+      "answer": "C. It makes the universe bigger",
+      "explanation": "Cosmic expansion refers to the increasing distance between galaxies over time, which effectively makes the universe larger despite it being infinite or finite."
+    },
+    {
+      "question": "In a hyperdonut universe, what interesting phenomenon could occur with light from faraway galaxies?",
+      "choices": [
+        "A. Light would travel faster than usual",
+        "B. Light would be dimmer",
+        "C. Light would create a cosmic hall-of-mirrors effect"
+      ],
+      "answer": "C. Light would create a cosmic hall-of-mirrors effect",
+      "explanation": "In a hyperdonut universe, light from distant galaxies could create a hall-of-mirrors effect where objects are seen in multiple places and different moments in time."
+    },
+    {
+      "question": "What is a significant implication of an infinite universe according to the video?",
+      "choices": [
+        "A. There can only be one copy of each individual in the universe",
+        "B. Repetition of identical configurations is highly probable",
+        "C. The universe is limited in its potential variations"
+      ],
+      "answer": "B. Repetition of identical configurations is highly probable",
+      "explanation": "In an infinite universe with a finite number of particle combinations, the likelihood of encountering exact copies of individuals, like yourself, becomes increasingly possible due to sheer chance."
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "slug": "77d92e51",
+  "video_id": "CWu29PRCUvQ",
+  "movie_title": "When Time Became History - The Human Era",
+  "movie_url": "https://youtu.be/CWu29PRCUvQ",
+  "published_at": "2020-10-06T14:00:12Z",
+  "duration": "11:23",
+  "tags": [
+    "History",
+    "time",
+    "human history",
+    "human era",
+    "Anthropocene",
+    "Archeology",
+    "progress",
+    "future",
+    "interplanetary",
+    "civilization",
+    "generation",
+    "ancestors",
+    "agriculture",
+    "transition",
+    "neolithic revolution",
+    "domesticate",
+    "agricultural revolution",
+    "hunter gatherers",
+    "breeding",
+    "livestock"
+  ],
+  "introduction": "Get Merch designed with ❤ from https://kgs.link/shop-131  \nJoin the Patreon Bird Army 🐧 https://kgs",
+  "lead_intro": "Imagine a future where archaeologists try to piece together your life based on remnants found in the woods. Just like our ancestors from 12,000 years ago, let's explore the greatest transition in human history and what remains of our past.",
+  "quiz": [
+    {
+      "question": "How long ago did behaviorally modern humans begin a process that changed our lifestyle forever?",
+      "choices": [
+        "10,000 years ago",
+        "20,000 years ago",
+        "5,000 years ago"
+      ],
+      "answer": "20,000 years ago",
+      "explanation": "Behaviorally modern humans began a process that changed our lifestyle around 20,000 years ago."
+    },
+    {
+      "question": "What was the first solid evidence of early agriculture mentioned in the text?",
+      "choices": [
+        "Baking bread",
+        "Brewing beer",
+        "Collecting wild wheat and noticing increased plant growth"
+      ],
+      "answer": "Collecting wild wheat and noticing increased plant growth",
+      "explanation": "The first solid evidence of early agriculture mentioned in the text was our ancestors collecting wild wheat over 20,000 years ago and noticing increased plant growth."
+    },
+    {
+      "question": "What is stated as the main reason for the drastic increase in human population during the Human Era?",
+      "choices": [
+        "Improvements in healthcare",
+        "More efficient ways of producing calories through agriculture",
+        "Increased migration"
+      ],
+      "answer": "More efficient ways of producing calories through agriculture",
+      "explanation": "The main reason for the drastic increase in human population during the Human Era was the development of more efficient ways of producing calories through agriculture."
+    },
+    {
+      "question": "How did living close together and with animals impact early farmers?",
+      "choices": [
+        "Improved social interactions",
+        "Diversified diets",
+        "Increased risk of disease"
+      ],
+      "answer": "Increased risk of disease",
+      "explanation": "Living close together and with animals created a breeding ground for disease among early farmers, leading to the emergence of infectious diseases like cholera, smallpox, and influenza."
+    },
+    {
+      "question": "What is suggested as a possible reason for the transition from hunting and gathering to agriculture?",
+      "choices": [
+        "Climate change",
+        "Technological advancements",
+        "Decrease in population"
+      ],
+      "answer": "Climate change",
+      "explanation": "Climate change is suggested as a possible reason for the transition from hunting and gathering to agriculture, making the shift necessary for survival."
+    }
+  ]
+}
