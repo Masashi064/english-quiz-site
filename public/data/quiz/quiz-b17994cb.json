@@ -1,0 +1,63 @@
+{
+  "slug": "b17994cb",
+  "video_id": "fuFlMtZmvY0",
+  "movie_title": "The Internet is Worse Than Ever – Now What?",
+  "movie_url": "https://youtu.be/fuFlMtZmvY0",
+  "published_at": "2023-11-29T15:00:43Z",
+  "duration": "11:32",
+  "tags": [],
+  "introduction": "Go to https://ground.news/nutshell to get 30% off unlimited access to Ground News - a website and ap",
+  "lead_intro": "In a world where social media is blamed for dividing us, a new perspective challenges the myth of filter bubbles. Let's explore how the internet impacts our brains and society in this insightful video.",
+  "quiz": [
+    {
+      "question": "What is one of the prevailing explanations for why people have become more divided over the last two decades?",
+      "choices": [
+        "Social media creating filter bubbles",
+        "Political violence being justified",
+        "Real life interactions"
+      ],
+      "answer": "Social media creating filter bubbles",
+      "explanation": "The prevailing explanation for increased division is the concept of online filter bubbles, where algorithms tailor information to align with our existing beliefs and opinions, potentially making us more extreme."
+    },
+    {
+      "question": "According to the video, what is the main reason for human brains struggling to process disagreement on the social internet?",
+      "choices": [
+        "Lack of exposure to diverse opinions",
+        "Evolutionary adaptation to social structures",
+        "Overwhelming amount of information"
+      ],
+      "answer": "Evolutionary adaptation to social structures",
+      "explanation": "Our brains evolved to maintain social structures and cooperation within tribes, making it challenging to handle the vast amount of disagreement encountered on the social internet."
+    },
+    {
+      "question": "What concept does the video introduce to explain the process of sorting people into teams based on world views and opinions?",
+      "choices": [
+        "Filter bubble effect",
+        "Social media echo chamber",
+        "Social sorting"
+      ],
+      "answer": "Social sorting",
+      "explanation": "The video discusses 'social sorting' as the mechanism by which our brains categorize individuals based on their world views and opinions, leading to alignment with similar individuals and rejection of differing perspectives."
+    },
+    {
+      "question": "What is one negative consequence of the engagement-driven social internet highlighted in the video?",
+      "choices": [
+        "Promoting empathy and understanding",
+        "Encouraging civil discussions",
+        "Amplifying extreme and controversial opinions"
+      ],
+      "answer": "Amplifying extreme and controversial opinions",
+      "explanation": "The social internet's focus on engagement, particularly anger, leads to the amplification of extreme and controversial opinions, further fueling polarization and making civil discussions challenging."
+    },
+    {
+      "question": "What solution does the video propose to mitigate social sorting and reduce online polarization?",
+      "choices": [
+        "Limiting access to diverse opinions",
+        "Encouraging tribalism",
+        "Returning to smaller online communities"
+      ],
+      "answer": "Returning to smaller online communities",
+      "explanation": "The video suggests that returning to smaller online communities mirroring real-life interactions, where individuals can engage with diverse opinions within distinct groups, may help reduce social sorting and polarization on the internet."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "fd2d98d0",
+  "video_id": "75d_29QWELk",
+  "movie_title": "Change Your Life – One Tiny Step at a Time",
+  "movie_url": "https://youtu.be/75d_29QWELk",
+  "published_at": "2022-06-07T14:00:05Z",
+  "duration": "11:31",
+  "tags": [],
+  "introduction": "Change Your Life – One Tiny Step at a Time\nGet your Habit Journal here: https://kgs.link/shop-162\n\nS",
+  "lead_intro": "Do you struggle with making positive changes in your life? Discover the science behind building habits and how you can make lasting improvements to become the person you aspire to be!",
+  "quiz": [
+    {
+      "question": "What analogy is used to describe the brain's behavior when forming habits?",
+      "choices": [
+        "A lush garden",
+        "A dense jungle",
+        "A wide ocean"
+      ],
+      "answer": "A dense jungle",
+      "explanation": "The analogy of a dense jungle is used to explain how the brain forms habits by creating paths and highways through repeated actions."
+    },
+    {
+      "question": "How are routines and habits distinguished in the context of building habits?",
+      "choices": [
+        "Routines are impulsive and habits are analytical",
+        "Routines are strategic and habits are automatic",
+        "Routines are difficult and habits are easy"
+      ],
+      "answer": "Routines are strategic and habits are automatic",
+      "explanation": "Routines are sequences of actions that are carried out strategically, while habits are actions carried out without much thought, almost automatically."
+    },
+    {
+      "question": "What is described as the 'wise planner' and the 'impulsive toddler' in the context of forming habits?",
+      "choices": [
+        "The wise planner is responsible for routines and the impulsive toddler for habits",
+        "The wise planner is analytical and the impulsive toddler is impulsive",
+        "The wise planner is for long-term goals and the impulsive toddler for short-term desires"
+      ],
+      "answer": "The wise planner is for long-term goals and the impulsive toddler for short-term desires",
+      "explanation": "The 'wise planner' is responsible for planning and strategizing for long-term goals, while the 'impulsive toddler' responds to immediate desires and triggers."
+    },
+    {
+      "question": "What is emphasized as a key factor in making new actions easier to repeat and develop into habits?",
+      "choices": [
+        "Instant gratification",
+        "Rewards after completing the action",
+        "Making the action itself more enjoyable"
+      ],
+      "answer": "Making the action itself more enjoyable",
+      "explanation": "To make new actions easier to repeat and form habits, it is important to make the action itself more enjoyable rather than just rewarding yourself after completing it."
+    },
+    {
+      "question": "How are triggers described in the context of building habits?",
+      "choices": [
+        "Signals that make it harder to start an action",
+        "Situations that prevent habit formation",
+        "Context cues that signal the brain to start a behavior"
+      ],
+      "answer": "Context cues that signal the brain to start a behavior",
+      "explanation": "Triggers are context cues that signal the brain to start a particular behavior, helping to establish routines and eventually turn them into habits."
+    }
+  ]
+}

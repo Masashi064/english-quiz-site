@@ -1,0 +1,93 @@
+{
+  "slug": "94cbd5ba",
+  "video_id": "BiSYoeqb_VY",
+  "movie_title": "The life cycle of a t-shirt - Angel Chang",
+  "movie_url": "https://youtu.be/BiSYoeqb_VY",
+  "published_at": "2017-09-05T15:00:05Z",
+  "duration": "6:04",
+  "tags": [
+    "TED",
+    "TED-Ed",
+    "TED Education",
+    "TED Ed",
+    "Angel Chang",
+    "t-shirt",
+    "shirt",
+    "clothing",
+    "textiles",
+    "fashion",
+    "fast fashion",
+    "cotton",
+    "China",
+    "India",
+    "USA",
+    "organic cotton",
+    "pesticides",
+    "blend",
+    "card",
+    "comb",
+    "pull",
+    "stretch",
+    "knit",
+    "slivers",
+    "bleach",
+    "dye",
+    "carcinogen",
+    "Bangladesh",
+    "Turkey"
+  ],
+  "introduction": "Trace the life cycle of a classic white t-shirt to find out how they’re made and what is their ultim",
+  "lead_intro": "Ever wondered about the journey of a typical white t-shirt and its impact on the environment? Let's explore the fascinating process from cotton farm to your closet and how our clothing choices affect the planet.",
+  "quiz": [
+    {
+      "question": "How much water is needed to produce the average t-shirt?",
+      "choices": [
+        "500 liters",
+        "1,500 liters",
+        "2,700 liters"
+      ],
+      "answer": "2,700 liters",
+      "explanation": "The production of the average t-shirt requires 2,700 liters of water, which is equivalent to filling more than 30 bathtubs."
+    },
+    {
+      "question": "Which country has surpassed China as the world's biggest exporter of cotton t-shirts?",
+      "choices": [
+        "India",
+        "Turkey",
+        "Bangladesh"
+      ],
+      "answer": "Bangladesh",
+      "explanation": "Bangladesh has surpassed China as the world's biggest exporter of cotton t-shirts and employs 4.5 million people in the t-shirt industry."
+    },
+    {
+      "question": "What percentage of textiles contain commercial bleaches and azo dyes?",
+      "choices": [
+        "50%",
+        "70%",
+        "90%"
+      ],
+      "answer": "70%",
+      "explanation": "About 70% of textiles contain commercial bleaches and azo dyes, some of which may contain harmful compounds like cadmium, lead, chromium, and mercury."
+    },
+    {
+      "question": "What is the environmental impact of apparel production?",
+      "choices": [
+        "5% of global carbon emissions",
+        "10% of global carbon emissions",
+        "15% of global carbon emissions"
+      ],
+      "answer": "10% of global carbon emissions",
+      "explanation": "Apparel production accounts for 10% of global carbon emissions, with the industry's carbon footprint escalating due to increased global garment production."
+    },
+    {
+      "question": "What is suggested as a sustainable practice to reduce clothing consumption impact?",
+      "choices": [
+        "Buy more fast fashion items",
+        "Wash clothes frequently",
+        "Shop secondhand and use recycled fabrics"
+      ],
+      "answer": "Shop secondhand and use recycled fabrics",
+      "explanation": "To reduce the environmental impact of clothing consumption, it is suggested to shop secondhand, look for textiles made from recycled or organic fabrics, and adopt practices like washing clothes less and line drying."
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "slug": "bc80095b",
+  "video_id": "kU65ZNNOPc4",
+  "movie_title": "Could you be a victim of online fraud?  6 Minute English",
+  "movie_url": "https://youtu.be/kU65ZNNOPc4",
+  "published_at": "2020-11-12T16:02:54Z",
+  "duration": "6:17",
+  "tags": [
+    "learn English",
+    "English vocabulary",
+    "speak English",
+    "bbc english",
+    "English teacher",
+    "英語",
+    "영어",
+    "อังกฤษ",
+    "Anh",
+    "English tutorial",
+    "Ingilizce ders",
+    "English grammar",
+    "IELTS",
+    "British English",
+    "English pronunciation",
+    "English lesson",
+    "idiom",
+    "English expressions",
+    "BBC Learning English",
+    "tefl",
+    "slang",
+    "BBC",
+    "Online English",
+    "how to speak English",
+    "English speaking",
+    "ELT"
+  ],
+  "introduction": "Online fraud involves using the internet to trick someone into giving away their money or data and t",
+  "lead_intro": "Join us in exploring the world of online fraud and cybercrime in this episode of BBC Learning English's Six Minute English. Test your knowledge with our quiz questions and explanations below!",
+  "quiz": [
+    {
+      "question": "How much money has been claimed in total through the Coronavirus Job Retention Scheme in the UK?",
+      "choices": [
+        "17 billion pounds",
+        "27 billion pounds",
+        "37 billion pounds"
+      ],
+      "answer": "27 billion pounds",
+      "explanation": "The correct answer is b) 27 billion pounds. This scheme aimed to help workers affected by Covid-19. The fraudsters in the program tried to steal 495 thousand pounds, but luckily it was recovered."
+    },
+    {
+      "question": "What is the key to online fraud according to Rachel Tobac, CEO of Social Proof Security?",
+      "choices": [
+        "Secret government information",
+        "Infiltrating computer systems",
+        "Getting people's information"
+      ],
+      "answer": "Getting people's information",
+      "explanation": "Rachel Tobac explains that getting people's information is crucial for online fraud. Fraudsters use open source intelligence to gather details from social media and other sources."
+    },
+    {
+      "question": "What is a cover story used by fraudsters to gain access to personal data?",
+      "choices": [
+        "False stories to hide the truth",
+        "Software to damage computers",
+        "Data breaches"
+      ],
+      "answer": "False stories to hide the truth",
+      "explanation": "Fraudsters use cover stories like pretending to be from a bank to trick people into sharing personal data. This tactic helps them access sensitive information."
+    },
+    {
+      "question": "How do fraudsters gain access to login details and passwords according to the video?",
+      "choices": [
+        "By calling from banks",
+        "Using malware",
+        "Data breaches"
+      ],
+      "answer": "Using malware",
+      "explanation": "Fraudsters use malware, which is computer software and viruses designed to disrupt computer operations, to gain access to login details and passwords. This allows them to infiltrate other online accounts."
+    },
+    {
+      "question": "What term is suggested to search on the BBC website for more information on protecting yourself from online fraud?",
+      "choices": [
+        "Cyber intelligence",
+        "Data breaches",
+        "Cyber security"
+      ],
+      "answer": "Cyber security",
+      "explanation": "To learn more about safeguarding yourself from online fraud, the video recommends searching for 'cyber security' on the BBC website. This can provide valuable information on staying safe online."
+    }
+  ]
+}

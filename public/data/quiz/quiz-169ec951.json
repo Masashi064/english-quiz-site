@@ -1,0 +1,98 @@
+{
+  "slug": "169ec951",
+  "video_id": "6MK6tuZ7Rws",
+  "movie_title": "How do we create a better economy?",
+  "movie_url": "https://youtu.be/6MK6tuZ7Rws",
+  "published_at": "2022-11-29T16:01:22Z",
+  "duration": "6:05",
+  "tags": [
+    "donut economics",
+    "doughnut economics",
+    "economics",
+    "economic theory",
+    "economic systems",
+    "economic growth",
+    "ecological limits",
+    "inequality",
+    "economic inequality",
+    "kate raworth",
+    "sustainable development",
+    "ecological ceiling",
+    "healthy economy",
+    "GDP",
+    "housing",
+    "healthcare",
+    "education",
+    "energy",
+    "food",
+    "social equity",
+    "income",
+    "resource depletion",
+    "earths resources",
+    "natural resources",
+    "poverty",
+    "animation",
+    "economic model",
+    "Vicente Nirō",
+    "AIM Creative Studios",
+    "TED",
+    "TED-Ed",
+    "TED Ed",
+    "Teded",
+    "Ted Education"
+  ],
+  "introduction": "Explore the model known as doughnut economics, which aims to meet the needs of people without oversh",
+  "lead_intro": "Economist Kate Raworth challenges the traditional idea of endless economic growth in her TED Interview podcast. She introduces the concept of a 'doughnut' as a compass for 21st-century prosperity, emphasizing the need for balance in economic progress.",
+  "quiz": [
+    {
+      "question": "What did Simon Kuznets create in the 1930s to measure the output of the economy?",
+      "choices": [
+        "GDP",
+        "National income",
+        "Resource index"
+      ],
+      "answer": "GDP",
+      "explanation": "Simon Kuznets created the concept of Gross Domestic Product (GDP) as a single number to measure the output of the economy, as requested by the US Congress in the 1930s."
+    },
+    {
+      "question": "According to Kate Raworth, what does GDP not tell us about?",
+      "choices": [
+        "Welfare of a nation",
+        "Value created in communities",
+        "Use of Earth's resources"
+      ],
+      "answer": "Value created in communities",
+      "explanation": "Kate Raworth mentions that GDP fails to account for the value created in communities, unpaid caring work of parents, and the impact on the living world, such as forests and mines."
+    },
+    {
+      "question": "What metaphor does Kate Raworth use to describe the concept of endless economic growth?",
+      "choices": [
+        "Peter Pan economics",
+        "Horse race economics",
+        "Doughnut economics"
+      ],
+      "answer": "Peter Pan economics",
+      "explanation": "Kate Raworth refers to the concept of endless economic growth as 'Peter Pan economics,' likening it to a never-ending desire to grow without considering the consequences on the overall health of the economy."
+    },
+    {
+      "question": "What does the 'hole' in the doughnut represent according to Kate Raworth?",
+      "choices": [
+        "Overconsumption of resources",
+        "Lack of essential resources for people",
+        "Earth's fragile balance"
+      ],
+      "answer": "Lack of essential resources for people",
+      "explanation": "The 'hole' in the doughnut symbolizes the place where people lack essential resources like food, healthcare, education, and housing, highlighting the importance of ensuring everyone has access to these necessities."
+    },
+    {
+      "question": "How does Kate Raworth suggest we achieve 21st-century prosperity?",
+      "choices": [
+        "Endless economic growth",
+        "Balanced progress",
+        "Resource depletion"
+      ],
+      "answer": "Balanced progress",
+      "explanation": "Kate Raworth advocates for a balanced approach to progress, emphasizing the need for economic growth that does not exceed the Earth's capacity and ensures social well-being for all, as represented by the doughnut model."
+    }
+  ]
+}

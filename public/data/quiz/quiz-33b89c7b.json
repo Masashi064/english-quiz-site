@@ -1,0 +1,94 @@
+{
+  "slug": "33b89c7b",
+  "video_id": "mT3P0YSNonE",
+  "movie_title": "Can the economy grow forever?",
+  "movie_url": "https://youtu.be/mT3P0YSNonE",
+  "published_at": "2022-08-11T15:01:02Z",
+  "duration": "6:04",
+  "tags": [
+    "economic growth",
+    "exponential growth",
+    "global economy",
+    "eternal economic growth",
+    "infinite growth",
+    "infinite growth in a finite world",
+    "finite planet",
+    "infinite growth on a finite planet",
+    "capitalism",
+    "market",
+    "products",
+    "basic needs",
+    "quality of life",
+    "financial value",
+    "natural resources",
+    "economists",
+    "post growth economics",
+    "post growth economy",
+    "post growth",
+    "healthcare",
+    "public transportation",
+    "education",
+    "animation",
+    "Kevin Herrmann",
+    "AIM Creative Studios",
+    "TED",
+    "TED-Ed",
+    "TED Ed",
+    "Teded",
+    "Ted Education"
+  ],
+  "introduction": "Is infinite economic growth possible on a planet with finite resources? Explore how countries can ba",
+  "lead_intro": "Exponential growth isn't just a magical concept with gold coins; it's deeply intertwined with the global economy's development over the past 200 years. But can infinite growth on a finite planet be sustainable? Let's dive into the complexities and potential solutions.",
+  "quiz": [
+    {
+      "question": "How do we measure economic growth?",
+      "choices": [
+        "By tracking the total financial value of goods and services produced and sold",
+        "By counting the number of jobs created",
+        "By analyzing the stock market trends"
+      ],
+      "answer": "By tracking the total financial value of goods and services produced and sold",
+      "explanation": "Economic growth is measured by the total financial value of goods and services produced and sold in a country or globally, reflecting the overall economic activity."
+    },
+    {
+      "question": "What are the inputs and outputs of the economy?",
+      "choices": [
+        "Inputs: labor, capital, natural resources; Output: value",
+        "Inputs: technology, money, resources; Output: profit",
+        "Inputs: materials, energy, workforce; Output: production"
+      ],
+      "answer": "Inputs: labor, capital, natural resources; Output: value",
+      "explanation": "The inputs of the economy include labor, capital (money), and natural resources like water and energy, while the output is the value generated through economic activities."
+    },
+    {
+      "question": "How do economists propose increasing economic efficiency?",
+      "choices": [
+        "By creating more demand through new technologies",
+        "By reducing resource use while increasing value production",
+        "By maximizing resource consumption for higher output"
+      ],
+      "answer": "By reducing resource use while increasing value production",
+      "explanation": "Economists suggest increasing economic efficiency by reducing resource consumption while enhancing the production of value, aiming for sustainable growth without depleting resources."
+    },
+    {
+      "question": "What is a post-growth economy focused on?",
+      "choices": [
+        "Continuously expanding the GDP",
+        "Shifting the focus to improving essential needs like healthcare and renewable energy",
+        "Maximizing profits for corporations"
+      ],
+      "answer": "Shifting the focus to improving essential needs like healthcare and renewable energy",
+      "explanation": "A post-growth economy aims to prioritize essential needs such as healthcare and renewable energy over continuous GDP growth, emphasizing sustainability and well-being over profit maximization."
+    },
+    {
+      "question": "What is one suggested action in a post-growth economy?",
+      "choices": [
+        "Ensuring universal access to public services like healthcare",
+        "Encouraging excessive consumption to boost the economy",
+        "Promoting individual wealth accumulation"
+      ],
+      "answer": "Ensuring universal access to public services like healthcare",
+      "explanation": "Post-growth economists propose actions like ensuring universal access to public services such as healthcare to enhance societal well-being and reduce dependence on economic growth for basic needs."
+    }
+  ]
+}

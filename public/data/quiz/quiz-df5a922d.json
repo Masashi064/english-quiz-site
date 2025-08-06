@@ -1,0 +1,84 @@
+{
+  "slug": "df5a922d",
+  "video_id": "Tudal_4x4F0",
+  "movie_title": "How does fracking work? - Mia Nacamulli",
+  "movie_url": "https://youtu.be/Tudal_4x4F0",
+  "published_at": "2017-07-13T15:01:23Z",
+  "duration": "6:04",
+  "tags": [
+    "TED",
+    "TED-Ed",
+    "TED Education",
+    "TED Ed",
+    "Mia Nacamulli",
+    "Sharon Colman",
+    "fracking",
+    "hydraulic fracturing",
+    "natural gas",
+    "coal",
+    "renewable energy",
+    "climate change",
+    "water",
+    "well",
+    "power plant",
+    "energy",
+    "power",
+    "acid",
+    "slickwater",
+    "earthquake"
+  ],
+  "introduction": "View full lesson: http://ed.ted.com/lessons/how-does-fracking-work-mia-nacamulli\n\nDeep underground l",
+  "lead_intro": "Delve into the controversial world of fracking and how it extracts natural gas from deep underground. Discover how this technology works and why it sparks heated debates.",
+  "quiz": [
+    {
+      "question": "What technology is used to extract natural gas from deep underground?",
+      "choices": [
+        "Hydraulic fracturing",
+        "Wind turbines",
+        "Solar panels"
+      ],
+      "answer": "Hydraulic fracturing",
+      "explanation": "Hydraulic fracturing, also known as fracking, is the technology used to extract natural gas from deep underground by creating fractures in the shale rock formations."
+    },
+    {
+      "question": "What is the primary component of the fluid used in the fracking process?",
+      "choices": [
+        "Chemical additives",
+        "Sand or clay",
+        "Water"
+      ],
+      "answer": "Water",
+      "explanation": "The fracking fluid is primarily composed of water, making up more than 90% of the mixture, with the remaining portion consisting of chemical additives and proppants like sand or clay."
+    },
+    {
+      "question": "How much water, on average, is estimated to be used per fracking well?",
+      "choices": [
+        "1-2 million gallons",
+        "3-6 million gallons",
+        "10 million gallons"
+      ],
+      "answer": "3-6 million gallons",
+      "explanation": "Each fracking well uses an estimated average of 3-6 million gallons of water, which is a significant amount that can impact local water supplies and raise concerns about water usage."
+    },
+    {
+      "question": "What is a major environmental concern associated with fracking?",
+      "choices": [
+        "Increased seismic activity",
+        "Air pollution",
+        "Soil erosion"
+      ],
+      "answer": "Increased seismic activity",
+      "explanation": "Fracking has been linked to increased seismic activity in some areas, raising concerns about potential earthquakes and damage to infrastructure from the injection of wastewater under pressure."
+    },
+    {
+      "question": "What is a debated issue regarding the long-term impact of fracking?",
+      "choices": [
+        "Methane emissions",
+        "Water usage",
+        "Renewable energy development"
+      ],
+      "answer": "Renewable energy development",
+      "explanation": "There is ongoing debate about whether fracking diverts resources and research away from the development of cleaner renewable energy sources, raising questions about the long-term sustainability of relying on non-renewable natural gas."
+    }
+  ]
+}
