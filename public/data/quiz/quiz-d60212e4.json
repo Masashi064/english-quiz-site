@@ -1,0 +1,104 @@
+{
+  "slug": "d60212e4",
+  "video_id": "j1EXBeBA89w",
+  "movie_title": "No one really knows what a tree is - Max G. Levy",
+  "movie_url": "https://youtu.be/j1EXBeBA89w",
+  "published_at": "2025-04-17T15:23:29Z",
+  "duration": "6:03",
+  "tags": [
+    "tree",
+    "trees",
+    "tree classification",
+    "tree species",
+    "plants",
+    "woody plant",
+    "primary growth",
+    "secondary growth",
+    "tree trunk",
+    "tree rings",
+    "gymnosperms",
+    "angiosperms",
+    "flowering plant",
+    "shrubs",
+    "herbs",
+    "brazilian grape tree",
+    "Giant baobab",
+    "bristlecone pine",
+    "monocot",
+    "dicot",
+    "banana tree",
+    "joshua tree",
+    "palm tree",
+    "succulent",
+    "evolution",
+    "tree evolution",
+    "plant evolution",
+    "tree dna",
+    "cauliflory",
+    "education",
+    "animation",
+    "dendrology",
+    "botany",
+    "Max Levy",
+    "Evandro D'Hipolito",
+    "TED",
+    "TED-Ed",
+    "TED Ed",
+    "Teded",
+    "Ted Education"
+  ],
+  "introduction": "Dig into the system that helps scientists distinguish trees from other varieties of plants, and what",
+  "lead_intro": "Discover the fascinating world of trees and plant evolution with this intriguing video. Test your knowledge with the following quiz!",
+  "quiz": [
+    {
+      "question": "What are the two main groups of seed plants mentioned in the video?",
+      "choices": [
+        "Gymnastics and Anglers",
+        "Gymnosperms and Angiosperms",
+        "Shrubs and Trees"
+      ],
+      "answer": "Gymnosperms and Angiosperms",
+      "explanation": "The video explains that all trees are found among seed plants, which consist of gymnosperms (woody plants) and angiosperms (flowering plants)."
+    },
+    {
+      "question": "What distinguishes a tree from a shrub?",
+      "choices": [
+        "Height and trunk diameter",
+        "Presence of herbs",
+        "Number of leaves"
+      ],
+      "answer": "Height and trunk diameter",
+      "explanation": "Trees are typically tall, woody plants with one load-bearing trunk, while shrubs grow as clusters of larger, woody stems. Height and trunk diameter are key characteristics used to differentiate between trees and shrubs."
+    },
+    {
+      "question": "Why can some dicots grow wood and be trees while monocots cannot?",
+      "choices": [
+        "Evolutionary advantage",
+        "Presence of secondary growth",
+        "Genetic predisposition"
+      ],
+      "answer": "Genetic predisposition",
+      "explanation": "Dicots seem to have retained the genetic propensity for woodiness, allowing some dicots to undergo secondary growth and become trees. Monocots, on the other hand, have lost this characteristic."
+    },
+    {
+      "question": "What is the unique trait of the Brazilian grape tree mentioned in the video?",
+      "choices": [
+        "Bulbous trunks",
+        "Cauliflory",
+        "Slow growth"
+      ],
+      "answer": "Cauliflory",
+      "explanation": "The Brazilian grape tree's unique trait is cauliflory, where its fruit grows directly from its trunk and branches, giving it a distinctive appearance."
+    },
+    {
+      "question": "Which of the following is NOT a true tree according to the video?",
+      "choices": [
+        "Bananas",
+        "Joshua trees",
+        "Palms"
+      ],
+      "answer": "Bananas",
+      "explanation": "Bananas, Joshua trees, and Palms are all mentioned as plants that grow in tree-ish shapes but lack critical qualities to be considered true trees. Bananas have pseudostems with herbaceous primary growth, not wood from secondary growth."
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "slug": "34dd21f8",
+  "video_id": "esvycD1O3cM",
+  "movie_title": "The dark history of bananas - John Soluri",
+  "movie_url": "https://youtu.be/esvycD1O3cM",
+  "published_at": "2020-11-02T16:00:19Z",
+  "duration": "6:03",
+  "tags": [
+    "united fruit company",
+    "bananas",
+    "chiquita",
+    "el pulpo",
+    "manuel bonilla",
+    "banana industry",
+    "honduras",
+    "latin america",
+    "guatemala",
+    "us intervention in latin america",
+    "banana plantations",
+    "gros michel",
+    "corruption",
+    "bribery",
+    "lobbying",
+    "costa rica",
+    "colombia",
+    "biological diversity",
+    "banana epidemic",
+    "panama disease",
+    "central america",
+    "jacobo arbenz",
+    "communism",
+    "labor unions",
+    "military coup",
+    "cavendish",
+    "guatemalan genocide",
+    "john soluri",
+    "Sofia Pashaei",
+    "education",
+    "animation",
+    "TED",
+    "TED-Ed",
+    "TED Ed",
+    "Teded",
+    "Ted Education"
+  ],
+  "introduction": "Explore the history of the notorious United Fruit Company and how its influence over the banana indu",
+  "lead_intro": "The history of bananas in Latin America is intertwined with politics, power, and the rise of corporate influence. Let's delve into the fascinating story behind the banana industry in this region.",
+  "quiz": [
+    {
+      "question": "Which U.S. corporation was known as El Pulpo, or 'the Octopus,' for its powerful influence in Latin America's banana trade?",
+      "choices": [
+        "United Fruit Company",
+        "Chiquita Brands International",
+        "Dole Food Company"
+      ],
+      "answer": "United Fruit Company",
+      "explanation": "United Fruit Company, also known today as Chiquita Brands International, was the U.S. corporation with significant influence in Latin America's banana trade and was referred to as El Pulpo."
+    },
+    {
+      "question": "What type of bananas were predominantly grown by United Fruit's plantations in Central America?",
+      "choices": [
+        "Cavendish bananas",
+        "Red bananas",
+        "Gros Michel bananas"
+      ],
+      "answer": "Gros Michel bananas",
+      "explanation": "United Fruit's plantations in Central America predominantly grew Gros Michel bananas due to their ideal characteristics for shipping and profitability."
+    },
+    {
+      "question": "Which disease devastated Gros Michel banana plantations in the 1910s?",
+      "choices": [
+        "Malaria",
+        "Panama Disease",
+        "Yellow Fever"
+      ],
+      "answer": "Panama Disease",
+      "explanation": "Panama Disease, a fungus, devastated Gros Michel banana plantations in the 1910s, leading to widespread losses and the need for alternative banana varieties."
+    },
+    {
+      "question": "What was the outcome of President Jacobo Arbenz's attempt to redistribute land from United Fruit to landless farmers in Guatemala?",
+      "choices": [
+        "Successful land reform",
+        "Increased profits for United Fruit",
+        "Approval from United Fruit"
+      ],
+      "answer": "Successful land reform",
+      "explanation": "President Jacobo Arbenz's attempt to redistribute land from United Fruit to landless farmers in Guatemala aimed at successful land reform, but it faced opposition and interference from United Fruit and the U.S. Government."
+    },
+    {
+      "question": "Why did United Fruit switch from Gros Michel to Cavendish bananas in the early 1960s?",
+      "choices": [
+        "To improve taste",
+        "To resist Panama Disease",
+        "To increase profits"
+      ],
+      "answer": "To resist Panama Disease",
+      "explanation": "United Fruit switched from Gros Michel to Panama disease-resistant Cavendish bananas in the early 1960s to combat the devastating effects of Panama Disease on their banana plantations."
+    }
+  ]
+}

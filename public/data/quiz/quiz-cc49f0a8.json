@@ -1,0 +1,63 @@
+{
+  "slug": "cc49f0a8",
+  "video_id": "x7IrzHMxEMM",
+  "movie_title": "POV: A Nuclear War Just Started",
+  "movie_url": "https://youtu.be/x7IrzHMxEMM",
+  "published_at": "2025-08-07T14:47:59Z",
+  "duration": "2:41",
+  "tags": [],
+  "introduction": "A nuclear war doesn’t take weeks or days, it unfolds in minutes. In this scenario, 86 missiles are o",
+  "lead_intro": "Imagine being in a high-pressure situation where you have to make critical decisions within minutes. This scenario is not just from a movie; it can happen in real life. Let's dive into a quiz based on this intense situation.",
+  "quiz": [
+    {
+      "question": "In the scenario, how many ballistic missiles are in flight and set to strike the country in 14 minutes?",
+      "choices": [
+        "20",
+        "50",
+        "86"
+      ],
+      "answer": "86",
+      "explanation": "The scenario presents a critical situation where 86 ballistic missiles are in flight and are about to strike the country in 14 minutes."
+    },
+    {
+      "question": "What is the main reason given for not being able to shoot down the incoming ballistic missiles?",
+      "choices": [
+        "Limited missile defense systems",
+        "High altitude of the missiles",
+        "Fast speed of the missiles"
+      ],
+      "answer": "High altitude of the missiles",
+      "explanation": "The main reason provided in the scenario for not being able to shoot down the ballistic missiles is their high altitude, making them harder to intercept with conventional means."
+    },
+    {
+      "question": "How many civilian casualties are estimated in the scenario if the missiles hit major population centers?",
+      "choices": [
+        "5-10 million",
+        "15-80 million",
+        "Over 100 million"
+      ],
+      "answer": "15-80 million",
+      "explanation": "The scenario suggests that depending on the payload of the missiles, the estimate for civilian casualties if major population centers are hit ranges from 15 to 80 million."
+    },
+    {
+      "question": "What is emphasized as the only chance to counter the incoming strike in the scenario?",
+      "choices": [
+        "Sending fighter jets",
+        "Launching nuclear warheads",
+        "Communicating with the enemy"
+      ],
+      "answer": "Launching nuclear warheads",
+      "explanation": "The scenario stresses that the only chance to counter the incoming strike is by launching the nuclear warheads before they can be taken out by the enemy."
+    },
+    {
+      "question": "What critical decision does the scenario put the President in?",
+      "choices": [
+        "Whether to evacuate the country",
+        "Whether to negotiate with the enemy",
+        "Whether to launch nuclear weapons"
+      ],
+      "answer": "Whether to launch nuclear weapons",
+      "explanation": "The scenario presents the President with the critical decision of whether to authorize the launch of nuclear weapons in response to the imminent threat."
+    }
+  ]
+}

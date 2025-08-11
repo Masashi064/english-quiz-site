@@ -1,0 +1,63 @@
+{
+  "slug": "9bcf464c",
+  "video_id": "s0yJwZGxvBA",
+  "movie_title": "The surprising (and invisible) signatures of sea creatures - Kakani Katija",
+  "movie_url": "https://youtu.be/s0yJwZGxvBA",
+  "published_at": "2016-01-07T16:26:26Z",
+  "duration": "6:38",
+  "tags": [],
+  "introduction": "View full lesson: https://ed.ted.com/lessons/the-surprising-and-invisible-signatures-of-sea-creature",
+  "lead_intro": "Join bioengineer Kakani Katija as she explores the dynamic world of marine organisms and the fluid motions they create in the ocean environment.",
+  "quiz": [
+    {
+      "question": "What do marine organisms leave behind in fluid that is similar to footprints left by terrestrial organisms?",
+      "choices": [
+        "Air bubbles",
+        "Wake structures",
+        "Microplastics"
+      ],
+      "answer": "Wake structures",
+      "explanation": "Marine organisms leave behind wake structures or hydrodynamic signatures in fluid, which are similar to footprints left by terrestrial organisms in dirt or sand."
+    },
+    {
+      "question": "What is the purpose of using a green laser during underwater measurements?",
+      "choices": [
+        "To scare away organisms",
+        "To illuminate a sheet of fluid",
+        "To create energy for diving"
+      ],
+      "answer": "To illuminate a sheet of fluid",
+      "explanation": "The green laser is used to illuminate a sheet of fluid in which particles reflect light, allowing researchers to study the movement of fluid around organisms."
+    },
+    {
+      "question": "Why do researchers dive at night for their measurements?",
+      "choices": [
+        "To interact with sunlight",
+        "To avoid scaring organisms away",
+        "To increase visibility underwater"
+      ],
+      "answer": "To avoid scaring organisms away",
+      "explanation": "Researchers dive at night to minimize interactions between the laser and sunlight and to prevent scaring away the organisms they are studying in the ocean."
+    },
+    {
+      "question": "What type of technology is being developed to study organisms at greater depths?",
+      "choices": [
+        "Scuba diving device",
+        "Underwater cameras",
+        "Remotely operated vehicles"
+      ],
+      "answer": "Remotely operated vehicles",
+      "explanation": "Collaborators are developing instrumentation to go on remotely operated vehicles to study organisms at depths ranging from the surface down to 4000 meters."
+    },
+    {
+      "question": "How do swarming organisms like krill affect mixing on larger scales?",
+      "choices": [
+        "By reducing mixing",
+        "By increasing mixing",
+        "By creating whirlpools"
+      ],
+      "answer": "By increasing mixing",
+      "explanation": "Swarming organisms like krill can generate mixing at levels comparable to physical processes associated with winds and tides, thereby increasing mixing on larger scales in the ocean."
+    }
+  ]
+}
