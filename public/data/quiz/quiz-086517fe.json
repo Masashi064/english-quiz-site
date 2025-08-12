@@ -1,0 +1,63 @@
+{
+  "slug": "086517fe",
+  "video_id": "14cNavJCsr8",
+  "movie_title": "Rainforests: destruction gets worse: BBC News Review",
+  "movie_url": "https://youtu.be/14cNavJCsr8",
+  "published_at": "2023-06-28T15:30:47Z",
+  "duration": "6:17",
+  "tags": [],
+  "introduction": "More tropical rainforest was lost in 2022 than in 2021. That's despite governments promising to stop",
+  "lead_intro": "Learn about the concerning increase in rainforest destruction despite efforts to stop it in this News Review from BBC Learning English. Test your understanding with the quiz below!",
+  "quiz": [
+    {
+      "question": "What does the term 'deforestation' refer to?",
+      "choices": [
+        "Restoring forests to their original state",
+        "Clearing forests for agriculture or urban development",
+        "Protecting forests from destruction"
+      ],
+      "answer": "Clearing forests for agriculture or urban development",
+      "explanation": "Deforestation means the process of removing forests, often for purposes like agriculture or urban development."
+    },
+    {
+      "question": "How is the term 'pristine' used in the context of the video?",
+      "choices": [
+        "New and unused",
+        "Damaged and destroyed",
+        "In its original, perfect condition"
+      ],
+      "answer": "In its original, perfect condition",
+      "explanation": "Pristine means in its original, perfect condition, not damaged or ruined. It refers to areas of rainforests that have not been previously damaged by humans."
+    },
+    {
+      "question": "What does a 'pledge' typically represent?",
+      "choices": [
+        "A casual promise",
+        "A formal or serious promise",
+        "A temporary commitment"
+      ],
+      "answer": "A formal or serious promise",
+      "explanation": "A pledge is a formal promise, often made in serious contexts. In the video, governments pledged to stop deforestation at the Cop26 summit."
+    },
+    {
+      "question": "What does the term 'Cop26' refer to in the video?",
+      "choices": [
+        "A climate change report",
+        "A summit where governments make promises regarding environmental issues",
+        "A type of rainforest"
+      ],
+      "answer": "A summit where governments make promises regarding environmental issues",
+      "explanation": "Cop26 is a summit where governments make commitments and promises regarding environmental issues like deforestation and climate change."
+    },
+    {
+      "question": "What is the main focus of the video regarding rainforests?",
+      "choices": [
+        "Expanding rainforest conservation efforts",
+        "Decreasing deforestation rates",
+        "Highlighting the increase in rainforest destruction"
+      ],
+      "answer": "Highlighting the increase in rainforest destruction",
+      "explanation": "The video discusses the concerning increase in rainforest destruction despite promises made to combat deforestation, indicating a worrying trend."
+    }
+  ]
+}

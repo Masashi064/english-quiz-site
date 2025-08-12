@@ -1,0 +1,96 @@
+{
+  "slug": "8ae3fcb1",
+  "video_id": "myo3SmpIUvM",
+  "movie_title": "Ethical dilemma: Should knowledge be free? - Michael Vazquez and Will Kanwischer",
+  "movie_url": "https://youtu.be/myo3SmpIUvM",
+  "published_at": "2025-06-18T15:00:48Z",
+  "duration": "6:01",
+  "tags": [
+    "intellectual property rights",
+    "knowledge ownership",
+    "idea ownership",
+    "intellectual labor",
+    "creativity",
+    "philosophy",
+    "john locke",
+    "rivalrous good",
+    "gwf hegel",
+    "creator rights",
+    "elizabeth anderson",
+    "michael sandel",
+    "knowledge",
+    "pursuit of knowledge",
+    "ownership",
+    "david hume",
+    "ethics",
+    "ethical dilemma",
+    "ethics of ownership",
+    "ethics of property rights",
+    "teded ethical dilemma",
+    "thought experiment",
+    "education",
+    "animation",
+    "Michael Vazquez",
+    "Will Kanwischer",
+    "Patrick Smith",
+    "TED",
+    "TED-Ed",
+    "TED Ed",
+    "Teded",
+    "Ted Education"
+  ],
+  "introduction": "Puzzle through the ethical dilemma of intellectual property rights, and decide: how should we determ",
+  "lead_intro": "Imagine being a wizard studying mathematical magic in the mystical city of Ockham. As you delve into the complexities of intellectual property rights within the world of magic, you're faced with a moral dilemma. Let's explore the ethical considerations surrounding intellectual property rights through a quiz!",
+  "quiz": [
+    {
+      "question": "According to John Locke's philosophy, why should a creator have control over their intellectual creations?",
+      "choices": [
+        "Because it is essential for personal fulfillment",
+        "Because it limits the use of resources",
+        "Because it ensures fair compensation"
+      ],
+      "answer": "Because it is essential for personal fulfillment",
+      "explanation": "Locke argues that creators should have control over their intellectual creations as it is crucial to their quest for personal fulfillment."
+    },
+    {
+      "question": "Why do Elizabeth Anderson and Michael Sandel believe that commodifying certain things can debase them?",
+      "choices": [
+        "Because it limits access to knowledge",
+        "Because it disrespects the pursuit of knowledge",
+        "Because it promotes inequality"
+      ],
+      "answer": "Because it disrespects the pursuit of knowledge",
+      "explanation": "Anderson and Sandel argue that treating certain things as commodities, like knowledge, can be disrespectful to the pursuit of knowledge."
+    },
+    {
+      "question": "In what scenario did publishing companies temporarily give free access to journal articles, setting aside intellectual property rights?",
+      "choices": [
+        "During a global pandemic",
+        "During a war",
+        "During a financial crisis"
+      ],
+      "answer": "During a global pandemic",
+      "explanation": "In times of crisis, like the COVID-19 pandemic, publishing companies provided free access to vital information related to the virus, prioritizing public health over compensation."
+    },
+    {
+      "question": "According to David Hume, in what extreme scenario can the government justify intervening in intellectual property rights?",
+      "choices": [
+        "During an economic recession",
+        "In times of famine",
+        "During political unrest"
+      ],
+      "answer": "In times of famine",
+      "explanation": "Hume argued that in extreme circumstances, such as famine, the government may be justified in intervening to ensure public welfare, even if it means overriding intellectual property rights."
+    },
+    {
+      "question": "What is one argument against assigning exclusive rights to intellectual property, as discussed in the philosophical debate?",
+      "choices": [
+        "It limits creativity and innovation",
+        "It promotes inequality",
+        "It hinders personal fulfillment"
+      ],
+      "answer": "It limits creativity and innovation",
+      "explanation": "Some argue that assigning exclusive rights to intellectual property can stifle creativity and innovation by restricting access and hindering the sharing of ideas."
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "slug": "85df04f7",
+  "video_id": "rhFK5_Nx9xY",
+  "movie_title": "What Do Alien Civilizations Look Like? The Kardashev Scale",
+  "movie_url": "https://youtu.be/rhFK5_Nx9xY",
+  "published_at": "2020-08-02T12:29:49Z",
+  "duration": "11:41",
+  "tags": [
+    "Kardashev Scale",
+    "Alien",
+    "Aliens",
+    "Alien Civilisation",
+    "Alien Life",
+    "Space",
+    "Universe",
+    "Galaxie",
+    "Solar System",
+    "observable universe",
+    "Star",
+    "Stars",
+    "Earth",
+    "earth like planets",
+    "Energy",
+    "Physics",
+    "Type 1 civilization",
+    "Type 2 civilization",
+    "Type 3 civilization",
+    "Type 4 civilization",
+    "Type 5 civilization",
+    "Type Ω civilization",
+    "God",
+    "Creator",
+    "Ants",
+    "Milky Way",
+    "Alpha Centauri",
+    "Climate Change",
+    "Rainforest",
+    "Dyson sphere",
+    "Dyson Swarm",
+    "Super clusters",
+    "First Contact"
+  ],
+  "introduction": "You can find our beautiful education posters, useful notebooks and cozy sweaters in our shop now: ht",
+  "lead_intro": "Have you ever wondered about the potential existence of extraterrestrial civilizations in our vast universe? Join us as we explore the Kardashev Scale and contemplate the possibilities of civilizations ranging from Type 1 to Type Omega!",
+  "quiz": [
+    {
+      "question": "What is the Kardashev Scale used to classify?",
+      "choices": [
+        "Civilizations by their population size",
+        "Civilizations by their energy use",
+        "Civilizations by their technological advancement"
+      ],
+      "answer": "Civilizations by their energy use",
+      "explanation": "The Kardashev Scale categorizes civilizations based on their energy usage levels, ranging from Type 0 to Type 4, depending on their ability to harness energy from their environments."
+    },
+    {
+      "question": "Which type of civilization is capable of using the energy of their galaxy?",
+      "choices": [
+        "Type 0",
+        "Type 1",
+        "Type 3"
+      ],
+      "answer": "Type 3",
+      "explanation": "A Type 3 civilization can harness the available energy of their entire galaxy, showcasing a significant advancement in energy usage compared to lower types."
+    },
+    {
+      "question": "What is the next step for a Type 1 civilization to transition towards Type 2?",
+      "choices": [
+        "Building a Dyson Sphere",
+        "Creating outposts in space",
+        "Altering and mining other planets"
+      ],
+      "answer": "Altering and mining other planets",
+      "explanation": "For a Type 1 civilization to progress towards Type 2, they would focus on altering and mining other planets and celestial bodies to expand their reach and energy consumption."
+    },
+    {
+      "question": "What does a Type 2 civilization aim to do in terms of energy usage?",
+      "choices": [
+        "Harness the energy of their star",
+        "Use only planetary energy",
+        "Consume energy from multiple galaxies"
+      ],
+      "answer": "Harness the energy of their star",
+      "explanation": "A Type 2 civilization seeks to utilize the energy output of their star by potentially building a Dyson Swarm, enabling them to have abundant energy for further advancements."
+    },
+    {
+      "question": "According to the passage, why is humanity currently classified at about level 0.75 on the Kardashev Scale?",
+      "choices": [
+        "Due to their advanced space travel capabilities",
+        "As a result of their ability to manipulate dark matter",
+        "For altering Earth but still not reaching Type 1 status"
+      ],
+      "answer": "For altering Earth but still not reaching Type 1 status",
+      "explanation": "Humanity is considered at a level of 0.75 on the Kardashev Scale because they have significantly altered Earth but have not yet achieved the status of a Type 1 civilization by utilizing all available energy resources of their home planet."
+    }
+  ]
+}

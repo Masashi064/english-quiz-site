@@ -1,0 +1,103 @@
+{
+  "slug": "782cfb5a",
+  "video_id": "X7xOEez75B0",
+  "movie_title": "The man who lost his sense of touch - Antonio Cataldo",
+  "movie_url": "https://youtu.be/X7xOEez75B0",
+  "published_at": "2023-03-16T15:01:17Z",
+  "duration": "6:02",
+  "tags": [
+    "touch",
+    "five senses",
+    "sixth sense",
+    "proprioception",
+    "sensory system",
+    "somatosensory system",
+    "Mechanoreceptors",
+    "Thermoreceptors",
+    "proprioceptors",
+    "nervous system",
+    "nociceptors",
+    "touch starvation",
+    "deafferentation",
+    "neurology",
+    "brain",
+    "nerves",
+    "brain signals",
+    "sensation",
+    "senses",
+    "receptor cells",
+    "pain",
+    "temperature",
+    "muscles",
+    "fibers",
+    "autoimmune disease",
+    "Ian Waterman",
+    "human body",
+    "science",
+    "health",
+    "education",
+    "animation",
+    "Antonio Cataldo",
+    "Yuriy Polyashko",
+    "Darvideo Animation Studio",
+    "TED",
+    "TED-Ed",
+    "TED Ed",
+    "Teded",
+    "Ted Education"
+  ],
+  "introduction": "Explore the science behind how your body and brain process different sensations like touch, pain, te",
+  "lead_intro": "Discover the fascinating story of Ian Waterman and how he overcame a rare neurological condition that left him unable to feel or move. Learn about the importance of touch and the somatosensory system in our daily lives.",
+  "quiz": [
+    {
+      "question": "What neurological condition was Ian Waterman diagnosed with?",
+      "choices": [
+        "Amnesia",
+        "Deafferentation",
+        "Epilepsy"
+      ],
+      "answer": "Deafferentation",
+      "explanation": "Ian Waterman was diagnosed with a rare and extreme form of deafferentation, a neurological condition that resulted in the loss of tactile and proprioceptive sensations from the neck down."
+    },
+    {
+      "question": "Which sensory system oversees sensations like touch, pain, temperature, and proprioception?",
+      "choices": [
+        "Visual system",
+        "Auditory system",
+        "Somatosensory system"
+      ],
+      "answer": "Somatosensory system",
+      "explanation": "The somatosensory system is responsible for regulating sensations like touch, pain, temperature, and proprioception, which are crucial for our awareness of our bodies in space."
+    },
+    {
+      "question": "What do mechanoreceptors sense?",
+      "choices": [
+        "Temperature changes",
+        "Pain",
+        "Mechanical deformation of the skin"
+      ],
+      "answer": "Mechanical deformation of the skin",
+      "explanation": "Mechanoreceptors are sensory receptors that respond to mechanical deformation of the skin, such as vibrations, stretching, and pressure."
+    },
+    {
+      "question": "How do nociceptors respond to stimuli?",
+      "choices": [
+        "By sensing temperature changes",
+        "By detecting mechanical deformation",
+        "By sensing pain"
+      ],
+      "answer": "By sensing pain",
+      "explanation": "Nociceptors are sensory receptors that specifically detect pain signals, contributing to our perception of pain in response to various stimuli."
+    },
+    {
+      "question": "What can the loss of tactile sensations lead to?",
+      "choices": [
+        "Improved immune system",
+        "Touch starvation",
+        "Enhanced proprioception"
+      ],
+      "answer": "Touch starvation",
+      "explanation": "The loss of tactile sensations can lead to touch starvation, a condition characterized by anxiety, depression, and other health issues due to the absence of social touch."
+    }
+  ]
+}

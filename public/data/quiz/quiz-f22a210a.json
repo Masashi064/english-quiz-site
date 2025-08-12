@@ -1,0 +1,63 @@
+{
+  "slug": "f22a210a",
+  "video_id": "LvfhYWZRNrY",
+  "movie_title": "Astronauts on strike? 6 Minute English",
+  "movie_url": "https://youtu.be/LvfhYWZRNrY",
+  "published_at": "2021-03-25T16:00:08Z",
+  "duration": "6:17",
+  "tags": [],
+  "introduction": "In 1973, three US astronauts on board the Skylab space station had a disagreement with mission contr",
+  "lead_intro": "Join BBC Learning English in this 6 Minute English episode as they discuss the Skylab space 'strike' incident and the importance of trusting people to do their jobs. Test your knowledge with a quiz on how the Skylab astronauts protested to their bosses!",
+  "quiz": [
+    {
+      "question": "How did the Skylab astronauts protest to their bosses at ground control?",
+      "choices": [
+        "Pretend the radio had broken",
+        "Stop shaving and grow beards",
+        "Fake the results of their experiments"
+      ],
+      "answer": "Stop shaving and grow beards",
+      "explanation": "The Skylab astronauts protested by stopping shaving and growing beards."
+    },
+    {
+      "question": "What term describes controlling everything, down to the smallest detail?",
+      "choices": [
+        "Micromanage",
+        "Bossy",
+        "Strike"
+      ],
+      "answer": "Micromanage",
+      "explanation": "Micromanage means controlling everything, down to the smallest detail."
+    },
+    {
+      "question": "What does it mean to 'go on strike'?",
+      "choices": [
+        "Refuse to work",
+        "Take a break",
+        "Listen to instructions"
+      ],
+      "answer": "Refuse to work",
+      "explanation": "'Go on strike' means to refuse to work."
+    },
+    {
+      "question": "What term describes a small amount of time to complete a job?",
+      "choices": [
+        "Bossy",
+        "Tight schedule",
+        "Micromanage"
+      ],
+      "answer": "Tight schedule",
+      "explanation": "A tight schedule refers to a small amount of time to complete a job."
+    },
+    {
+      "question": "What is the best method of doing something according to the Skylab astronauts' experience?",
+      "choices": [
+        "Micromanagement",
+        "Trusting people",
+        "Being bossy"
+      ],
+      "answer": "Trusting people",
+      "explanation": "The Skylab astronauts learned that trusting people is the best method for doing something."
+    }
+  ]
+}

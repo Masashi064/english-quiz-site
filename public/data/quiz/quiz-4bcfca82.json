@@ -1,0 +1,63 @@
+{
+  "slug": "4bcfca82",
+  "video_id": "uzkD5SeuwzM",
+  "movie_title": "TRUE Limits Of Humanity – The Final Border We Will Never Cross",
+  "movie_url": "https://youtu.be/uzkD5SeuwzM",
+  "published_at": "2021-05-11T14:00:16Z",
+  "duration": "11:41",
+  "tags": [],
+  "introduction": "If you want to support kurzgesagt and get something beautiful in return check our shop:\nhttps://kgs.",
+  "lead_intro": "Have you ever wondered if there are places in the universe that we will never reach, no matter how advanced our technology becomes? Let's dive into the mind-boggling concept of cosmic horizons and the vastness of our observable universe.",
+  "quiz": [
+    {
+      "question": "How many stars are estimated to be born in the Milky Way each year?",
+      "choices": [
+        "Hundreds",
+        "Thousands",
+        "Three"
+      ],
+      "answer": "Three",
+      "explanation": "Only around three new stars are estimated to be born in the Milky Way each year, and 95% of all stars that will ever exist in the universe have already been born."
+    },
+    {
+      "question": "What is the concept used to explain the accelerating expansion of the universe?",
+      "choices": [
+        "Black holes",
+        "Dark matter",
+        "Dark energy"
+      ],
+      "answer": "Dark energy",
+      "explanation": "Dark energy is the concept used to explain the accelerating expansion of the universe, behaving like an invisible force that speeds up cosmic expansion."
+    },
+    {
+      "question": "What is the cosmological horizon?",
+      "choices": [
+        "A boundary beyond which galaxies are unreachable",
+        "A point where galaxies merge into superclusters",
+        "A region with intense star formation"
+      ],
+      "answer": "A boundary beyond which galaxies are unreachable",
+      "explanation": "The cosmological horizon marks a boundary beyond which galaxies are moving away faster than the speed of light relative to us, making them forever out of reach."
+    },
+    {
+      "question": "At what speed would a trip to the Maffei Group, the closest pocket of galaxies outside the Local Group, take at the speed of light?",
+      "choices": [
+        "5 million years",
+        "11 million years",
+        "100 million years"
+      ],
+      "answer": "11 million years",
+      "explanation": "A trip to the Maffei Group at the speed of light would take around 11 million years, showcasing the immense distances and challenges of intergalactic travel."
+    },
+    {
+      "question": "What is the proposed name for the giant elliptical galaxy formed by the merging of all galaxies in the Local Group?",
+      "choices": [
+        "Milky Way",
+        "Andromeda",
+        "Milkdromeda"
+      ],
+      "answer": "Milkdromeda",
+      "explanation": "All galaxies in the Local Group are expected to merge into one giant elliptical galaxy called 'Milkdromeda' in a few billion years, a fascinating cosmic event."
+    }
+  ]
+}

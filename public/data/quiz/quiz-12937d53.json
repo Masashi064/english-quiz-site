@@ -1,0 +1,71 @@
+{
+  "slug": "12937d53",
+  "video_id": "pb9g6osg2aY",
+  "movie_title": "Why Is the Ocean Salty and Rivers Are Not?",
+  "movie_url": "https://youtu.be/pb9g6osg2aY",
+  "published_at": "2023-05-04T16:27:19Z",
+  "duration": "1:00",
+  "tags": [
+    "kurzgesagt",
+    "in a nutshell",
+    "why",
+    "nature",
+    "science",
+    "ocean",
+    "learning"
+  ],
+  "introduction": "Follow us for more sciencey content.\n\nSources & further reading: \nhttps://sites.google.com/view/kgs-",
+  "lead_intro": "Ever wondered why the ocean is salty but rivers aren't? Let's dive into the fascinating process of how the ocean gets its saltiness!",
+  "quiz": [
+    {
+      "question": "Where does most of the salt in the sea come from?",
+      "choices": [
+        "Rivers",
+        "Rainwater",
+        "Volcanic eruptions"
+      ],
+      "answer": "Rivers",
+      "explanation": "Most of the salt in the sea comes from rivers as they wash out minerals and ions from the land, feeding them into the ocean."
+    },
+    {
+      "question": "What happens to warm surface water in the ocean?",
+      "choices": [
+        "It freezes",
+        "It evaporates",
+        "It turns into clouds"
+      ],
+      "answer": "It evaporates",
+      "explanation": "Warm surface water in the ocean evaporates, forming water vapor that rises and eventually condenses into clouds."
+    },
+    {
+      "question": "What happens when water droplets absorb CO2?",
+      "choices": [
+        "They become acidic",
+        "They become salty",
+        "They become alkaline"
+      ],
+      "answer": "They become acidic",
+      "explanation": "Water droplets that absorb CO2 become slightly acidic when they come into contact with stones and soil."
+    },
+    {
+      "question": "What is responsible for the salinity of ocean water?",
+      "choices": [
+        "Rainfall",
+        "Animal waste",
+        "Salt sediment"
+      ],
+      "answer": "Salt sediment",
+      "explanation": "Salt sediment deposited by rivers and accumulated on the seafloor is responsible for the salinity of ocean water."
+    },
+    {
+      "question": "Why don't rivers accumulate salt like the ocean?",
+      "choices": [
+        "They evaporate it",
+        "They dilute it",
+        "They deliver it"
+      ],
+      "answer": "They deliver it",
+      "explanation": "Rivers don't accumulate salt; they simply deliver minerals and traces of salt to oceans and lakes."
+    }
+  ]
+}
