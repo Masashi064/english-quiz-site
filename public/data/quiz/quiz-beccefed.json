@@ -1,0 +1,98 @@
+{
+  "slug": "beccefed",
+  "video_id": "wcR815SfWOU",
+  "movie_title": "Is capitalism actually broken?",
+  "movie_url": "https://youtu.be/wcR815SfWOU",
+  "published_at": "2022-11-01T15:00:55Z",
+  "duration": "6:41",
+  "tags": [
+    "capitalism",
+    "capitalist economy",
+    "capitalism broken",
+    "free market capitalism",
+    "laissez faire capitalism",
+    "socialism",
+    "communism",
+    "labor",
+    "capital",
+    "natural resources",
+    "economic system",
+    "invisible hand capitalism",
+    "manufacturing",
+    "FDA",
+    "inequality",
+    "climate change",
+    "economic growth",
+    "free market",
+    "modern capitalism",
+    "aristocracy",
+    "classes",
+    "economic class",
+    "education",
+    "animation",
+    "economics",
+    "money",
+    "wealth",
+    "Lorenzo Mercanti",
+    "AIM Creative Studios",
+    "TED",
+    "TED-Ed",
+    "TED Ed",
+    "Teded",
+    "Ted Education"
+  ],
+  "introduction": "Explore the different types of capitalism, how they operate, and how they impact issues like climate",
+  "lead_intro": "Have you ever wondered how different economic systems like capitalism, communism, and socialism are determined? Join us in exploring the three key dials that dictate the economic system of a country and whether contemporary capitalism is broken.",
+  "quiz": [
+    {
+      "question": "What are the three key dials that determine the economic system of a country?",
+      "choices": [
+        "People, Capital, Natural Resources",
+        "Government Ownership, Production Control, Market Usage",
+        "Labor, Capital, Market Price"
+      ],
+      "answer": "Government Ownership, Production Control, Market Usage",
+      "explanation": "These three dials control who owns the capital, how much control the government has over production, and the extent to which markets are used to set prices."
+    },
+    {
+      "question": "Which country is closest to 0% ownership of capital by private citizens?",
+      "choices": [
+        "United States",
+        "North Korea",
+        "China"
+      ],
+      "answer": "North Korea",
+      "explanation": "North Korea is the closest economy to 0% private ownership of capital, with the government owning every bit of capital."
+    },
+    {
+      "question": "What kind of capitalism was prevalent during the Industrial Revolution?",
+      "choices": [
+        "Laissez-faire capitalism",
+        "State-controlled capitalism",
+        "Socialist capitalism"
+      ],
+      "answer": "Laissez-faire capitalism",
+      "explanation": "During the Industrial Revolution, the dials were set close to what is now known as free market or laissez-faire capitalism, with minimal regulations."
+    },
+    {
+      "question": "What major concerns are associated with contemporary capitalism?",
+      "choices": [
+        "Climate change and rising inequality",
+        "Technological advancement and globalization",
+        "Education and healthcare reform"
+      ],
+      "answer": "Climate change and rising inequality",
+      "explanation": "Contemporary capitalism is seen as a major driver of climate change and is linked to increasing inequality in many countries."
+    },
+    {
+      "question": "What is the critical question posed about contemporary capitalism at the end of the discussion?",
+      "choices": [
+        "Can we fix it by adjusting the dials or do we need a new system?",
+        "Is capitalism outdated and irrelevant?",
+        "Should we completely abolish capitalism?"
+      ],
+      "answer": "Can we fix it by adjusting the dials or do we need a new system?",
+      "explanation": "The critical question is whether contemporary capitalism can be improved by tweaking the existing system or if a completely new economic system needs to be built."
+    }
+  ]
+}

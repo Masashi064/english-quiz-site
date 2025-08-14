@@ -1,0 +1,63 @@
+{
+  "slug": "8f56f330",
+  "video_id": "rHQeg5EtqDQ",
+  "movie_title": "Invisible Extinction From Space – Gamma Ray Bursts",
+  "movie_url": "https://youtu.be/rHQeg5EtqDQ",
+  "published_at": "2025-07-10T14:01:31Z",
+  "duration": "0:59",
+  "tags": [],
+  "introduction": "Gamma ray bursts are the most powerful explosions in the universe. They are bright enough to outshin",
+  "lead_intro": "Did you know gamma-ray bursts are some of the most powerful explosions in the universe? Let's test your knowledge about these fascinating phenomena!",
+  "quiz": [
+    {
+      "question": "What is the main cause of gamma-ray bursts (GRBs)?",
+      "choices": [
+        "Supernovas",
+        "Black holes surrounded by gas",
+        "Neutron star mergers"
+      ],
+      "answer": "Black holes surrounded by gas",
+      "explanation": "GRBs are mainly produced when a black hole surrounded by a magnetized disc of gas forms during a supernova or neutron star merger."
+    },
+    {
+      "question": "What happens to the ozone layer when exposed to high energy photons from a GRB?",
+      "choices": [
+        "It gets thicker",
+        "It breaks apart molecules",
+        "It becomes transparent"
+      ],
+      "answer": "It breaks apart molecules",
+      "explanation": "The high energy photons from a GRB break apart the molecules in the ozone layer, exposing the Earth's surface to intense solar UV radiation."
+    },
+    {
+      "question": "How do GRBs affect life on Earth?",
+      "choices": [
+        "Enhance plant growth",
+        "Cause mass extinction",
+        "Create new species"
+      ],
+      "answer": "Cause mass extinction",
+      "explanation": "GRBs can lead to mass extinction on Earth as they expose the planet to harmful solar UV radiation, causing plants and animals to die and humans to get cancer."
+    },
+    {
+      "question": "Why are GRBs considered almost unnoticeable on Earth?",
+      "choices": [
+        "They are silent",
+        "The atmosphere absorbs most of the energy",
+        "They occur at night"
+      ],
+      "answer": "The atmosphere absorbs most of the energy",
+      "explanation": "GRBs would be over in seconds and almost unnoticeable on Earth as the atmosphere absorbs almost all of the energy released during the burst."
+    },
+    {
+      "question": "What is the speed at which a GRB travels?",
+      "choices": [
+        "Supersonic speed",
+        "Speed of light",
+        "Subsonic speed"
+      ],
+      "answer": "Speed of light",
+      "explanation": "GRBs travel at the speed of light, making them impossible to predict or see coming in advance."
+    }
+  ]
+}

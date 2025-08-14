@@ -1,0 +1,98 @@
+{
+  "slug": "a3030229",
+  "video_id": "bbM-zSkjvHo",
+  "movie_title": "The Chasm | Think Like A Coder, Ep 6",
+  "movie_url": "https://youtu.be/bbM-zSkjvHo",
+  "published_at": "2020-01-30T16:01:03Z",
+  "duration": "6:41",
+  "tags": [
+    "think like a coder",
+    "coding",
+    "programming",
+    "variable",
+    "coding variables",
+    "how to code",
+    "learn to code",
+    "loops",
+    "coding loops",
+    "programming puzzles",
+    "girls who code",
+    "coding for beginners",
+    "coding projects",
+    "ted ed series",
+    "ted ed coding",
+    "computer science",
+    "education",
+    "ethic",
+    "hedge",
+    "robots",
+    "animation",
+    "code.org",
+    "coding lessons",
+    "TED",
+    "TED-Ed",
+    "TED Ed",
+    "Teded",
+    "Ted Education",
+    "tlac",
+    "alex rosenthal",
+    "kozmonot animation studios",
+    "octavia",
+    "artifacts",
+    "tlac ep 6"
+  ],
+  "introduction": "The adventure continues! Episode 6: Ethic, Hedge, and Octavia must find a way to cross the bottomles",
+  "lead_intro": "Join Ethic, Hedge, and Octavia in a thrilling adventure to cross a ravine using hover-blocks in a palindromic sequence. Can you help Hedge find a stable stack efficiently? Let's dive into the challenge!",
+  "quiz": [
+    {
+      "question": "What is the main requirement for the hover-blocks to form a stable bridge?",
+      "choices": [
+        "They must be in alphabetical order",
+        "They must be in a palindromic sequence",
+        "They must be in a random order"
+      ],
+      "answer": "They must be in a palindromic sequence",
+      "explanation": "The hover-blocks need to form a sequence that is the same when viewed forwards and backwards in order to be stable."
+    },
+    {
+      "question": "Why is a naive solution to finding a palindromic stack inefficient?",
+      "choices": [
+        "It would take a tremendous amount of time",
+        "It is too complex to implement",
+        "It always results in a stable stack"
+      ],
+      "answer": "It would take a tremendous amount of time",
+      "explanation": "Trying all the arrangements of blocks to check for a palindrome would require a factorial amount of time, making it impractical."
+    },
+    {
+      "question": "What insight can be derived from analyzing existing palindromes?",
+      "choices": [
+        "All letters must occur an odd number of times",
+        "At most one letter can appear an odd number of times",
+        "The first and last blocks must be the same"
+      ],
+      "answer": "At most one letter can appear an odd number of times",
+      "explanation": "In most palindromes, letters occur even times, with at most one letter appearing an odd number of times for the sequence to be a palindrome."
+    },
+    {
+      "question": "How does the optimized approach of counting odd characters improve efficiency?",
+      "choices": [
+        "It reduces the time complexity to linear time",
+        "It increases the number of combinations",
+        "It requires more computational power"
+      ],
+      "answer": "It reduces the time complexity to linear time",
+      "explanation": "By counting odd characters, the time complexity is improved from factorial time to linear time, making the process much faster and efficient."
+    },
+    {
+      "question": "What fate befalls Octavia in the end?",
+      "choices": [
+        "She successfully crosses the ravine",
+        "She falls into the ravine",
+        "She finds another way to the tower"
+      ],
+      "answer": "She falls into the ravine",
+      "explanation": "Despite Ethic and Hedge being safe, Octavia meets an unfortunate end as the time taken to find a stable stack is too long."
+    }
+  ]
+}

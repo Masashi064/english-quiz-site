@@ -1,0 +1,75 @@
+{
+  "slug": "5004592b",
+  "video_id": "dh4nEuhZBgg",
+  "movie_title": "Can you solve the seven planets riddle? - Edwin F. Meyer",
+  "movie_url": "https://youtu.be/dh4nEuhZBgg",
+  "published_at": "2018-02-26T16:02:16Z",
+  "duration": "6:01",
+  "tags": [
+    "TED-Ed",
+    "TED",
+    "Ted-Education",
+    "Teded",
+    "Edwin F. Meyer",
+    "riddle",
+    "logic puzzle",
+    "puzzle",
+    "math",
+    "Brilliant Riddles",
+    "problem solving"
+  ],
+  "introduction": "Practice more problem-solving at https://brilliant.org/TedEd/\nSolution to the bonus riddle mentioned",
+  "lead_intro": "Join the interstellar police squad on a thrilling mission to catch dangerous rebels on seven small planets using deductive reasoning and strategic searching. Can you devise a sequence to capture the rebels in 10 warps or less?",
+  "quiz": [
+    {
+      "question": "What is the key feature of the cluster of planets that helps simplify the search strategy?",
+      "choices": [
+        "The presence of an outermost planet",
+        "The arrangement of the planets in a line",
+        "The third planet being adjacent to all others"
+      ],
+      "answer": "The third planet being adjacent to all others",
+      "explanation": "The third planet being adjacent to all others simplifies the search strategy as the rebels must either start there and move or start on another planet and move to planet three."
+    },
+    {
+      "question": "How does the movement pattern of the rebels help divide the planets for a more systematic search?",
+      "choices": [
+        "Rebels move randomly from planet to planet",
+        "Rebels move from even-numbered to odd-numbered planets or vice versa",
+        "Rebels always move to the nearest planet"
+      ],
+      "answer": "Rebels move from even-numbered to odd-numbered planets or vice versa",
+      "explanation": "By understanding that rebels move from even-numbered to odd-numbered planets or vice versa, the planets can be divided into two subsets for a more systematic search."
+    },
+    {
+      "question": "If the rebels were on an odd-numbered planet to start, where would they be after five moves?",
+      "choices": [
+        "On an even-numbered planet",
+        "Still on an odd-numbered planet",
+        "On the third planet"
+      ],
+      "answer": "On an even-numbered planet",
+      "explanation": "If the rebels were on an odd-numbered planet to start, their movement pattern would place them on an even-numbered planet after five moves."
+    },
+    {
+      "question": "What is the sequence of planets to search assuming the rebels started on an even-numbered planet?",
+      "choices": [
+        "Two, three, four, three, six",
+        "Three, four, five, six, seven",
+        "One, two, three, four, five"
+      ],
+      "answer": "Two, three, four, three, six",
+      "explanation": "Searching the planets in the sequence two, three, four, three, six would corner the rebels assuming they started on an even-numbered planet."
+    },
+    {
+      "question": "What should be done if the first five searches miss the rebels assuming they started on an even-numbered planet?",
+      "choices": [
+        "Repeat the sequence of searches",
+        "Increase the number of searches",
+        "Change the starting planet"
+      ],
+      "answer": "Repeat the sequence of searches",
+      "explanation": "If the assumption that the rebels started on an even-numbered planet was wrong and the first five searches miss them, simply repeat the sequence of searches to corner the rebels."
+    }
+  ]
+}

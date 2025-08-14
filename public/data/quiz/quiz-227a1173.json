@@ -1,0 +1,79 @@
+{
+  "slug": "227a1173",
+  "video_id": "Oj_OwYR9jGQ",
+  "movie_title": "What Does the Moon Smell Like?",
+  "movie_url": "https://youtu.be/Oj_OwYR9jGQ",
+  "published_at": "2024-02-29T15:00:31Z",
+  "duration": "0:59",
+  "tags": [
+    "inanutshell",
+    "kurzgesagt",
+    "kurzgesagt_inanutshell",
+    "learnwithshorts",
+    "interestingfact",
+    "kurzgesagt - in a nutshell",
+    "in a nutshell",
+    "physics",
+    "science",
+    "science facts",
+    "astronomy",
+    "moon",
+    "space",
+    "space shorts",
+    "what does the moon smell like"
+  ],
+  "introduction": "Looking at Earth from the Moon must feel amazing! That is...as long as you don't try to breathe with",
+  "lead_intro": "Have you ever wondered what the moon smells like? Let's dive into the intriguing world of lunar dust and how astronauts discovered its unique scent!",
+  "quiz": [
+    {
+      "question": "How do we know what the moon smells like?",
+      "choices": [
+        "By tasting lunar dust samples",
+        "By smelling lunar dust samples",
+        "By observing astronauts' reports"
+      ],
+      "answer": "By observing astronauts' reports",
+      "explanation": "Astronauts who were on the moon reported that moondust smells like burnt gunpowder, providing insights into the lunar scent."
+    },
+    {
+      "question": "Why is it not safe to smell or inhale lunar dust?",
+      "choices": [
+        "It causes eye irritation",
+        "It can lead to severe lung diseases",
+        "It has a pleasant scent"
+      ],
+      "answer": "It can lead to severe lung diseases",
+      "explanation": "Inhaling lunar dust can lead to chronic inflammation, severe lung diseases, and other health complications due to its toxic nature."
+    },
+    {
+      "question": "How is lunar dust different from terrestrial dust?",
+      "choices": [
+        "It is not electrostatically charged",
+        "It is rounded off by weathering",
+        "It is extremely fine and sharp"
+      ],
+      "answer": "It is extremely fine and sharp",
+      "explanation": "Lunar dust is extremely fine, electrostatically charged, and sharp-edged, unlike terrestrial dust that is weathered and rounded."
+    },
+    {
+      "question": "What did astronauts report the moon smells like?",
+      "choices": [
+        "Burnt gunpowder",
+        "Fresh flowers",
+        "Lemon"
+      ],
+      "answer": "Burnt gunpowder",
+      "explanation": "Astronauts reported that moondust smells like burnt gunpowder, providing a unique olfactory experience from their lunar missions."
+    },
+    {
+      "question": "Why do astronauts need to be cautious around lunar dust?",
+      "choices": [
+        "It can enhance their health",
+        "It can be used as a natural sunscreen",
+        "It can cause health risks"
+      ],
+      "answer": "It can cause health risks",
+      "explanation": "Astronauts need to be cautious around lunar dust as it can pose health risks, including damage to the lungs, immune reactions, and other health complications."
+    }
+  ]
+}

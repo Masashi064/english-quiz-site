@@ -1,0 +1,97 @@
+{
+  "slug": "12b93d2c",
+  "video_id": "hYo64qPEGw8",
+  "movie_title": "Can you solve the trickster god riddle? - Alex Rosenthal",
+  "movie_url": "https://youtu.be/hYo64qPEGw8",
+  "published_at": "2024-11-19T16:00:04Z",
+  "duration": "6:01",
+  "tags": [
+    "loki",
+    "odin",
+    "ragnarok",
+    "trickster",
+    "trickster loki",
+    "trickster god",
+    "brussel sprouts game",
+    "john conway",
+    "brussel sprouts",
+    "sprouts game",
+    "graph theory",
+    "euler",
+    "mathematics",
+    "math",
+    "mythology",
+    "norse mythology",
+    "riddles",
+    "teded riddles",
+    "teded math riddles",
+    "sprouts strategy",
+    "sprouts game strategy",
+    "education",
+    "animation",
+    "critical thinking",
+    "creative thinking",
+    "alex rosenthal",
+    "Igor Ćorić",
+    "Artrake Studio",
+    "TED",
+    "TED-Ed",
+    "TED Ed",
+    "Teded",
+    "Ted Education"
+  ],
+  "introduction": "Loki has challenged you to a winner-take-all game to end Ragnarok. Can you beat him and win the righ",
+  "lead_intro": "Join me in unraveling the strategic game proposed by Loki and discover a clever way to outsmart the trickster!",
+  "quiz": [
+    {
+      "question": "What is the name of the game invented by John Conway mentioned in the video?",
+      "choices": [
+        "Brussels Sprouts",
+        "Crosses and Lines",
+        "Ragnarok Rumble"
+      ],
+      "answer": "Brussels Sprouts",
+      "explanation": "The game mentioned in the video was invented by John Conway under the name Brussels Sprouts."
+    },
+    {
+      "question": "How many moves does the game end in when there is a single cross on the table?",
+      "choices": [
+        "5",
+        "8",
+        "3"
+      ],
+      "answer": "3",
+      "explanation": "When there is a single cross on the table, the game always ends in three moves."
+    },
+    {
+      "question": "What happens when a region in the game becomes enclosed?",
+      "choices": [
+        "It becomes unusable and a life is lost",
+        "It gains an extra life",
+        "It merges with another region"
+      ],
+      "answer": "It becomes unusable and a life is lost",
+      "explanation": "When a region in the game becomes enclosed, it becomes unusable and a life is lost."
+    },
+    {
+      "question": "How many regions are produced with two crosses on the table?",
+      "choices": [
+        "4",
+        "8",
+        "12"
+      ],
+      "answer": "8",
+      "explanation": "With two crosses on the table, the game produces eight regions."
+    },
+    {
+      "question": "What strategy can you use to beat Loki in the game described in the video?",
+      "choices": [
+        "Carve your name into the table",
+        "Let Loki go first",
+        "Connect a line to the last letter in your name"
+      ],
+      "answer": "Connect a line to the last letter in your name",
+      "explanation": "To beat Loki in the game, you can connect a line all the way to the last letter in your name on your first move to surprise and outsmart the trickster."
+    }
+  ]
+}
