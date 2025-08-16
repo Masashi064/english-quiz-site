@@ -1,0 +1,98 @@
+{
+  "slug": "d8a8c9ce",
+  "video_id": "7mOev8v3D1U",
+  "movie_title": "The Artists | Think Like A Coder, Ep 5",
+  "movie_url": "https://youtu.be/7mOev8v3D1U",
+  "published_at": "2020-01-13T16:00:08Z",
+  "duration": "6:42",
+  "tags": [
+    "think like a coder",
+    "coding",
+    "programming",
+    "variable",
+    "coding variables",
+    "how to code",
+    "learn to code",
+    "loops",
+    "coding loops",
+    "programming puzzles",
+    "girls who code",
+    "coding for beginners",
+    "coding projects",
+    "ted ed series",
+    "ted ed coding",
+    "computer science",
+    "education",
+    "ethic",
+    "hedge",
+    "robots",
+    "animation",
+    "code.org",
+    "coding lessons",
+    "TED",
+    "TED-Ed",
+    "TED Ed",
+    "Teded",
+    "Ted Education",
+    "tlac",
+    "alex rosenthal",
+    "kozmonot animation studios",
+    "tlac ep 5",
+    "octavia",
+    "artifacts"
+  ],
+  "introduction": "The adventure continues! Episode 5: Ethic and Hedge arrive in the 198forest in search of the second",
+  "lead_intro": "Join Ethic, Hedge, and Octavia as they devise a clever plan to distract the garrison guarding the tower in the woods. Can you help Hedge program a way to paint X's over the portraits?",
+  "quiz": [
+    {
+      "question": "What is the reason Octavia suggests stirring up the people through vandalism?",
+      "choices": [
+        "To create a distraction for the garrison",
+        "To beautify the community",
+        "To test Hedge's painting skills"
+      ],
+      "answer": "To create a distraction for the garrison",
+      "explanation": "Octavia suggests vandalism as a way to create a distraction for the garrison guarding the tower, allowing the team to slip through unnoticed."
+    },
+    {
+      "question": "What limitation does Hedge face in painting X's on the portraits?",
+      "choices": [
+        "He can only move forwards and make 90-degree turns",
+        "He can only paint one pixel at a time",
+        "He can only paint diagonally"
+      ],
+      "answer": "He can only move forwards and make 90-degree turns",
+      "explanation": "Hedge's painting processor requires specific instructions where he can only move forwards and make 90-degree turns, making painting X's on the portraits a challenge."
+    },
+    {
+      "question": "How does Hedge program to paint the X's using the typewriter approach?",
+      "choices": [
+        "By painting rows and adjusting skipped pixels",
+        "By painting concentric squares",
+        "By moving diagonally"
+      ],
+      "answer": "By painting rows and adjusting skipped pixels",
+      "explanation": "Hedge can paint the X's using the typewriter approach by painting rows, skipping pixels, and adjusting the pattern based on the row position."
+    },
+    {
+      "question": "What is the advantage of the spiral painting method over the typewriter approach?",
+      "choices": [
+        "Simplicity in finding a pattern and reusing logic",
+        "Flexibility to adapt to different patterns",
+        "Ease of reversing the painting process"
+      ],
+      "answer": "Simplicity in finding a pattern and reusing logic",
+      "explanation": "The advantage of the spiral painting method lies in its simplicity of finding a pattern and reusing the same logic throughout, making it easier to implement."
+    },
+    {
+      "question": "How do Ethic, Hedge, and Octavia manage to slip through to the tower?",
+      "choices": [
+        "By distracting the garrison with the vandalized portraits",
+        "By painting X's on the tower walls",
+        "By engaging in a battle with the robots"
+      ],
+      "answer": "By distracting the garrison with the vandalized portraits",
+      "explanation": "The team manages to slip through to the tower by creating a distraction with the vandalized portraits, causing the garrison to abandon their posts."
+    }
+  ]
+}

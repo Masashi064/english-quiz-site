@@ -1,0 +1,79 @@
+{
+  "slug": "1a11863f",
+  "video_id": "6AWYgNArZZw",
+  "movie_title": "Let’s Shrink Earth to Half Its Size",
+  "movie_url": "https://youtu.be/6AWYgNArZZw",
+  "published_at": "2024-01-11T15:00:09Z",
+  "duration": "0:58",
+  "tags": [
+    "inanutshell",
+    "kurzgesagt",
+    "kurzgesagt_inanutshell",
+    "learnwithshorts",
+    "spaceshorts",
+    "astronerds",
+    "astrophysics",
+    "astronomyshorts",
+    "outerspaceshorts",
+    "earthshorts",
+    "evolutionshorts",
+    "planetearth",
+    "interestingfact",
+    "kurzgesagt - in a nutshell",
+    "in a nutshell"
+  ],
+  "introduction": "What happens when we decide to shrink Earth to half its size? And does anyone have a planet sized sh",
+  "lead_intro": "Imagine a world where Earth is half its size! In this scenario, gravity, atmosphere, and even our own bodies would undergo significant changes. Let's explore the implications of shrinking Earth in this fun and educational quiz!",
+  "quiz": [
+    {
+      "question": "What is the diameter of the half-sized Earth in this scenario?",
+      "choices": [
+        "12,800 km",
+        "6,400 km",
+        "3,200 km"
+      ],
+      "answer": "6,400 km",
+      "explanation": "When Earth is shrunk to half its size, its diameter becomes roughly 6,400 km."
+    },
+    {
+      "question": "How much of Earth's former mass is left after shrinking?",
+      "choices": [
+        "1/2",
+        "1/4",
+        "1/8"
+      ],
+      "answer": "1/8",
+      "explanation": "After the shrink, only 1/8 of Earth's former mass remains."
+    },
+    {
+      "question": "How long does a full day last on the half-sized Earth?",
+      "choices": [
+        "24 hours",
+        "12 hours",
+        "45 minutes"
+      ],
+      "answer": "45 minutes",
+      "explanation": "On the shrunken Earth, a full day now lasts only 45 minutes due to faster rotation."
+    },
+    {
+      "question": "What happens to the weight of objects on the half-sized Earth?",
+      "choices": [
+        "They become heavier",
+        "They remain the same",
+        "They become half as heavy"
+      ],
+      "answer": "They become half as heavy",
+      "explanation": "Objects on a half-sized Earth would be half as heavy due to lower gravity."
+    },
+    {
+      "question": "Why would bringing an oxygen mask be important for outdoor activities on the shrunken Earth?",
+      "choices": [
+        "To avoid sunburn",
+        "To prevent dehydration",
+        "To prevent suffocation"
+      ],
+      "answer": "To prevent suffocation",
+      "explanation": "Due to the thinner atmosphere and less oxygen, there is a risk of suffocation on the half-sized Earth."
+    }
+  ]
+}

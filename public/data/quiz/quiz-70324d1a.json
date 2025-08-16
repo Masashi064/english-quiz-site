@@ -1,0 +1,81 @@
+{
+  "slug": "70324d1a",
+  "video_id": "X7FobPxu27M",
+  "movie_title": "Why should you read James Joyce's \"Ulysses\"? - Sam Slote",
+  "movie_url": "https://youtu.be/X7FobPxu27M",
+  "published_at": "2017-10-24T15:04:29Z",
+  "duration": "5:59",
+  "tags": [
+    "TED",
+    "TED-Ed",
+    "TED Education",
+    "TED Ed",
+    "Sam Slote",
+    "Paper Panther",
+    "James Joyce",
+    "Ulysses",
+    "Stephen Dedalus",
+    "Leopold Bloom",
+    "Molly Bloom",
+    "Dublin",
+    "Ireland",
+    "Bloomsday",
+    "The Odyssey",
+    "A Portrait of the Artist as a Young Man",
+    "modernism"
+  ],
+  "introduction": "Download a free audiobook and support TED-Ed's nonprofit mission: http://adbl.co/2y0J0DT\n\nCheck out",
+  "lead_intro": "James Joyce's 'Ulysses' is a challenging yet rewarding masterpiece that continues to captivate readers worldwide. From its intricate narrative styles to its rich literary allusions, the novel offers a unique and immersive reading experience.",
+  "quiz": [
+    {
+      "question": "What annual event do people worldwide participate in to celebrate 'Ulysses'?",
+      "choices": [
+        "Joyce Fest",
+        "Bloomsday",
+        "Dublin Day"
+      ],
+      "answer": "Bloomsday",
+      "explanation": "On Bloomsday, thousands of people dress up as characters from 'Ulysses', read the book aloud, and even visit Dublin to explore the locations mentioned in the novel."
+    },
+    {
+      "question": "Who are the three main characters in 'Ulysses'?",
+      "choices": [
+        "Stephen Dedalus, Leopold Bloom, and Molly",
+        "James Joyce, Stephen Dedalus, and Molly",
+        "Leopold Bloom, Molly, and Homer"
+      ],
+      "answer": "Stephen Dedalus, Leopold Bloom, and Molly",
+      "explanation": "The novel follows the intertwined stories of Stephen Dedalus, Leopold Bloom, and Molly, each experiencing a day in Dublin in a unique way."
+    },
+    {
+      "question": "In what style is Chapter 15 of 'Ulysses' written?",
+      "choices": [
+        "Play",
+        "Cheesy romance novel",
+        "Stream of consciousness"
+      ],
+      "answer": "Play",
+      "explanation": "Each chapter of the novel is written in a different style, with Chapter 15 taking the form of a play, showcasing Joyce's versatility in storytelling."
+    },
+    {
+      "question": "Why was 'Ulysses' initially banned and censored in the U.S.?",
+      "choices": [
+        "For its sexual content and dirty jokes",
+        "For being too long and complex",
+        "For its criticism of Dublin"
+      ],
+      "answer": "For its sexual content and dirty jokes",
+      "explanation": "The book faced censorship in the U.S. due to its sexual references and humor, leading to a trial and ban before its completion."
+    },
+    {
+      "question": "What does James Joyce claim about Dublin in 'Ulysses'?",
+      "choices": [
+        "It is the setting for a murder mystery",
+        "It can be fully recreated from the book",
+        "It is portrayed as a utopia"
+      ],
+      "answer": "It can be fully recreated from the book",
+      "explanation": "Joyce famously claimed that if Dublin were destroyed, it could be reconstructed solely from the detailed descriptions found in 'Ulysses', showcasing his meticulous portrayal of the city."
+    }
+  ]
+}

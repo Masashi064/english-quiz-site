@@ -1,0 +1,101 @@
+{
+  "slug": "55625a94",
+  "video_id": "7VV4s4uiwLY",
+  "movie_title": "What happens when the Arctic permafrost melts? - Brendan Rogers and Jessica Howard",
+  "movie_url": "https://youtu.be/7VV4s4uiwLY",
+  "published_at": "2023-02-23T16:01:13Z",
+  "duration": "5:58",
+  "tags": [
+    "permafrost",
+    "arctic permafrost",
+    "arctic ice",
+    "arctic",
+    "permafrost thaw",
+    "permafrost melt",
+    "mammoth",
+    "wooly mammoth",
+    "northern hemisphere",
+    "yukon",
+    "decomposition",
+    "cave bear",
+    "grey wolf",
+    "DNA",
+    "DNA sequence",
+    "DNA sequencing",
+    "tundra",
+    "climate change",
+    "greenhouse gases",
+    "carbon",
+    "carbon capture",
+    "carbon storage",
+    "drunken forests",
+    "carbon resevoirs",
+    "methane",
+    "carbon dioxide",
+    "feedback loop",
+    "education",
+    "animation",
+    "Brendan Rogers",
+    "Jessica Howard",
+    "Denys Spolitak",
+    "TED",
+    "TED-Ed",
+    "TED Ed",
+    "Teded",
+    "Ted Education"
+  ],
+  "introduction": "Discover what scientists have found buried in the Arctic permafrost, and find out the far-reaching e",
+  "lead_intro": "Discoveries of well-preserved ancient remains in the Arctic permafrost offer scientists literal freeze-frames of times long gone. However, the rapid thawing of permafrost due to climate change poses a significant threat to these remarkable finds and the environment.",
+  "quiz": [
+    {
+      "question": "What remarkable discovery did a gold miner make in the Canadian Yukon in June 2022?",
+      "choices": [
+        "Frozen remains of a woolly mammoth calf",
+        "Ancient ruins of a lost civilization",
+        "Fossilized dinosaur eggs"
+      ],
+      "answer": "Frozen remains of a woolly mammoth calf",
+      "explanation": "The gold miner uncovered the exceptionally well-preserved frozen remains of a woolly mammoth calf that died 30,000 years ago on the traditional lands of the Tr’ondëk Hwëch’in First Nation."
+    },
+    {
+      "question": "What is permafrost?",
+      "choices": [
+        "Seasonally thawing ground",
+        "Frozen ground that stays frozen for at least two years",
+        "Dry desert areas"
+      ],
+      "answer": "Frozen ground that stays frozen for at least two years",
+      "explanation": "Permafrost is ground that doesn’t thaw seasonally but remains frozen for at least two years, with some areas staying frozen for much longer."
+    },
+    {
+      "question": "How do ice crystals in permafrost help preserve biological remains?",
+      "choices": [
+        "They cause rapid decomposition",
+        "They draw moisture away from the remains",
+        "They create ideal conditions for microbial growth"
+      ],
+      "answer": "They draw moisture away from the remains",
+      "explanation": "Ice crystals close to remains buried in permafrost help draw moisture away, preserving biological remains by slowing down decomposition."
+    },
+    {
+      "question": "What is a concerning effect of permafrost thawing?",
+      "choices": [
+        "Increased stability of trees",
+        "Flooding and erosion",
+        "Cooling of the landscape"
+      ],
+      "answer": "Flooding and erosion",
+      "explanation": "Permafrost thawing can lead to flooding and erosion, causing the landscape to experience destabilization and potential landslides."
+    },
+    {
+      "question": "How does permafrost contribute to greenhouse gas emissions?",
+      "choices": [
+        "It absorbs carbon dioxide",
+        "It releases gases like carbon dioxide and methane when it thaws",
+        "It cools the atmosphere"
+      ],
+      "answer": "It releases gases like carbon dioxide and methane when it thaws",
+      "explanation": "When permafrost thaws, microorganisms decompose organic material more efficiently, releasing greenhouse gases like carbon dioxide and methane, which contribute to global warming."
+    }
+  ]
+}
