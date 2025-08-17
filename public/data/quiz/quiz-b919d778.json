@@ -1,0 +1,63 @@
+{
+  "slug": "b919d778",
+  "video_id": "BxXzzAEEhCA",
+  "movie_title": "Would You Choose Life On Earth Or in Space?",
+  "movie_url": "https://youtu.be/BxXzzAEEhCA",
+  "published_at": "2023-09-21T14:00:08Z",
+  "duration": "0:58",
+  "tags": [],
+  "introduction": "Hundreds of generations may live and die knowing only a spaceship as their home. You might be okay w",
+  "lead_intro": "Have you ever thought about what it would be like to spend your entire life in space on an interstellar spaceship? Let's explore the ethical implications and challenges of such a journey!",
+  "quiz": [
+    {
+      "question": "How long would it take to travel 100 light years at one percent of the speed of light?",
+      "choices": [
+        "100 years",
+        "1,000 years",
+        "10,000 years"
+      ],
+      "answer": "10,000 years",
+      "explanation": "Traveling at one percent of the speed of light would still take 10,000 years to go only 100 light years."
+    },
+    {
+      "question": "What is one challenge of interstellar travel mentioned in the video?",
+      "choices": [
+        "Lack of food supply",
+        "Generational crew turnover",
+        "Slow spaceship speed"
+      ],
+      "answer": "Generational crew turnover",
+      "explanation": "One challenge mentioned is the need for new crew members to replace the current ones over the course of the journey, spanning hundreds of generations."
+    },
+    {
+      "question": "What ethical question is raised regarding interstellar travel?",
+      "choices": [
+        "Sustainability of resources",
+        "Impact on future generations",
+        "Speed of the spaceship"
+      ],
+      "answer": "Impact on future generations",
+      "explanation": "The video questions the ethical implications of making the decision for future generations to live their entire lives on an interstellar spaceship without a choice."
+    },
+    {
+      "question": "What would be the role of some crew members on an interstellar spaceship?",
+      "choices": [
+        "Spacesuit repair",
+        "Life support system maintenance",
+        "Navigation"
+      ],
+      "answer": "Life support system maintenance",
+      "explanation": "Some crew members' purpose might be to maintain the life support systems on the spaceship to ensure the survival of future generations onboard."
+    },
+    {
+      "question": "What aspect of the journey highlights the long-term commitment required for interstellar travel?",
+      "choices": [
+        "Regular planet stops",
+        "Generational living",
+        "Rapid speed"
+      ],
+      "answer": "Generational living",
+      "explanation": "The idea of hundreds of generations living and dying on the spaceship, knowing only that as their home, showcases the immense commitment needed for such a journey."
+    }
+  ]
+}

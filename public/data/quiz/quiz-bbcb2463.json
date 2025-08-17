@@ -1,0 +1,94 @@
+{
+  "slug": "bbcb2463",
+  "video_id": "2K88pWCimZg",
+  "movie_title": "The dark history of the Chinese Exclusion Act - Robert Chang",
+  "movie_url": "https://youtu.be/2K88pWCimZg",
+  "published_at": "2021-07-01T15:01:13Z",
+  "duration": "5:58",
+  "tags": [
+    "chinese exclusion act",
+    "chinese exclusion act of 1882",
+    "scott act",
+    "chinese immigrants",
+    "united states",
+    "united states history",
+    "grover cleveland",
+    "chae chan ping",
+    "chae chan ping v. united states",
+    "chinese americans",
+    "immigration",
+    "supreme court",
+    "legal precedent",
+    "california gold rush",
+    "burlingame treaty",
+    "discrimination",
+    "anti asian hate",
+    "citizenship",
+    "deportation",
+    "xenophobia",
+    "us government",
+    "robert chang",
+    "Mohammad Babakoohi",
+    "Yijia Cao",
+    "animation",
+    "TED",
+    "TED-Ed",
+    "TED Ed",
+    "Teded",
+    "Ted Education"
+  ],
+  "introduction": "Dig into the Chinese Exclusion Act of 1882, which suspended Chinese immigration to the U.S. and bloc",
+  "lead_intro": "Explore the story of Chae Chan Ping, a Chinese immigrant whose legal battle in 1888 sparked a controversial policy affecting thousands of immigrants. Learn how his case set a precedent for discriminatory immigration laws in the United States.",
+  "quiz": [
+    {
+      "question": "When did President Grover Cleveland sign the Scott Act?",
+      "choices": [
+        "October 1st, 1888",
+        "October 8th, 1888",
+        "October 15th, 1888"
+      ],
+      "answer": "October 1st, 1888",
+      "explanation": "President Grover Cleveland signed the Scott Act on October 1st, 1888, which invalidated legal documents allowing Chinese immigrants to re-enter the United States."
+    },
+    {
+      "question": "What was the first federal law that restricted immigration based explicitly on nationality?",
+      "choices": [
+        "The Burlingame Treaty",
+        "The Chinese Exclusion Act",
+        "The Scott Act"
+      ],
+      "answer": "The Chinese Exclusion Act",
+      "explanation": "The Chinese Exclusion Act, passed in 1882, was the first federal law in the United States that restricted immigration based explicitly on nationality, targeting Chinese immigrants."
+    },
+    {
+      "question": "What was the outcome of Chae Chan Ping's legal battle in the Supreme Court?",
+      "choices": [
+        "His re-entry certificate was validated",
+        "He was granted citizenship",
+        "He was deported"
+      ],
+      "answer": "He was deported",
+      "explanation": "Despite arguing that he had followed the proper protocol in obtaining his re-entry certificate, Chae Chan Ping was deported after the Supreme Court ruled against him."
+    },
+    {
+      "question": "What was the justification the Supreme Court used to support their ruling on the Scott Act?",
+      "choices": [
+        "National security concerns",
+        "Humanitarian reasons",
+        "Economic factors"
+      ],
+      "answer": "National security concerns",
+      "explanation": "The Supreme Court justified their ruling on the Scott Act by stating that Congress had declared the immigration policy as 'a matter of national security,' setting a precedent for future discriminatory immigration laws."
+    },
+    {
+      "question": "When was the Chinese Exclusion Act finally repealed?",
+      "choices": [
+        "1888",
+        "1917",
+        "1943"
+      ],
+      "answer": "1943",
+      "explanation": "The Chinese Exclusion Act, which restricted Chinese immigration, was finally repealed in 1943, over 60 years after it was enacted, marking a significant change in US immigration policy."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "a5e92b87",
+  "video_id": "3D9uIn2oBLI",
+  "movie_title": "Which One Are You?",
+  "movie_url": "https://youtu.be/3D9uIn2oBLI",
+  "published_at": "2025-07-31T15:05:22Z",
+  "duration": "0:57",
+  "tags": [],
+  "introduction": "One pulls everything in and never lets go. The other refuses to let anything in at all.\nThey’re cosm",
+  "lead_intro": "Explore the fascinating world of black holes and white holes in this intriguing video. Would you rather be a black hole or a white hole?",
+  "quiz": [
+    {
+      "question": "What is the invisible border around a black hole called?",
+      "choices": [
+        "Event Horizon",
+        "Cosmic Barrier",
+        "Star Boundary"
+      ],
+      "answer": "Event Horizon",
+      "explanation": "The invisible border around a black hole is called the Event Horizon, beyond which nothing, not even light, can escape."
+    },
+    {
+      "question": "What is a white hole known for doing with cosmic material?",
+      "choices": [
+        "Swallowing it",
+        "Expelling it",
+        "Absorbing it"
+      ],
+      "answer": "Expelling it",
+      "explanation": "White holes are known for expelling cosmic material they have swallowed in their past lives as black holes, making them creative cosmic entities."
+    },
+    {
+      "question": "Why are white holes considered mysterious?",
+      "choices": [
+        "Due to their color",
+        "Because they are invisible",
+        "Because they have never been observed"
+      ],
+      "answer": "Because they have never been observed",
+      "explanation": "White holes are considered mysterious because they have never been observed, adding to their enigmatic nature."
+    },
+    {
+      "question": "What characteristic distinguishes black holes from white holes in terms of interaction with cosmic material?",
+      "choices": [
+        "Black holes swallow, white holes give",
+        "Black holes give, white holes swallow",
+        "Both black and white holes swallow"
+      ],
+      "answer": "Black holes swallow, white holes give",
+      "explanation": "Black holes are known for swallowing cosmic material, while white holes are known for giving, expelling material they have previously swallowed."
+    },
+    {
+      "question": "What common trait do black holes and white holes share according to the video?",
+      "choices": [
+        "They are invisible",
+        "They are highly unstable",
+        "They give great hugs"
+      ],
+      "answer": "They give great hugs",
+      "explanation": "Despite their differences, black holes and white holes are said to share the common trait of giving great hugs, adding a touch of humor to their cosmic characteristics."
+    }
+  ]
+}

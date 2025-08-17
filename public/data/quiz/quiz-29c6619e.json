@@ -1,0 +1,63 @@
+{
+  "slug": "29c6619e",
+  "video_id": "RrWBhVlD1H8",
+  "movie_title": "What is bipolar disorder? - Helen M. Farrell",
+  "movie_url": "https://youtu.be/RrWBhVlD1H8",
+  "published_at": "2017-02-09T15:59:39Z",
+  "duration": "5:58",
+  "tags": [],
+  "introduction": "Explore the medical condition known as bipolar disorder, and learn about its symptoms, causes, and t",
+  "lead_intro": "Bipolar disorder, characterized by extreme highs and lows, affects millions worldwide. Understanding its causes and treatments is crucial for managing this complex condition.",
+  "quiz": [
+    {
+      "question": "What are the two main types of bipolar disorder mentioned in the video?",
+      "choices": [
+        "Type A and Type B",
+        "Type 1 and Type 2",
+        "High and Low"
+      ],
+      "answer": "Type 1 and Type 2",
+      "explanation": "The video discusses Type 1, which involves extreme highs alongside lows, and Type 2, which includes briefer periods of elation interspersed with long periods of depression."
+    },
+    {
+      "question": "What are the symptoms of manic episodes in bipolar disorder?",
+      "choices": [
+        "Feeling sad and hopeless",
+        "Rapid speech and racing thoughts",
+        "Excessive sleepiness"
+      ],
+      "answer": "Rapid speech and racing thoughts",
+      "explanation": "Manic episodes in bipolar disorder can include symptoms like rapid speech, racing thoughts, sleeplessness, impulsive actions, and risky behaviors."
+    },
+    {
+      "question": "How do mood stabilizing medications like lithium work in managing bipolar disorder?",
+      "choices": [
+        "By increasing abnormal brain activity",
+        "By decreasing abnormal brain activity",
+        "By altering dopamine levels"
+      ],
+      "answer": "By decreasing abnormal brain activity",
+      "explanation": "Mood stabilizing medications like lithium help manage bipolar disorder by decreasing abnormal brain activity, thereby strengthening viable neural connections."
+    },
+    {
+      "question": "What are some lifestyle changes that can benefit individuals with bipolar disorder?",
+      "choices": [
+        "Regular exercise, poor sleep habits, and substance abuse",
+        "Regular exercise, good sleep habits, and sobriety from drugs and alcohol",
+        "Irregular exercise, poor sleep habits, and alcohol consumption"
+      ],
+      "answer": "Regular exercise, good sleep habits, and sobriety from drugs and alcohol",
+      "explanation": "Lifestyle changes like regular exercise, good sleep habits, and sobriety from drugs and alcohol can benefit individuals with bipolar disorder, along with acceptance and empathy from family and friends."
+    },
+    {
+      "question": "Why is diagnosing and living with bipolar disorder considered a challenge?",
+      "choices": [
+        "Due to a lack of available treatments",
+        "Because the disorder is uncontrollable",
+        "Because the causes are complex"
+      ],
+      "answer": "Because the causes are complex",
+      "explanation": "Diagnosing and living with bipolar disorder is challenging because the causes are complex and involve a combination of genetic, environmental, and social factors."
+    }
+  ]
+}
