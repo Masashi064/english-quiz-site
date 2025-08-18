@@ -1,0 +1,95 @@
+{
+  "slug": "d39093f9",
+  "video_id": "_wUms4va2Xo",
+  "movie_title": "Computer made with brain cells: BBC News Review",
+  "movie_url": "https://youtu.be/_wUms4va2Xo",
+  "published_at": "2024-05-29T12:15:02Z",
+  "duration": "6:16",
+  "tags": [
+    "learn English",
+    "English vocabulary",
+    "speak English",
+    "bbc english",
+    "English teacher",
+    "英語",
+    "영어",
+    "อังกฤษ",
+    "Anh",
+    "English tutorial",
+    "English grammar",
+    "IELTS",
+    "British English",
+    "English pronunciation",
+    "English lesson",
+    "idiom",
+    "English expressions",
+    "BBC Learning English",
+    "slang",
+    "English speaking",
+    "ELT",
+    "podcast",
+    "Ingilizce",
+    "bbc",
+    "bbc learning english",
+    "English class",
+    "6 minute",
+    "English speaking practice",
+    "English words",
+    "English podcast",
+    "podcast English"
+  ],
+  "introduction": "Scientists have created a computer system that uses living brain cells to complete tasks. The comput",
+  "lead_intro": "Discover how scientists have created a computer system using living brain cells to enhance AI technology in this News Review from BBC Learning English.",
+  "quiz": [
+    {
+      "question": "What is the term used to describe a computer system that uses living brain cells?",
+      "choices": [
+        "Biocomputer",
+        "Lab-grown",
+        "Brain-like"
+      ],
+      "answer": "Biocomputer",
+      "explanation": "The term 'biocomputer' refers to a computer system that utilizes living brain cells to perform tasks."
+    },
+    {
+      "question": "What does 'lab-grown' mean in the context of the news story?",
+      "choices": [
+        "Created in a science lab",
+        "Obtained from real human brains",
+        "Grown in a farm"
+      ],
+      "answer": "Created in a science lab",
+      "explanation": "'Lab-grown' refers to brain tissue that is artificially created and expanded in a laboratory setting, not taken from real human brains."
+    },
+    {
+      "question": "How is 'brain-like' tissue different from an actual brain?",
+      "choices": [
+        "It is identical to a real brain",
+        "It is made from artificial materials",
+        "It is similar but not an actual brain"
+      ],
+      "answer": "It is similar but not an actual brain",
+      "explanation": "'Brain-like' tissue resembles a brain but is not a real brain, indicating similarity without being identical."
+    },
+    {
+      "question": "What is the significance of the prefix 'bio' in 'biocomputer'?",
+      "choices": [
+        "Refers to electronic hardware",
+        "Indicates living things",
+        "Denotes mathematical calculations"
+      ],
+      "answer": "Indicates living things",
+      "explanation": "The prefix 'bio' in 'biocomputer' signifies living things, emphasizing the use of living brain cells in the computer system."
+    },
+    {
+      "question": "What is the purpose of using 'lab-grown' brain tissue in the computer system?",
+      "choices": [
+        "To mimic human brain functions",
+        "To avoid using real human brains",
+        "To enhance electronic hardware"
+      ],
+      "answer": "To mimic human brain functions",
+      "explanation": "The use of 'lab-grown' brain tissue in the computer system is to replicate human brain functions, highlighting the advancement in AI technology."
+    }
+  ]
+}

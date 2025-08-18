@@ -1,0 +1,63 @@
+{
+  "slug": "895d30b4",
+  "video_id": "rt33YLtCrCo",
+  "movie_title": "The Race: Land ahoy! Learn to use 'must' and 'have to' - Episode 5",
+  "movie_url": "https://youtu.be/rt33YLtCrCo",
+  "published_at": "2015-08-07T07:30:01Z",
+  "duration": "6:24",
+  "tags": [],
+  "introduction": "Learn English and find out how to use 'must' and 'have to' in our drama, The Race. To read a transcr",
+  "lead_intro": "Join Phil, Sophia, and Passepartout on their adventure as they face challenges at sea and on land. Will they be able to find their stolen yacht and continue their journey around the world in 80 days?",
+  "quiz": [
+    {
+      "question": "What is the name of the coffee Phil receives as a gift on Reunion Island?",
+      "choices": [
+        "Arabica",
+        "Bourbon Pointu",
+        "Espresso"
+      ],
+      "answer": "Bourbon Pointu",
+      "explanation": "The man on Reunion Island gifts Phil Bourbon Pointu coffee beans, known as the best in the world and unique to the island."
+    },
+    {
+      "question": "Where are Phil, Sophia, and Passepartout supposed to be sailing around?",
+      "choices": [
+        "Reunion Island",
+        "Australia",
+        "The world"
+      ],
+      "answer": "The world",
+      "explanation": "They are on a journey to sail around the world, but got lost when their satellite navigation system broke."
+    },
+    {
+      "question": "What are the coordinates Phil reveals after fixing the satnav?",
+      "choices": [
+        "21 degrees south, 55 degrees east",
+        "40 degrees north, 80 degrees west",
+        "0 degrees latitude, 0 degrees longitude"
+      ],
+      "answer": "21 degrees south, 55 degrees east",
+      "explanation": "After fixing the satnav, Phil reveals their location as 21 degrees south, 55 degrees east."
+    },
+    {
+      "question": "Who offers to fix Phil's gadgets on Reunion Island?",
+      "choices": [
+        "A doctor",
+        "A sailor",
+        "A man who fixes gadgets"
+      ],
+      "answer": "A man who fixes gadgets",
+      "explanation": "A man on Reunion Island offers to fix Phil's gadgets, including the satnav, which helps them locate where they are."
+    },
+    {
+      "question": "What unfortunate event occurs when Phil, Sophia, and Passepartout return to the harbour?",
+      "choices": [
+        "They lose their bags of food",
+        "Their yacht is stolen",
+        "They miss their boat"
+      ],
+      "answer": "Their yacht is stolen",
+      "explanation": "Upon returning to the harbour, Phil discovers that their yacht has been stolen, posing a major setback in their journey around the world."
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "slug": "5bde30cb",
+  "video_id": "RzkD_rTEBYs",
+  "movie_title": "How will AI change the world?",
+  "movie_url": "https://youtu.be/RzkD_rTEBYs",
+  "published_at": "2022-12-06T16:00:22Z",
+  "duration": "5:56",
+  "tags": [
+    "AI",
+    "artificial intelligence",
+    "AI systems",
+    "general use AI",
+    "AGI",
+    "artificial general intelligence",
+    "machines",
+    "machine learning",
+    "ai objectives",
+    "AI technology",
+    "stuart russell",
+    "fixed objective",
+    "automated machines",
+    "keynes",
+    "technological unemployment",
+    "e commerce",
+    "automation",
+    "robots",
+    "em forster",
+    "machine dependence",
+    "wall-e",
+    "john mcafee",
+    "technology",
+    "education",
+    "animation",
+    "Christoph Sarow",
+    "AIM Creative Studios",
+    "TED",
+    "TED-Ed",
+    "TED Ed",
+    "Teded",
+    "Ted Education"
+  ],
+  "introduction": "Explore the current limitations of artificial intelligence and the possibility of creating human-com",
+  "lead_intro": "Artificial intelligence is a hot topic with the potential to revolutionize the world. Dive into the insights from renowned AI expert Stuart Russell as he discusses the complexities and implications of AI in a World Economic Forum interview.",
+  "quiz": [
+    {
+      "question": "According to Stuart Russell, what is a key difference between asking a human to do something and giving that as the objective to an AI system?",
+      "choices": [
+        "Humans know the full objective, while AI systems require complete specification in the objective.",
+        "AI systems are more efficient in achieving objectives than humans.",
+        "Humans are more likely to exhibit psychopathic behavior than AI systems."
+      ],
+      "answer": "Humans know the full objective, while AI systems require complete specification in the objective.",
+      "explanation": "Stuart Russell highlights that humans often know that they don't know all the things that we care about, allowing for flexibility in behavior. In contrast, AI systems currently require a fixed and fully specified objective."
+    },
+    {
+      "question": "What behavior do AI systems start to exhibit when they are built to know that they don't know the true objective?",
+      "choices": [
+        "Efficient decision-making",
+        "Asking for permission before causing unintended harm",
+        "Psychopathic behavior"
+      ],
+      "answer": "Asking for permission before causing unintended harm",
+      "explanation": "When AI systems are designed to acknowledge their uncertainty about the true objective, they exhibit behaviors like asking for permission before potentially causing harm, showcasing a more cautious approach."
+    },
+    {
+      "question": "How does Stuart Russell compare the potential impact of general purpose AI on employment to historical perspectives?",
+      "choices": [
+        "He compares it to the technological unemployment idea presented by Keynes in 1930.",
+        "He suggests a complete elimination of all jobs with the advent of general purpose AI.",
+        "He believes that general purpose AI will have minimal impact on employment."
+      ],
+      "answer": "He compares it to the technological unemployment idea presented by Keynes in 1930.",
+      "explanation": "Stuart Russell draws a parallel between the potential impact of general purpose AI on employment to the concept of technological unemployment discussed by Keynes in 1930, highlighting the concerns surrounding job displacement."
+    },
+    {
+      "question": "What is the premise of the story by E.M. Forster that Stuart Russell references?",
+      "choices": [
+        "The story explores the consequences of over-reliance on machines for societal management.",
+        "The story depicts a world where humans and robots coexist harmoniously.",
+        "The story illustrates the benefits of advanced AI in civilization."
+      ],
+      "answer": "The story explores the consequences of over-reliance on machines for societal management.",
+      "explanation": "Stuart Russell references a story by E.M. Forster that delves into the implications of entrusting the management of civilization to machines, highlighting the potential loss of understanding and teaching essential for societal sustainability."
+    },
+    {
+      "question": "According to Stuart Russell, what could be the potential consequence if the chain of teaching and learning in civilization breaks?",
+      "choices": [
+        "A loss of incentive to understand civilization and teach future generations.",
+        "Enhanced efficiency in passing down knowledge through AI systems.",
+        "Increased reliance on machines for educational purposes."
+      ],
+      "answer": "A loss of incentive to understand civilization and teach future generations.",
+      "explanation": "Stuart Russell warns about the potential ramifications if the chain of teaching and learning, which spans generations, breaks due to increased reliance on AI. This could lead to a decline in understanding civilization and educating future generations."
+    }
+  ]
+}
