@@ -1,0 +1,97 @@
+{
+  "slug": "fc453479",
+  "video_id": "bdwU_ZPk1cY",
+  "movie_title": "How we can detect pretty much anything - Hélène Morlon and Anna Papadopoulou",
+  "movie_url": "https://youtu.be/bdwU_ZPk1cY",
+  "published_at": "2021-08-24T15:01:02Z",
+  "duration": "5:55",
+  "tags": [
+    "DNA",
+    "edna",
+    "environmental dna",
+    "metabarcoding",
+    "environmental dna metabarcoding",
+    "biodiversity",
+    "species tracking",
+    "canada lynx",
+    "invasive species",
+    "dna metabarcoding",
+    "dna soup",
+    "polymerase chain reaction",
+    "PCR",
+    "artificial dna",
+    "universal primers",
+    "universal primers pcr",
+    "genetic barcodes",
+    "dna sequencing",
+    "yosemite",
+    "california red legged frog",
+    "invasive bullfrog",
+    "education",
+    "animation",
+    "nature",
+    "environment",
+    "Hélène Morlon",
+    "Anna Papadopoulou",
+    "Blok Magnaye",
+    "TED",
+    "TED-Ed",
+    "TED Ed",
+    "Teded",
+    "Ted Education"
+  ],
+  "introduction": "Explore how scientists use environmental DNA (eDNA) in a technique called DNA metabarcoding to find",
+  "lead_intro": "Discover how scientists are using environmental DNA (eDNA) and DNA metabarcoding to uncover elusive species, track invasive species, monitor biodiversity, and even learn about extinct species. Let's dive into the fascinating world of genetic detective work!",
+  "quiz": [
+    {
+      "question": "What is the main purpose of using DNA metabarcoding in environmental research?",
+      "choices": [
+        "To study the behavior of animals in their natural habitats",
+        "To identify genetic mutations in endangered species",
+        "To detect and identify various species present in environmental samples"
+      ],
+      "answer": "To detect and identify various species present in environmental samples",
+      "explanation": "DNA metabarcoding is a technique that helps researchers identify different species present in environmental samples by analyzing their DNA sequences."
+    },
+    {
+      "question": "How did researchers confirm the presence of Canada lynx in the remote forest in Montana?",
+      "choices": [
+        "By setting up camera traps",
+        "By analyzing snow tracks",
+        "By observing the lynx directly"
+      ],
+      "answer": "By analyzing snow tracks",
+      "explanation": "Researchers took a sample from conspicuous snow tracks in the forest and confirmed the presence of Canada lynx through lab tests using environmental DNA (eDNA)."
+    },
+    {
+      "question": "What is a key advantage of using eDNA for studying biodiversity compared to traditional methods?",
+      "choices": [
+        "eDNA can provide real-time data",
+        "Traditional methods are more cost-effective",
+        "eDNA cannot be used to study insects"
+      ],
+      "answer": "eDNA can provide real-time data",
+      "explanation": "Environmental DNA (eDNA) can offer real-time insights into biodiversity, allowing researchers to monitor changes quickly and efficiently compared to traditional methods that may take longer."
+    },
+    {
+      "question": "How did researchers in Yosemite use eDNA to help conservation efforts?",
+      "choices": [
+        "To reintroduce invasive species",
+        "To track and remove invasive species like bullfrogs",
+        "To study the behavior of native species"
+      ],
+      "answer": "To track and remove invasive species like bullfrogs",
+      "explanation": "Researchers in Yosemite used eDNA to track and remove invasive bullfrogs, allowing them to reintroduce a threatened native species, California red-legged frogs, that had disappeared from the area."
+    },
+    {
+      "question": "What insight did researchers gain about the pollination networks by using eDNA?",
+      "choices": [
+        "Moths are important nocturnal pollinators",
+        "Bees are the primary pollinators of flowers",
+        "Pollination mostly occurs during the daytime"
+      ],
+      "answer": "Moths are important nocturnal pollinators",
+      "explanation": "By studying DNA left on flowers and insects, researchers discovered that moths are significant nocturnal pollinators, providing valuable insights into pollination networks that were previously unknown."
+    }
+  ]
+}

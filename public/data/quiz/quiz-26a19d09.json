@@ -1,0 +1,103 @@
+{
+  "slug": "26a19d09",
+  "video_id": "-m0YaE8uKcg",
+  "movie_title": "The smallest solution to one of our biggest problems - Tierney Thys & Christian Sardet",
+  "movie_url": "https://youtu.be/-m0YaE8uKcg",
+  "published_at": "2022-07-07T15:51:53Z",
+  "duration": "5:55",
+  "tags": [
+    "plastic",
+    "microbes",
+    "plastivores",
+    "bacteria",
+    "archea",
+    "fungi",
+    "biodegradable",
+    "biodegradable plastic",
+    "polymers",
+    "fossil fuels",
+    "man made polymers",
+    "chemical bonds",
+    "pet polymer",
+    "pet plastic",
+    "recycling",
+    "polyethylene",
+    "polypropylene",
+    "polyester terephthalate",
+    "trash",
+    "plastic waste",
+    "pollution",
+    "landfills",
+    "ideonella sakaiensis",
+    "enzymes",
+    "microorganisms",
+    "pet recycling",
+    "engineering",
+    "chemistry",
+    "science",
+    "education",
+    "animation",
+    "Tierney Thys",
+    "Christian Sardet",
+    "Elsa Esteban",
+    "TED",
+    "TED-Ed",
+    "TED Ed",
+    "Teded",
+    "Ted Education"
+  ],
+  "introduction": "Explore the possibility of plastivores— organisms that can eat and break down plastic— helping reduc",
+  "lead_intro": "Did you know that microbes are everywhere, even breaking down organic material around you? However, when it comes to plastics, most microbes struggle to biodegrade them. Learn more about how researchers are exploring microbial solutions to tackle plastic waste in this video.",
+  "quiz": [
+    {
+      "question": "What makes it difficult for microbes to biodegrade most plastics?",
+      "choices": [
+        "High temperatures",
+        "Chemical modifications",
+        "Man-made polymers"
+      ],
+      "answer": "Man-made polymers",
+      "explanation": "Man-made polymers used in plastics are different from natural polymers, and most microbes haven't evolved enzymes to digest them."
+    },
+    {
+      "question": "Which enzyme discovered in a plastic-bottle recycling plant can break down PET polymers?",
+      "choices": [
+        "Ideonella sakaiensis 201-F6",
+        "Leaf Branch Compost Cutinases",
+        "PETase"
+      ],
+      "answer": "Ideonella sakaiensis 201-F6",
+      "explanation": "Researchers discovered Ideonella sakaiensis 201-F6, a bacterium containing enzymes capable of breaking down PET polymers at low temperatures."
+    },
+    {
+      "question": "Where did scientists find gene sequences for powerful degrading enzymes adapted to high temperature environments?",
+      "choices": [
+        "In a plastic recycling plant",
+        "In a compost pile",
+        "In the ocean"
+      ],
+      "answer": "In a compost pile",
+      "explanation": "Scientists found gene sequences for enzymes adapted to high temperatures in a warm compost pile, enabling the degradation of PET plastic at high temperatures."
+    },
+    {
+      "question": "What temperature do researchers in Japan use to degrade PET plastic with the help of engineered enzymes?",
+      "choices": [
+        "40˚C",
+        "70˚C",
+        "100˚C"
+      ],
+      "answer": "70˚C",
+      "explanation": "Researchers in Japan used enzymes that could degrade PET plastic at 70˚C, making the polymers digestible at higher temperatures."
+    },
+    {
+      "question": "What is the main challenge in biologically degrading plastics like PEs and PPs?",
+      "choices": [
+        "High temperatures required",
+        "Lack of suitable enzymes",
+        "Chemical modifications"
+      ],
+      "answer": "High temperatures required",
+      "explanation": "Plastics like PEs and PPs begin breaking down at temperatures above 130˚C, posing a challenge as most microbes and enzymes can't tolerate such high temperatures."
+    }
+  ]
+}

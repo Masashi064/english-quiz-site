@@ -1,0 +1,81 @@
+{
+  "slug": "d1598db0",
+  "video_id": "hOfRN0KihOU",
+  "movie_title": "How Evolution works",
+  "movie_url": "https://youtu.be/hOfRN0KihOU",
+  "published_at": "2013-07-11T14:09:52Z",
+  "duration": "11:48",
+  "tags": [
+    "evolution",
+    "science",
+    "darwin",
+    "design",
+    "infographic",
+    "dawkins",
+    "Intelligent",
+    "biology",
+    "explain",
+    "learning",
+    "animation",
+    "Creationism",
+    "Erklärfilm",
+    "kurzeng",
+    "documentaries",
+    "youtube",
+    "funny"
+  ],
+  "introduction": "The mechanisms of evolution explained in one video.\n\nThe theory of evolution explains how the enormo",
+  "lead_intro": "Learn about the fascinating mechanisms of evolution and how new species are created through unique individuals, heredity, and natural selection.",
+  "quiz": [
+    {
+      "question": "What is a species based on the video?",
+      "choices": [
+        "A group of animals with similar appearances",
+        "An animal that can reproduce with others in its community",
+        "An animal with unique characteristics"
+      ],
+      "answer": "An animal that can reproduce with others in its community",
+      "explanation": "In the video, a species is defined as a community of animals capable of producing offspring with one another, which can also reproduce in turn."
+    },
+    {
+      "question": "What is the role of DNA in evolution?",
+      "choices": [
+        "It determines the size of an animal",
+        "It contains instructions for traits and characteristics",
+        "It controls the behavior of an animal"
+      ],
+      "answer": "It contains instructions for traits and characteristics",
+      "explanation": "DNA carries genes that hold instructions for cells, determining the traits and characteristics of living creatures."
+    },
+    {
+      "question": "What is recombination in heredity?",
+      "choices": [
+        "The passing on of DNA to offspring",
+        "The random mixing of DNA from two creatures",
+        "The mutation of DNA due to toxins"
+      ],
+      "answer": "The random mixing of DNA from two creatures",
+      "explanation": "Recombination is the process where genes from two creatures are mixed randomly to create new offspring with a unique combination of traits."
+    },
+    {
+      "question": "What are mutations in DNA?",
+      "choices": [
+        "Positive changes in DNA",
+        "Random errors in DNA copying",
+        "Controlled variations in DNA"
+      ],
+      "answer": "Random errors in DNA copying",
+      "explanation": "Mutations are described as random changes in DNA that can occur due to errors in copying, toxins, or radiation, leading to variations in traits."
+    },
+    {
+      "question": "How does natural selection influence evolution?",
+      "choices": [
+        "It prevents any changes in DNA",
+        "It leads to identical offspring",
+        "It favors individuals with suitable traits for survival"
+      ],
+      "answer": "It favors individuals with suitable traits for survival",
+      "explanation": "Natural selection acts on individuals with traits best suited for survival in their environment, allowing them to pass on enhanced characteristics to future generations."
+    }
+  ]
+}
