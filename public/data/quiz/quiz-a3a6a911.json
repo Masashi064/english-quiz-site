@@ -1,0 +1,77 @@
+{
+  "slug": "a3a6a911",
+  "video_id": "hvmIZAvt3jE",
+  "movie_title": "How to Cut a Sandwich Perfectly – With Science",
+  "movie_url": "https://youtu.be/hvmIZAvt3jE",
+  "published_at": "2023-05-25T14:00:28Z",
+  "duration": "0:53",
+  "tags": [
+    "kurzgesagt",
+    "In a nutshell",
+    "kurzgesagt in a nutshell",
+    "science",
+    "mathclass",
+    "learn math",
+    "math",
+    "maths",
+    "funfacts to know",
+    "mathematics",
+    "youtube math",
+    "ham sandwich theorem",
+    "ham sandwich"
+  ],
+  "introduction": "There is perfect way to cut a three ingredient sandwich. ANY three ingredient sandwich. And there's",
+  "lead_intro": "Have you ever wondered about the science behind cutting sandwiches perfectly in half with just one straight cut? Dive into the 'ham sandwich theorem' and test your knowledge with this quiz!",
+  "quiz": [
+    {
+      "question": "What is the name of the theorem discussed in the video?",
+      "choices": [
+        "The Cheese Theorem",
+        "The Turkey Theorem",
+        "The Ham Sandwich Theorem"
+      ],
+      "answer": "The Ham Sandwich Theorem",
+      "explanation": "The video discusses the 'ham sandwich theorem' which explains the science behind cutting sandwiches perfectly in half with just one straight cut."
+    },
+    {
+      "question": "What is the key concept of the ham sandwich theorem?",
+      "choices": [
+        "Cutting sandwiches with multiple cuts",
+        "Cutting sandwiches with one straight cut",
+        "Cutting sandwiches with a serrated knife"
+      ],
+      "answer": "Cutting sandwiches with one straight cut",
+      "explanation": "The key concept of the ham sandwich theorem is cutting sandwiches perfectly in half with just one straight cut."
+    },
+    {
+      "question": "According to the video, in what type of space can a four-piece sandwich be perfectly cut with one slice?",
+      "choices": [
+        "Two-dimensional space",
+        "Three-dimensional space",
+        "Four-dimensional space"
+      ],
+      "answer": "Four-dimensional space",
+      "explanation": "In a four-dimensional space, a four-piece sandwich can be perfectly cut with just one slice according to mathematical principles."
+    },
+    {
+      "question": "What does the video mention you need for halving three sandwich slices at once?",
+      "choices": [
+        "A very sharp knife",
+        "A very big knife",
+        "A serrated knife"
+      ],
+      "answer": "A very big knife",
+      "explanation": "To halve three sandwich slices at once, the video mentions you would need a very big knife."
+    },
+    {
+      "question": "What does the video suggest about the possibility of perfect cuts in multi-dimensional spaces?",
+      "choices": [
+        "There is always a perfect cut possible",
+        "Perfect cuts are impossible",
+        "It depends on the dimensions of the space"
+      ],
+      "answer": "There is always a perfect cut possible",
+      "explanation": "The video suggests that according to mathematical principles, there is always a perfect cut possible in multi-dimensional spaces."
+    }
+  ]
+}

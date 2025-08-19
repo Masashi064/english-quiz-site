@@ -1,0 +1,63 @@
+{
+  "slug": "31312073",
+  "video_id": "LmpuerlbJu0",
+  "movie_title": "You Are Immune Against Every Disease",
+  "movie_url": "https://youtu.be/LmpuerlbJu0",
+  "published_at": "2021-11-02T14:59:43Z",
+  "duration": "11:46",
+  "tags": [],
+  "introduction": "Order IMMUNE here: https://kgs.link/ImmuneBook – It’s available in English and German and at online",
+  "lead_intro": "Have you ever wondered how your immune system protects you against billions of invaders every day? Let's dive into the fascinating world of your body's defense mechanisms.",
+  "quiz": [
+    {
+      "question": "What are the two main parts of the immune system mentioned in the video?",
+      "choices": [
+        "A) The outer and inner immune systems",
+        "B) The innate and adaptive immune systems",
+        "C) The fast and slow immune systems"
+      ],
+      "answer": "B) The innate and adaptive immune systems",
+      "explanation": "The video explains that the immune system consists of the innate immune system (ready at birth) and the adaptive immune system (with superweapons like T Cells and B Cells)."
+    },
+    {
+      "question": "What is the function of the Thymus in the immune system?",
+      "choices": [
+        "A) It produces white blood cells",
+        "B) It stores antibodies",
+        "C) It trains adaptive immune cells to recognize self from non-self proteins"
+      ],
+      "answer": "C) It trains adaptive immune cells to recognize self from non-self proteins",
+      "explanation": "The Thymus acts as a 'Murder University' where adaptive immune cells are trained to distinguish between body puzzle pieces and enemy puzzle pieces."
+    },
+    {
+      "question": "How do adaptive immune cells create a wide variety of receptors to recognize different enemy proteins?",
+      "choices": [
+        "A) By mixing and matching gene fragments",
+        "B) By mutating rapidly",
+        "C) By learning from the innate immune system"
+      ],
+      "answer": "A) By mixing and matching gene fragments",
+      "explanation": "Adaptive immune cells use a cheat code by recombining parts of their genetic code in random ways to generate billions of different receptors."
+    },
+    {
+      "question": "What can happen if cells escape the Thymus without proper training?",
+      "choices": [
+        "A) They multiply rapidly",
+        "B) They attack the body's own cells",
+        "C) They become dormant"
+      ],
+      "answer": "B) They attack the body's own cells",
+      "explanation": "If immune cells recognize self proteins as enemies, it can lead to autoimmune diseases where the immune system attacks the body."
+    },
+    {
+      "question": "Why is the adaptive immune system able to protect against a wide range of enemies?",
+      "choices": [
+        "A) It has billions of immune cells ready at birth",
+        "B) It recognizes between one billion and ten billion different enemy protein puzzle pieces",
+        "C) It only targets specific viruses"
+      ],
+      "answer": "B) It recognizes between one billion and ten billion different enemy protein puzzle pieces",
+      "explanation": "The adaptive immune system creates a vast diversity of receptors to recognize various enemy proteins, making it prepared for every possible enemy."
+    }
+  ]
+}

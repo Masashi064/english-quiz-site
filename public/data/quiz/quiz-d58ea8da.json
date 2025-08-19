@@ -1,0 +1,70 @@
+{
+  "slug": "d58ea8da",
+  "video_id": "8Ey3_9N089k",
+  "movie_title": "The Next Atomic Bomb Is Made of DNA",
+  "movie_url": "https://youtu.be/8Ey3_9N089k",
+  "published_at": "2023-07-02T13:00:05Z",
+  "duration": "0:54",
+  "tags": [
+    "kurzgesagt",
+    "kurzgesagt in a nutshell",
+    "in a nutshell",
+    "biorisk",
+    "biohazard",
+    "biology"
+  ],
+  "introduction": "A breathtaking scientific revolution is taking place – biotechnology has been progressing at incredi",
+  "lead_intro": "Discover the potential dangers of bioengineering with the rise of accessible genetic data and lab resources. Are you ready to test your knowledge on this topic?",
+  "quiz": [
+    {
+      "question": "What has become more available and widespread in recent years?",
+      "choices": [
+        "Lab equipment",
+        "Genetic data",
+        "Biotech companies"
+      ],
+      "answer": "Genetic data",
+      "explanation": "The availability and widespread knowledge of genetic data have increased in recent years."
+    },
+    {
+      "question": "What was bioengineering previously restricted to?",
+      "choices": [
+        "Public hospitals",
+        "Well-funded Laboratories",
+        "Small clinics"
+      ],
+      "answer": "Well-funded Laboratories",
+      "explanation": "Bioengineering was previously restricted to well-funded Laboratories."
+    },
+    {
+      "question": "Who is bioengineering becoming increasingly open to?",
+      "choices": [
+        "Only government researchers",
+        "Only trained professionals",
+        "Anyone willing to spend a year's salary on lab equipment"
+      ],
+      "answer": "Anyone willing to spend a year's salary on lab equipment",
+      "explanation": "Bioengineering is becoming increasingly open to anyone willing to invest in lab equipment."
+    },
+    {
+      "question": "What could be the effects of a loose engineered virus?",
+      "choices": [
+        "Minimal impact",
+        "Devastating consequences",
+        "Improved health outcomes"
+      ],
+      "answer": "Devastating consequences",
+      "explanation": "A loose engineered virus could have devastating consequences if not properly controlled."
+    },
+    {
+      "question": "What is emphasized as a key action that needs to be taken regarding bioengineering?",
+      "choices": [
+        "Acting in a decade",
+        "Immediate action",
+        "Ignoring the issue"
+      ],
+      "answer": "Immediate action",
+      "explanation": "The video stresses the urgency of taking immediate action regarding the threats of bioengineering."
+    }
+  ]
+}

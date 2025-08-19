@@ -1,0 +1,95 @@
+{
+  "slug": "1cbe03e8",
+  "video_id": "YiydsMxOdM8",
+  "movie_title": "What can DNA tests really tell us about our ancestry? - Prosanta Chakrabarty",
+  "movie_url": "https://youtu.be/YiydsMxOdM8",
+  "published_at": "2020-06-09T15:00:46Z",
+  "duration": "6:45",
+  "tags": [
+    "dna test",
+    "dna",
+    "genome",
+    "ancestry",
+    "chromosome",
+    "recombination",
+    "heritage",
+    "neanderthals",
+    "science",
+    "biology",
+    "human genome",
+    "human genetics",
+    "genetics",
+    "ancestors",
+    "ancestry test",
+    "nationalities",
+    "genealogy",
+    "ancestry dna",
+    "ancestry dna test",
+    "double helix",
+    "sex chromosome",
+    "family",
+    "education",
+    "animation",
+    "Prosanta Chakrabarty",
+    "artrake studio",
+    "TED",
+    "TED-Ed",
+    "TED Ed",
+    "Teded",
+    "Ted Education"
+  ],
+  "introduction": "Dig into the science of how ancestry DNA tests work, their accuracy, and why tracing ancestry is so",
+  "lead_intro": "Have you ever wondered how two sisters can have different percentages of a particular ancestry in their DNA test results? Let's dive into the fascinating world of DNA testing and discover why our DNA can't tell us everything about our ancestry!",
+  "quiz": [
+    {
+      "question": "Why can one sister be 10% French in DNA ancestry while the other is 0% French, even though they share the same set of ancestors?",
+      "choices": [
+        "Due to the unique process of recombination in each sex cell",
+        "Because one sister has more French ancestors than the other",
+        "As a result of the comparison of genetic markers to people currently living in France"
+      ],
+      "answer": "Due to the unique process of recombination in each sex cell",
+      "explanation": "Recombination in each sex cell results in unique combinations of chromosomes, making each sister's DNA distinct from one another despite having the same set of ancestors."
+    },
+    {
+      "question": "What percentage of our genome is shared among all humans?",
+      "choices": [
+        "90%",
+        "99%",
+        "100%"
+      ],
+      "answer": "99%",
+      "explanation": "99% of our genome is shared among all humans, while the remaining 1% contains unique characteristics related to individual ancestry."
+    },
+    {
+      "question": "How do commercial DNA tests utilize the 1% of the genome that contains distinct ancestry information?",
+      "choices": [
+        "They analyze genetic markers shared with people currently living in a specific region",
+        "They compare DNA sequences to deceased individuals' genomes",
+        "They focus on the 99% of shared genome information"
+      ],
+      "answer": "They analyze genetic markers shared with people currently living in a specific region",
+      "explanation": "Commercial DNA tests use genetic markers to compare DNA sequences with individuals from specific regions, indicating potential ancestry connections to those areas."
+    },
+    {
+      "question": "What is recombination in the context of DNA inheritance?",
+      "choices": [
+        "The process of combining chromosomes from each parent during conception",
+        "The swapping of sections between chromosomes in each pair of sex cells",
+        "The distribution of DNA from ancestors in equal proportions to offspring"
+      ],
+      "answer": "The swapping of sections between chromosomes in each pair of sex cells",
+      "explanation": "Recombination involves the exchange of genetic material between chromosome pairs in sex cells, leading to unique combinations of chromosomes in offspring."
+    },
+    {
+      "question": "Why do DNA test results vary based on the database of sequenced genomes used for comparison?",
+      "choices": [
+        "Due to the lack of representation of certain populations in the database",
+        "Because DNA tests are not accurate in determining ancestry",
+        "As a result of the complexity of genetic inheritance"
+      ],
+      "answer": "Due to the lack of representation of certain populations in the database",
+      "explanation": "DNA test results may not accurately reflect ancestry from populations not well-represented in the database, leading to potential biases in the reported genetic heritage."
+    }
+  ]
+}

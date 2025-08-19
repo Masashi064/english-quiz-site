@@ -1,0 +1,99 @@
+{
+  "slug": "1d1a8081",
+  "video_id": "wyHLLzmNje0",
+  "movie_title": "Picture a perfect society. What does it look like? - Joseph Lacey",
+  "movie_url": "https://youtu.be/wyHLLzmNje0",
+  "published_at": "2024-04-18T15:00:59Z",
+  "duration": "5:55",
+  "tags": [
+    "rawls",
+    "john rawls",
+    "rawls thought experiment",
+    "philosophy",
+    "philosopher",
+    "rawls philosophy",
+    "rawls democracy",
+    "utopia",
+    "utopian society",
+    "veil of ignorance",
+    "society",
+    "theory of justice",
+    "democracy",
+    "fair society",
+    "basic liberties",
+    "distribution of resources",
+    "opportunity",
+    "inequality",
+    "property owning democracy",
+    "equal access",
+    "education",
+    "wealth",
+    "healthcare",
+    "ronald dworkin",
+    "marth nussbaum",
+    "animation",
+    "history",
+    "political philosophy",
+    "Eoin Duffy",
+    "Joseph Lacey",
+    "TED",
+    "TED-Ed",
+    "TED Ed",
+    "Teded",
+    "Ted Education"
+  ],
+  "introduction": "Dig into political philosopher John Rawls’ classic thought experiment about what principles we need",
+  "lead_intro": "Imagine designing a just society under a veil of ignorance with political philosopher John Rawls. Let's dive into Rawls' thought experiment and his principles for a fair society.",
+  "quiz": [
+    {
+      "question": "What did John Rawls call the distribution of basic liberties, opportunities, and wealth necessary for pursuing most goals?",
+      "choices": [
+        "Primary needs",
+        "Primary resources",
+        "Primary goods"
+      ],
+      "answer": "Primary goods",
+      "explanation": "Rawls referred to the distribution of basic liberties, opportunities, and wealth as 'primary goods' in his design for a just society."
+    },
+    {
+      "question": "According to Rawls, what must society ensure to compete for valued jobs and positions?",
+      "choices": [
+        "Equal wealth distribution",
+        "Fair equality of opportunity",
+        "Strict equality of opportunity"
+      ],
+      "answer": "Fair equality of opportunity",
+      "explanation": "Rawls believed that society must ensure 'fair equality of opportunity' so that no one is unfairly deprived of the resources necessary to compete for valued jobs and positions."
+    },
+    {
+      "question": "What principle did Rawls propose to justify wealth inequalities in society?",
+      "choices": [
+        "The equality principle",
+        "The fairness principle",
+        "The difference principle"
+      ],
+      "answer": "The difference principle",
+      "explanation": "Rawls proposed 'the difference principle' to justify wealth inequalities, stating that they are acceptable only when they benefit the least advantaged citizens, making them better off than under strict equality."
+    },
+    {
+      "question": "What model did Rawls advocate for to ensure equal access to education and healthcare?",
+      "choices": [
+        "Socialist democracy",
+        "Property owning democracy",
+        "Communist democracy"
+      ],
+      "answer": "Property owning democracy",
+      "explanation": "Rawls advocated for a 'property owning democracy' model to guarantee equal access to education and healthcare, relying on government regulation for a just distribution of property and wealth."
+    },
+    {
+      "question": "What did Rawls advocate for to reduce the influence of wealth on politics?",
+      "choices": [
+        "Limits on campaign spending",
+        "Unrestricted political contributions",
+        "Increased wealth influence"
+      ],
+      "answer": "Limits on campaign spending",
+      "explanation": "Rawls advocated for limits on campaign spending and political contributions to reduce the influence of wealth on politics, aiming for a more justly regulated form of capitalism."
+    }
+  ]
+}

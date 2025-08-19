@@ -1,0 +1,101 @@
+{
+  "slug": "7820ff7e",
+  "video_id": "QJB0nmEjbDY",
+  "movie_title": "The surprising reason zebras have stripes - Cella Wright",
+  "movie_url": "https://youtu.be/QJB0nmEjbDY",
+  "published_at": "2024-09-03T15:00:39Z",
+  "duration": "5:55",
+  "tags": [
+    "zebras",
+    "zebra",
+    "zebra stripes",
+    "stripes",
+    "animal stripes",
+    "wild zebras",
+    "zebra domestication",
+    "animal domestication",
+    "fritz bronsart",
+    "biting flies",
+    "horses",
+    "equids",
+    "zebra pattern",
+    "camouflage",
+    "socialization",
+    "patterning",
+    "flies",
+    "Kilimanjaro",
+    "animals",
+    "african animals",
+    "animal evolution",
+    "zebra evolution",
+    "german empire",
+    "Bronsart von Schellendorff",
+    "scramble for africa",
+    "history",
+    "biology",
+    "science",
+    "education",
+    "animation",
+    "cella wright",
+    "Sharon Colman",
+    "TED",
+    "TED-Ed",
+    "TED Ed",
+    "Teded",
+    "Ted Education"
+  ],
+  "introduction": "Dig into the scientific theories of why zebras have stripes, and why this unique patterning sets the",
+  "lead_intro": "Discover the intriguing history of European attempts to domesticate zebras in Africa and the mysteries surrounding their distinctive striped coats.",
+  "quiz": [
+    {
+      "question": "What fatal problem did biting flies cause for European colonists in Africa?",
+      "choices": [
+        "A) Disease transmission and blood loss",
+        "B) Crop destruction",
+        "C) Water scarcity"
+      ],
+      "answer": "A) Disease transmission and blood loss",
+      "explanation": "Biting flies extracted large amounts of blood from horses daily, transmitting fatal diseases that led to the death of many domestic horses."
+    },
+    {
+      "question": "Why were European colonists interested in domesticating zebras?",
+      "choices": [
+        "A) Zebras were immune to diseases",
+        "B) Zebras were faster than horses",
+        "C) Zebras were easier to train"
+      ],
+      "answer": "A) Zebras were immune to diseases",
+      "explanation": "Unlike horses, zebras appeared immune to the diseases transmitted by biting flies, making them a potential solution for transport in African territories."
+    },
+    {
+      "question": "What was one hypothesis regarding the function of zebra striping that was disproven?",
+      "choices": [
+        "A) Social identification",
+        "B) Camouflage",
+        "C) Cooling effect"
+      ],
+      "answer": "A) Social identification",
+      "explanation": "The hypothesis that zebra striping served a social identification function was deemed unlikely as other equids could identify individuals in their herd without the unique patterning."
+    },
+    {
+      "question": "How did zebra stripes potentially protect them from biting flies?",
+      "choices": [
+        "A) By confusing predators",
+        "B) By generating cooling air currents",
+        "C) By interfering with landing positions"
+      ],
+      "answer": "C) By interfering with landing positions",
+      "explanation": "Zebra stripes were found to interfere with how biting flies processed visual information for landing, causing them to have clumsy overshoots and crash landings, limiting their blood-sucking opportunities."
+    },
+    {
+      "question": "Why did the attempts at zebra domestication by the German Empire fail?",
+      "choices": [
+        "A) Lack of interest from Indigenous people",
+        "B) Zebras' strong defensive adaptations",
+        "C) Insufficient funding"
+      ],
+      "answer": "B) Zebras' strong defensive adaptations",
+      "explanation": "Zebras' robust fight and flight adaptations, including fierce bites and kicks, made them difficult to domesticate, along with the unpreparedness of the operation to meet their needs."
+    }
+  ]
+}

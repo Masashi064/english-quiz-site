@@ -1,0 +1,63 @@
+{
+  "slug": "4a9acea0",
+  "video_id": "6a6kbU88wu0",
+  "movie_title": "How to recognize a dystopia - Alex Gendler",
+  "movie_url": "https://youtu.be/6a6kbU88wu0",
+  "published_at": "2016-11-15T16:03:16Z",
+  "duration": "5:56",
+  "tags": [],
+  "introduction": "View full lesson: http://ed.ted.com/lessons/how-to-recognize-a-dystopia-alex-gendler\n\nThe genre of d",
+  "lead_intro": "Dive into the world of utopian and dystopian visions with this thought-provoking exploration of humanity's quest for an ideal society.",
+  "quiz": [
+    {
+      "question": "What term did Thomas More coin in his 1516 book to describe an ideal society?",
+      "choices": [
+        "Eutopia",
+        "Good Place",
+        "Utopia"
+      ],
+      "answer": "Utopia",
+      "explanation": "Thomas More introduced the term 'Utopia' in his 1516 book to describe an ideal society, deriving from the Greek term meaning 'no place.'"
+    },
+    {
+      "question": "Which writer established a blueprint for dystopia by exaggerating trends in contemporary society to expose flaws?",
+      "choices": [
+        "Jonathan Swift",
+        "H. G. Wells",
+        "Aldous Huxley"
+      ],
+      "answer": "Jonathan Swift",
+      "explanation": "Jonathan Swift, in 'Gulliver's Travels,' set a blueprint for dystopia by taking trends in society to extremes to reveal their underlying flaws."
+    },
+    {
+      "question": "In Aldous Huxley's 'Brave New World,' how are citizens conditioned to perform their social roles?",
+      "choices": [
+        "Genetic engineering",
+        "Education",
+        "Propaganda"
+      ],
+      "answer": "Genetic engineering",
+      "explanation": "In 'Brave New World,' citizens are genetically engineered and conditioned to fulfill specific social roles as part of a dystopian society."
+    },
+    {
+      "question": "Which novel by George Orwell is a broader critique of totalitarianism, media, and language?",
+      "choices": [
+        "Animal Farm",
+        "1984",
+        "Brave New World"
+      ],
+      "answer": "1984",
+      "explanation": "'1984' by George Orwell is a renowned novel that critiques totalitarianism, media manipulation, and the control of language in a dystopian society."
+    },
+    {
+      "question": "What is the primary purpose of dystopian fiction, as mentioned in the conclusion of the text?",
+      "choices": [
+        "To provide entertainment",
+        "To predict the future",
+        "To serve as cautionary tales"
+      ],
+      "answer": "To serve as cautionary tales",
+      "explanation": "Dystopian fiction serves as cautionary tales, warning about the dangers of trying to mold humanity into an ideal shape and reflecting modern anxieties."
+    }
+  ]
+}

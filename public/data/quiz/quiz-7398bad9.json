@@ -1,0 +1,94 @@
+{
+  "slug": "7398bad9",
+  "video_id": "drWlSGryMkY",
+  "movie_title": "Saving the white rhino - 6 Minute English",
+  "movie_url": "https://youtu.be/drWlSGryMkY",
+  "published_at": "2021-07-01T15:11:26Z",
+  "duration": "6:16",
+  "tags": [
+    "learn English",
+    "English vocabulary",
+    "speak English",
+    "bbc english",
+    "English teacher",
+    "英語",
+    "영어",
+    "อังกฤษ",
+    "Anh",
+    "English tutorial",
+    "Ingilizce ders",
+    "English grammar",
+    "IELTS",
+    "British English",
+    "English pronunciation",
+    "English lesson",
+    "idiom",
+    "English expressions",
+    "BBC Learning English",
+    "tefl",
+    "BBC",
+    "Online English",
+    "how to speak English",
+    "ELT",
+    "white rhino",
+    "conservation",
+    "animal conservation",
+    "extinction",
+    "rhino",
+    "environment"
+  ],
+  "introduction": "Improve your English vocabulary and listening in just six minutes!\nNorthern white rhinos are extinct",
+  "lead_intro": "Learn about the efforts to save the northern white rhino population through artificial breeding and conservation. Join Neil and Sam in this engaging 6 Minute English episode from BBC Learning English!",
+  "quiz": [
+    {
+      "question": "What does the name 'rhinoceros' mean?",
+      "choices": [
+        "Thick skin",
+        "Horned nose",
+        "Small eye"
+      ],
+      "answer": "Horned nose",
+      "explanation": "The correct answer is b) Horned nose. The name 'rhinoceros' comes from the Greek meaning 'horned nose'."
+    },
+    {
+      "question": "What is an embryo?",
+      "choices": [
+        "A young rhino calf",
+        "An unborn animal in early development",
+        "A hybrid species"
+      ],
+      "answer": "An unborn animal in early development",
+      "explanation": "An embryo is an unborn animal or human still inside its mother's womb, in the very early stages of development."
+    },
+    {
+      "question": "Why is inbreeding harmful in breeding programs?",
+      "choices": [
+        "It leads to disease",
+        "It helps strengthen the genetic pool",
+        "It speeds up reproduction"
+      ],
+      "answer": "It leads to disease",
+      "explanation": "Inbreeding, breeding of a young animal from closely related parents, can cause disease and genetic abnormalities in the offspring."
+    },
+    {
+      "question": "What is the purpose of using ultrasound in monitoring pregnancies?",
+      "choices": [
+        "To detect inbreeding",
+        "To create images of internal body parts",
+        "To speed up pregnancy"
+      ],
+      "answer": "To create images of internal body parts",
+      "explanation": "Ultrasound is used to create images of internal body parts, including monitoring the growth and development of babies inside the womb."
+    },
+    {
+      "question": "Why is it important to preserve the social knowledge of northern white rhinos?",
+      "choices": [
+        "To prevent inbreeding",
+        "To ensure healthy embryos",
+        "To teach young rhinos how to behave"
+      ],
+      "answer": "To teach young rhinos how to behave",
+      "explanation": "Preserving social knowledge is crucial for young rhinos to learn species-specific behaviors from older rhinos, ensuring their survival and well-being."
+    }
+  ]
+}

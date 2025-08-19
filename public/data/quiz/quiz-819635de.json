@@ -1,0 +1,81 @@
+{
+  "slug": "819635de",
+  "video_id": "8ILQMRr1-8M",
+  "movie_title": "AI Can Literally Lend You a Hand",
+  "movie_url": "https://youtu.be/8ILQMRr1-8M",
+  "published_at": "2024-03-14T15:00:10Z",
+  "duration": "0:54",
+  "tags": [
+    "inanutshell",
+    "kurzgesagt",
+    "kurzgesagt_inanutshell",
+    "learnwithshorts",
+    "interestingfact",
+    "kurzgesagt - in a nutshell",
+    "in a nutshell",
+    "science facts",
+    "science",
+    "ai",
+    "prosthetics",
+    "prosthetic arm",
+    "hands",
+    "anatomy",
+    "anatomyfacts",
+    "anatomy shorts",
+    "prosthetic hand"
+  ],
+  "introduction": "Hands are hard. If your hand were a video game character, you'd need 27 buttons to control it. We're",
+  "lead_intro": "Imagine controlling a robotic hand with the same ease as playing a video game character. Let's explore how AI is revolutionizing prosthetic technology!",
+  "quiz": [
+    {
+      "question": "What is needed to control a robotic hand using AI technology?",
+      "choices": [
+        "A data glove and a microchip with electrical sensors",
+        "27 buttons",
+        "A joystick"
+      ],
+      "answer": "A data glove and a microchip with electrical sensors",
+      "explanation": "To control a robotic hand using AI technology, one needs a data glove and a microchip with electrical sensors in the residual limb."
+    },
+    {
+      "question": "How do the sensors on the microchip read movements?",
+      "choices": [
+        "They read brain signals",
+        "They read movements in the rest of the arm",
+        "They read eye movements"
+      ],
+      "answer": "They read movements in the rest of the arm",
+      "explanation": "The sensors on the microchip read movements in the rest of the arm when trying to move the missing hand."
+    },
+    {
+      "question": "What does the machine learning algorithm do with the signals from the microchip?",
+      "choices": [
+        "It ignores the signals",
+        "It translates the signals into moving the robotic hand",
+        "It sends the signals to space"
+      ],
+      "answer": "It translates the signals into moving the robotic hand",
+      "explanation": "The machine learning algorithm translates the signals from the microchip into moving the robotic hand connected via Bluetooth."
+    },
+    {
+      "question": "How does AI help in the process of adapting movements from a healthy hand to a robotic hand?",
+      "choices": [
+        "By slowing down the process",
+        "By speeding up the process",
+        "By not being involved at all"
+      ],
+      "answer": "By speeding up the process",
+      "explanation": "AI speeds up the process by learning the movements from a healthy hand and adapting them to a robotic hand faster."
+    },
+    {
+      "question": "What is the key technology that enables the communication between the microchip and the robotic hand?",
+      "choices": [
+        "Bluetooth",
+        "Wi-Fi",
+        "Infrared"
+      ],
+      "answer": "Bluetooth",
+      "explanation": "The key technology enabling communication between the microchip and the robotic hand is Bluetooth."
+    }
+  ]
+}
