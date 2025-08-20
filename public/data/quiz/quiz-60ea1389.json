@@ -1,0 +1,94 @@
+{
+  "slug": "60ea1389",
+  "video_id": "i0WH4SFpeB8",
+  "movie_title": "Can you solve the computer virus riddle? - James Tanton",
+  "movie_url": "https://youtu.be/i0WH4SFpeB8",
+  "published_at": "2021-10-19T15:01:00Z",
+  "duration": "5:54",
+  "tags": [
+    "binary code",
+    "code",
+    "coding",
+    "hacking",
+    "hacker",
+    "mainframe",
+    "antivirus",
+    "binary numbers",
+    "binary number system",
+    "mathematical operations",
+    "corrupted disk",
+    "mathematical hypotheticals",
+    "binary sums",
+    "parity",
+    "binary addition",
+    "riddles",
+    "ted ed riddles",
+    "math puzzles",
+    "binary puzzle",
+    "mathematics",
+    "education",
+    "animation",
+    "james tanton",
+    "igor coric",
+    "artrake studio",
+    "TED",
+    "TED-Ed",
+    "Teded",
+    "TED Ed",
+    "Ted Education"
+  ],
+  "introduction": "Practice more problem-solving at https://brilliant.org/TedEd\n\n--\n\nYour antivirus squad is up against",
+  "lead_intro": "Join the antivirus squad in a thrilling mission to defeat a malicious code by using binary code to communicate which disk is corrupted. Let's dive into the challenge and unravel the solution!",
+  "quiz": [
+    {
+      "question": "How are the disks in the mainframe represented within the binary numbering system?",
+      "choices": [
+        "1s and 2s",
+        "0s and 1s",
+        "3s and 4s"
+      ],
+      "answer": "0s and 1s",
+      "explanation": "The 4 disks in the mainframe are represented using a 2-bit binary number system, which ranges from 00 to 11."
+    },
+    {
+      "question": "What action can the antivirus agent take to communicate the corrupted disk?",
+      "choices": [
+        "Turning all disks on",
+        "Flipping a single disk",
+        "Destroying the corrupted disk"
+      ],
+      "answer": "Flipping a single disk",
+      "explanation": "The agent can flip a single disk on or off to communicate which disk is corrupted, based on the sum of the lit disks in binary code."
+    },
+    {
+      "question": "Why is the concept of parity important in this communication strategy?",
+      "choices": [
+        "To determine even or odd numbers",
+        "To ensure data security",
+        "To calculate disk storage capacity"
+      ],
+      "answer": "To determine even or odd numbers",
+      "explanation": "Parity helps in determining whether the sum of 1s in each binary digit place is even or odd, which aids in identifying the corrupted disk."
+    },
+    {
+      "question": "How does the strategy of flipping a single disk work for mainframes with a power of two disks?",
+      "choices": [
+        "By converting disks to hexadecimal numbers",
+        "By summing the 1s in each column",
+        "By multiplying the disk numbers"
+      ],
+      "answer": "By summing the 1s in each column",
+      "explanation": "For mainframes with a power of two disks, summing the 1s in each column of binary numbers helps identify the corrupted disk by changing the parity as needed."
+    },
+    {
+      "question": "Why is the communication strategy using binary addition effective for any mainframe with a power of two disks?",
+      "choices": [
+        "Due to the use of advanced encryption techniques",
+        "Because of the ability to represent any number from 00 to 11",
+        "To prevent data loss during communication"
+      ],
+      "answer": "Because of the ability to represent any number from 00 to 11",
+      "explanation": "The binary addition strategy allows for representing any number from 00 to 11, making it effective for any mainframe with a power of two disks by changing the sum of 1s to indicate the corrupted disk."
+    }
+  ]
+}

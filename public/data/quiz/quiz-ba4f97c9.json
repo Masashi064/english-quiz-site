@@ -1,0 +1,63 @@
+{
+  "slug": "ba4f97c9",
+  "video_id": "TYPFenJQciw",
+  "movie_title": "The Most Complex Language in the World",
+  "movie_url": "https://youtu.be/TYPFenJQciw",
+  "published_at": "2023-02-14T14:59:37Z",
+  "duration": "11:55",
+  "tags": [],
+  "introduction": "Go ‘beyond the nutshell’ at https://brilliant.org/nutshell/ and dive deeper into these topics and mo",
+  "lead_intro": "Have you ever wondered how the inside of your cells looks like? Dive into the fascinating world of proteins and the language of life with this video. Let's explore the intricate workings of the smallest unit of life!",
+  "quiz": [
+    {
+      "question": "What gives a cell's insides the consistency of soft jelly and enables other things to move around easily?",
+      "choices": [
+        "Proteins",
+        "Water molecules",
+        "Amino acids"
+      ],
+      "answer": "Water molecules",
+      "explanation": "Water molecules give a cell's insides the consistency of soft jelly and enable other things to move around easily."
+    },
+    {
+      "question": "How many different kinds of proteins are there in a cell?",
+      "choices": [
+        "1000",
+        "5000",
+        "More than 10,000"
+      ],
+      "answer": "More than 10,000",
+      "explanation": "There are more than 10,000 different kinds of proteins in a cell, depending on the function of the cell."
+    },
+    {
+      "question": "What is the alphabet of the language of life?",
+      "choices": [
+        "Proteins",
+        "Amino acids",
+        "Nucleic acids"
+      ],
+      "answer": "Amino acids",
+      "explanation": "Amino acids are the alphabet of the language of life, with 21 different kinds, similar to different letters."
+    },
+    {
+      "question": "How many possible proteins can human cells make based on the average protein length of 375 amino acids?",
+      "choices": [
+        "6.8 x 10^495",
+        "1 x 10^100",
+        "1 x 10^10"
+      ],
+      "answer": "6.8 x 10^495",
+      "explanation": "Based on the average protein length of 375 amino acids, human cells can make a stunning 6.8 x 10^495 possible proteins."
+    },
+    {
+      "question": "What is the role of DNA in the language of life?",
+      "choices": [
+        "Building proteins",
+        "Serving as a dictionary of proteins",
+        "Storing information on amino acids"
+      ],
+      "answer": "Serving as a dictionary of proteins",
+      "explanation": "DNA serves as a dictionary of proteins in the language of life, containing all the words that cells need to function."
+    }
+  ]
+}

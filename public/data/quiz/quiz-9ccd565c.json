@@ -1,0 +1,63 @@
+{
+  "slug": "9ccd565c",
+  "video_id": "2ukNLhC8N4Y",
+  "movie_title": "Some Galaxies Move Faster Than the Speed of Light",
+  "movie_url": "https://youtu.be/2ukNLhC8N4Y",
+  "published_at": "2025-07-10T14:00:05Z",
+  "duration": "0:48",
+  "tags": [],
+  "introduction": "Can something really move faster than the speed of light?\nThanks to cosmic expansion, the answer is…",
+  "lead_intro": "Did you know that galaxies can move faster than the speed of light? Let's dive into the fascinating world of cosmic expansion and how we observe distant galaxies!",
+  "quiz": [
+    {
+      "question": "According to Albert Einstein, what is the maximum speed that anything can travel?",
+      "choices": [
+        "The speed of sound",
+        "The speed of light",
+        "The speed of thought"
+      ],
+      "answer": "The speed of light",
+      "explanation": "Albert Einstein's theory of relativity states that nothing can travel faster than the speed of light in a vacuum."
+    },
+    {
+      "question": "What causes galaxies to move away from each other?",
+      "choices": [
+        "Gravity",
+        "Dark matter",
+        "Cosmic expansion"
+      ],
+      "answer": "Cosmic expansion",
+      "explanation": "The universe is expanding, causing galaxies to move away from each other as space itself stretches."
+    },
+    {
+      "question": "When do galaxies recede from us faster than the speed of light?",
+      "choices": [
+        "When they collide",
+        "When they emit light",
+        "When they are far enough away"
+      ],
+      "answer": "When they are far enough away",
+      "explanation": "Galaxies that are far enough away recede from us faster than the speed of light due to the expansion of the universe."
+    },
+    {
+      "question": "How do we observe distant galaxies despite their high recession speeds?",
+      "choices": [
+        "Through radio waves",
+        "By traveling to them",
+        "By analyzing the light they emit"
+      ],
+      "answer": "By analyzing the light they emit",
+      "explanation": "We can observe distant galaxies by studying the light they emit, which has traveled through the expanding universe to reach us."
+    },
+    {
+      "question": "How do scientists determine the distance of a galaxy based on the light they observe?",
+      "choices": [
+        "By measuring its color",
+        "By analyzing its size",
+        "By studying how much the light has stretched"
+      ],
+      "answer": "By studying how much the light has stretched",
+      "explanation": "Scientists can determine the distance of a galaxy by analyzing how much the light from it has stretched due to the expanding universe."
+    }
+  ]
+}

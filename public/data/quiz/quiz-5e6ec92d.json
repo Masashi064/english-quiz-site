@@ -1,0 +1,79 @@
+{
+  "slug": "5e6ec92d",
+  "video_id": "FPKRFw2jrnU",
+  "movie_title": "Earth's Hidden Gem: The Astonishing Diversity of Fauna and Flora",
+  "movie_url": "https://youtu.be/FPKRFw2jrnU",
+  "published_at": "2023-07-06T14:00:12Z",
+  "duration": "0:43",
+  "tags": [
+    "kurzgesagt",
+    "in a nutshell",
+    "why",
+    "nature",
+    "science",
+    "learning",
+    "evolution",
+    "map of evolution",
+    "biology",
+    "biologyfacts",
+    "flora",
+    "fauna",
+    "insects",
+    "mammals",
+    "connection"
+  ],
+  "introduction": "So far only 17% of all species estimated to live on Earth have been categorized, out of the estimate",
+  "lead_intro": "Did you know that Earth is home to about 8.7 million eukaryotic species? Let's explore more about the incredible diversity of fauna and flora on our planet!",
+  "quiz": [
+    {
+      "question": "How many eukaryotic species are estimated to live on Earth?",
+      "choices": [
+        "1.5 million",
+        "8.7 million",
+        "10 million"
+      ],
+      "answer": "8.7 million",
+      "explanation": "Earth is estimated to be home to about 8.7 million eukaryotic species."
+    },
+    {
+      "question": "What percentage of the 100 animals selection would insects and mammals collectively occupy?",
+      "choices": [
+        "50%",
+        "65%",
+        "75%"
+      ],
+      "answer": "65%",
+      "explanation": "In a condensed selection of just 100 animals, insects and mammals would occupy 65 spots."
+    },
+    {
+      "question": "How many animals have been cataloged so far?",
+      "choices": [
+        "1 million",
+        "1.5 million",
+        "2 million"
+      ],
+      "answer": "1.5 million",
+      "explanation": "Approximately 1.5 million animals have been cataloged so far."
+    },
+    {
+      "question": "What is highlighted as the most fascinating aspect of evolution in the video?",
+      "choices": [
+        "The diversity of species",
+        "The numbers of animals",
+        "The common ancestors"
+      ],
+      "answer": "The common ancestors",
+      "explanation": "The video emphasizes that the common ancestors and the different species that evolved from them make evolution astounding."
+    },
+    {
+      "question": "What is mentioned as not having a spot of their own in the selection of 100 animals?",
+      "choices": [
+        "Insects",
+        "Mammals",
+        "Others"
+      ],
+      "answer": "Others",
+      "explanation": "The video mentions that some species wouldn't even get a spot of their own in a condensed selection of 100 animals."
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "slug": "cb3d2f9b",
+  "video_id": "wMQjmpVgor8",
+  "movie_title": "How can we make the web a better place? 6 Minute English",
+  "movie_url": "https://youtu.be/wMQjmpVgor8",
+  "published_at": "2020-10-01T14:45:02Z",
+  "duration": "6:16",
+  "tags": [
+    "learn English",
+    "English vocabulary",
+    "speak English",
+    "bbc english",
+    "English teacher",
+    "英語",
+    "영어",
+    "อังกฤษ",
+    "Anh",
+    "English tutorial",
+    "Ingilizce ders",
+    "English grammar",
+    "IELTS",
+    "British English",
+    "English pronunciation",
+    "English lesson",
+    "idiom",
+    "English expressions",
+    "BBC Learning English",
+    "tefl",
+    "slang",
+    "BBC",
+    "Online English",
+    "how to speak English",
+    "English speaking",
+    "ELT",
+    "6 minute english",
+    "tim berners-lee",
+    "computer",
+    "virtual reality",
+    "artificial intelligence",
+    "coronavirus",
+    "covid 19",
+    "pandemic",
+    "app",
+    "public health"
+  ],
+  "introduction": "In this programme, we’ll hear about a new academic subject called Web Science, which studies the tec",
+  "lead_intro": "Join Neil and Sam from BBC Learning English as they discuss the impact of the internet on our lives and introduce the new academic subject of Web Science.",
+  "quiz": [
+    {
+      "question": "Who invented the World Wide Web?",
+      "choices": [
+        "Bill Gates",
+        "Tim Berners-Lee",
+        "Steve Jobs"
+      ],
+      "answer": "Tim Berners-Lee",
+      "explanation": "Tim Berners-Lee is the correct answer. He is credited with inventing the World Wide Web, not Bill Gates or Steve Jobs."
+    },
+    {
+      "question": "What was the theme of the annual Web Science conference held online this year?",
+      "choices": [
+        "Making the web human-centric",
+        "Advancing AI technology",
+        "Exploring virtual reality"
+      ],
+      "answer": "Making the web human-centric",
+      "explanation": "The theme of the conference was 'making the web human-centric', focusing on improving the online experience for humanity."
+    },
+    {
+      "question": "What does Web Science study?",
+      "choices": [
+        "Only the technology behind the internet",
+        "Only how people interact online",
+        "Both the technology and human interactions online"
+      ],
+      "answer": "Both the technology and human interactions online",
+      "explanation": "Web Science is an interdisciplinary subject that studies both the technology behind the internet and how people interact with each other online."
+    },
+    {
+      "question": "What is the purpose of the Covid contact tracing app mentioned in the video?",
+      "choices": [
+        "To track weather patterns",
+        "To combat coronavirus by tracking movements and contacts",
+        "To promote social media usage"
+      ],
+      "answer": "To combat coronavirus by tracking movements and contacts",
+      "explanation": "The Covid contact tracing app is designed to track movements and contacts between people to help combat the spread of coronavirus."
+    },
+    {
+      "question": "What does it mean for something to 'work as it says on the tin'?",
+      "choices": [
+        "To not work properly",
+        "To work exactly as intended",
+        "To be unpredictable"
+      ],
+      "answer": "To work exactly as intended",
+      "explanation": "The idiom 'work as it says on the tin' means that something functions precisely as it is supposed to, without any issues."
+    }
+  ]
+}
