@@ -1,0 +1,94 @@
+{
+  "slug": "b483aacb",
+  "video_id": "3fBxa1IEb74",
+  "movie_title": "Melting ice sheet: Is it too late? 6 Minute English",
+  "movie_url": "https://youtu.be/3fBxa1IEb74",
+  "published_at": "2020-11-05T11:48:13Z",
+  "duration": "6:16",
+  "tags": [
+    "learn English",
+    "English vocabulary",
+    "speak English",
+    "bbc english",
+    "English teacher",
+    "英語",
+    "영어",
+    "อังกฤษ",
+    "Anh",
+    "English tutorial",
+    "Ingilizce ders",
+    "English grammar",
+    "IELTS",
+    "British English",
+    "English pronunciation",
+    "English lesson",
+    "idiom",
+    "English expressions",
+    "BBC Learning English",
+    "tefl",
+    "slang",
+    "BBC",
+    "Online English",
+    "how to speak English",
+    "English speaking",
+    "ELT",
+    "6 minute english",
+    "global warming",
+    "climate change",
+    "environment"
+  ],
+  "introduction": "Improve your English vocabulary and listening in just six minutes!\nThis year's global heating and me",
+  "lead_intro": "Join Neil and Georgina in this 6 Minute English video from BBC Learning English as they discuss the pressing issue of climate change and the melting ice in Greenland. Test your knowledge with a quiz on ice melt rates and vocabulary related to global warming!",
+  "quiz": [
+    {
+      "question": "How many gigatonnes of ice are now melting into the ocean every year?",
+      "choices": [
+        "450 gigatonnes",
+        "500 gigatonnes",
+        "550 gigatonnes"
+      ],
+      "answer": "500 gigatonnes",
+      "explanation": "In the video, Neil mentioned that 500 gigatonnes of ice are now melting into the ocean every year, highlighting the significant impact of global warming on Greenland's ice sheet."
+    },
+    {
+      "question": "What does a 'tipping point' refer to in the context of climate change?",
+      "choices": [
+        "A point of no return where a change cannot be stopped",
+        "A point indicating the beginning of ice melting",
+        "A point where ice accumulation exceeds melting rates"
+      ],
+      "answer": "A point of no return where a change cannot be stopped",
+      "explanation": "A 'tipping point' in climate change refers to the critical threshold at which a shift to a new state becomes inevitable, indicating a situation where the effects of global warming may become irreversible."
+    },
+    {
+      "question": "What does the phrase 'throw your hands up' mean in the context of the video?",
+      "choices": [
+        "To celebrate a positive change",
+        "To give up or show frustration",
+        "To take immediate action"
+      ],
+      "answer": "To give up or show frustration",
+      "explanation": "In the video, the phrase 'throw your hands up' is used to express the idea of giving up or feeling despair in the face of a challenging situation, emphasizing the importance of not losing hope in combating climate change."
+    },
+    {
+      "question": "What does Michalea King suggest about the rate of ice melt in Greenland?",
+      "choices": [
+        "It cannot be controlled by human activity",
+        "It can be slowed down by collective action",
+        "It will continue at the same pace"
+      ],
+      "answer": "It can be slowed down by collective action",
+      "explanation": "Michalea King emphasizes that the rate of ice melt in Greenland can still be influenced by human actions, suggesting that collective efforts can help mitigate the impact of global warming on the ice sheets."
+    },
+    {
+      "question": "What message does the video convey about taking action against climate change?",
+      "choices": [
+        "It is too late to make a difference",
+        "Individual efforts are enough to combat global warming",
+        "Collective action is needed before it's too late"
+      ],
+      "answer": "Collective action is needed before it's too late",
+      "explanation": "The video emphasizes the importance of collective action and highlights that there is still time to make a difference in combating climate change, stressing the urgency of taking proactive measures to address the environmental challenges we face."
+    }
+  ]
+}
