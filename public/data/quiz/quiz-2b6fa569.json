@@ -1,0 +1,97 @@
+{
+  "slug": "2b6fa569",
+  "video_id": "Qi0edf_nJDo",
+  "movie_title": "When is a pandemic over?",
+  "movie_url": "https://youtu.be/Qi0edf_nJDo",
+  "published_at": "2020-06-01T15:00:20Z",
+  "duration": "5:53",
+  "tags": [
+    "pandemic",
+    "how a pandemic ends",
+    "WHO",
+    "public health",
+    "virus",
+    "death toll",
+    "infection",
+    "disease transmission",
+    "government",
+    "pandemic strategy",
+    "race through it",
+    "delay and vaccinate",
+    "coordinate and crush",
+    "vaccines",
+    "testing",
+    "quarantine",
+    "testing and tracing",
+    "herd immunity",
+    "coronavirus",
+    "covid 19",
+    "science",
+    "biology",
+    "epidemiology",
+    "social distancing",
+    "education",
+    "animation",
+    "alex rosenthal",
+    "visorama",
+    "TED",
+    "TED-Ed",
+    "TED Ed",
+    "Teded",
+    "Ted Education"
+  ],
+  "introduction": "Explore the three strategies governments and communities can use to contain and end a pandemic, and",
+  "lead_intro": "In the face of a global pandemic, the world is faced with crucial decisions on how to combat the spread of a deadly virus. Let's explore the different strategies governments can employ to end the pandemic and protect public health.",
+  "quiz": [
+    {
+      "question": "What does the World Health Organization (WHO) declare when a highly infectious respiratory virus spreads worldwide?",
+      "choices": [
+        "Epidemic",
+        "Outbreak",
+        "Pandemic"
+      ],
+      "answer": "Pandemic",
+      "explanation": "The WHO declares a pandemic when a highly infectious respiratory virus spreads worldwide, indicating a global health crisis."
+    },
+    {
+      "question": "What is the critical factor in the 'Coordinate and Crush' strategy to combat the virus?",
+      "choices": [
+        "Vaccination",
+        "Quarantine",
+        "Synchronization of responses"
+      ],
+      "answer": "Synchronization of responses",
+      "explanation": "In the 'Coordinate and Crush' strategy, synchronizing responses globally is crucial to effectively combat the virus and minimize loss of life."
+    },
+    {
+      "question": "What is the main advantage of the 'Race through it' strategy in dealing with a pandemic?",
+      "choices": [
+        "Quick containment",
+        "Creating herd immunity",
+        "Minimizing deaths"
+      ],
+      "answer": "Quick containment",
+      "explanation": "The 'Race through it' strategy aims for quick containment by allowing rapid exposure to build herd immunity, but it comes with a high cost of life and strain on healthcare systems."
+    },
+    {
+      "question": "What percentage of the population typically needs to receive a vaccine for herd immunity to kick in?",
+      "choices": [
+        "20-30%",
+        "40-90%",
+        "50-70%"
+      ],
+      "answer": "40-90%",
+      "explanation": "Herd immunity usually kicks in when 40-90% of the population receives a vaccine, depending on the virus, leading to the fizzling out of the pandemic."
+    },
+    {
+      "question": "Why is vaccination generally considered the best strategy to end a pandemic?",
+      "choices": [
+        "It is the quickest method",
+        "It ensures long-lasting immunity",
+        "It involves global cooperation"
+      ],
+      "answer": "It ensures long-lasting immunity",
+      "explanation": "Vaccination is generally considered the best strategy as it ensures long-lasting immunity, ultimately leading to the end of the pandemic and protection against future outbreaks."
+    }
+  ]
+}

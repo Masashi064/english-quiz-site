@@ -1,0 +1,63 @@
+{
+  "slug": "21c60c87",
+  "video_id": "pFdiX8mj0Es",
+  "movie_title": "How Magellan circumnavigated the globe - Ewandro Magalhaes",
+  "movie_url": "https://youtu.be/pFdiX8mj0Es",
+  "published_at": "2017-03-30T15:07:22Z",
+  "duration": "5:53",
+  "tags": [],
+  "introduction": "View full lesson: http://ed.ted.com/lessons/how-magellan-circumnavigated-the-globe-ewandro-magalhaes",
+  "lead_intro": "Join us on a historical adventure as we delve into the incredible story of the first circumnavigation of the globe by the 'Victoria' in 1522.",
+  "quiz": [
+    {
+      "question": "Who was the Portuguese defector appointed as the captain of the Spanish armada for the voyage to the Spice Islands?",
+      "choices": [
+        "Christopher Columbus",
+        "Ferdinand Magellan",
+        "Antonio Pigafetta"
+      ],
+      "answer": "Ferdinand Magellan",
+      "explanation": "Ferdinand Magellan, a Portuguese defector, was appointed as the captain of the Spanish armada for the voyage to the Spice Islands."
+    },
+    {
+      "question": "Which sea way did the three remaining ships emerge from after passing through the Strait of Magellan?",
+      "choices": [
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Mar Pacifico"
+      ],
+      "answer": "Mar Pacifico",
+      "explanation": "After passing through the Strait of Magellan, the three remaining ships emerged into the Mar Pacifico, now known as the Pacific Ocean."
+    },
+    {
+      "question": "Who was the young slave captured by Magellan on a previous journey to Malacca?",
+      "choices": [
+        "Enrique",
+        "Antonio Pigafetta",
+        "Rajah Humabon"
+      ],
+      "answer": "Enrique",
+      "explanation": "Enrique was the young slave captured by Magellan on a previous journey to Malacca, who played a crucial role in communicating with the natives during the voyage."
+    },
+    {
+      "question": "What unfortunate event led to the end of Magellan's life during the voyage?",
+      "choices": [
+        "Scurvy outbreak",
+        "Shipwreck",
+        "Bamboo spear attack"
+      ],
+      "answer": "Bamboo spear attack",
+      "explanation": "Magellan met his demise during a bamboo spear attack by the native chief of Mactan, ending his adventurous journey."
+    },
+    {
+      "question": "Who piloted the 'Victoria' back to Spain after Magellan's death?",
+      "choices": [
+        "Ferdinand Magellan",
+        "Antonio Pigafetta",
+        "Juan Sebastián Elcano"
+      ],
+      "answer": "Juan Sebastián Elcano",
+      "explanation": "After Magellan's death, Juan Sebastián Elcano piloted the 'Victoria' back to Spain, completing the historic journey and turning a profit with a full cargo of spices."
+    }
+  ]
+}
