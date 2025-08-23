@@ -1,0 +1,99 @@
+{
+  "slug": "1ba3fd34",
+  "video_id": "puWumt39nak",
+  "movie_title": "The history of the world according to rats - Max G. Levy",
+  "movie_url": "https://youtu.be/puWumt39nak",
+  "published_at": "2025-01-16T16:01:06Z",
+  "duration": "5:52",
+  "tags": [
+    "rats",
+    "rat",
+    "rat history",
+    "brown rats",
+    "black rats",
+    "bubonic plague",
+    "black death",
+    "rat catcher",
+    "ice age",
+    "chinese zodiac",
+    "generalists",
+    "rodents",
+    "romans",
+    "roman trade",
+    "anglo celtic isles",
+    "rat domestication",
+    "volga river",
+    "industrial revolution",
+    "rat exterminator",
+    "jack black",
+    "lab rats",
+    "rat strain",
+    "neuroplasticity",
+    "invasive species",
+    "animals",
+    "animal history",
+    "education",
+    "animation",
+    "max levy",
+    "Denys Spolitak",
+    "TED",
+    "TED-Ed",
+    "TEDEd",
+    "teded",
+    "Ted Education"
+  ],
+  "introduction": "Trace the history of rats, from their emergence in Asia to how they became the most successful invas",
+  "lead_intro": "Delve into the entangled history of humans and rats from ancient times to modern research on their significance in neuroscience and psychology.",
+  "quiz": [
+    {
+      "question": "When did black rats first sneak aboard ships from India to Egypt?",
+      "choices": [
+        "1000 years ago",
+        "5000 years ago",
+        "10,000 years ago"
+      ],
+      "answer": "5000 years ago",
+      "explanation": "Black rats first sneaked aboard ships from India to Egypt an estimated 5,000 years ago."
+    },
+    {
+      "question": "What is the role of brown rats in the spread of the Black Death in Europe?",
+      "choices": [
+        "They spread the plague directly to humans.",
+        "They carry the fleas that transmit the bacterium responsible for the plague.",
+        "They have no involvement in spreading the plague."
+      ],
+      "answer": "They carry the fleas that transmit the bacterium responsible for the plague.",
+      "explanation": "Brown rats do not directly spread the plague to humans but can carry the fleas that transmit the bacterium responsible for the plague."
+    },
+    {
+      "question": "When did wild brown rats first enter Europe?",
+      "choices": [
+        "5th century",
+        "10th century",
+        "13th-18th century"
+      ],
+      "answer": "13th-18th century",
+      "explanation": "Wild brown rats entered Europe sometime between the 13th and 18th century, displacing black rats in homes and cities."
+    },
+    {
+      "question": "What turn did the human-rat race take in 1906?",
+      "choices": [
+        "Rats were first bred for scientific research.",
+        "Rats evolved resistance to human poisons.",
+        "Rats became extinct in certain regions."
+      ],
+      "answer": "Rats were first bred for scientific research.",
+      "explanation": "In 1906, the Wistar Institute in Philadelphia bred the first standard rat strain for scientific research, marking a significant turn in the human-rat relationship."
+    },
+    {
+      "question": "What concept was established through research on rats raised with toys and companions in the 1960s?",
+      "choices": [
+        "Neuroplasticity",
+        "Genetic mutation",
+        "Physical growth"
+      ],
+      "answer": "Neuroplasticity",
+      "explanation": "Research in the 1960s showed that rats raised with toys and companions had thicker cortical brain tissue, contributing to the understanding of neuroplasticity."
+    }
+  ]
+}

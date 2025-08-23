@@ -1,0 +1,93 @@
+{
+  "slug": "363c4624",
+  "video_id": "74WQgNa3OsQ",
+  "movie_title": "How fast can a vaccine be made? - Dan Kwartler",
+  "movie_url": "https://youtu.be/74WQgNa3OsQ",
+  "published_at": "2020-06-15T15:01:06Z",
+  "duration": "5:52",
+  "tags": [
+    "vaccine",
+    "vaccine development",
+    "coronavirus vaccine",
+    "healthcare",
+    "health",
+    "public health",
+    "medicine",
+    "medical research",
+    "science",
+    "biology",
+    "clinical testing",
+    "antibodies",
+    "virus antibodies",
+    "zika",
+    "covid 19",
+    "vaccine manufacturing",
+    "vaccine testing",
+    "vaccine design",
+    "attenuated vaccine",
+    "inactivated vaccine",
+    "sub unit vaccines",
+    "education",
+    "animation",
+    "dan kwartler",
+    "good bad habits",
+    "TED",
+    "TED-Ed",
+    "TED Ed",
+    "Ted Education"
+  ],
+  "introduction": "Dig into the three key phases of developing a new vaccine: exploratory research, clinical testing, a",
+  "lead_intro": "In times of emerging pathogens, the urgent need for vaccines becomes paramount. But how quickly can vaccines be developed during a pandemic? Let's delve into the phases of vaccine development and strategies used to expedite the process.",
+  "quiz": [
+    {
+      "question": "What are the three main phases of vaccine development?",
+      "choices": [
+        "Exploratory research, manufacturing, distribution",
+        "Clinical testing, manufacturing, distribution",
+        "Exploratory research, clinical testing, manufacturing"
+      ],
+      "answer": "Exploratory research, clinical testing, manufacturing",
+      "explanation": "Vaccine development generally consists of exploratory research, clinical testing, and manufacturing phases."
+    },
+    {
+      "question": "Which vaccine design relies on weakened viral strains cultivated over time in non-human tissue?",
+      "choices": [
+        "Inactivated vaccines",
+        "Sub-unit vaccines",
+        "Traditional attenuated vaccines"
+      ],
+      "answer": "Traditional attenuated vaccines",
+      "explanation": "Traditional attenuated vaccines rely on weakened viral strains cultivated over time in non-human tissue to create long-lasting resilience."
+    },
+    {
+      "question": "What is the fastest approach to creating vaccines?",
+      "choices": [
+        "Traditional attenuated vaccines",
+        "Inactivated vaccines",
+        "Sub-unit vaccines"
+      ],
+      "answer": "Inactivated vaccines",
+      "explanation": "Inactivated vaccines take a faster approach by directly applying heat, acid, or radiation to weaken the pathogen."
+    },
+    {
+      "question": "What is the most challenging phase to speed up in vaccine development?",
+      "choices": [
+        "Exploratory research",
+        "Manufacturing",
+        "Clinical testing"
+      ],
+      "answer": "Clinical testing",
+      "explanation": "Clinical testing is the most challenging phase to speed up due to the focus on long-term safety and the need to meet strict criteria before progression."
+    },
+    {
+      "question": "How can researchers expedite the clinical testing phase?",
+      "choices": [
+        "Running multiple trials within one phase",
+        "Leveraging previously approved treatments",
+        "Increasing the number of participants in trials"
+      ],
+      "answer": "Running multiple trials within one phase",
+      "explanation": "Researchers can expedite the clinical testing phase by running multiple trials within one phase simultaneously, although they still need to meet safety criteria."
+    }
+  ]
+}

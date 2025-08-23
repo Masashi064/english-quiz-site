@@ -1,0 +1,63 @@
+{
+  "slug": "57469af1",
+  "video_id": "UNunBadMlHQ",
+  "movie_title": "We Won’t Explore the Galaxy...",
+  "movie_url": "https://youtu.be/UNunBadMlHQ",
+  "published_at": "2025-08-21T14:00:55Z",
+  "duration": "1:01",
+  "tags": [],
+  "introduction": "... but AI will. \n\n#kurzgesagt\n#inanutshell #kurzgesagt_inanutshell #learnwithshorts #science #space",
+  "lead_intro": "As humans explore the vast galaxy, AI plays a crucial role in enhancing space technology and making interstellar travel more feasible. Let's dive into how AI is reshaping the future of space exploration!",
+  "quiz": [
+    {
+      "question": "What role does AI play in space exploration?",
+      "choices": [
+        "AI cannot assist in space exploration",
+        "AI enhances space technology and assists in making decisions for space missions",
+        "AI is the primary astronaut in space missions"
+      ],
+      "answer": "AI enhances space technology and assists in making decisions for space missions",
+      "explanation": "AI enhances space technology by making snap decisions about what to photograph, where to fly, and even how to dodge debris, thus aiding in space missions."
+    },
+    {
+      "question": "How long would it take to reach Proxima B with conventional rockets?",
+      "choices": [
+        "20 years",
+        "80,000 years",
+        "100 years"
+      ],
+      "answer": "80,000 years",
+      "explanation": "It would take up to 80,000 years to reach Proxima B with conventional rockets, highlighting the need for alternative propulsion methods like laser-propelled probes."
+    },
+    {
+      "question": "Why would the probes sent to Proxima B require AI coordination?",
+      "choices": [
+        "To take pictures of the planet",
+        "To communicate with Earth",
+        "To autonomously coordinate and report back on signs of life"
+      ],
+      "answer": "To autonomously coordinate and report back on signs of life",
+      "explanation": "The probes would need AI to coordinate autonomously, acting as a hive mind to report back on signs of life on Proxima B due to the communication delays."
+    },
+    {
+      "question": "What is one thing AI cannot do in space exploration?",
+      "choices": [
+        "Land on Mars",
+        "Build underground habitats",
+        "Provide healthcare to astronauts"
+      ],
+      "answer": "Land on Mars",
+      "explanation": "While AI can assist in various aspects of space exploration, it cannot be the first human on Mars, as that requires human presence."
+    },
+    {
+      "question": "How can AI help in preparing for human colonization of Mars?",
+      "choices": [
+        "AI can provide entertainment for astronauts",
+        "AI can build underground habitats and provide healthcare for future Mars inhabitants",
+        "AI can fly spacecraft to Mars"
+      ],
+      "answer": "AI can build underground habitats and provide healthcare for future Mars inhabitants",
+      "explanation": "AI can assist in building underground habitats before human arrival on Mars and provide healthcare services once humans are there, aiding in the colonization process."
+    }
+  ]
+}

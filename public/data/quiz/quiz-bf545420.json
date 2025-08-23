@@ -1,0 +1,104 @@
+{
+  "slug": "bf545420",
+  "video_id": "EixIyh1gshM",
+  "movie_title": "What actually causes high cholesterol? - Hei Man Chan",
+  "movie_url": "https://youtu.be/EixIyh1gshM",
+  "published_at": "2025-01-21T16:00:52Z",
+  "duration": "6:48",
+  "tags": [
+    "cholesterol",
+    "good cholesterol",
+    "bad cholesterol",
+    "high cholesterol",
+    "ldl",
+    "hdl",
+    "ldl cholesterol",
+    "hdl cholesterol",
+    "eggs",
+    "egg cholesterol",
+    "diet",
+    "dietary needs",
+    "low cholesterol diet",
+    "nutrition",
+    "health",
+    "digestive system",
+    "lipids",
+    "lipoproteins",
+    "macrophages",
+    "heart",
+    "heart health",
+    "artery",
+    "cardiovascular disease",
+    "protein",
+    "vldl",
+    "triglycerides",
+    "lipid panel",
+    "saturated fats",
+    "unsaturated fats",
+    "free radicals",
+    "statins",
+    "education",
+    "animation",
+    "Hei Man Chan",
+    "igor coric",
+    "artrake studio",
+    "TED",
+    "TED-Ed",
+    "Teded",
+    "Ted Education"
+  ],
+  "introduction": "Travel into the digestive system to learn about cholesterol, and find out what the difference is bet",
+  "lead_intro": "Have you ever wondered about the impact of eggs on cholesterol and cardiovascular health? Let's explore the complex reality of how different fats and lifestyle factors influence blood lipid levels.",
+  "quiz": [
+    {
+      "question": "What is the main reason the American Heart Association recommended avoiding more than three eggs a week in 1968?",
+      "choices": [
+        "High cholesterol content in egg yolks",
+        "Risk of cardiovascular diseases",
+        "Impact on blood lipid levels"
+      ],
+      "answer": "High cholesterol content in egg yolks",
+      "explanation": "The American Heart Association's recommendation was based on the high cholesterol content in egg yolks, which was believed to increase the risk of cardiovascular diseases."
+    },
+    {
+      "question": "What is the role of VLDL in the body's lipid metabolism?",
+      "choices": [
+        "Delivers lipids to muscle and fat cells",
+        "Increases HDL levels",
+        "Reduces LDL buildup"
+      ],
+      "answer": "Delivers lipids to muscle and fat cells",
+      "explanation": "VLDL delivers lipids to muscle and fat cells to be stored and used for energy before being converted into LDL."
+    },
+    {
+      "question": "Why is LDL often referred to as 'bad cholesterol'?",
+      "choices": [
+        "It promotes inflammation",
+        "It is anti-inflammatory",
+        "It helps clear excess LDL"
+      ],
+      "answer": "It promotes inflammation",
+      "explanation": "LDL is associated with cardiovascular diseases as it is more prone to accumulating on blood vessel walls, leading to inflammation."
+    },
+    {
+      "question": "What role does HDL play in blood lipid levels?",
+      "choices": [
+        "Picks up excess LDL and returns it to the liver",
+        "Promotes LDL buildup",
+        "Causes inflammation"
+      ],
+      "answer": "Picks up excess LDL and returns it to the liver",
+      "explanation": "HDL, or high-density lipoprotein, picks up excess LDL in the blood and transports it back to the liver for excretion, thus earning the title of 'good cholesterol.'"
+    },
+    {
+      "question": "Which lifestyle factor can help lower LDL levels and increase HDL?",
+      "choices": [
+        "Resistance training",
+        "Smoking",
+        "High saturated fat intake"
+      ],
+      "answer": "Resistance training",
+      "explanation": "Resistance training and aerobic exercise have been shown to lower LDL and increase HDL levels, possibly due to increased energy expenditure and enzyme activity."
+    }
+  ]
+}
