@@ -1,0 +1,103 @@
+{
+  "slug": "6b1d02e1",
+  "video_id": "XiBXhCr_Jpw",
+  "movie_title": "Why bats don't get sick - Arinjay Banerjee",
+  "movie_url": "https://youtu.be/XiBXhCr_Jpw",
+  "published_at": "2021-01-26T16:01:07Z",
+  "duration": "5:50",
+  "tags": [
+    "bats",
+    "bat immunity system",
+    "bat immune response",
+    "virus",
+    "infection",
+    "SARS",
+    "rabies",
+    "ebola",
+    "immune defense",
+    "viral transmission",
+    "virus host",
+    "inflammatory response",
+    "metabolic rate",
+    "reactive oxygen species",
+    "DNA",
+    "damaged DNA",
+    "genes",
+    "repair genes",
+    "telomeres",
+    "aging",
+    "bacteria",
+    "fungi",
+    "white nose syndrome bats",
+    "white nose syndrome",
+    "ecosystems",
+    "viral immunity",
+    "Arinjay Banerjee",
+    "cabong studios",
+    "education",
+    "animation",
+    "animals",
+    "science",
+    "biology",
+    "virology",
+    "TED",
+    "TEd-Ed",
+    "TED Ed",
+    "Teded",
+    "Ted Education"
+  ],
+  "introduction": "Explore the relationship between viruses and their hosts, and find out how the evolutionary adaptati",
+  "lead_intro": "Bats are remarkable creatures that have evolved unique defenses against deadly viruses, allowing them to live long lives without negative health consequences. Discover how their immune system differs from other mammals and how they have adapted to coexist with viruses.",
+  "quiz": [
+    {
+      "question": "Why are bats able to live with deadly viruses without negative health consequences?",
+      "choices": [
+        "They have a strong immune response that kills viruses quickly.",
+        "Their immune system has a low inflammatory response.",
+        "They have evolved to avoid coming into contact with viruses."
+      ],
+      "answer": "Their immune system has a low inflammatory response.",
+      "explanation": "Bats have evolved a low inflammatory response in their immune system, which helps them limit self-damage caused by viruses and coexist with the viruses in their systems."
+    },
+    {
+      "question": "What is one factor that sets bats apart from other mammals?",
+      "choices": [
+        "Their ability to hibernate for long periods.",
+        "Their self-powered flight.",
+        "Their resistance to bacterial infections."
+      ],
+      "answer": "Their self-powered flight.",
+      "explanation": "Bats are unique among mammals for their self-powered flight, which is an energy-intensive process that has likely contributed to their evolutionary adaptations in immune response."
+    },
+    {
+      "question": "How do bats deal with DNA damage caused by their high metabolic rate during flight?",
+      "choices": [
+        "They have repair genes to counteract DNA damage.",
+        "They have a strong immune response to attack damaged DNA.",
+        "They rely on other animals to repair their DNA."
+      ],
+      "answer": "They have repair genes to counteract DNA damage.",
+      "explanation": "Bats have evolved efficient repair genes to counteract the frequent DNA damage they sustain during flight, which may also contribute to their long lifespan."
+    },
+    {
+      "question": "What condition has ravaged bat populations and disrupted their critical roles in ecosystems?",
+      "choices": [
+        "Rabies",
+        "White-nose syndrome",
+        "SARS"
+      ],
+      "answer": "White-nose syndrome",
+      "explanation": "White-nose syndrome is a fungal infection that has led to the decline of bat populations, disrupting their hibernation patterns and affecting their ecosystem roles."
+    },
+    {
+      "question": "How can humans help protect bats and prevent the spread of diseases?",
+      "choices": [
+        "Encroaching on bat habitats",
+        "Preserving bat populations and ecosystems",
+        "Introducing unfamiliar viruses to bat populations"
+      ],
+      "answer": "Preserving bat populations and ecosystems",
+      "explanation": "To protect bats and prevent the spread of diseases, humans should focus on preserving bat populations and ecosystems rather than encroaching on their habitats."
+    }
+  ]
+}

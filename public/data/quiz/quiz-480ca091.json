@@ -1,0 +1,78 @@
+{
+  "slug": "480ca091",
+  "video_id": "4DlipN61jGA",
+  "movie_title": "How much of what you see is a hallucination? - Elizabeth Cox",
+  "movie_url": "https://youtu.be/4DlipN61jGA",
+  "published_at": "2018-06-26T15:02:53Z",
+  "duration": "5:50",
+  "tags": [
+    "TED",
+    "TED-Ed",
+    "TED Ed",
+    "Ted Education",
+    "Teded",
+    "Elizabeth Cox",
+    "Nerdo",
+    "hallucinations",
+    "science",
+    "Charles Bonnet Syndrome",
+    "brain",
+    "blind",
+    "Oliver Sacks",
+    "Hallucinogens"
+  ],
+  "introduction": "Download a free audiobook version of \"Hallucinations\" and support TED-Ed's nonprofit mission: https:",
+  "lead_intro": "Discover the fascinating world of hallucinations and how they are connected to our perception of reality through a variety of sensory experiences.",
+  "quiz": [
+    {
+      "question": "What condition causes patients with impaired vision or total blindness to suddenly hallucinate whole scenes?",
+      "choices": [
+        "Charles Bonnet Syndrome",
+        "Schizophrenia",
+        "Epilepsy"
+      ],
+      "answer": "Charles Bonnet Syndrome",
+      "explanation": "Patients with Charles Bonnet Syndrome hallucinate vivid scenes due to impaired vision or total blindness."
+    },
+    {
+      "question": "Which brain areas are activated during hallucinations according to fMRI studies?",
+      "choices": [
+        "Areas associated with imagination",
+        "Areas not linked to sensory experiences",
+        "Areas associated with sight"
+      ],
+      "answer": "Areas associated with sight",
+      "explanation": "During hallucinations, fMRI studies show that the brain areas activated are those associated with sight, not imagination."
+    },
+    {
+      "question": "What is one theory on how LSD and psilocybin cause hallucinations?",
+      "choices": [
+        "They disrupt the signaling involved in sensory integration",
+        "They increase serotonin levels in the brain",
+        "They activate areas associated with imagination"
+      ],
+      "answer": "They disrupt the signaling involved in sensory integration",
+      "explanation": "One theory suggests that LSD and psilocybin cause hallucinations by disrupting the signaling involved in sensory integration in the brain."
+    },
+    {
+      "question": "Which group of patients often experience hallucinations with elevated serotonin levels in the brain?",
+      "choices": [
+        "Patients with Charles Bonnet Syndrome",
+        "Patients with schizophrenia",
+        "Patients with epilepsy"
+      ],
+      "answer": "Patients with schizophrenia",
+      "explanation": "Patients with schizophrenia often have elevated serotonin levels in the brain, which may contribute to their hallucinatory experiences."
+    },
+    {
+      "question": "What do researchers hope to learn by studying hallucinations?",
+      "choices": [
+        "How to induce hallucinations",
+        "How our brains construct perception",
+        "How to eliminate sensory experiences"
+      ],
+      "answer": "How our brains construct perception",
+      "explanation": "By studying hallucinations, researchers aim to understand how our brains construct the world we perceive through various sensory experiences."
+    }
+  ]
+}
