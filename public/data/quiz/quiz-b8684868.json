@@ -1,0 +1,100 @@
+{
+  "slug": "b8684868",
+  "video_id": "rEnf_CFoyv0",
+  "movie_title": "Is inequality inevitable?",
+  "movie_url": "https://youtu.be/rEnf_CFoyv0",
+  "published_at": "2022-10-11T15:01:01Z",
+  "duration": "6:50",
+  "tags": [
+    "economic inequality",
+    "inequalities",
+    "inequality",
+    "wealth inequality",
+    "income inequality",
+    "gini index",
+    "wealth distribution",
+    "equality",
+    "poverty",
+    "money",
+    "economy",
+    "capitalism",
+    "socialism",
+    "communism",
+    "south africa",
+    "united states",
+    "china",
+    "soviet union",
+    "france",
+    "income tax",
+    "government transfer",
+    "wealth",
+    "digital divide",
+    "inheritance tax",
+    "estate tax",
+    "capitalist countries",
+    "WEF",
+    "education",
+    "animation",
+    "Natália Azevedo Andrade",
+    "AIM Creative Studios",
+    "TED",
+    "TED-Ed",
+    "TED Ed",
+    "Teded",
+    "Ted Education"
+  ],
+  "introduction": "Explore how economic inequality can be measured and how it is impacted by different governmental pol",
+  "lead_intro": "Economic inequality is a prevalent issue worldwide, with the distribution of wealth varying significantly across different countries. Let's delve into the complexities of economic inequality and explore how different nations address this challenge.",
+  "quiz": [
+    {
+      "question": "What is the Gini index used for in measuring economic inequality?",
+      "choices": [
+        "Measuring the GDP of a country",
+        "Comparing income or wealth distribution in a society",
+        "Calculating unemployment rates"
+      ],
+      "answer": "Comparing income or wealth distribution in a society",
+      "explanation": "The Gini index is a measure used to compare the income or wealth distribution in a society, indicating the level of economic inequality."
+    },
+    {
+      "question": "What does a Gini index of 1 indicate?",
+      "choices": [
+        "Perfect equality",
+        "Moderate inequality",
+        "Perfect inequality"
+      ],
+      "answer": "Perfect inequality",
+      "explanation": "A Gini index of 1 suggests perfect inequality, where one person possesses all the wealth or income, while everyone else has nothing."
+    },
+    {
+      "question": "Which type of taxes can help reduce economic inequality?",
+      "choices": [
+        "Flat taxes",
+        "Regressive taxes",
+        "Progressive taxes"
+      ],
+      "answer": "Progressive taxes",
+      "explanation": "Progressive taxes, where tax rates increase with income, can help reduce economic inequality by redistributing wealth more equitably."
+    },
+    {
+      "question": "What is one way governments address economic inequality through transfers?",
+      "choices": [
+        "Subsidizing luxury goods",
+        "Providing financial aid to low-income families",
+        "Tax breaks for corporations"
+      ],
+      "answer": "Providing financial aid to low-income families",
+      "explanation": "Governments use transfers to redistribute wealth by taking tax revenues from one group and providing financial aid to another, such as supporting low-income families or retirees."
+    },
+    {
+      "question": "How can ensuring access to education and healthcare help reduce economic inequality?",
+      "choices": [
+        "It increases competition in the job market",
+        "It leads to higher taxes for the wealthy",
+        "It helps create a skilled workforce that can earn higher salaries"
+      ],
+      "answer": "It helps create a skilled workforce that can earn higher salaries",
+      "explanation": "Access to education and healthcare can lead to a more skilled and healthy workforce, enabling individuals to command higher salaries in the job market, thereby reducing economic inequality."
+    }
+  ]
+}

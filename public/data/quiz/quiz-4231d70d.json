@@ -1,0 +1,103 @@
+{
+  "slug": "4231d70d",
+  "video_id": "oT5pDvdMzhk",
+  "movie_title": "Why is Alzheimer’s disease so difficult to treat? - Krishna Sudhir",
+  "movie_url": "https://youtu.be/oT5pDvdMzhk",
+  "published_at": "2024-07-30T15:02:13Z",
+  "duration": "5:51",
+  "tags": [
+    "alzheimers",
+    "alzheimers disease",
+    "dementia",
+    "brain disorder",
+    "cognition",
+    "cognitive ability",
+    "memory",
+    "alzheimers prevention",
+    "alzheimers treatment",
+    "alzheimers cure",
+    "mood",
+    "alzheimers gene",
+    "genes",
+    "beta amyloid",
+    "plaques",
+    "tau",
+    "brain",
+    "synapses",
+    "neurons",
+    "neural growth",
+    "neural repair",
+    "brain signals",
+    "protein",
+    "protein buildup",
+    "tau dysfunction",
+    "microglia",
+    "immune cells",
+    "brain cells",
+    "brain function",
+    "neurotransmitters",
+    "education",
+    "animation",
+    "Krishna Sudhir",
+    "Rowena Sheehan",
+    "TED",
+    "TED-Ed",
+    "TED Ed",
+    "Teded",
+    "Ted Education"
+  ],
+  "introduction": "Dig into how Alzheimer’s disease affects your brain and cognitive abilities, and what makes the diso",
+  "lead_intro": "Alzheimer's disease poses significant challenges for patients and families worldwide, with its complex nature and lack of effective treatment. Let's delve into the intricacies of this debilitating brain disorder.",
+  "quiz": [
+    {
+      "question": "What is the primary compound that forms abnormal buildup in the brains of Alzheimer's patients?",
+      "choices": [
+        "Beta-amyloid",
+        "Tau",
+        "Synapses"
+      ],
+      "answer": "Beta-amyloid",
+      "explanation": "In Alzheimer's patients, the brains display an abnormal buildup of beta-amyloid, which can interfere with normal brain signaling and contribute to the disease."
+    },
+    {
+      "question": "What is the normal role of the protein tau in neurons?",
+      "choices": [
+        "Reinforce the internal structure of neurons",
+        "Aid in neural growth and repair",
+        "Produce energy in the brain"
+      ],
+      "answer": "Reinforce the internal structure of neurons",
+      "explanation": "Tau's normal role is as a scaffolding protein to help reinforce the internal structure of neurons and give them their shape, but in Alzheimer's patients, it becomes misfolded and toxic."
+    },
+    {
+      "question": "What may be a contributing factor to Alzheimer's disease related to changes in the immune cells of the brain?",
+      "choices": [
+        "Synapses",
+        "Microglia",
+        "Neurotransmitters"
+      ],
+      "answer": "Microglia",
+      "explanation": "Recent studies suggest that Alzheimer's is linked to changes in the way immune cells, called microglia, function in the brain, which may contribute to the disease."
+    },
+    {
+      "question": "What activities have shown to slow disease progression in Alzheimer's patients?",
+      "choices": [
+        "Staying active and learning new skills",
+        "Taking more medication",
+        "Avoiding household chores"
+      ],
+      "answer": "Staying active and learning new skills",
+      "explanation": "Engaging in activities like staying active, learning new skills, and participating in daily tasks can help slow disease progression in Alzheimer's patients."
+    },
+    {
+      "question": "What type of therapy has shown promise in slowing Alzheimer's disease progression by targeting beta-amyloid?",
+      "choices": [
+        "Neurotransmitter therapy",
+        "Synapse therapy",
+        "Beta-amyloid therapy"
+      ],
+      "answer": "Beta-amyloid therapy",
+      "explanation": "Drugs that target beta-amyloid have shown promise in slowing the disease progression and reducing plaque accumulation in the brain of Alzheimer's patients."
+    }
+  ]
+}

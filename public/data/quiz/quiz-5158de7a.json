@@ -1,0 +1,86 @@
+{
+  "slug": "5158de7a",
+  "video_id": "Lvr5JqLVe34",
+  "movie_title": "Can you solve the death race riddle? - Alex Gendler",
+  "movie_url": "https://youtu.be/Lvr5JqLVe34",
+  "published_at": "2020-03-03T16:00:21Z",
+  "duration": "5:51",
+  "tags": [
+    "death race",
+    "riddle",
+    "riddles",
+    "ted ed riddles",
+    "wastelands",
+    "no side gang",
+    "coil runner",
+    "street racing",
+    "racing riddle",
+    "puzzles",
+    "puzzle solving",
+    "problem solving",
+    "logic puzzle",
+    "education",
+    "animation",
+    "TED",
+    "TED-Ed",
+    "TED Ed",
+    "Teded",
+    "Ted Education",
+    "alex gendler",
+    "artrage studio"
+  ],
+  "introduction": "Practice more problem-solving at https://brilliant.org/TedEd/ \n\n--\n\nThe night before the Death Race",
+  "lead_intro": "Join the thrilling adventure of rescuing your inventor uncle by solving a logic puzzle involving a high-speed race and critical system failures on the Coil Runner!",
+  "quiz": [
+    {
+      "question": "Which thrusters should you activate to avoid triggering the catastrophic failures?",
+      "choices": [
+        "Thrusters A and D",
+        "Thrusters A and E",
+        "Thrusters D and E"
+      ],
+      "answer": "Thrusters D and E",
+      "explanation": "By analyzing the notes from Uncle Slate's test runs, you can conclude that thrusters D and E should be activated to avoid triggering the catastrophic failures of the Coil Runner."
+    },
+    {
+      "question": "What does a glowing Fuel gauge indicate?",
+      "choices": [
+        "Thrusters A and D",
+        "Thrusters B and C",
+        "Thrusters C and E"
+      ],
+      "answer": "Thrusters B and C",
+      "explanation": "The glowing Fuel gauge is caused by thrusters B and C being activated together, as indicated in the notes from Uncle Slate's test runs."
+    },
+    {
+      "question": "What makes the Ignition explode and depletes the Oxygen levels?",
+      "choices": [
+        "Spinning Gravitometer",
+        "Rattling Helium tank",
+        "Glowing Fuel gauge"
+      ],
+      "answer": "Rattling Helium tank",
+      "explanation": "The Ignition explodes and the Oxygen levels deplete when the Helium tank rattles, as shown in the cause-and-effect relationship in the test runs notes."
+    },
+    {
+      "question": "Which thrusters are off limits based on the test run results?",
+      "choices": [
+        "Thrusters A, B, and C",
+        "Thrusters B, C, and D",
+        "Thrusters A, D, and E"
+      ],
+      "answer": "Thrusters A, B, and C",
+      "explanation": "Thrusters A, B, and C are off limits based on the test run results, as they are implicated in causing various critical failures on the Coil Runner."
+    },
+    {
+      "question": "What thrusters are just enough to clear the jump and secure the victory?",
+      "choices": [
+        "Thrusters A and B",
+        "Thrusters B and C",
+        "Thrusters D and E"
+      ],
+      "answer": "Thrusters D and E",
+      "explanation": "Thrusters D and E are just enough to clear the jump and secure the victory in the high-stakes race to rescue your uncle."
+    }
+  ]
+}
