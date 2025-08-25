@@ -1,0 +1,97 @@
+{
+  "slug": "dff995af",
+  "video_id": "hk9c7sJ08Bg",
+  "movie_title": "Can you solve the cheating royal riddle? - Dan Katz",
+  "movie_url": "https://youtu.be/hk9c7sJ08Bg",
+  "published_at": "2020-08-11T15:00:02Z",
+  "duration": "5:49",
+  "tags": [
+    "royal family",
+    "royalty",
+    "cheating royal",
+    "royal heir",
+    "royal succession",
+    "succession",
+    "king",
+    "queen",
+    "riddle",
+    "riddles",
+    "ted ed riddles",
+    "probability",
+    "dice",
+    "roll dice",
+    "math",
+    "addition",
+    "multiplication",
+    "paul rudd",
+    "nonillion",
+    "royal advisor",
+    "logic",
+    "logic puzzles",
+    "critical thinking",
+    "reasoning",
+    "education",
+    "animation",
+    "dan katz",
+    "artrake studio",
+    "TED",
+    "TED-Ed",
+    "TED Ed",
+    "Teded",
+    "Ted Education"
+  ],
+  "introduction": "Practice more problem-solving at https://brilliant.org/TedEd/\n\n--\n\nYou’re the chief advisor to an ec",
+  "lead_intro": "In a kingdom where honesty, luck, and arithmetic skills are valued, the eccentric king has tasked you with choosing his successor based on a dice rolling competition among his children. Let's dive into the royal dilemma and see who emerges as the worthiest heir!",
+  "quiz": [
+    {
+      "question": "What is the probability of rolling the highest number out of six on a six-sided die?",
+      "choices": [
+        "1/6",
+        "1/3",
+        "1/4"
+      ],
+      "answer": "1/6",
+      "explanation": "The probability of rolling the highest number out of six on a six-sided die is 1/6, as there is only one 'highest' number on the die."
+    },
+    {
+      "question": "Why was Bertram disqualified from the competition?",
+      "choices": [
+        "He mis-added his scores.",
+        "He reported an impossible score.",
+        "He didn't follow the rules."
+      ],
+      "answer": "He reported an impossible score.",
+      "explanation": "Bertram reported a score of 840, which is impossible to achieve based on the numbers on the dice provided."
+    },
+    {
+      "question": "Why was Cassandra disqualified from the competition?",
+      "choices": [
+        "She mis-added her scores.",
+        "She reported a suspiciously high score.",
+        "She didn't roll the dice correctly."
+      ],
+      "answer": "She reported a suspiciously high score.",
+      "explanation": "Cassandra reported a score of 700, which is statistically highly improbable to achieve based on the probability of rolling the highest number on the dice."
+    },
+    {
+      "question": "What mathematical concept from number theory was used to disqualify Draco?",
+      "choices": [
+        "Prime numbers",
+        "Multiples of 5",
+        "Fibonacci sequence"
+      ],
+      "answer": "Multiples of 5",
+      "explanation": "Draco's score was disqualified because it was not a multiple of 5, which is impossible to achieve given the numbers on the dice provided."
+    },
+    {
+      "question": "Why was Alexa chosen as the worthiest successor?",
+      "choices": [
+        "Her score was the highest.",
+        "She was the luckiest roller.",
+        "Her score was achievable and within the expected range."
+      ],
+      "answer": "Her score was achievable and within the expected range.",
+      "explanation": "Alexa's score was a multiple of 5 and fell within the achievable range based on the numbers on the dice, making her the most suitable successor among the contestants."
+    }
+  ]
+}

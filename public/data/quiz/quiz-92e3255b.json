@@ -1,0 +1,89 @@
+{
+  "slug": "92e3255b",
+  "video_id": "h2MlS09KJP4",
+  "movie_title": "Could we create dark matter? - Rolf Landua",
+  "movie_url": "https://youtu.be/h2MlS09KJP4",
+  "published_at": "2017-08-17T15:08:15Z",
+  "duration": "5:49",
+  "tags": [
+    "TED",
+    "TED-Ed",
+    "TED Education",
+    "TED Ed",
+    "Rolf Landua",
+    "Lazy Chief",
+    "particle",
+    "physics",
+    "Large Hadron Collider",
+    "Higgs boson",
+    "quarks",
+    "muons",
+    "gluons",
+    "matter",
+    "dark matter",
+    "universe",
+    "particle collider",
+    "LHC",
+    "electron",
+    "collision",
+    "charge",
+    "energy",
+    "hadron",
+    "photon",
+    "mass"
+  ],
+  "introduction": "Check out our Patreon page: https://www.patreon.com/teded\n\nView full lesson: https://ed.ted.com/less",
+  "lead_intro": "Delve into the mysterious realm of dark matter and the quest to create it in the Large Hadron Collider in Geneva, Switzerland. Join the search for elusive particles that could reshape our understanding of the universe!",
+  "quiz": [
+    {
+      "question": "What is dark matter?",
+      "choices": [
+        "Matter that emits no light",
+        "Matter that we cannot observe directly",
+        "Matter that is invisible to telescopes"
+      ],
+      "answer": "Matter that we cannot observe directly",
+      "explanation": "Dark matter is called so because we cannot observe it directly but can detect its gravitational effects on other celestial objects."
+    },
+    {
+      "question": "How are particles like dark matter theorized to be created in the Large Hadron Collider?",
+      "choices": [
+        "By accelerating protons to near the speed of light and smashing them together",
+        "By observing photons and electrons",
+        "By studying quarks and gluons"
+      ],
+      "answer": "By accelerating protons to near the speed of light and smashing them together",
+      "explanation": "In the LHC, protons are accelerated to high speeds and collide, producing new particles like dark matter in rare collisions."
+    },
+    {
+      "question": "How do scientists distinguish rare particles like the Higgs boson from background events in the data?",
+      "choices": [
+        "By looking for specific decay products like two photons with consistent mass",
+        "By studying all particle interactions equally",
+        "By measuring the electrical charge of particles"
+      ],
+      "answer": "By looking for specific decay products like two photons with consistent mass",
+      "explanation": "Scientists search for unique decay patterns and mass signatures, like two photons with the same mass, to identify rare particles amidst background events."
+    },
+    {
+      "question": "Why is it challenging to detect dark matter particles in the Large Hadron Collider?",
+      "choices": [
+        "Dark matter particles decay quickly before reaching detectors",
+        "Dark matter particles have very low energy",
+        "Producing dark matter requires extremely rare collisions"
+      ],
+      "answer": "Producing dark matter requires extremely rare collisions",
+      "explanation": "Dark matter production in the LHC necessitates rare collisions, making it a challenging and time-consuming process to detect these elusive particles."
+    },
+    {
+      "question": "What is the significance of finding dark matter or new particles in the LHC?",
+      "choices": [
+        "It would confirm existing theories about the universe",
+        "It could revolutionize our understanding of the universe",
+        "It would have no impact on scientific knowledge"
+      ],
+      "answer": "It could revolutionize our understanding of the universe",
+      "explanation": "The discovery of dark matter or new particles could fundamentally alter our current understanding of the universe, opening up new avenues for scientific exploration."
+    }
+  ]
+}
