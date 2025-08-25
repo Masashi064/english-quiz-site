@@ -1,0 +1,100 @@
+{
+  "slug": "c9ecff24",
+  "video_id": "ZExGV6jSuBw",
+  "movie_title": "Why can't you put metal in a microwave? - Aaron Slepkov",
+  "movie_url": "https://youtu.be/ZExGV6jSuBw",
+  "published_at": "2024-02-15T16:00:07Z",
+  "duration": "5:49",
+  "tags": [
+    "microwaves",
+    "microwave oven",
+    "microwave metal",
+    "radar",
+    "radar technology",
+    "percy spencer",
+    "magnetron",
+    "light energy",
+    "frequency",
+    "gamma rays",
+    "x rays",
+    "radio waves",
+    "electric field",
+    "particles",
+    "charged particles",
+    "friction",
+    "frictional heat",
+    "water molecules",
+    "electrons",
+    "electromagnetic waves",
+    "radiation",
+    "microwave radiation",
+    "ionizing radiation",
+    "chemical bonds",
+    "chemistry",
+    "physics",
+    "education",
+    "animation",
+    "Aaron Slepkov",
+    "Yuriy Polyashko",
+    "Darvideo Animation Studio",
+    "TED",
+    "TED-Ed",
+    "TED Ed",
+    "Teded",
+    "Ted Education"
+  ],
+  "introduction": "Dig into the science of how microwave ovens use electromagnetic waves to heat your food, and what yo",
+  "lead_intro": "Discover the surprising origin story of the microwave oven and how it evolved from World War II RADAR technology. Let's explore the science behind microwaves and how they heat our food in this fascinating journey!",
+  "quiz": [
+    {
+      "question": "What did Percy Spencer notice had melted in his pocket near the RADAR instrument?",
+      "choices": [
+        "Popcorn kernels",
+        "An egg",
+        "A candy bar"
+      ],
+      "answer": "A candy bar",
+      "explanation": "Percy Spencer noticed that the candy bar in his pocket had melted near the RADAR instrument, leading to the discovery of microwave heating."
+    },
+    {
+      "question": "What kind of molecules do microwaves interact strongly with in foods?",
+      "choices": [
+        "Oil molecules",
+        "Sugar molecules",
+        "Water molecules"
+      ],
+      "answer": "Water molecules",
+      "explanation": "Microwaves interact strongly with water molecules in foods, causing them to vibrate and generate heat through friction."
+    },
+    {
+      "question": "Why do metals spark in a microwave oven?",
+      "choices": [
+        "They absorb microwave radiation",
+        "They have sharp edges and corners",
+        "They conduct electricity and concentrate electrons on their surface"
+      ],
+      "answer": "They conduct electricity and concentrate electrons on their surface",
+      "explanation": "Metals in a microwave oven concentrate electrons on their surface due to their conductivity, leading to sparking at sharp edges, corners, and small gaps."
+    },
+    {
+      "question": "How do microwaves heat food molecules?",
+      "choices": [
+        "Chemically",
+        "Mechanically through friction",
+        "By altering their composition"
+      ],
+      "answer": "Mechanically through friction",
+      "explanation": "Microwaves heat food molecules mechanically through friction, making them vibrate and generate heat without altering their chemical composition."
+    },
+    {
+      "question": "Why are microwave ovens designed to prevent leakage?",
+      "choices": [
+        "To enhance flavor",
+        "For safety and efficiency",
+        "To reduce cooking time"
+      ],
+      "answer": "For safety and efficiency",
+      "explanation": "Microwave ovens are designed to prevent leakage for safety and efficiency purposes, ensuring that microwaves stay contained within the oven during operation."
+    }
+  ]
+}

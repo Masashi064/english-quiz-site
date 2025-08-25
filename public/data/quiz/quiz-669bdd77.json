@@ -1,0 +1,98 @@
+{
+  "slug": "669bdd77",
+  "video_id": "KFVdHDMcepw",
+  "movie_title": "The Prison Break | Think Like A Coder, Ep 1",
+  "movie_url": "https://youtu.be/KFVdHDMcepw",
+  "published_at": "2019-09-30T14:59:54Z",
+  "duration": "6:51",
+  "tags": [
+    "think like a coder",
+    "coding",
+    "programming",
+    "how to code",
+    "learn to code",
+    "loops",
+    "coding loops",
+    "programming puzzles",
+    "girls who code",
+    "coding for beginners",
+    "coding projects",
+    "ted ed series",
+    "ted ed coding",
+    "computer science",
+    "education",
+    "ethic",
+    "hedge",
+    "robots",
+    "for loop",
+    "while loop",
+    "until loop",
+    "do loop",
+    "animation",
+    "code.org",
+    "coding lessons",
+    "TED",
+    "TED-Ed",
+    "TED Ed",
+    "Teded",
+    "Ted Education",
+    "tlac",
+    "tlac episode 1",
+    "alex rosenthal",
+    "kozmonot animation studios"
+  ],
+  "introduction": "The adventure begins! Episode 1: Ethic awakens in a mysterious cell. Can she and robot Hedge solve t",
+  "lead_intro": "Join Ethic and Hedge on a thrilling adventure as they break out of prison and embark on a mission to save the world. Test your problem-solving skills with the following quiz based on their daring escape!",
+  "quiz": [
+    {
+      "question": "What key programming concept can help Hedge efficiently open any prison door?",
+      "choices": [
+        "Function",
+        "Loop",
+        "Variable"
+      ],
+      "answer": "Loop",
+      "explanation": "A loop allows Hedge to repeat instructions a specified number of times, enabling him to try every combination until the door unlocks."
+    },
+    {
+      "question": "What type of loop involves specifying the number of times it repeats?",
+      "choices": [
+        "If-Else",
+        "While",
+        "For"
+      ],
+      "answer": "For",
+      "explanation": "A 'for' loop specifies the number of times it repeats, which is useful for tasks like trying every combination of a dial lock."
+    },
+    {
+      "question": "Which loop type involves doing an action until a condition is met?",
+      "choices": [
+        "For",
+        "While",
+        "Do-While"
+      ],
+      "answer": "While",
+      "explanation": "A 'while' loop repeats an action until a specific condition is met, such as spinning the dial until it turns green in the lock."
+    },
+    {
+      "question": "What number did the cell door finally unlock at?",
+      "choices": [
+        "41",
+        "93",
+        "100"
+      ],
+      "answer": "41",
+      "explanation": "The cell door finally unlocked at position 41 after Hedge looped through the combinations."
+    },
+    {
+      "question": "What is the ultimate goal of Ethic and Hedge's mission?",
+      "choices": [
+        "Escape the prison",
+        "Collect powerful artifacts",
+        "Defeat the guards"
+      ],
+      "answer": "Collect powerful artifacts",
+      "explanation": "The ultimate goal of Ethic and Hedge's mission is to collect three powerful artifacts being used for nefarious purposes and return to the world machine to save the world."
+    }
+  ]
+}
