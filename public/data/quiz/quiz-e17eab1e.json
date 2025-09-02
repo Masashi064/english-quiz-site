@@ -1,0 +1,98 @@
+{
+  "slug": "e17eab1e",
+  "video_id": "ABYBtcM2D28",
+  "movie_title": "Should you care what your parents think?",
+  "movie_url": "https://youtu.be/ABYBtcM2D28",
+  "published_at": "2022-10-04T15:00:59Z",
+  "duration": "5:48",
+  "tags": [
+    "romeo and juliet",
+    "romeo and juliet effect",
+    "psychology",
+    "relationships",
+    "dating",
+    "parental approval",
+    "parents",
+    "boyfriend",
+    "girlfriend",
+    "reactance theory",
+    "motivation",
+    "romantic relationships",
+    "forbidden relationship",
+    "commitment",
+    "love",
+    "social network effect",
+    "opinion",
+    "defiant reactance",
+    "independent reactance",
+    "choices",
+    "decision making",
+    "inclusion",
+    "parental disapproval",
+    "character",
+    "education",
+    "animation",
+    "dan kwartler",
+    "and action creative agency",
+    "TED",
+    "TED-Ed",
+    "TED Ed",
+    "Teded",
+    "Ted Education",
+    "Maryna Buchynska"
+  ],
+  "introduction": "Dig into the Romeo and Juliet Effect, which describes the tendency to find someone more desirable wh",
+  "lead_intro": "Have you ever noticed how being told 'no' can sometimes make you want to do something even more? Dive into the psychology behind reactance theory and its impact on relationships in this intriguing video.",
+  "quiz": [
+    {
+      "question": "What is reactance theory primarily concerned with?",
+      "choices": [
+        "Strengthening romantic relationships",
+        "Restoring perceived freedom",
+        "Predicting long-term success of relationships"
+      ],
+      "answer": "Restoring perceived freedom",
+      "explanation": "Reactance theory focuses on the motivational state that occurs when people feel their freedom is being threatened and compels them to take actions they see as restoring that freedom."
+    },
+    {
+      "question": "What did the researchers at the University of Colorado name the trend of increased love in relationships facing parental disapproval?",
+      "choices": [
+        "Romeo and Juliet Effect",
+        "Defiant Reactance",
+        "Social Network Effect"
+      ],
+      "answer": "Romeo and Juliet Effect",
+      "explanation": "The trend of increased love in relationships facing parental disapproval was named the Romeo and Juliet Effect by researchers at the University of Colorado, attributing it to reactance."
+    },
+    {
+      "question": "What is the trend that predicts the long-term success of romantic relationships according to most follow-up studies?",
+      "choices": [
+        "Defiant Reactance",
+        "Independent Reactance",
+        "Social Network Effect"
+      ],
+      "answer": "Social Network Effect",
+      "explanation": "Most follow-up studies suggest that the perceived approval or disapproval of the couple's friends and family predict the long-term success of romantic relationships, known as the Social Network Effect."
+    },
+    {
+      "question": "What is the difference between defiant reactance and independent reactance?",
+      "choices": [
+        "Defiant reactance involves secret pursuits, while independent reactance involves ignoring concerns.",
+        "Defiant reactance is impulsive defiance, while independent reactance reflects a desire for choice.",
+        "Defiant reactance is driven by parental relationships, while independent reactance is influenced by social networks."
+      ],
+      "answer": "Defiant reactance is impulsive defiance, while independent reactance reflects a desire for choice.",
+      "explanation": "Defiant reactance involves impulsively doing the opposite of what one is told, while independent reactance reflects a deeper desire to make one's own choices."
+    },
+    {
+      "question": "How do supportive social networks impact relationships according to the video?",
+      "choices": [
+        "They lead to increased defiance in relationships.",
+        "They help buffer against disapproval from others.",
+        "They are detrimental to the success of relationships."
+      ],
+      "answer": "They help buffer against disapproval from others.",
+      "explanation": "Supportive social networks can help buffer against disapproval from others in relationships, contributing to the well-being and success of the individuals involved."
+    }
+  ]
+}

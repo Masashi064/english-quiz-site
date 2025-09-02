@@ -1,0 +1,102 @@
+{
+  "slug": "da5c5aca",
+  "video_id": "tekiHV-e8Uw",
+  "movie_title": "How close can we actually get to the Sun?",
+  "movie_url": "https://youtu.be/tekiHV-e8Uw",
+  "published_at": "2025-06-26T15:01:16Z",
+  "duration": "5:48",
+  "tags": [
+    "sun",
+    "sun surface",
+    "solar flare",
+    "geomagnetic storm",
+    "parker solar probe",
+    "venus",
+    "sun corona",
+    "sun layers",
+    "sun atmosphere",
+    "solar radii",
+    "solar atmosphere",
+    "physics",
+    "sun gravity",
+    "oberth maneuver",
+    "pluto",
+    "sun probe",
+    "heat shield",
+    "engineering",
+    "nasa engineering",
+    "spacecraft",
+    "spacecraft engineering",
+    "solar white",
+    "reflective paint",
+    "nasa",
+    "transition zone",
+    "sun transition zone",
+    "cosmology",
+    "universe",
+    "space",
+    "Igor Coric",
+    "Artrake studio",
+    "education",
+    "animation",
+    "TED",
+    "TED-Ed",
+    "TED Ed",
+    "Teded",
+    "Ted Education"
+  ],
+  "introduction": "Explore the challenges of Parker Solar Probe’s mission to touch the Sun, and what we could learn abo",
+  "lead_intro": "The Parker Solar Probe, designed to touch the Sun and survive extreme temperatures, has revealed fascinating details about our star. Let's explore the challenges and mysteries of this daring mission!",
+  "quiz": [
+    {
+      "question": "What is the speed of the Parker Solar Probe as it surfs the solar winds?",
+      "choices": [
+        "300,000 kilometers per hour",
+        "500,000 kilometers per hour",
+        "630,000 kilometers per hour"
+      ],
+      "answer": "630,000 kilometers per hour",
+      "explanation": "The Parker Solar Probe surfs the solar winds at more than 630,000 kilometers per hour, which is over 500 times the speed of sound on Earth."
+    },
+    {
+      "question": "What is the projected closest approach distance of the Parker Solar Probe to the solar surface?",
+      "choices": [
+        "8.8 sun lengths",
+        "9.5 sun lengths",
+        "10 solar radii"
+      ],
+      "answer": "8.8 sun lengths",
+      "explanation": "The Parker Solar Probe is projected to cross within 8.8 solar radii, which is less than 4.5 sun lengths away from the solar surface."
+    },
+    {
+      "question": "What layer above the solar surface has temperatures dipping from 500,000°C to 8,000 degrees?",
+      "choices": [
+        "Corona",
+        "Transition zone",
+        "Outer atmosphere"
+      ],
+      "answer": "Transition zone",
+      "explanation": "Above the solar surface is a thin 100 kilometer layer known as the transition zone, where temperatures decrease from 500,000°C to 8,000 degrees."
+    },
+    {
+      "question": "What daring flight path could propel a spacecraft past Pluto in just three years using the Sun's gravity?",
+      "choices": [
+        "Oberth maneuver",
+        "Venus slingshot",
+        "Mars flyby"
+      ],
+      "answer": "Oberth maneuver",
+      "explanation": "The Oberth maneuver involves flying a spacecraft within about 3 solar radii from the Sun's surface and using the Sun's gravity to slingshot itself into the outer solar system, potentially reaching Pluto in three years."
+    },
+    {
+      "question": "What novel ultra-reflective coating is being developed to potentially allow the Parker Solar Probe to get as close as 2 solar radii to the Sun's surface?",
+      "choices": [
+        "Solar White",
+        "Carbon Foam",
+        "Reflective Silver"
+      ],
+      "answer": "Solar White",
+      "explanation": "Researchers are developing a novel ultra-reflective coating called Solar White, which is predicted to reflect 99.9% of the Sun's energy, to potentially allow the probe to get as close as 2 solar radii from the Sun's surface."
+    }
+  ]
+}

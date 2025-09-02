@@ -1,0 +1,97 @@
+{
+  "slug": "0295c310",
+  "video_id": "jO8d0wwXyk8",
+  "movie_title": "Will Covid-19 change cities? 6 Minute English",
+  "movie_url": "https://youtu.be/jO8d0wwXyk8",
+  "published_at": "2020-08-20T13:23:27Z",
+  "duration": "6:16",
+  "tags": [
+    "learn English",
+    "English vocabulary",
+    "speak English",
+    "bbc english",
+    "English teacher",
+    "英語",
+    "영어",
+    "อังกฤษ",
+    "Anh",
+    "English tutorial",
+    "Ingilizce ders",
+    "English grammar",
+    "IELTS",
+    "British English",
+    "English pronunciation",
+    "English lesson",
+    "idiom",
+    "English expressions",
+    "BBC Learning English",
+    "tefl",
+    "slang",
+    "BBC",
+    "Online English",
+    "how to speak English",
+    "English speaking",
+    "ELT",
+    "6 minute english",
+    "coronavirus",
+    "covid-19",
+    "cities",
+    "city life",
+    "urban",
+    "habitat"
+  ],
+  "introduction": "From the bubonic plague and cholera to tuberculosis, pandemics have changed the ways cities have evo",
+  "lead_intro": "Join Neil and Rob from BBC Learning English as they discuss the impact of diseases and pandemics on cities throughout history, including the recent changes brought about by the Coronavirus lockdown. Test your knowledge with a quiz on Mumbai's population and learn about the historical relationship between cities and diseases.",
+  "quiz": [
+    {
+      "question": "What is the estimated population of Mumbai?",
+      "choices": [
+        "15 million people",
+        "20 million people",
+        "25 million people"
+      ],
+      "answer": "20 million people",
+      "explanation": "The estimated population of Mumbai is around 20 million people, making it challenging to implement social distancing measures in such a densely populated metropolis."
+    },
+    {
+      "question": "What disease spread rapidly in the 1800s due to dense cities like Paris?",
+      "choices": [
+        "Cholera",
+        "Tuberculosis",
+        "Malaria"
+      ],
+      "answer": "Tuberculosis",
+      "explanation": "Tuberculosis, an airborne disease, spread rapidly in dense cities like Paris in the 1800s, leading to high mortality rates before the discovery of antibiotics."
+    },
+    {
+      "question": "How did London combat the spread of cholera in the 1850s?",
+      "choices": [
+        "Improved hygiene through city-wide sewer system redesign",
+        "Isolated infected individuals",
+        "Introduced a curfew"
+      ],
+      "answer": "Improved hygiene through city-wide sewer system redesign",
+      "explanation": "London eliminated cholera in the 1850s by redesigning the sewage system, improving hygiene, and preventing the spread of the disease through contaminated water."
+    },
+    {
+      "question": "What term describes the largest and busiest city in a country or region?",
+      "choices": [
+        "Megalopolis",
+        "Metropolis",
+        "Urban sprawl"
+      ],
+      "answer": "Metropolis",
+      "explanation": "A metropolis is the largest, busiest, and most important city in a country or region, characterized by high population density and various economic activities."
+    },
+    {
+      "question": "What idea is being proposed in post-Covid Paris to enhance accessibility to public services?",
+      "choices": [
+        "30-minute city",
+        "45-minute city",
+        "15-minute city"
+      ],
+      "answer": "15-minute city",
+      "explanation": "Post-Covid Paris is exploring the concept of a '15-minute city,' where all public services are within a fifteen-minute walk, catering to the needs of people working from home and reducing the dependence on long commutes."
+    }
+  ]
+}

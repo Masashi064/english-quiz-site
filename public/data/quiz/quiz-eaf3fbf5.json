@@ -1,0 +1,94 @@
+{
+  "slug": "eaf3fbf5",
+  "video_id": "TyuGBi6joxY",
+  "movie_title": "3 questions to ask yourself before you believe something - Siska De Baerdemaeker",
+  "movie_url": "https://youtu.be/TyuGBi6joxY",
+  "published_at": "2023-07-25T15:01:29Z",
+  "duration": "5:48",
+  "tags": [
+    "pseudoscience",
+    "science",
+    "science vs pseudoscience",
+    "science or pseudoscience",
+    "astrology",
+    "creationism",
+    "homeopathy",
+    "homeopathic medicine",
+    "Samuel Hahnemann",
+    "homeopathic treatment",
+    "demarcation problem",
+    "empirical evidence",
+    "scientific method",
+    "karl popper",
+    "scientific theory",
+    "pseudoscience claims",
+    "identify pseudoscience",
+    "helen longino",
+    "transformative criticism",
+    "peer review",
+    "scientific progress",
+    "education",
+    "animation",
+    "Siska De Baerdemaeker",
+    "Eoin Duffy",
+    "TED",
+    "TED-Ed",
+    "TED Ed",
+    "Teded",
+    "Ted Education"
+  ],
+  "introduction": "Get to know 3 factors that can help you identify pseudoscience, and find out how it differs from act",
+  "lead_intro": "Learn about the demarcation problem and how to distinguish between science and pseudoscience in this insightful video.",
+  "quiz": [
+    {
+      "question": "What is the demarcation problem?",
+      "choices": [
+        "A problem in defining the difference between science and pseudoscience",
+        "A problem in identifying homeopathic treatments",
+        "A problem in conducting scientific experiments"
+      ],
+      "answer": "A problem in defining the difference between science and pseudoscience",
+      "explanation": "The demarcation problem refers to the challenge of distinguishing between what is considered science and what is pseudoscience."
+    },
+    {
+      "question": "According to Karl Popper, what is a key criterion for a theory to be considered scientific?",
+      "choices": [
+        "Predictability",
+        "Falsifiability",
+        "Theory complexity"
+      ],
+      "answer": "Falsifiability",
+      "explanation": "Karl Popper argued that for a theory to be scientific, it must be falsifiable, meaning it must be able to be proven wrong."
+    },
+    {
+      "question": "How do pseudoscientific fields typically respond to criticism?",
+      "choices": [
+        "Embrace criticism and adjust theories accordingly",
+        "Reject criticism and modify theories to fit any observation",
+        "Seek transparent peer review processes"
+      ],
+      "answer": "Reject criticism and modify theories to fit any observation",
+      "explanation": "Pseudoscientific fields often resist transformative criticism by continually modifying theories to explain away contradictory results and avoid addressing internal biases."
+    },
+    {
+      "question": "What is a key marker of science when it comes to handling shared information?",
+      "choices": [
+        "Denying shared data",
+        "Ignoring shared data",
+        "Reliance on a network of shared information"
+      ],
+      "answer": "Reliance on a network of shared information",
+      "explanation": "Science relies on a network of shared information that is continuously developed across disciplines, unlike pseudoscience which often denies or ignores this shared pool of data."
+    },
+    {
+      "question": "Why is it important to distinguish between science and pseudoscience?",
+      "choices": [
+        "To impede scientific progress",
+        "To manipulate others",
+        "To prevent belief systems from being disguised as science"
+      ],
+      "answer": "To prevent belief systems from being disguised as science",
+      "explanation": "Distinguishing between science and pseudoscience is crucial to prevent belief systems from being misrepresented as science, which can hinder genuine scientific advancements."
+    }
+  ]
+}
