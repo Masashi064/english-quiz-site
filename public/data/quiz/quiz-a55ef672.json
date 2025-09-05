@@ -1,0 +1,63 @@
+{
+  "slug": "a55ef672",
+  "video_id": "LbARorLmhsc",
+  "movie_title": "Would You Upload Your Mind?",
+  "movie_url": "https://youtu.be/LbARorLmhsc",
+  "published_at": "2025-08-28T14:00:36Z",
+  "duration": "0:57",
+  "tags": [],
+  "introduction": "A digital copy of you could chat with friends, live in a robot, or maybe even outlive you. But is it",
+  "lead_intro": "Imagine a future where your digital personality could live on even after you're gone. Dive into the fascinating concept of digital immortality and its possibilities.",
+  "quiz": [
+    {
+      "question": "According to the video, if all the data generated online in a single day were stored on 1 TBTE hard drives, how far could you line them up?",
+      "choices": [
+        "From New York City to LA",
+        "From London to Paris",
+        "From Tokyo to Sydney"
+      ],
+      "answer": "From New York City to LA",
+      "explanation": "The video mentions that all the data generated online in a single day could be stored on 1 TBTE hard drives and lined up all the way from New York City to LA."
+    },
+    {
+      "question": "What are companies developing with big data and AI tools?",
+      "choices": [
+        "Intelligent software that mimics personalities",
+        "Virtual reality games",
+        "Self-driving cars"
+      ],
+      "answer": "Intelligent software that mimics personalities",
+      "explanation": "Companies are developing intelligent software that mimics personalities based on collected data, as mentioned in the video."
+    },
+    {
+      "question": "How could a digital personality potentially help overcome loneliness?",
+      "choices": [
+        "By chatting with friends online",
+        "By transferring to a robot",
+        "By creating a digital twin"
+      ],
+      "answer": "By transferring to a robot",
+      "explanation": "The video suggests that a digital personality could be transferred to a robot that looks, speaks, and moves like you, which could help overcome loneliness or the loss of a loved one."
+    },
+    {
+      "question": "What would be essential to create a perfect digital copy of a brain?",
+      "choices": [
+        "A detailed scan including neural connections",
+        "An AI chatbot",
+        "A virtual reality simulation"
+      ],
+      "answer": "A detailed scan including neural connections",
+      "explanation": "To create a perfect digital copy of a brain, a superdetailed scan including the trillions of neural connections that make up an individual would be necessary, as mentioned in the video."
+    },
+    {
+      "question": "What precaution would need to be taken if a digital twin were created?",
+      "choices": [
+        "Ensuring it is unhackable",
+        "Connecting it to the internet",
+        "Allowing it to be manipulated"
+      ],
+      "answer": "Ensuring it is unhackable",
+      "explanation": "If a digital twin were created, it would be crucial to ensure it couldn't be hacked or manipulated, as highlighted in the video."
+    }
+  ]
+}

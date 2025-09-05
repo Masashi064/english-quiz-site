@@ -1,0 +1,94 @@
+{
+  "slug": "d5cbbbd1",
+  "video_id": "XZ-qspBsbqA",
+  "movie_title": "Can you outsmart the apples and oranges fallacy? - Elizabeth Cox",
+  "movie_url": "https://youtu.be/XZ-qspBsbqA",
+  "published_at": "2021-04-05T15:01:07Z",
+  "duration": "5:48",
+  "tags": [
+    "false analogy fallacy",
+    "false analogy",
+    "logical fallacies",
+    "apples and oranges",
+    "demon of reason",
+    "james hansen",
+    "climate change",
+    "global warming",
+    "earths temperature",
+    "cretaceous period",
+    "paleocene eocene",
+    "paleocene eocene thermal maximum",
+    "greenhouse effect",
+    "carbon dioxide",
+    "methane",
+    "greenhouse gases",
+    "gas emissions",
+    "united nations",
+    "IPCC",
+    "education",
+    "critical thinking",
+    "animation",
+    "history",
+    "elizabeth cox",
+    "together",
+    "TED",
+    "TED-Ed",
+    "TED Ed",
+    "Teded",
+    "Ted Education"
+  ],
+  "introduction": "Dig into the false analogy fallacy, which assumes that because two things share a characteristic, th",
+  "lead_intro": "Join us on a journey through time to learn about global warming trends and false analogies. Let's dive into the complexities of climate change and human impact.",
+  "quiz": [
+    {
+      "question": "Who testified to the United States Congress in 1988 about global warming trends being caused by human activity?",
+      "choices": [
+        "James Hansen",
+        "Scientist X",
+        "John Smith"
+      ],
+      "answer": "James Hansen",
+      "explanation": "James Hansen testified to the United States Congress in 1988 about global warming trends being caused by human activity."
+    },
+    {
+      "question": "When did the United Nations Intergovernmental Panel on Climate Change find that there is more than a 95% chance the global warming trend since the mid-20th century has been driven by human activity?",
+      "choices": [
+        "2001",
+        "2013",
+        "1995"
+      ],
+      "answer": "2013",
+      "explanation": "In 2013, the United Nations Intergovernmental Panel on Climate Change found that there is more than a 95% chance the global warming trend since the mid-20th century has been driven by human activity."
+    },
+    {
+      "question": "What was one of the natural causes of the Paleocene-Eocene Thermal Maximum warming period 55 million years ago?",
+      "choices": [
+        "Forest coverage in Antarctica",
+        "Release of methane from ocean sediments",
+        "Volcanic activity"
+      ],
+      "answer": "Release of methane from ocean sediments",
+      "explanation": "One of the natural causes of the Paleocene-Eocene Thermal Maximum warming period 55 million years ago was the release of methane, a potent greenhouse gas, from ocean sediments."
+    },
+    {
+      "question": "What does the false analogy discussed in the video relate to?",
+      "choices": [
+        "Comparing apples to oranges",
+        "Comparing different types of clothing",
+        "Comparing different diseases causing fevers"
+      ],
+      "answer": "Comparing apples to oranges",
+      "explanation": "The false analogy discussed in the video relates to comparing apples to oranges, highlighting the importance of not assuming similarities in all aspects based on a shared characteristic."
+    },
+    {
+      "question": "Which expert witnesses in the United States Senate hearing claimed that the current warming trend is the result of natural variation?",
+      "choices": [
+        "The majority of expert witnesses",
+        "Some expert witnesses",
+        "No expert witnesses"
+      ],
+      "answer": "Some expert witnesses",
+      "explanation": "Some expert witnesses in the United States Senate hearing claimed that the current warming trend is the result of natural variation, drawing comparisons to past warm periods in Earth's history."
+    }
+  ]
+}

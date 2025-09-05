@@ -1,0 +1,63 @@
+{
+  "slug": "5ff07ef2",
+  "video_id": "gtDKKJq9u30",
+  "movie_title": "The Dumbest Animal Alive",
+  "movie_url": "https://youtu.be/gtDKKJq9u30",
+  "published_at": "2025-09-02T14:00:01Z",
+  "duration": "11:05",
+  "tags": [],
+  "introduction": "Order your MyHeritage DNA kit for just $29 with code KURZGESAGT at https://bit.ly/KurzgesagtUS (Adve",
+  "lead_intro": "Discover the fascinating world of the Sunfish, or Mola, known as the dumbest creature alive but surprisingly thriving in the ocean. Let's dive into the quirky characteristics and unique behaviors of this lovable, yet derpy, giant fish.",
+  "quiz": [
+    {
+      "question": "What is the evolutionary strategy of the Sunfish, or Mola, in terms of its physical characteristics and feeding habits?",
+      "choices": [
+        "To be aggressive predators with sharp teeth",
+        "To be fast swimmers with a streamlined body",
+        "To be chunky and slow-moving, eating low-nutrient food"
+      ],
+      "answer": "To be chunky and slow-moving, eating low-nutrient food",
+      "explanation": "The Sunfish's evolutionary strategy involves being chunky and slow-moving, consuming low-nutrient food like jellyfish, and growing rapidly despite being weaker than its predators."
+    },
+    {
+      "question": "What is one of the Sunfish's unique physical features that contribute to its comical appearance and swimming style?",
+      "choices": [
+        "A streamlined body with a powerful tail for fast swimming",
+        "Fins on the top and bottom for unorthodox swimming",
+        "A sharp beak for hunting prey"
+      ],
+      "answer": "Fins on the top and bottom for unorthodox swimming",
+      "explanation": "The Sunfish has fins on the top and bottom that give it an unorthodox swimming style, flapping in a goofy wobbling motion, resembling underwater flying rather than traditional swimming."
+    },
+    {
+      "question": "How does the Sunfish compensate for the lack of a swim bladder, which most fish use for buoyancy?",
+      "choices": [
+        "It has a gas-filled organ for buoyancy",
+        "It has a jelly-like layer of flesh that is 90% water",
+        "It has a streamlined body for buoyancy"
+      ],
+      "answer": "It has a jelly-like layer of flesh that is 90% water",
+      "explanation": "Instead of a swim bladder, the Sunfish has a jelly-like layer of flesh that is 90% water, helping it to dive or surface but not aiding much in agility."
+    },
+    {
+      "question": "Why do Sunfish often float on their side at the ocean's surface like a pancake?",
+      "choices": [
+        "To avoid predators lurking below",
+        "To bask in the sun for warmth",
+        "To present their bodies to seabirds for parasite removal"
+      ],
+      "answer": "To present their bodies to seabirds for parasite removal",
+      "explanation": "Sunfish float on their side at the surface to allow seabirds like albatrosses to pick parasites off their bodies, creating a symbiotic relationship where the birds clean the fish in exchange for a snack."
+    },
+    {
+      "question": "What is one of the Sunfish's primary food sources that they consume in large quantities despite its low nutritional value?",
+      "choices": [
+        "Small fish and squid",
+        "Algae and plankton",
+        "Jellyfish and other gelatinous sea creatures"
+      ],
+      "answer": "Jellyfish and other gelatinous sea creatures",
+      "explanation": "Sunfish feed on jellyfish and other gelatinous sea creatures, despite their low caloric content, by consuming thousands of them in a single day due to their specialization in eating soft prey."
+    }
+  ]
+}

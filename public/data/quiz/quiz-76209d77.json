@@ -1,0 +1,97 @@
+{
+  "slug": "76209d77",
+  "video_id": "j836dsMHAkY",
+  "movie_title": "Should you donate your DNA to help cure diseases? - Greg Foot",
+  "movie_url": "https://youtu.be/j836dsMHAkY",
+  "published_at": "2021-05-13T15:00:24Z",
+  "duration": "5:48",
+  "tags": [
+    "drug development",
+    "medical crowdsourcing",
+    "genomics",
+    "medicine",
+    "medicine development",
+    "pharmaceuticals",
+    "pharma",
+    "drugs",
+    "disease",
+    "donate DNA",
+    "medical research",
+    "molecules",
+    "proteins",
+    "therapeutic targets",
+    "genes",
+    "genetics",
+    "DNA",
+    "genome",
+    "genetic code",
+    "dna proteins",
+    "clinical trials",
+    "cancer",
+    "MS",
+    "crowdsourced dna",
+    "education",
+    "animation",
+    "greg foot",
+    "Pierangelo Pirak",
+    "TED",
+    "TED-Ed",
+    "TED Ed",
+    "Teded",
+    "Ted Education"
+  ],
+  "introduction": "Discover how scientists are using crowdsourced DNA to find the causes of untreatable diseases, and d",
+  "lead_intro": "Drug development can be a lengthy and costly process, but you have the opportunity to contribute to the discovery of new treatments for currently untreatable diseases through medical crowdsourcing. Are you ready to test your knowledge on this topic?",
+  "quiz": [
+    {
+      "question": "What is the main focus of medical crowdsourcing in drug development?",
+      "choices": [
+        "Donating money for research",
+        "Donating genetic and health data",
+        "Developing drugs independently"
+      ],
+      "answer": "Donating genetic and health data",
+      "explanation": "Medical crowdsourcing in drug development involves individuals donating their genetic and health data to help researchers discover new treatments for diseases."
+    },
+    {
+      "question": "How do drugs treat diseases according to the video?",
+      "choices": [
+        "By targeting malfunctioning proteins",
+        "By targeting DNA mutations",
+        "By boosting the immune system"
+      ],
+      "answer": "By targeting malfunctioning proteins",
+      "explanation": "Drugs treat diseases by targeting malfunctioning proteins that cause disruptions in the body's molecular machines."
+    },
+    {
+      "question": "What do researchers look for in DNA to identify therapeutic targets for diseases?",
+      "choices": [
+        "Large genetic changes",
+        "Small genetic changes",
+        "No genetic changes"
+      ],
+      "answer": "Small genetic changes",
+      "explanation": "Researchers search for small genetic changes in DNA that lead to the production of faulty proteins responsible for causing diseases."
+    },
+    {
+      "question": "What is the potential ratio of proteins in the body that may have a drug targeting them?",
+      "choices": [
+        "1 in 10",
+        "1 in 5",
+        "1 in 3"
+      ],
+      "answer": "1 in 5",
+      "explanation": "Researchers estimate that 1 in 5 proteins in the body may have a drug that can bind to them, offering potential treatment options for various diseases."
+    },
+    {
+      "question": "What is emphasized as a crucial contribution from individuals towards drug development?",
+      "choices": [
+        "Donating money",
+        "Donating time",
+        "Donating genetic data and health history"
+      ],
+      "answer": "Donating genetic data and health history",
+      "explanation": "Individuals are encouraged to contribute their genetic data and health history to aid in the identification of new therapeutic targets for currently untreatable diseases."
+    }
+  ]
+}

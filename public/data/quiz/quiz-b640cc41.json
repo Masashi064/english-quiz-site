@@ -1,0 +1,99 @@
+{
+  "slug": "b640cc41",
+  "video_id": "NTeOhj6dxsU",
+  "movie_title": "Is human evolution speeding up or slowing down? - Laurence Hurst",
+  "movie_url": "https://youtu.be/NTeOhj6dxsU",
+  "published_at": "2020-09-22T15:01:15Z",
+  "duration": "5:48",
+  "tags": [
+    "human evolution",
+    "evolution",
+    "genetic adaptation",
+    "genetics",
+    "tibetans",
+    "siberia",
+    "frostbite",
+    "bajau people",
+    "milk",
+    "reproduction",
+    "natural selection",
+    "modern medicine",
+    "genes",
+    "infectious disease",
+    "antibiotics",
+    "vaccines",
+    "clean water",
+    "sanitation",
+    "genetic drift",
+    "technology",
+    "science",
+    "innovation",
+    "speed of evolution",
+    "history",
+    "biology",
+    "education",
+    "animation",
+    "laurence hurst",
+    "Philip Piaget",
+    "Rikke Planeta",
+    "TED",
+    "TED-Ed",
+    "TED Ed",
+    "Teded",
+    "Ted Education"
+  ],
+  "introduction": "Download a free audiobook version of \"Sapiens\" and support TED-Ed's nonprofit mission: https://www.a",
+  "lead_intro": "Human evolution is a fascinating topic that continues to shape our species. From genetic adaptations for high altitudes to diving abilities, our ability to evolve is evident in various populations. Let's explore some intriguing aspects of human evolution!",
+  "quiz": [
+    {
+      "question": "What genetic changes allow native Tibetans to thrive at high altitudes?",
+      "choices": [
+        "Regular exercise",
+        "Changes in a few genes",
+        "Consuming more oxygen supplements"
+      ],
+      "answer": "Changes in a few genes",
+      "explanation": "Native Tibetans have genetic adaptations that allow their bodies to make the most of limited oxygen at high altitudes, resulting in higher oxygen saturation and better survival rates."
+    },
+    {
+      "question": "What genetic adaptation do people in Siberia and the high arctic have for surviving extreme cold?",
+      "choices": [
+        "Higher susceptibility to frostbite",
+        "Increased sweating ability",
+        "Higher metabolic rate for increased heat production"
+      ],
+      "answer": "Higher metabolic rate for increased heat production",
+      "explanation": "People in Siberia and the high arctic have evolved genetic adaptations for a higher metabolic rate, helping them produce more heat and survive in extreme cold conditions."
+    },
+    {
+      "question": "What genetic adaptation do the Bajau people of southeast Asia have for diving?",
+      "choices": [
+        "Bigger lungs",
+        "Larger spleens that act as oxygen stores",
+        "Webbed feet"
+      ],
+      "answer": "Larger spleens that act as oxygen stores",
+      "explanation": "The Bajau people have genetically-hardwired large spleens that act as oxygen stores, enabling them to stay underwater for extended periods, similar to deep diving seals."
+    },
+    {
+      "question": "Which population has seen a rapid increase in DNA variants related to milk digestion over the last 7 to 8000 years?",
+      "choices": [
+        "Communities in South America",
+        "Communities in Asia",
+        "Communities in Europe, Sub-Saharan Africa, and the Middle East"
+      ],
+      "answer": "Communities in Europe, Sub-Saharan Africa, and the Middle East",
+      "explanation": "Communities in Europe, Sub-Saharan Africa, and the Middle East that used cows for milk have evolved DNA variants that prevent the gene for digesting milk from switching off, allowing them to continue digesting milk into adulthood."
+    },
+    {
+      "question": "How does modern medicine impact human evolution?",
+      "choices": [
+        "Accelerates genetic mutations",
+        "Increases genetic drift",
+        "Reduces selective pressures by keeping more people alive"
+      ],
+      "answer": "Reduces selective pressures by keeping more people alive",
+      "explanation": "Modern medicine reduces selective pressures by keeping individuals alive who would have otherwise succumbed to genetic factors or infectious diseases, thereby affecting the process of natural selection."
+    }
+  ]
+}

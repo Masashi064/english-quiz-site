@@ -1,0 +1,63 @@
+{
+  "slug": "2e902b39",
+  "video_id": "8iKd-P4Bcac",
+  "movie_title": "The secrets of Mozart’s “Magic Flute” - Joshua Borths",
+  "movie_url": "https://youtu.be/8iKd-P4Bcac",
+  "published_at": "2016-11-22T16:01:59Z",
+  "duration": "5:48",
+  "tags": [],
+  "introduction": "View full lesson: http://ed.ted.com/lessons/the-secrets-of-mozart-s-magic-flute-joshua-borths\n\nWolfg",
+  "lead_intro": "Embark on a journey through Mozart's 'The Magic Flute,' a whimsical opera that holds deeper symbolic meaning. Discover the intricate storytelling and hidden themes that have made it one of the most influential operas in history.",
+  "quiz": [
+    {
+      "question": "What is the name of the boy at the beginning of Mozart's 'The Magic Flute'?",
+      "choices": [
+        "Prince Sarastro",
+        "Prince Pamina",
+        "Prince Tamino"
+      ],
+      "answer": "Prince Tamino",
+      "explanation": "The opera opens with a boy named Prince Tamino being pursued by a dragon and then saved by three mysterious ladies."
+    },
+    {
+      "question": "Who sends Tamino on a quest to rescue her daughter Pamina?",
+      "choices": [
+        "The Queen of the Night",
+        "Sarastro",
+        "The three ladies"
+      ],
+      "answer": "The Queen of the Night",
+      "explanation": "The Queen of the Night sends Tamino on a quest to rescue her daughter Pamina from the evil sorcerer, Sarastro."
+    },
+    {
+      "question": "What do Tamino and Pamina have to pass to restore balance to the kingdom?",
+      "choices": [
+        "Three trials of wisdom",
+        "Three trials of strength",
+        "Three trials of courage"
+      ],
+      "answer": "Three trials of wisdom",
+      "explanation": "Tamino and Pamina must pass three trials of wisdom to restore balance to the kingdom and vanquish the darkness."
+    },
+    {
+      "question": "What historical organization influenced many elements of 'The Magic Flute'?",
+      "choices": [
+        "The Illuminati",
+        "The Knights Templar",
+        "Freemasonry"
+      ],
+      "answer": "Freemasonry",
+      "explanation": "Many elements in the opera were inspired by Mozart's involvement in Freemasonry, which influenced its symbolism and themes."
+    },
+    {
+      "question": "Which number is prominently featured throughout 'The Magic Flute' symbolizing balance and order?",
+      "choices": [
+        "Five",
+        "Two",
+        "Three"
+      ],
+      "answer": "Three",
+      "explanation": "The number three is significant in the opera, representing balance and order, and is found in various aspects of the storytelling, music, and symbolism."
+    }
+  ]
+}
