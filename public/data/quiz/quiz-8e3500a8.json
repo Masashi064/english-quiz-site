@@ -1,0 +1,94 @@
+{
+  "slug": "8e3500a8",
+  "video_id": "OKms5a0nGO4",
+  "movie_title": "Who decides how long a second is? - John Kitching",
+  "movie_url": "https://youtu.be/OKms5a0nGO4",
+  "published_at": "2021-01-19T16:00:42Z",
+  "duration": "5:47",
+  "tags": [
+    "atomic clock",
+    "atomic time",
+    "atomic time clock",
+    "clock",
+    "time",
+    "second",
+    "cesium 133",
+    "gregorian calendar",
+    "measure time",
+    "timekeeping",
+    "physics",
+    "quantum mechanics",
+    "atoms",
+    "electromagnetic fields",
+    "electrons",
+    "electron vibration",
+    "pendulum",
+    "vaporized atoms",
+    "elemental isotope",
+    "international committee of weights and measures",
+    "periodic table",
+    "periodic elements",
+    "cesium atom",
+    "john kitching",
+    "Tjoff Koong",
+    "TED",
+    "TED-Ed",
+    "TED Ed",
+    "Teded",
+    "Ted Education"
+  ],
+  "introduction": "Discover how scientists developed atomic clocks, which use the vibrations of atoms to measure and ma",
+  "lead_intro": "Have you ever wondered how long a second truly is? Delve into the fascinating journey of defining the fundamental unit of time through atomic clocks in this video.",
+  "quiz": [
+    {
+      "question": "When was the second as we know it first introduced?",
+      "choices": [
+        "1500s",
+        "1600s",
+        "1700s"
+      ],
+      "answer": "1500s",
+      "explanation": "The second as we know it was first introduced in the late 1500s with the spread of the Gregorian calendar alongside British colonialism."
+    },
+    {
+      "question": "What fundamental unit of time did the Gregorian calendar define?",
+      "choices": [
+        "Minute",
+        "Hour",
+        "Day"
+      ],
+      "answer": "Day",
+      "explanation": "The Gregorian calendar defined a day as a single revolution of the Earth about its axis, which could be divided into hours, minutes, and seconds."
+    },
+    {
+      "question": "What is the atom used in atomic clocks for precise timekeeping?",
+      "choices": [
+        "Hydrogen",
+        "Cesium",
+        "Gold"
+      ],
+      "answer": "Cesium",
+      "explanation": "Cesium-133 is the atom used in atomic clocks for its long-lived high frequency electron oscillation, measurable quantum spin, simple energy level structure, and ease of vaporization."
+    },
+    {
+      "question": "How many ticks of a cesium-133 atom define one second?",
+      "choices": [
+        "9,192,631,770 ticks",
+        "10,000,000 ticks",
+        "5,000,000 ticks"
+      ],
+      "answer": "9,192,631,770 ticks",
+      "explanation": "One second is exactly defined as 9,192,631,770 ticks of a cesium-133 atom, based on precise astronomical measurements."
+    },
+    {
+      "question": "What was the criteria for selecting the atom to define the second at the 1967 conference?",
+      "choices": [
+        "High atomic weight",
+        "Long-lived electron oscillation",
+        "Color of the atom"
+      ],
+      "answer": "Long-lived electron oscillation",
+      "explanation": "The researchers were looking for an element with long-lived and high frequency electron oscillation, among other criteria, leading to the selection of Cesium-133."
+    }
+  ]
+}

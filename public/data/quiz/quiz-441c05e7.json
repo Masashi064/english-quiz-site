@@ -1,0 +1,101 @@
+{
+  "slug": "441c05e7",
+  "video_id": "qWyLtYrTLYo",
+  "movie_title": "The fish that walk on land - Noah R. Bressman",
+  "movie_url": "https://youtu.be/qWyLtYrTLYo",
+  "published_at": "2020-08-31T15:00:40Z",
+  "duration": "5:47",
+  "tags": [
+    "amphibious fish",
+    "walking catfish",
+    "mosquitofish",
+    "mudskipper",
+    "fish",
+    "aquatic animals",
+    "mangroves",
+    "mangrove rivulus",
+    "eel catfish",
+    "catfish",
+    "grunion",
+    "gills",
+    "lungfish",
+    "armored catfish",
+    "tetrapod",
+    "dehydration",
+    "suffocation",
+    "mucus cocoon",
+    "goby",
+    "mummichog",
+    "fish out of water",
+    "droughts",
+    "floods",
+    "water pollution",
+    "science",
+    "biology",
+    "evolution",
+    "education",
+    "animation",
+    "ecology",
+    "noah bressman",
+    "anna benner",
+    "TED",
+    "TED-Ed",
+    "TED Ed",
+    "Teded",
+    "Ted Education"
+  ],
+  "introduction": "Explore the challenges facing amphibious fish when they leave water and the ingenious ways they surv",
+  "lead_intro": "Discover the fascinating world of amphibious fish species and their remarkable adaptations for survival on land.",
+  "quiz": [
+    {
+      "question": "How do amphibious fish breathe on land?",
+      "choices": [
+        "Through their gills",
+        "By gulping down air and breathing through their stomach lining",
+        "By absorbing oxygen through their skin"
+      ],
+      "answer": "By gulping down air and breathing through their stomach lining",
+      "explanation": "Amphibious fish like the armored catfish breathe on land by gulping down air and utilizing their stomach lining for respiration since their gills are ineffective out of water."
+    },
+    {
+      "question": "How do lungfish survive during dry seasons?",
+      "choices": [
+        "By migrating to other water bodies",
+        "By burying themselves in the earth and forming a mucus cocoon",
+        "By hibernating underwater"
+      ],
+      "answer": "By burying themselves in the earth and forming a mucus cocoon",
+      "explanation": "Lungfish survive dry seasons by burying themselves in the earth and encasing their bodies in a mucus cocoon until the next rainstorm revives them."
+    },
+    {
+      "question": "How does the Nopoli rock-climbing goby navigate on land?",
+      "choices": [
+        "By using its sense of smell",
+        "By listening for water sounds",
+        "By attaching its suction cups on mouth and fins to climb"
+      ],
+      "answer": "By attaching its suction cups on mouth and fins to climb",
+      "explanation": "The Nopoli rock-climbing goby scales tall waterfalls by attaching its suction cups alternately on its mouth and pelvic fins, allowing it to navigate on land."
+    },
+    {
+      "question": "What do mosquitofish use to find water on land?",
+      "choices": [
+        "Sense of smell",
+        "Sense of taste",
+        "Sense of hearing"
+      ],
+      "answer": "Sense of hearing",
+      "explanation": "Mosquitofish use their inner ear to determine their orientation on slopes and rely on moving downhill to find water while on land."
+    },
+    {
+      "question": "How do mudskippers prevent dehydration on land?",
+      "choices": [
+        "By rolling in the mud",
+        "By burying themselves in the earth",
+        "By staying in moist environments"
+      ],
+      "answer": "By rolling in the mud",
+      "explanation": "To avoid dehydration on land, mudskippers roll in the mud to maintain their bodily moisture, a strategy that helps them survive outside of water."
+    }
+  ]
+}

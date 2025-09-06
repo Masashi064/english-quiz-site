@@ -1,0 +1,63 @@
+{
+  "slug": "df381f48",
+  "video_id": "K1J9LNElrso",
+  "movie_title": "What If a Massive Solar Storm Hits Earth?",
+  "movie_url": "https://youtu.be/K1J9LNElrso",
+  "published_at": "2025-09-04T14:00:27Z",
+  "duration": "0:56",
+  "tags": [],
+  "introduction": "One giant solar storm could change life as we know it. A Coronal Mass Ejection (CME) could wipe out",
+  "lead_intro": "Learn about the potential dangers of solar storms and how they could impact life on Earth.",
+  "quiz": [
+    {
+      "question": "What are the main causes of solar storms?",
+      "choices": [
+        "Magnetic storms on the sun",
+        "High energy charged particles from Earth",
+        "Super flares on the Earth"
+      ],
+      "answer": "Magnetic storms on the sun",
+      "explanation": "Solar storms are mainly caused by magnetic storms on the sun."
+    },
+    {
+      "question": "How often do harmless small storms occur?",
+      "choices": [
+        "Once a year",
+        "Once every few thousand years",
+        "Once a month"
+      ],
+      "answer": "Once every few thousand years",
+      "explanation": "Harmless small storms occur about once every few thousand years."
+    },
+    {
+      "question": "What would a super flare from the sun do to Earth?",
+      "choices": [
+        "Burn the surface",
+        "Violently shake the Earth's magnetic field",
+        "Create a protective shield"
+      ],
+      "answer": "Violently shake the Earth's magnetic field",
+      "explanation": "A super flare would violently shake the Earth's magnetic field."
+    },
+    {
+      "question": "What is the impact of a worldwide blackout caused by a solar storm?",
+      "choices": [
+        "No impact at all",
+        "Trillions of dollars in damage",
+        "Slight inconvenience"
+      ],
+      "answer": "Trillions of dollars in damage",
+      "explanation": "A worldwide blackout could cause trillions of dollars in damage."
+    },
+    {
+      "question": "How can most of the damage from a solar storm be prevented?",
+      "choices": [
+        "By increasing electricity consumption",
+        "By ignoring the storm",
+        "By powering things down when one is coming"
+      ],
+      "answer": "By powering things down when one is coming",
+      "explanation": "Most of the damage from a solar storm can be prevented by powering things down when one is coming."
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "slug": "130553d2",
+  "video_id": "Z2Y0GMCFWq0",
+  "movie_title": "Could this technology end all viruses?",
+  "movie_url": "https://youtu.be/Z2Y0GMCFWq0",
+  "published_at": "2022-11-03T15:01:11Z",
+  "duration": "5:46",
+  "tags": [
+    "vaccines",
+    "universal vaccine",
+    "flu vaccine",
+    "flu",
+    "influenza",
+    "immunization",
+    "flu strains",
+    "flu shot",
+    "pandemics",
+    "epidemics",
+    "flu virus",
+    "virus",
+    "viruses",
+    "RNA",
+    "Hemagglutinin",
+    "hemagglutinin protein",
+    "immune system",
+    "immune response",
+    "antibodies",
+    "RNA mutation",
+    "virus mutation",
+    "antigenic drift",
+    "antigenic shift",
+    "human flu",
+    "bird flu",
+    "ferritin",
+    "viral proteins",
+    "covid",
+    "coronavirus",
+    "common cold",
+    "medicine",
+    "medical research",
+    "education",
+    "animation",
+    "Igor Coric",
+    "Artrake Studio",
+    "TED",
+    "TED-Ed",
+    "TED Ed",
+    "Teded",
+    "Ted Education"
+  ],
+  "introduction": "Explore how scientists are developing a flu vaccine that would protect you against every strain— eve",
+  "lead_intro": "Imagine a world where a single vaccine could protect you against all diseases. While we may not be there yet, the quest for a universal flu vaccine is a step towards this grand vision. Let's explore the fascinating science behind developing vaccines that could shield us from all strains of the flu, including those that may emerge in the future.",
+  "quiz": [
+    {
+      "question": "What is one of the main challenges in creating a universal flu vaccine?",
+      "choices": [
+        "Constant mutation of the flu virus",
+        "Lack of funding for research",
+        "Difficulty in finding test subjects"
+      ],
+      "answer": "Constant mutation of the flu virus",
+      "explanation": "One of the challenges in creating a universal flu vaccine is the constant mutation of the flu virus, leading to the need for new flu shots each year."
+    },
+    {
+      "question": "What is antigenic drift in the context of influenza?",
+      "choices": [
+        "A sudden change in the virus due to recombination",
+        "A gradual change in the virus over time",
+        "A change in the way vaccines are administered"
+      ],
+      "answer": "A gradual change in the virus over time",
+      "explanation": "Antigenic drift refers to the gradual accumulation of mutations in the flu virus over time, leading to changes that may reduce the effectiveness of existing antibodies."
+    },
+    {
+      "question": "What is antigenic shift in influenza?",
+      "choices": [
+        "A sudden change in the virus due to recombination",
+        "A gradual change in the virus over time",
+        "A change in the way vaccines are administered"
+      ],
+      "answer": "A sudden change in the virus due to recombination",
+      "explanation": "Antigenic shift occurs when different flu viruses infect the same cell and exchange genetic material through recombination, leading to the emergence of new strains that can evade existing immunity."
+    },
+    {
+      "question": "How do scientists overcome the challenge of designing a vaccine against future flu strains?",
+      "choices": [
+        "By targeting conserved regions of the virus",
+        "By focusing on rapidly mutating parts of the virus",
+        "By using only antibodies as a defense mechanism"
+      ],
+      "answer": "By targeting conserved regions of the virus",
+      "explanation": "To create a universal flu vaccine, scientists focus on conserved regions of the virus that are less likely to change over time, providing a more stable target for vaccine development."
+    },
+    {
+      "question": "What alternative part of the immune system is being explored for broader protection against infectious diseases?",
+      "choices": [
+        "T cells",
+        "B cells",
+        "Antibodies"
+      ],
+      "answer": "T cells",
+      "explanation": "In addition to antibody responses, researchers are exploring the role of T cells in killing virus-infected cells, potentially offering broader protection against various infectious diseases."
+    }
+  ]
+}
