@@ -1,0 +1,63 @@
+{
+  "slug": "92dfd8ea",
+  "video_id": "ByD__-ECSeI",
+  "movie_title": "Can We Run on Renewables?",
+  "movie_url": "https://youtu.be/ByD__-ECSeI",
+  "published_at": "2025-09-18T14:00:22Z",
+  "duration": "1:08",
+  "tags": [],
+  "introduction": "Can we really power the whole world with renewables? Solar and wind are cheap and clean, but they’re",
+  "lead_intro": "Renewable energy sources like solar and wind power have grown significantly in popularity due to their sustainability and cost-effectiveness. But can we rely solely on renewables for all our energy needs?",
+  "quiz": [
+    {
+      "question": "Why do many countries still use fossil fuels despite the advancements in solar and wind energy?",
+      "choices": [
+        "Fossil fuels are cheaper to generate",
+        "Renewables are not always available when needed",
+        "Fossil fuels are more sustainable"
+      ],
+      "answer": "Renewables are not always available when needed",
+      "explanation": "While solar and wind energy have become cheaper and more abundant, their reliance on natural schedules means they may not always be available when needed, leading many countries to still use fossil fuels to meet energy demands."
+    },
+    {
+      "question": "What is one alternative clean energy source mentioned in the video?",
+      "choices": [
+        "Coal",
+        "Natural gas",
+        "Hydropower"
+      ],
+      "answer": "Hydropower",
+      "explanation": "The video suggests that some countries could rely on a steady stream of hydropower as a cleaner alternative to fossil fuels for generating electricity."
+    },
+    {
+      "question": "How can excess sunshine and wind be stored for future use?",
+      "choices": [
+        "By converting it into hydrogen",
+        "By releasing it back into the atmosphere",
+        "By converting it into coal"
+      ],
+      "answer": "By converting it into hydrogen",
+      "explanation": "Excess solar and wind energy can be stored for future use by converting it into hydrogen through a process of splitting water into its basic parts, creating a fuel source that can be used on demand."
+    },
+    {
+      "question": "What method is mentioned for storing energy by utilizing water?",
+      "choices": [
+        "Pumping water downhill",
+        "Pumping water sideways",
+        "Pumping water uphill"
+      ],
+      "answer": "Pumping water uphill",
+      "explanation": "One method of storing energy mentioned in the video involves pumping water uphill when there is excess energy available, and letting it flow back down later to generate power when needed."
+    },
+    {
+      "question": "How can batteries help with utilizing renewable energy?",
+      "choices": [
+        "By generating more energy",
+        "By storing excess energy",
+        "By reducing energy production"
+      ],
+      "answer": "By storing excess energy",
+      "explanation": "Batteries can help store excess energy generated from renewable sources, allowing for a more stable and reliable power supply by balancing out fluctuations in energy production and demand."
+    }
+  ]
+}

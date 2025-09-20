@@ -1,0 +1,100 @@
+{
+  "slug": "5.85E+12",
+  "video_id": "FWTNMzK9vG4",
+  "movie_title": "Why you procrastinate even when it feels bad",
+  "movie_url": "https://youtu.be/FWTNMzK9vG4",
+  "published_at": "2022-10-27T15:01:06Z",
+  "duration": "5:46",
+  "tags": [
+    "procrastination",
+    "procrastinate",
+    "cycle of procrastination",
+    "avoidance",
+    "procrastinating",
+    "avoid work",
+    "brain",
+    "amygdala",
+    "emotional processing",
+    "emotions",
+    "hormones",
+    "adrenaline",
+    "threat identification",
+    "fear response",
+    "stress",
+    "prefrontal cortex",
+    "studying",
+    "failure",
+    "anxiety",
+    "depression",
+    "fight or flight",
+    "fight or flight response",
+    "neuroscience",
+    "science",
+    "emotional health",
+    "mental health",
+    "stop procrastinating",
+    "education",
+    "animation",
+    "Vitalii Nebelskyi",
+    "and action agency",
+    "TED",
+    "TED-Ed",
+    "TED Ed",
+    "Teded",
+    "Ted Education"
+  ],
+  "introduction": "Explore what happens in the brain to trigger procrastination, and what strategies you can use to bre",
+  "lead_intro": "Procrastination is a common struggle that many of us face, but have you ever wondered why we keep putting off tasks even when we know it's bad for us? Let's dive into the science behind procrastination and how we can break this cycle.",
+  "quiz": [
+    {
+      "question": "What is procrastination?",
+      "choices": [
+        "Deciding which tasks are important and which can wait.",
+        "Avoiding a task we said we would do, for no good reason, despite expecting negative consequences.",
+        "Strict time management and discipline."
+      ],
+      "answer": "Avoiding a task we said we would do, for no good reason, despite expecting negative consequences.",
+      "explanation": "Procrastination is when we delay or avoid a task we need to accomplish, even though we know it will have negative consequences."
+    },
+    {
+      "question": "What part of the brain is involved in the fear response when facing a task we perceive as threatening?",
+      "choices": [
+        "Prefrontal cortex",
+        "Hippocampus",
+        "Amygdala"
+      ],
+      "answer": "Amygdala",
+      "explanation": "The amygdala, a part of the brain involved in emotional processing and threat identification, triggers the fear response when we face a task we see as threatening."
+    },
+    {
+      "question": "Who is more likely to procrastinate, regardless of time management skills?",
+      "choices": [
+        "People with high self-esteem",
+        "People who struggle with regulating emotions",
+        "People who are disciplined"
+      ],
+      "answer": "People who struggle with regulating emotions",
+      "explanation": "Individuals who have difficulty regulating their emotions are more prone to procrastination, even if they are good at managing their time."
+    },
+    {
+      "question": "What is a common misconception about procrastinators?",
+      "choices": [
+        "They lack energy and are apathetic",
+        "They are lazy and unmotivated",
+        "They care too much and fear failure"
+      ],
+      "answer": "They are lazy and unmotivated",
+      "explanation": "Procrastinators are often misunderstood as lazy, but in reality, many procrastinate because they care deeply about the quality of their work and fear failure."
+    },
+    {
+      "question": "What strategy can help break the cycle of procrastination by reducing negative emotions?",
+      "choices": [
+        "Being overly critical of oneself",
+        "Fostering self-compassion",
+        "Increasing distractions"
+      ],
+      "answer": "Fostering self-compassion",
+      "explanation": "Cultivating an attitude of self-compassion, forgiving oneself, and addressing underlying concerns can help reduce negative emotions and break the cycle of procrastination."
+    }
+  ]
+}

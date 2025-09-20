@@ -1,0 +1,95 @@
+{
+  "slug": "cabfa38d",
+  "video_id": "W8O131s31Rg",
+  "movie_title": "Ethical dilemma: The burger murders - George Siedel and Christine Ladwig",
+  "movie_url": "https://youtu.be/W8O131s31Rg",
+  "published_at": "2020-07-28T15:04:25Z",
+  "duration": "5:46",
+  "tags": [
+    "tylenol murders",
+    "ethics",
+    "business ethics",
+    "meatless burger",
+    "poisoned burgers",
+    "poison",
+    "public relations",
+    "PR",
+    "pr crisis",
+    "crisis management",
+    "ethical strategies",
+    "stakeholder analysis",
+    "stakeholders",
+    "investors",
+    "employees",
+    "layoffs",
+    "financial loss",
+    "consumer protection",
+    "utilitarian test",
+    "family test",
+    "newspaper test",
+    "johnson & johnson",
+    "education",
+    "animation",
+    "george siedel",
+    "christine ladwig",
+    "TED",
+    "TED-Ed",
+    "TED Ed",
+    "Teded",
+    "Ted Education"
+  ],
+  "introduction": "What’s the best way to handle a crisis in business? Dig into how different strategies can work when",
+  "lead_intro": "In the wake of a crisis involving tainted meatless burgers, you must decide on a strategy to address the situation. Explore ethical considerations and stakeholder interests to determine the most appropriate course of action.",
+  "quiz": [
+    {
+      "question": "What is the company lawyer's recommendation regarding the recall of the tainted meatless burgers?",
+      "choices": [
+        "Do nothing",
+        "Pull products from grocery stores citywide",
+        "Pull and destroy the product worldwide"
+      ],
+      "answer": "Do nothing",
+      "explanation": "The company lawyer advises against a recall, as it could be perceived as an admission of fault, even though the criminal is responsible."
+    },
+    {
+      "question": "Which ethical test involves maximizing the greatest good for the greatest number of people?",
+      "choices": [
+        "Utilitarian Test",
+        "Family Test",
+        "Newspaper Test"
+      ],
+      "answer": "Utilitarian Test",
+      "explanation": "The Utilitarian Test focuses on maximizing overall good for the majority, a key consideration in ethical decision-making."
+    },
+    {
+      "question": "What did Johnson & Johnson CEO James Burke decide to do in response to the Tylenol poisoning incident in 1982?",
+      "choices": [
+        "Do nothing",
+        "Recall and destroy Tylenol worldwide",
+        "Pull products only from Chicago stores"
+      ],
+      "answer": "Recall and destroy Tylenol worldwide",
+      "explanation": "In a similar crisis, Burke chose to prioritize customer safety by recalling and destroying Tylenol globally, leading to regained trust and sales rebound."
+    },
+    {
+      "question": "What impact did Johnson & Johnson's recall of Tylenol have on the company's reputation and sales?",
+      "choices": [
+        "Reputation damage and sales decline",
+        "Reputation boost and sales rebound",
+        "Reputation boost and sales decline"
+      ],
+      "answer": "Reputation boost and sales rebound",
+      "explanation": "The recall decision enhanced the company's reputation by demonstrating a commitment to customer safety, ultimately leading to sales recovery."
+    },
+    {
+      "question": "What key action did Johnson & Johnson take following the Tylenol incident to prevent future tampering incidents?",
+      "choices": [
+        "Developed tamper-resistant packaging",
+        "Increased product advertising",
+        "Reduced product prices"
+      ],
+      "answer": "Developed tamper-resistant packaging",
+      "explanation": "In response to the crisis, Johnson & Johnson became a leader in developing tamper-resistant packaging to prevent further incidents of product tampering."
+    }
+  ]
+}

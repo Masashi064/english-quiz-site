@@ -1,0 +1,63 @@
+{
+  "slug": "5ea305c6",
+  "video_id": "XFODuRPv8Yw",
+  "movie_title": "Our PC Game Is Finally Here!",
+  "movie_url": "https://youtu.be/XFODuRPv8Yw",
+  "published_at": "2025-09-10T15:30:31Z",
+  "duration": "1:08",
+  "tags": [],
+  "introduction": "Our first PC game Star Birds is now available in Early Access on Steam! 🚀\nWe’ve spent over two and a",
+  "lead_intro": "Embark on a thrilling space adventure in the game Starbirds, where you must mine asteroids and build a space factory. Are you ready to explore the depths of space?",
+  "quiz": [
+    {
+      "question": "What is the main mission in the game Starbirds?",
+      "choices": [
+        "Exploring new star systems",
+        "Building a space factory",
+        "Fighting off alien invaders"
+      ],
+      "answer": "Building a space factory",
+      "explanation": "In the game Starbirds, the main mission is to claim asteroids, mine resources, and build a thriving space factory."
+    },
+    {
+      "question": "What should players do to automate production in Starbirds?",
+      "choices": [
+        "Upgrade their crew",
+        "Set up transport routes",
+        "Connect buildings"
+      ],
+      "answer": "Connect buildings",
+      "explanation": "Players in Starbirds can automate production by connecting buildings to create a buzzing network that combines resources."
+    },
+    {
+      "question": "What do players unlock as they explore more in Starbirds?",
+      "choices": [
+        "New alien species",
+        "Smarter technologies",
+        "Historical artifacts"
+      ],
+      "answer": "Smarter technologies",
+      "explanation": "Exploring more in Starbirds unlocks smarter technologies and better upgrades for players."
+    },
+    {
+      "question": "How can players reach new star systems in Starbirds?",
+      "choices": [
+        "By upgrading their ships",
+        "By drilling deeper into asteroids",
+        "By pushing further into space"
+      ],
+      "answer": "By pushing further into space",
+      "explanation": "Players can reach new star systems in Starbirds by pushing further into space and exploring the depths of the universe."
+    },
+    {
+      "question": "Where can players access Starbirds in its current state?",
+      "choices": [
+        "On mobile devices",
+        "On consoles",
+        "On Steam in early access"
+      ],
+      "answer": "On Steam in early access",
+      "explanation": "Starbirds is currently available in early access on Steam, allowing players to start drilling and building in the game."
+    }
+  ]
+}

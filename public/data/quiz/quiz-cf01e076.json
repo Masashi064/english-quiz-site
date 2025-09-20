@@ -1,0 +1,95 @@
+{
+  "slug": "cf01e076",
+  "video_id": "6iAfUomyCjo",
+  "movie_title": "Just add water: The garden insect that can turn into a plague - Jeffrey A. Lockwood",
+  "movie_url": "https://youtu.be/6iAfUomyCjo",
+  "published_at": "2021-11-04T15:01:08Z",
+  "duration": "5:46",
+  "tags": [
+    "locusts",
+    "locust swarm",
+    "locust plague",
+    "locust sound",
+    "desert locust",
+    "locust eggs",
+    "locust cluster",
+    "pheromones",
+    "locust pheromone",
+    "locust metamorphosis",
+    "exoskeleton",
+    "insects",
+    "insect invasion",
+    "crops",
+    "agriculture",
+    "farming",
+    "locust hot spot",
+    "insecticide",
+    "grasshoppers",
+    "insect poop",
+    "food supply",
+    "science",
+    "entomology",
+    "education",
+    "animation",
+    "Jeffrey A. Lockwood",
+    "franz palomares",
+    "TED",
+    "TED-Ed",
+    "Teded",
+    "Ted Education"
+  ],
+  "introduction": "Discover what causes desert locusts to transform into crop-consuming plagues and how they directly e",
+  "lead_intro": "Discover the fascinating transformation of desert locusts from harmless insects to crop-consuming plagues in this captivating narrative.",
+  "quiz": [
+    {
+      "question": "What triggers the transformation of harmless desert locusts into crop-consuming swarms?",
+      "choices": [
+        "Increased moisture and abundance of vegetation",
+        "Exposure to sunlight and dry weather",
+        "Contact with predators and scarcity of food"
+      ],
+      "answer": "Increased moisture and abundance of vegetation",
+      "explanation": "Increased moisture leads to more vegetation for hoppers to eat, causing them to feed in close proximity and trigger hormonal changes that lead to clustering and transformation."
+    },
+    {
+      "question": "What warning signal do desert locusts develop to deter predators?",
+      "choices": [
+        "Bright colors",
+        "Loud noises",
+        "Unpleasant odor"
+      ],
+      "answer": "Bright colors",
+      "explanation": "Desert locusts develop a striking pattern with bright colors to warn predators of their newly poisonous nature after consuming plants with toxic alkaloids."
+    },
+    {
+      "question": "How do desert locust swarms communicate and further their transformation?",
+      "choices": [
+        "Through pheromones in their poop",
+        "By emitting high-pitched sounds",
+        "Through visual signals using their wings"
+      ],
+      "answer": "Through pheromones in their poop",
+      "explanation": "The huge amounts of poop produced by locust swarms carry pheromones that contribute to their transformation and the formation of larger groups."
+    },
+    {
+      "question": "How do desert locusts contribute to the spread of fungal diseases?",
+      "choices": [
+        "By consuming infected plants",
+        "By carrying pathogens on their bodies",
+        "By releasing spores in the air"
+      ],
+      "answer": "By carrying pathogens on their bodies",
+      "explanation": "Desert locusts can spread fungal diseases lethal to them by carrying pathogens on their bodies, aiding in controlling their populations."
+    },
+    {
+      "question": "What human interventions are mentioned in the text to combat desert locust plagues?",
+      "choices": [
+        "Chemical insecticides and satellite imagery",
+        "Biological control methods and crop diversity",
+        "Genetic engineering and water scarcity"
+      ],
+      "answer": "Chemical insecticides and satellite imagery",
+      "explanation": "Local governments use chemical insecticides and satellite imagery to combat locust swarms, while some regions have success with fungal diseases as a safer alternative."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "0edc81e5",
+  "video_id": "XunabxHzMuM",
+  "movie_title": "This Game Took Us Two Years To Make",
+  "movie_url": "https://youtu.be/XunabxHzMuM",
+  "published_at": "2025-09-10T15:00:45Z",
+  "duration": "1:09",
+  "tags": [],
+  "introduction": "Play it now on Steam: https://kgs.link/sb-ealaunch\nOur first PC game Star Birds is now available in",
+  "lead_intro": "Embark on a thrilling space adventure in Star Birds! Mine asteroids, build a network, and explore new star systems in this exciting Early Access game.",
+  "quiz": [
+    {
+      "question": "What is the main objective in Star Birds?",
+      "choices": [
+        "Exploring new star systems",
+        "Building a network",
+        "Mining asteroids"
+      ],
+      "answer": "Mining asteroids",
+      "explanation": "In Star Birds, the main objective is to mine asteroids and extract valuable resources to build a thriving space factory."
+    },
+    {
+      "question": "How can you combine resources in Star Birds?",
+      "choices": [
+        "By upgrading technologies",
+        "By connecting buildings",
+        "By setting up transport routes"
+      ],
+      "answer": "By connecting buildings",
+      "explanation": "Players can combine resources into more complex goods in Star Birds by connecting buildings in a buzzing network."
+    },
+    {
+      "question": "What can players automate in Star Birds?",
+      "choices": [
+        "Exploration",
+        "Production lines",
+        "Crew management"
+      ],
+      "answer": "Production lines",
+      "explanation": "In Star Birds, players can automate their production lines to streamline resource processing and improve efficiency."
+    },
+    {
+      "question": "What do players unlock as they explore in Star Birds?",
+      "choices": [
+        "New crew members",
+        "Better upgrades",
+        "Transport vehicles"
+      ],
+      "answer": "Better upgrades",
+      "explanation": "Exploring in Star Birds allows players to unlock smarter technologies and better upgrades to enhance their space factory's capabilities."
+    },
+    {
+      "question": "Where can players get Star Birds in Early Access?",
+      "choices": [
+        "Google Play Store",
+        "App Store",
+        "Steam"
+      ],
+      "answer": "Steam",
+      "explanation": "Star Birds is available in Early Access on Steam, where players can start their asteroid mining adventure and explore the depths of space."
+    }
+  ]
+}
