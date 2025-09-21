@@ -1,0 +1,94 @@
+{
+  "slug": "aac9338f",
+  "video_id": "3mnSDifDSxQ",
+  "movie_title": "The Largest Star in the Universe – Size Comparison",
+  "movie_url": "https://youtu.be/3mnSDifDSxQ",
+  "published_at": "2020-09-22T15:17:30Z",
+  "duration": "11:59",
+  "tags": [
+    "Star",
+    "sun",
+    "largest star",
+    "space",
+    "universe",
+    "kurzgesagt app",
+    "wait but why",
+    "universe in a nutshell",
+    "earth",
+    "Jupiter",
+    "brown dwarfs",
+    "gas giant",
+    "main sequence stars",
+    "hydrogen",
+    "helium",
+    "solar system",
+    "Sirius",
+    "Beta Centauri",
+    "galaxy",
+    "R136a1",
+    "red giants",
+    "Gacrux",
+    "Pistol Star",
+    "Rho Cassiopeiae",
+    "Hypergiants",
+    "Red Hypergiants",
+    "Yellow Hypergiants",
+    "Stephenson 2-18",
+    "Saturn",
+    "bernard's star"
+  ],
+  "introduction": "We created our first app ‘Universe in a Nutshell’, together with Tim Urban of Wait but Why!\nAppstore",
+  "lead_intro": "Have you ever wondered about the largest star in the universe and how stars are formed? Let's delve into the fascinating world of stars and their incredible sizes!",
+  "quiz": [
+    {
+      "question": "What is the smallest real star known as?",
+      "choices": [
+        "Red Giants",
+        "Yellow Hypergiants",
+        "Red Dwarfs"
+      ],
+      "answer": "Red Dwarfs",
+      "explanation": "Red Dwarfs are about 100 times the mass of Jupiter, barely massive enough to fuse hydrogen to helium. They are small, not very hot, and shine dimly."
+    },
+    {
+      "question": "What happens when main sequence stars exhaust the hydrogen in their core?",
+      "choices": [
+        "They explode in a supernova",
+        "They become red giants",
+        "They contract and become hotter and denser"
+      ],
+      "answer": "They contract and become hotter and denser",
+      "explanation": "When main sequence stars exhaust hydrogen, they contract, becoming hotter and denser. This leads to faster fusion, causing the outer layers to swell in a giant phase."
+    },
+    {
+      "question": "What are hypergiants characterized by?",
+      "choices": [
+        "Enormous surface areas and powerful stellar winds",
+        "Small size and high luminosity",
+        "Short lifespan and dim radiance"
+      ],
+      "answer": "Enormous surface areas and powerful stellar winds",
+      "explanation": "Hypergiants, like the Pistol Star and Rho Cassiopeiae, have immense surface areas that radiate significant light. Their gravity is weak, leading to powerful stellar winds."
+    },
+    {
+      "question": "Which star is currently thought to be one of the largest known stars?",
+      "choices": [
+        "Sirius A",
+        "R136a1",
+        "Stevenson 2-18"
+      ],
+      "answer": "Stevenson 2-18",
+      "explanation": "Stevenson 2-18, with an estimated 2150 solar radii and half a million times the power of the sun, is among the largest stars known. It is likely in a red hypergiant phase."
+    },
+    {
+      "question": "What is the main factor that determines the size and brightness of a main sequence star?",
+      "choices": [
+        "Its mass",
+        "Its distance from Earth",
+        "Its temperature"
+      ],
+      "answer": "Its mass",
+      "explanation": "The mass of a main sequence star is a crucial factor in determining its size and brightness. More massive stars burn hotter and brighter but have shorter lifespans."
+    }
+  ]
+}

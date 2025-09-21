@@ -1,0 +1,63 @@
+{
+  "slug": "26652dda",
+  "video_id": "Z_1Q0XB4X0Y",
+  "movie_title": "You Are The Center of The Universe (Literally)",
+  "movie_url": "https://youtu.be/Z_1Q0XB4X0Y",
+  "published_at": "2023-12-17T15:00:53Z",
+  "duration": "12:31",
+  "tags": [],
+  "introduction": "This video was sponsored by GiveWell. \nFirst-time donors will have their donation matched up to $100",
+  "lead_intro": "Join me on a fantastical journey through the vast scales of the universe, where we explore how everything from tiny particles to gigantic celestial bodies relates to you. Let's dive into mind-bending proportions and discover where you stand in the grand scheme of things!",
+  "quiz": [
+    {
+      "question": "How many times smaller is the Empire State Building compared to a mosquito?",
+      "choices": [
+        "235 times",
+        "50 times",
+        "875 times"
+      ],
+      "answer": "235 times",
+      "explanation": "The Empire State Building is about 235 times larger than a mosquito, highlighting the vast difference in size between these two objects."
+    },
+    {
+      "question": "What is the size comparison between the Burj Khalifa and a typical skin cell?",
+      "choices": [
+        "500 times",
+        "100,000 times",
+        "1 quadrillion times"
+      ],
+      "answer": "500 times",
+      "explanation": "The Burj Khalifa is about 500 times larger than a typical skin cell, showcasing the immense size gap between a human-made structure and a microscopic biological unit."
+    },
+    {
+      "question": "How many times larger is the Sun compared to Jupiter?",
+      "choices": [
+        "10 times",
+        "100 times",
+        "1 billion times"
+      ],
+      "answer": "10 times",
+      "explanation": "The Sun is approximately 10 times bigger than Jupiter, underscoring the significant size disparity between these two massive celestial objects within our solar system."
+    },
+    {
+      "question": "What is the size relationship between a DNA strand and a human?",
+      "choices": [
+        "A billion times smaller",
+        "Same size",
+        "A trillion times larger"
+      ],
+      "answer": "A billion times smaller",
+      "explanation": "A DNA strand is roughly a billion times smaller than a human, revealing the intricate molecular scale that plays a crucial role in the functioning and existence of all living organisms."
+    },
+    {
+      "question": "How many times larger is the Observable Universe compared to the Milky Way?",
+      "choices": [
+        "465,000 times",
+        "1 trillion times",
+        "22 trillion times"
+      ],
+      "answer": "465,000 times",
+      "explanation": "The Observable Universe is about 465,000 times larger than the Milky Way, illustrating the vast expanse of the cosmos beyond our galaxy and the unfathomable scale of the universe."
+    }
+  ]
+}

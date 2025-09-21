@@ -1,0 +1,63 @@
+{
+  "slug": "4dff35eb",
+  "video_id": "QqsLTNkzvaY",
+  "movie_title": "What If You Fall into a Black Hole?",
+  "movie_url": "https://youtu.be/QqsLTNkzvaY",
+  "published_at": "2021-04-27T13:59:20Z",
+  "duration": "12:15",
+  "tags": [],
+  "introduction": "If you want to continue thinking about black holes a tad more, you can do so by getting one of the m",
+  "lead_intro": "Black holes are mysterious and fascinating cosmic phenomena that challenge our understanding of the universe. Have you ever wondered what would happen if you fell inside one? Let's explore the mind-bending concepts of black holes and test your knowledge with a quiz!",
+  "quiz": [
+    {
+      "question": "What is the invisible, one-way border around a black hole that blocks the space under its control called?",
+      "choices": [
+        "Event horizon",
+        "Photon sphere",
+        "Ergosphere"
+      ],
+      "answer": "Event horizon",
+      "explanation": "The event horizon forms a shell around a black hole where once entered, space is shielded from the rest of the universe forever, as not even light can escape it."
+    },
+    {
+      "question": "What phenomenon near a black hole causes matter to be stretched and pulled apart due to varying gravitational forces?",
+      "choices": [
+        "Quantum entanglement",
+        "Time dilation",
+        "Spaghettification"
+      ],
+      "answer": "Spaghettification",
+      "explanation": "Spaghettification is the term used to describe the extreme tidal forces near a black hole that would stretch and pull apart any object falling into it, due to the difference in gravitational pull on different parts of the object."
+    },
+    {
+      "question": "What is the point at the center of a black hole where all the matter is crushed to an infinitely small point called?",
+      "choices": [
+        "Ergosphere",
+        "Photon sphere",
+        "Singularity"
+      ],
+      "answer": "Singularity",
+      "explanation": "The singularity is a single point within a black hole where all the mass that has crossed the event horizon is crushed to an infinitely small point, breaking the laws of physics as we know them."
+    },
+    {
+      "question": "What theoretical concept suggests that black holes will eventually shrink and radiate away over eons?",
+      "choices": [
+        "Hawking radiation",
+        "Quantum tunneling",
+        "Dark matter annihilation"
+      ],
+      "answer": "Hawking radiation",
+      "explanation": "Hawking radiation is a theoretical prediction where black holes emit radiation due to quantum fluctuations near their event horizons, causing them to lose mass over time and eventually evaporate."
+    },
+    {
+      "question": "What property do all black holes share, according to the video?",
+      "choices": [
+        "Color",
+        "Mass, spin, and electric charge",
+        "Temperature"
+      ],
+      "answer": "Mass, spin, and electric charge",
+      "explanation": "The video states that all black holes in the universe share the properties of mass, spin, and electric charge, while everything else about them is lost or unknown due to the extreme conditions inside."
+    }
+  ]
+}

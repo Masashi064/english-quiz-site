@@ -1,0 +1,63 @@
+{
+  "slug": "6f2b68fc",
+  "video_id": "dFCbJmgeHmA",
+  "movie_title": "The Day the Dinosaurs Died – Minute by Minute",
+  "movie_url": "https://youtu.be/dFCbJmgeHmA",
+  "published_at": "2021-06-15T14:09:03Z",
+  "duration": "12:02",
+  "tags": [],
+  "introduction": "DISCOVER ANCIENT WORLDS\nPeek into the past and learn about dinosaurs and other amazing creatures: ht",
+  "lead_intro": "The extinction event that ended the era of the dinosaurs is a fascinating and dramatic event that completely changed life on Earth. Let's delve into a quiz to test your understanding of this catastrophic event!",
+  "quiz": [
+    {
+      "question": "What celestial event led to the extinction of the dinosaurs?",
+      "choices": [
+        "Supernova explosion",
+        "Asteroid impact",
+        "Solar eclipse"
+      ],
+      "answer": "Asteroid impact",
+      "explanation": "The extinction of the dinosaurs was caused by a massive asteroid impact on Earth."
+    },
+    {
+      "question": "How did the impact of the asteroid affect the Earth's atmosphere?",
+      "choices": [
+        "It caused a drop in temperatures",
+        "It heated up the atmosphere to extreme temperatures",
+        "It had no effect on the atmosphere"
+      ],
+      "answer": "It heated up the atmosphere to extreme temperatures",
+      "explanation": "The impact of the asteroid heated up the atmosphere to hundreds or even thousands of degrees, leading to catastrophic global effects."
+    },
+    {
+      "question": "What natural disaster followed the asteroid impact?",
+      "choices": [
+        "Earthquakes",
+        "Tsunamis",
+        "Volcanic eruptions"
+      ],
+      "answer": "Tsunamis",
+      "explanation": "After the asteroid impact, a ring of tsunamis as high as one kilometer spread in all directions, causing massive destruction along the coastlines."
+    },
+    {
+      "question": "What percentage of species on Earth vanished as a result of the asteroid impact?",
+      "choices": [
+        "50%",
+        "75%",
+        "90%"
+      ],
+      "answer": "75%",
+      "explanation": "Approximately 75% of all species on Earth vanished due to the catastrophic effects of the asteroid impact."
+    },
+    {
+      "question": "What emerged as survivors after the extinction of the dinosaurs?",
+      "choices": [
+        "Insects",
+        "Mammals and birds",
+        "Reptiles"
+      ],
+      "answer": "Mammals and birds",
+      "explanation": "Mammals and birds emerged as survivors after the extinction of the dinosaurs and eventually became the dominant animals on the planet."
+    }
+  ]
+}

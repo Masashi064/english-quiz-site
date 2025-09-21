@@ -1,0 +1,63 @@
+{
+  "slug": "bfc6ff21",
+  "video_id": "u4LUix-BU0s",
+  "movie_title": "The Drug That Works TOO Well?",
+  "movie_url": "https://youtu.be/u4LUix-BU0s",
+  "published_at": "2025-08-19T14:00:01Z",
+  "duration": "12:08",
+  "tags": [],
+  "introduction": "Go to https://brilliant.org/nutshell/ to dive deeper into these topics and more for free + get 20% o",
+  "lead_intro": "Discover the fascinating world of amphetamines and how they supercharge your brain in our latest blog post. Learn about their effects, uses, and potential risks.",
+  "quiz": [
+    {
+      "question": "What are the three main types of amphetamines mentioned in the video?",
+      "choices": [
+        "Cocaine, ecstasy, and methadone",
+        "Methamphetamine, MDMA, and Adderall",
+        "Plain amphetamine, methamphetamine, and MDMA"
+      ],
+      "answer": "Plain amphetamine, methamphetamine, and MDMA",
+      "explanation": "The video mentions the three main types of amphetamines as plain amphetamine, methamphetamine, and MDMA."
+    },
+    {
+      "question": "What is the main effect of amphetamines on the brain?",
+      "choices": [
+        "Decrease dopamine and noradrenaline levels",
+        "Increase dopamine and noradrenaline levels",
+        "Stabilize dopamine and noradrenaline levels"
+      ],
+      "answer": "Increase dopamine and noradrenaline levels",
+      "explanation": "Amphetamines trick the brain into massively increasing the levels of dopamine and noradrenaline, which are chemicals associated with motivation and alertness."
+    },
+    {
+      "question": "What mental disorder are amphetamines mainly prescribed for nowadays?",
+      "choices": [
+        "Depression",
+        "Anxiety",
+        "ADHD"
+      ],
+      "answer": "ADHD",
+      "explanation": "Amphetamines are mainly prescribed for ADHD, a mental disorder that makes it hard to concentrate on boring tasks and control impulses."
+    },
+    {
+      "question": "What can happen if you take too much amphetamines according to the video?",
+      "choices": [
+        "You may experience extreme fatigue",
+        "You may become more focused and alert",
+        "You may feel restless, overthink, and be unable to focus"
+      ],
+      "answer": "You may feel restless, overthink, and be unable to focus",
+      "explanation": "Taking too much amphetamines can lead to negative effects like feeling restless, overthinking, and being unable to focus on anything."
+    },
+    {
+      "question": "What potential long-term health risks are associated with using amphetamines?",
+      "choices": [
+        "Increased energy levels",
+        "Heart attacks and strokes",
+        "Improved focus and productivity"
+      ],
+      "answer": "Heart attacks and strokes",
+      "explanation": "Long-term use of amphetamines can lead to serious complications like heart attacks, strokes, and other cardiovascular issues."
+    }
+  ]
+}

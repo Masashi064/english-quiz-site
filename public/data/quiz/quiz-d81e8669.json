@@ -1,0 +1,102 @@
+{
+  "slug": "d81e8669",
+  "video_id": "Rnln3C-Las4",
+  "movie_title": "The diseases that changed humanity forever - Dan Kwartler",
+  "movie_url": "https://youtu.be/Rnln3C-Las4",
+  "published_at": "2023-11-28T16:01:20Z",
+  "duration": "5:44",
+  "tags": [
+    "tuberculosis",
+    "TB",
+    "bubonic plague",
+    "black death",
+    "malaria",
+    "disease",
+    "pathogen",
+    "history",
+    "disease history",
+    "hunter gatherer",
+    "agriculture",
+    "urbanization",
+    "human evolution",
+    "infection",
+    "deadliest diseases",
+    "dysentery",
+    "measles",
+    "smallpox",
+    "flu",
+    "influenza",
+    "plague",
+    "epidemic",
+    "pandemic",
+    "medicine",
+    "vaccines",
+    "vaccination",
+    "healthcare",
+    "health",
+    "public health",
+    "education",
+    "animation",
+    "Dan Kwartler",
+    "BASA",
+    "TED",
+    "TED-Ed",
+    "TED Ed",
+    "Teded",
+    "Ted Education"
+  ],
+  "introduction": "Explore the history of humanity’s deadliest diseases, and find out how our progress and innovation e",
+  "lead_intro": "Join us on a journey through history as we explore the deadliest diseases that have plagued humanity, from ancient times to the present day.",
+  "quiz": [
+    {
+      "question": "Which disease was one of the deadliest during the Industrial Revolution in Europe and the Americas?",
+      "choices": [
+        "Malaria",
+        "Tuberculosis",
+        "Smallpox"
+      ],
+      "answer": "Tuberculosis",
+      "explanation": "During the Industrial Revolution, overcrowded and poorly ventilated living conditions led to tuberculosis becoming an epidemic that killed a quarter of Europe’s adult population."
+    },
+    {
+      "question": "What pandemic swept through Asia, Africa, and Europe from the 1330s to the 1350s?",
+      "choices": [
+        "Smallpox",
+        "Tuberculosis",
+        "The Black Death"
+      ],
+      "answer": "The Black Death",
+      "explanation": "The bubonic plague, known as the Black Death, swept through Asia, Africa, and Europe during this period, reducing the global population significantly."
+    },
+    {
+      "question": "Which disease was eradicated through vaccination in the 20th century?",
+      "choices": [
+        "Tuberculosis",
+        "Smallpox",
+        "Malaria"
+      ],
+      "answer": "Smallpox",
+      "explanation": "Smallpox was eradicated through vaccination efforts in the 20th century, marking a significant achievement in public health."
+    },
+    {
+      "question": "Which disease continues to infect millions, with almost half of the cases concentrated in Southeast Asia?",
+      "choices": [
+        "Malaria",
+        "Tuberculosis",
+        "Smallpox"
+      ],
+      "answer": "Tuberculosis",
+      "explanation": "Tuberculosis continues to infect millions of people worldwide, with a significant portion of cases concentrated in Southeast Asia."
+    },
+    {
+      "question": "Where do 96% of malaria deaths occur annually?",
+      "choices": [
+        "Asia",
+        "Europe",
+        "Africa"
+      ],
+      "answer": "Africa",
+      "explanation": "The majority of malaria deaths, 96%, occur in communities across Africa, highlighting the ongoing impact of the disease on the continent."
+    }
+  ]
+}

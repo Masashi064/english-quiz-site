@@ -1,0 +1,87 @@
+{
+  "slug": "38f1aa8d",
+  "video_id": "Ytr28t5VzAs",
+  "movie_title": "Where do new words come from? - Marcel Danesi",
+  "movie_url": "https://youtu.be/Ytr28t5VzAs",
+  "published_at": "2017-09-07T15:04:01Z",
+  "duration": "5:44",
+  "tags": [
+    "TED",
+    "TED-Ed",
+    "TED Education",
+    "TED Ed",
+    "words",
+    "meme",
+    "villain",
+    "language",
+    "Latin",
+    "French",
+    "German",
+    "English",
+    "armoire",
+    "internet",
+    "schadenfreude",
+    "clone",
+    "airport",
+    "software",
+    "sick",
+    "wicked",
+    "Higgs Boson",
+    "clue",
+    "starfish"
+  ],
+  "introduction": "Check out the Mysteries of Vernacular series: https://ed.ted.com/mysteries-of-vernacular\n\nView full",
+  "lead_intro": "Have you ever wondered where new words come from and how they make it into our everyday language? Let's explore the fascinating journey of words and how they shape our communication!",
+  "quiz": [
+    {
+      "question": "What is one way new words enter the English language?",
+      "choices": [
+        "By borrowing from other languages",
+        "By creating compound words",
+        "By changing the meaning of existing words"
+      ],
+      "answer": "By borrowing from other languages",
+      "explanation": "New words can enter English by borrowing from other languages, which accounts for nearly half of the English vocabulary."
+    },
+    {
+      "question": "How was the word 'clone' derived?",
+      "choices": [
+        "From the Latin word for plant",
+        "From the Ancient Greek word for twig",
+        "From the French word for reproduction"
+      ],
+      "answer": "From the Ancient Greek word for twig",
+      "explanation": "The word 'clone' was derived from the Ancient Greek word for twig to describe creating a new plant from a piece of the old."
+    },
+    {
+      "question": "What is an example of a compound word?",
+      "choices": [
+        "Machismo",
+        "Schadenfreude",
+        "Airport"
+      ],
+      "answer": "Airport",
+      "explanation": "Airport is an example of a compound word formed by combining two whole words to convey a new concept."
+    },
+    {
+      "question": "How did the word 'villain' change its meaning?",
+      "choices": [
+        "By adopting a positive connotation",
+        "Through irony and metaphor",
+        "By staying true to its original definition"
+      ],
+      "answer": "Through irony and metaphor",
+      "explanation": "The word 'villain' originally meant a peasant farmer but evolved to mean someone not bound by chivalry, showing how words can change meaning through irony."
+    },
+    {
+      "question": "What phenomenon does the word 'meme' describe?",
+      "choices": [
+        "The spread of genes in a population",
+        "The imitation of symbols in a culture",
+        "The popularity of images on the Internet"
+      ],
+      "answer": "The imitation of symbols in a culture",
+      "explanation": "The word 'meme' coined by Richard Dawkins describes how ideas and symbols propagate through a culture, akin to genes through a population."
+    }
+  ]
+}

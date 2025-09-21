@@ -1,0 +1,100 @@
+{
+  "slug": "ad05acf4",
+  "video_id": "3hxE7Af98AI",
+  "movie_title": "What if there were 1 trillion more trees? - Jean-François Bastin",
+  "movie_url": "https://youtu.be/3hxE7Af98AI",
+  "published_at": "2020-10-27T15:00:30Z",
+  "duration": "5:44",
+  "tags": [
+    "reforestation",
+    "planting trees",
+    "deforestation",
+    "carbon emissions",
+    "carbon",
+    "greenhouse gases",
+    "greenhouse gas emissions",
+    "sequoia tree",
+    "general sherman",
+    "trees",
+    "co2",
+    "photosynthesis",
+    "respiration",
+    "atmospheric carbon",
+    "climate change",
+    "ecosystems",
+    "forest ecosystem",
+    "sustainability",
+    "1 trillion trees",
+    "bonn challenge",
+    "carbon sequestration",
+    "carbohydrates",
+    "nature",
+    "conservation",
+    "science",
+    "biology",
+    "ecology",
+    "education",
+    "animation",
+    "jean francois bastin",
+    "lobster studio",
+    "TED",
+    "TED-Ed",
+    "TED Ed",
+    "Teded",
+    "Ted Education"
+  ],
+  "introduction": "How can trees help in the fight against climate change? Dig into the efforts to rebuild damaged ecos",
+  "lead_intro": "Discover how trees play a crucial role in combating climate change by sequestering carbon. Can planting more trees be the key to restoring our planet's balance? Let's explore!",
+  "quiz": [
+    {
+      "question": "What process do trees use to consume atmospheric carbon?",
+      "choices": [
+        "Respiration",
+        "Photosynthesis",
+        "Decay"
+      ],
+      "answer": "Photosynthesis",
+      "explanation": "Trees consume atmospheric carbon through a chemical reaction called photosynthesis, using sunlight to convert carbon dioxide into oxygen and energy-storing carbohydrates."
+    },
+    {
+      "question": "What happens to the stored carbon in trees when they die and decay?",
+      "choices": [
+        "It is released back into the atmosphere",
+        "It remains stored in the soil",
+        "It is converted into energy"
+      ],
+      "answer": "It is released back into the atmosphere",
+      "explanation": "When a tree dies and decays, some of its stored carbon will be released back into the atmosphere, contributing to carbon emissions."
+    },
+    {
+      "question": "What is the most sustainable type of tree to plant according to the text?",
+      "choices": [
+        "Fast-growing species",
+        "Non-native species",
+        "Native species"
+      ],
+      "answer": "Native species",
+      "explanation": "The most sustainable trees to plant are native ones, as they already play a role in their local environment and contribute to ecosystem balance."
+    },
+    {
+      "question": "How many hectares of additional forest could Earth potentially support according to a study by Zurich’s Crowtherlab?",
+      "choices": [
+        "500 million hectares",
+        "1.2 trillion hectares",
+        "One billion hectares"
+      ],
+      "answer": "One billion hectares",
+      "explanation": "Earth could potentially support nearly one billion hectares of additional forest, which could help capture significant amounts of carbon emissions."
+    },
+    {
+      "question": "What challenge aims to restore hundreds of millions of hectares of forest by 2030?",
+      "choices": [
+        "The Zurich Challenge",
+        "The Crowtherlab Initiative",
+        "The Bonn Challenge"
+      ],
+      "answer": "The Bonn Challenge",
+      "explanation": "The Bonn Challenge aims to restore 350 million hectares of forest by 2030, contributing to global reforestation efforts."
+    }
+  ]
+}
