@@ -1,0 +1,101 @@
+{
+  "slug": "cc60024c",
+  "video_id": "pFRXY8bV_ug",
+  "movie_title": "When ancient wisdom beats modern industry - Rebecca Webster",
+  "movie_url": "https://youtu.be/pFRXY8bV_ug",
+  "published_at": "2024-02-20T16:01:43Z",
+  "duration": "5:45",
+  "tags": [
+    "three sisters",
+    "lost sisters",
+    "corn",
+    "beans",
+    "squash",
+    "food",
+    "agriculture",
+    "farming",
+    "indigenous farming",
+    "indigenous farming practices",
+    "handsome lake",
+    "seneca",
+    "Haudenosaunee",
+    "Iroquoi",
+    "crops",
+    "roots",
+    "soil",
+    "Rhizobia",
+    "Rhizobia bacteria",
+    "nitrogen",
+    "soil nutrients",
+    "nutrients",
+    "industrial farming",
+    "monocropping",
+    "degraded soil",
+    "crop rotation",
+    "fertilizer",
+    "regenerative agriculture",
+    "education",
+    "animation",
+    "rebecca webster",
+    "Luisa Holanda",
+    "TED",
+    "TED-Ed",
+    "TED Ed",
+    "Teded",
+    "Ted Education"
+  ],
+  "introduction": "Get to know the story of the Three Sisters, and what we can learn about sustainably growing food fro",
+  "lead_intro": "Discover the inspiring story of Handsome Lake and the Three Sisters in this tale of resilience and sustainable farming practices.",
+  "quiz": [
+    {
+      "question": "What was the vision that changed Handsome Lake's life?",
+      "choices": [
+        "Seeing a planted field",
+        "Hearing a woman's voice",
+        "Encountering the spirits of the Three Sisters"
+      ],
+      "answer": "Encountering the spirits of the Three Sisters",
+      "explanation": "Handsome Lake encountered the spirits of the Three Sisters: corn, beans, and squash, who asked to join him on his journey towards death."
+    },
+    {
+      "question": "What is the significance of the Three Sisters in Haudenosaunee culture?",
+      "choices": [
+        "They represent harmony and mutual support",
+        "They provide essential nutrients for plant growth",
+        "They are symbols of resilience and tradition"
+      ],
+      "answer": "They represent harmony and mutual support",
+      "explanation": "The Three Sisters, corn, beans, and squash, planted together, support and nourish each other, symbolizing harmony and mutual support in Haudenosaunee culture."
+    },
+    {
+      "question": "How do beans support the growth of corn in the Three Sisters planting technique?",
+      "choices": [
+        "By providing structural support and capturing more light",
+        "By fixing atmospheric nitrogen for plant growth",
+        "By shading the soil and keeping it moist"
+      ],
+      "answer": "By fixing atmospheric nitrogen for plant growth",
+      "explanation": "Beans release chemical messengers that attract nitrogen-fixing bacteria, which convert atmospheric nitrogen into a usable form for plant growth, benefiting the corn in the symbiotic relationship."
+    },
+    {
+      "question": "What issue in modern farming practices do the Three Sisters planting technique help address?",
+      "choices": [
+        "Soil degradation from monocropping",
+        "Overuse of nitrogen-based fertilizers",
+        "Water-intensive farming practices"
+      ],
+      "answer": "Soil degradation from monocropping",
+      "explanation": "The Three Sisters planting technique helps address soil degradation caused by monocropping by promoting crop diversity and nutrient cycling, which are crucial for maintaining soil health."
+    },
+    {
+      "question": "What is the concept of regenerative agriculture highlighted by the Three Sisters planting technique?",
+      "choices": [
+        "Nature as a dynamic, interconnected system",
+        "Maximizing crop yields through monocropping",
+        "Reliance on chemical fertilizers for plant growth"
+      ],
+      "answer": "Nature as a dynamic, interconnected system",
+      "explanation": "Regenerative agriculture, exemplified by the Three Sisters planting technique, recognizes nature as a dynamic, interconnected system where diverse plants support each other's growth and contribute to sustainable farming practices."
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "slug": "57546bb8",
+  "video_id": "UO5ktwPXsyM",
+  "movie_title": "The rise and fall of the Inca Empire - Gordon McEwan",
+  "movie_url": "https://youtu.be/UO5ktwPXsyM",
+  "published_at": "2018-02-12T15:59:16Z",
+  "duration": "5:46",
+  "tags": [
+    "TED-Ed",
+    "TED",
+    "TedEd",
+    "Ted Education",
+    "Inca",
+    "Teded",
+    "Gordon McEwan",
+    "Biljana Labovic",
+    "History",
+    "Ancient Civilization",
+    "Empires",
+    "Latin American History"
+  ],
+  "introduction": "Check out our Patreon page: https://www.patreon.com/teded\n\nView full lesson: https://ed.ted.com/less",
+  "lead_intro": "Discover the rise and fall of the legendary Inca Empire, from its humble beginnings to its eventual demise at the hands of Spanish conquistadors.",
+  "quiz": [
+    {
+      "question": "Who was the first Sapa Inca, or king of the Incas?",
+      "choices": [
+        "Viracocha",
+        "Pachacuti",
+        "Manco Capac"
+      ],
+      "answer": "Manco Capac",
+      "explanation": "Ayar Manco became Manco Capac, the first Sapa Inca, after finding the fertile ground in the Cuzco Valley with his siblings."
+    },
+    {
+      "question": "What system did the Incas use to record numbers and possibly other information?",
+      "choices": [
+        "Hieroglyphics",
+        "Alphabets",
+        "Quipu"
+      ],
+      "answer": "Quipu",
+      "explanation": "The Incas used a complex system of knotted strings called quipu to record numbers and potentially other information, as they had no written language."
+    },
+    {
+      "question": "Who was the Inca ruler who expanded the empire and transformed it through reforms?",
+      "choices": [
+        "Topa Inca",
+        "Huayna Capac",
+        "Pachacuti"
+      ],
+      "answer": "Pachacuti",
+      "explanation": "Pachacuti, also known as 'Cataclysm', expanded Inca rule throughout the Andes mountains and implemented extensive reforms that led to the empire's growth."
+    },
+    {
+      "question": "What famous estate was constructed during Pachacuti's reign?",
+      "choices": [
+        "Machu Picchu",
+        "Nazca Lines",
+        "Chichen Itza"
+      ],
+      "answer": "Machu Picchu",
+      "explanation": "Machu Picchu, the famous estate, was constructed during Pachacuti's reign, showcasing the architectural and engineering prowess of the Incas."
+    },
+    {
+      "question": "How did the Inca Empire meet its demise?",
+      "choices": [
+        "Natural disasters",
+        "Civil war",
+        "Spanish conquistadors"
+      ],
+      "answer": "Spanish conquistadors",
+      "explanation": "The Inca Empire fell to Spanish conquistadors led by Francisco Pizarro, who used advanced weaponry like guns and horses to defeat the Inca forces."
+    }
+  ]
+}

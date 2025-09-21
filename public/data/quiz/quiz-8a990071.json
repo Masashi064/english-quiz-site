@@ -1,0 +1,90 @@
+{
+  "slug": "8a990071",
+  "video_id": "emyi4z-O0ls",
+  "movie_title": "How to outsmart the Prisoner’s Dilemma - Lucas Husted",
+  "movie_url": "https://youtu.be/emyi4z-O0ls",
+  "published_at": "2020-08-27T15:00:36Z",
+  "duration": "5:45",
+  "tags": [
+    "prisoner's dilemma",
+    "game theory",
+    "infinite prisoners dilemma",
+    "gingerbread man",
+    "fox",
+    "spare",
+    "sacrifice",
+    "game theory dilemma",
+    "nash equilibrium",
+    "nash equilibrium game theory",
+    "strategy",
+    "delta",
+    "politics",
+    "trade negotiations",
+    "negotiation",
+    "iterated prisoner's dilemma",
+    "education",
+    "animation",
+    "lucas husted",
+    "Ivana Bošnjack",
+    "Thomas Johnson",
+    "TED",
+    "TED-Ed",
+    "TED Ed",
+    "Teded",
+    "Ted Education"
+  ],
+  "introduction": "Puzzle through the classic game theory challenge, The Prisoner’s Dilemma, and decide: would you choo",
+  "lead_intro": "Join the adventure of two gingerbread men faced with a challenging dilemma in the Prisoner's Dilemma! Let's explore how game theory and rational decision-making come into play in this sweet tale.",
+  "quiz": [
+    {
+      "question": "What is the name of the scenario presented in the story involving the gingerbread men and the fox?",
+      "choices": [
+        "Prisoner's Dilemma",
+        "Sweet Betrayal",
+        "Gingerbread Conundrum"
+      ],
+      "answer": "Prisoner's Dilemma",
+      "explanation": "The scenario involving the gingerbread men, Crispy and Chewy, and the fox is known as the Prisoner's Dilemma in game theory."
+    },
+    {
+      "question": "What outcome occurs if both gingerbread men choose to spare each other according to the Prisoner's Dilemma rules?",
+      "choices": [
+        "Both lose 3 limbs",
+        "One loses all limbs, the other runs away",
+        "Fox eats one limb from each"
+      ],
+      "answer": "Fox eats one limb from each",
+      "explanation": "If both gingerbread men choose to spare each other, the fox will eat just one limb from each of them based on the Prisoner's Dilemma rules."
+    },
+    {
+      "question": "What do game theorists call the strategy where both Crispy and Chewy unconditionally sacrifice each other?",
+      "choices": [
+        "Friendship Pact",
+        "Nash Equilibrium",
+        "Buddy Sacrifice"
+      ],
+      "answer": "Nash Equilibrium",
+      "explanation": "The strategy where both Crispy and Chewy unconditionally sacrifice each other is known as the Nash Equilibrium in game theory."
+    },
+    {
+      "question": "What concept is introduced when the scenario transitions to the Infinite Prisoner’s Dilemma?",
+      "choices": [
+        "Eternal Dilemma",
+        "Future Bargaining",
+        "Game Changer"
+      ],
+      "answer": "Game Changer",
+      "explanation": "The scenario transitioning to the Infinite Prisoner’s Dilemma introduces a literal game changer where future decisions become bargaining chips for present ones."
+    },
+    {
+      "question": "At what delta value do Crispy and Chewy choose to spare and cooperate forever according to the analysis in the story?",
+      "choices": [
+        "1/2",
+        "1/3",
+        "1/4"
+      ],
+      "answer": "1/3",
+      "explanation": "Crispy and Chewy choose to spare and cooperate forever when they care about tomorrow at least 1/3 as much as today, as per the analysis in the story."
+    }
+  ]
+}

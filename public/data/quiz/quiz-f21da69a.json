@@ -1,0 +1,89 @@
+{
+  "slug": "f21da69a",
+  "video_id": "uRhkDN2WjzI",
+  "movie_title": "How aspirin was discovered - Krishna Sudhir",
+  "movie_url": "https://youtu.be/uRhkDN2WjzI",
+  "published_at": "2017-10-02T15:06:09Z",
+  "duration": "5:45",
+  "tags": [
+    "TED",
+    "TED-Ed",
+    "TED Education",
+    "TED Ed",
+    "Krishna Sudhir",
+    "Artrake Studio",
+    "aspirin",
+    "Sumer",
+    "Hippocrates",
+    "willow",
+    "salicin",
+    "meadowsweet",
+    "acetylsalicylic acid",
+    "spiraea ulmaria",
+    "pain inflammation",
+    "reumatoid arthritis",
+    "prostaglandins",
+    "Reye's Syndrome",
+    "blood",
+    "bleeding",
+    "heart",
+    "heart attack",
+    "stroke",
+    "blood clot",
+    "platelet"
+  ],
+  "introduction": "Check out our Patreon page: https://www.patreon.com/teded\n\nView full lesson: https://ed.ted.com/less",
+  "lead_intro": "Discover the fascinating journey of aspirin, from its ancient origins with the Sumerians to its modern-day life-saving applications in medicine.",
+  "quiz": [
+    {
+      "question": "Who was the Englishman that conducted experiments on willow bark and discovered that it could cure a fever?",
+      "choices": [
+        "Johann Buchner",
+        "Edward Stone",
+        "Hippocrates"
+      ],
+      "answer": "Edward Stone",
+      "explanation": "Edward Stone ran experiments in the mid-18th century showing that willow bark crushed into a powder and eaten could cure a fever."
+    },
+    {
+      "question": "What compound did the German pharmacist Johann Buchner identify and purify from willow bark, enabling its medicinal properties?",
+      "choices": [
+        "Salicin",
+        "Acetylsalicylic acid",
+        "Prostaglandins"
+      ],
+      "answer": "Salicin",
+      "explanation": "Johann Buchner identified and purified the compound salicin from willow bark, which enabled its pain-relieving properties."
+    },
+    {
+      "question": "In what year did Bayer begin marketing aspirin as a pain reliever?",
+      "choices": [
+        "1853",
+        "1897",
+        "1982"
+      ],
+      "answer": "1897",
+      "explanation": "Bayer began marketing acetylsalicylic acid as a pain reliever under the brand name aspirin in 1897."
+    },
+    {
+      "question": "Which chemicals does aspirin interrupt the production of, according to the Swedish and British scientists in the 1960s and 70s?",
+      "choices": [
+        "Prostaglandins",
+        "Thromboxanes",
+        "Platelets"
+      ],
+      "answer": "Prostaglandins",
+      "explanation": "Swedish and British scientists discovered that aspirin interrupts the production of prostaglandins, which control the transmission of pain sensations and inflammation."
+    },
+    {
+      "question": "What is one of the potential risks associated with overconsumption of aspirin?",
+      "choices": [
+        "Kidney failure",
+        "Liver damage",
+        "Bleeding in the intestines and brain"
+      ],
+      "answer": "Bleeding in the intestines and brain",
+      "explanation": "Overconsumption of aspirin can cause bleeding in the intestines and the brain, among other risks like triggering Reye's Syndrome."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "5fc73be0",
+  "video_id": "yJSiUm6jvI0",
+  "movie_title": "Why do we love? A philosophical inquiry - Skye C. Cleary",
+  "movie_url": "https://youtu.be/yJSiUm6jvI0",
+  "published_at": "2016-02-11T17:05:35Z",
+  "duration": "5:45",
+  "tags": [],
+  "introduction": "Does romantic love have a purpose? Explore five intriguing philosophical perspectives on why we love",
+  "lead_intro": "Love - a complex and mysterious emotion that has puzzled philosophers throughout history. Let's delve into some intriguing theories about romantic love and its purpose.",
+  "quiz": [
+    {
+      "question": "According to Plato, why do we love?",
+      "choices": [
+        "To satisfy physical and psychological desires",
+        "To escape from loneliness",
+        "To find a soulmate who makes us feel whole"
+      ],
+      "answer": "To find a soulmate who makes us feel whole",
+      "explanation": "Plato believed that humans love in order to find a soulmate who will make them feel complete, based on the idea that humans were once whole beings split in two by the gods."
+    },
+    {
+      "question": "What did Arthur Schopenhauer suggest about love?",
+      "choices": [
+        "Love helps us overcome fear of the world",
+        "Love is an illusion based on sexual desire",
+        "Love is the best thing in life"
+      ],
+      "answer": "Love is an illusion based on sexual desire",
+      "explanation": "Schopenhauer proposed that love based on sexual desire is an illusion, tricking us into procreating and perpetuating the cycle of human existence."
+    },
+    {
+      "question": "According to Bertrand Russell, why do humans love?",
+      "choices": [
+        "To quench physical and psychological desires",
+        "To reach Nirvana",
+        "To engage abundantly in life"
+      ],
+      "answer": "To quench physical and psychological desires",
+      "explanation": "Russell believed that humans love to fulfill their physical and psychological desires, seeking intimacy and warmth to overcome loneliness and fear of the world."
+    },
+    {
+      "question": "What did Siddhārtha Gautama, the Buddha, think about romantic love?",
+      "choices": [
+        "Attachments like romantic love lead to suffering",
+        "Romantic love is the best thing in life",
+        "Romantic love helps us reach Nirvana"
+      ],
+      "answer": "Attachments like romantic love lead to suffering",
+      "explanation": "The Buddha believed that attachments, including romantic love, are a source of suffering and advocated for extinguishing desires to reach an enlightened state of peace and wisdom."
+    },
+    {
+      "question": "How did Simone de Beauvoir view romantic love?",
+      "choices": [
+        "As a means to escape loneliness",
+        "As a source of power games",
+        "As a way to integrate with another and infuse life with meaning"
+      ],
+      "answer": "As a way to integrate with another and infuse life with meaning",
+      "explanation": "De Beauvoir saw love as a desire to integrate with another and bring meaning to life, emphasizing the importance of loving authentically to enrich lives and relationships."
+    }
+  ]
+}
