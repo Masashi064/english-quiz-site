@@ -1,0 +1,86 @@
+{
+  "slug": "58a9f115",
+  "video_id": "CdbBwIgq4rs",
+  "movie_title": "The science of smog - Kim Preshoff",
+  "movie_url": "https://youtu.be/CdbBwIgq4rs",
+  "published_at": "2017-08-31T15:00:55Z",
+  "duration": "5:44",
+  "tags": [
+    "TED",
+    "TED-Ed",
+    "TED Education",
+    "TED Ed",
+    "Kim Preshoff",
+    "Juan M. Urbina Studios",
+    "Smog",
+    "industrial smog",
+    "photochemical smog",
+    "smoke",
+    "fog",
+    "London",
+    "Los Angeles",
+    "Beijing",
+    "visibility",
+    "health",
+    "air",
+    "VOCs",
+    "volatile organic compounds",
+    "nitrous oxide",
+    "temperature inversion",
+    "ozone"
+  ],
+  "introduction": "Check out our Patreon page: https://www.patreon.com/teded\n\nView full lesson: https://ed.ted.com/less",
+  "lead_intro": "Discover the origins of smog and how it has impacted cities like Los Angeles throughout history. Learn about the causes of different types of smog and how it affects our health and the environment.",
+  "quiz": [
+    {
+      "question": "What are the two main culprits identified by chemist Arie Haagen-Smit for the smog in Los Angeles?",
+      "choices": [
+        "Carbon dioxide and methane",
+        "Volatile organic compounds and nitrogen oxides",
+        "Sulfur dioxide and ozone"
+      ],
+      "answer": "Volatile organic compounds and nitrogen oxides",
+      "explanation": "Arie Haagen-Smit identified volatile organic compounds (VOCs) and nitrogen oxides as the two main culprits for the smog in Los Angeles."
+    },
+    {
+      "question": "What gives photochemical smog its yellowish color?",
+      "choices": [
+        "Carbon dioxide",
+        "Nitrogen oxide",
+        "Volatile organic compounds"
+      ],
+      "answer": "Nitrogen oxide",
+      "explanation": "The incomplete combustion of gas in motor vehicles releases nitrogen oxide, which gives photochemical smog its yellowish color."
+    },
+    {
+      "question": "What are the secondary pollutants produced by the reaction of VOCs and nitrogen oxide with sunlight?",
+      "choices": [
+        "PANs and ozone",
+        "Sulfur dioxide and carbon monoxide",
+        "Nitrogen dioxide and particulate matter"
+      ],
+      "answer": "PANs and ozone",
+      "explanation": "Volatile organic compounds (VOCs) and nitrogen oxide react with sunlight to produce secondary pollutants called PANs and tropospheric ozone."
+    },
+    {
+      "question": "Why are cities surrounded by mountains or lying in a basin particularly vulnerable to smog?",
+      "choices": [
+        "Due to high humidity levels",
+        "Presence of volcanic activity",
+        "Lack of air circulation"
+      ],
+      "answer": "Lack of air circulation",
+      "explanation": "Cities surrounded by mountains or lying in a basin are especially vulnerable to smog due to a lack of air circulation, preventing the smog from dissipating."
+    },
+    {
+      "question": "What major event in London led to the implementation of the Clean Air Act of 1956?",
+      "choices": [
+        "The London Olympics",
+        "The Great Smog of London",
+        "The Industrial Revolution"
+      ],
+      "answer": "The Great Smog of London",
+      "explanation": "The Great Smog of London in 1952, which caused over 4,000 respiratory deaths, led to the implementation of the Clean Air Act of 1956."
+    }
+  ]
+}
