@@ -1,0 +1,102 @@
+{
+  "slug": "5e040040",
+  "video_id": "E_fAWuj7DDI",
+  "movie_title": "Why is Texas hold 'em so popular? - James McManus",
+  "movie_url": "https://youtu.be/E_fAWuj7DDI",
+  "published_at": "2024-01-04T16:00:20Z",
+  "duration": "5:43",
+  "tags": [
+    "poker",
+    "history of poker",
+    "card games",
+    "card game",
+    "betting",
+    "bluffing",
+    "busting",
+    "invention of poker",
+    "poker inventor",
+    "new orleans",
+    "texas hold em",
+    "five card stud",
+    "5 card stud",
+    "world series of poker",
+    "bets",
+    "poque",
+    "english brag",
+    "wager",
+    "poker wager",
+    "bluff",
+    "steamboat",
+    "mississippi river",
+    "cold deck",
+    "Doc Holliday",
+    "Wyatt Earp",
+    "Wild Bill Hickok",
+    "John von Neumann",
+    "game theory",
+    "high stakes poker",
+    "education",
+    "animation",
+    "James McManus",
+    "Chintis Lundgren",
+    "TED",
+    "TED-Ed",
+    "TED Ed",
+    "Teded",
+    "Ted Education"
+  ],
+  "introduction": "Dig into the history of poker, from the game’s invention in the American South to its explosion of p",
+  "lead_intro": "Join us on a journey through the fascinating history of poker, from its Wild West origins to its modern-day international appeal.",
+  "quiz": [
+    {
+      "question": "Where did poker first emerge around 1800?",
+      "choices": [
+        "New York City",
+        "New Orleans",
+        "Chicago"
+      ],
+      "answer": "New Orleans",
+      "explanation": "Poker first emerged around 1800 in the melting pot of New Orleans."
+    },
+    {
+      "question": "Which new version of poker was created by Southerners by merging two games?",
+      "choices": [
+        "Brag",
+        "Poke",
+        "Pokuh"
+      ],
+      "answer": "Pokuh",
+      "explanation": "Southerners merged French poque and English Brag into a new version pronounced pokuh."
+    },
+    {
+      "question": "What variant of poker became popular in Texas to solve the problem of having too many players and not enough cards?",
+      "choices": [
+        "Five-card Stud",
+        "Texas Hold'em",
+        "Omaha"
+      ],
+      "answer": "Texas Hold'em",
+      "explanation": "Texas Hold'em became popular in Texas due to its low ratio of private, hidden cards to shared, exposed cards."
+    },
+    {
+      "question": "Who sought to explain the nuances of betting and bluffing in poker in mathematical terms?",
+      "choices": [
+        "Albert Einstein",
+        "John von Neumann",
+        "Isaac Newton"
+      ],
+      "answer": "John von Neumann",
+      "explanation": "John von Neumann sought to explain the nuances of poker in mathematical terms, leading to the development of game theory."
+    },
+    {
+      "question": "What important branch of mathematics did John von Neumann's work lay the foundation for?",
+      "choices": [
+        "Calculus",
+        "Game theory",
+        "Geometry"
+      ],
+      "answer": "Game theory",
+      "explanation": "John von Neumann's work laid the foundation for game theory, which has applications in high-stakes poker, economics, and military strategy."
+    }
+  ]
+}

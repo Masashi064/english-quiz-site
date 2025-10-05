@@ -1,0 +1,103 @@
+{
+  "slug": "d69bd039",
+  "video_id": "hBC7i-vHWsU",
+  "movie_title": "What causes addiction, and why is it so hard to treat? - Judy Grisel",
+  "movie_url": "https://youtu.be/hBC7i-vHWsU",
+  "published_at": "2024-03-19T15:01:46Z",
+  "duration": "5:43",
+  "tags": [
+    "addiction",
+    "drug addiction",
+    "alcohol addiction",
+    "opioid addiction",
+    "substance abuse",
+    "substance use disorder",
+    "substance addiction",
+    "addictive drugs",
+    "tolerance",
+    "dependence",
+    "withdrawal",
+    "brain",
+    "neurotransmitters",
+    "endorphins",
+    "GABA",
+    "brain signals",
+    "nucleus accumbens",
+    "reward pathway",
+    "cortex",
+    "subcortex",
+    "impulsive behaviors",
+    "blood brain barrier",
+    "genetics",
+    "detox",
+    "recovery",
+    "addiction recovery",
+    "AA",
+    "NA",
+    "science",
+    "chemistry",
+    "education",
+    "animation",
+    "judy grisel",
+    "gabriella marsh",
+    "TED",
+    "TED-Ed",
+    "TED Ed",
+    "Teded",
+    "Ted Education"
+  ],
+  "introduction": "Take a look at the science of how addictive drugs affect your body and why substance addiction can b",
+  "lead_intro": "Understanding how addictive drugs affect the body can shed light on why some individuals are more susceptible to addiction. Dive into the complexities of substance abuse and its impact on the brain.",
+  "quiz": [
+    {
+      "question": "What is tolerance when it comes to substance abuse?",
+      "choices": [
+        "A. The body's need for increasing amounts of a substance to produce the same effect",
+        "B. The body's rejection of a substance after prolonged use",
+        "C. The body's natural defense mechanism against addictive substances"
+      ],
+      "answer": "A. The body's need for increasing amounts of a substance to produce the same effect",
+      "explanation": "Tolerance refers to the phenomenon where the body requires higher doses of a substance over time to achieve the same effects."
+    },
+    {
+      "question": "Which brain region is affected by addictive substances in terms of dopamine release?",
+      "choices": [
+        "A. Hippocampus",
+        "B. Nucleus accumbens",
+        "C. Prefrontal cortex"
+      ],
+      "answer": "B. Nucleus accumbens",
+      "explanation": "Addictive substances alter the release of dopamine in the nucleus accumbens, a critical component of the brain's reward pathway."
+    },
+    {
+      "question": "Why are younger individuals more susceptible to substance use disorder?",
+      "choices": [
+        "A. Due to genetic factors",
+        "B. Because their reward pathways are more sensitive",
+        "C. Because of their higher tolerance levels"
+      ],
+      "answer": "B. Because their reward pathways are more sensitive",
+      "explanation": "Younger individuals are more vulnerable to substance use disorder due to the heightened sensitivity of their reward pathways, making them more prone to addiction."
+    },
+    {
+      "question": "What makes heroin more addictive than morphine?",
+      "choices": [
+        "A. Heroin's slower acting nature",
+        "B. Heroin's chemical structure enhancing its potency",
+        "C. Morphine's ability to bind to receptors more effectively"
+      ],
+      "answer": "B. Heroin's chemical structure enhancing its potency",
+      "explanation": "Heroin is more addictive than morphine due to its chemical structure, which allows it to penetrate the brain faster and bind more effectively to receptors."
+    },
+    {
+      "question": "How can the process of recovery from addiction be aided?",
+      "choices": [
+        "A. By ignoring underlying conditions",
+        "B. By creating supportive environments",
+        "C. By increasing exposure to drug-related triggers"
+      ],
+      "answer": "B. By creating supportive environments",
+      "explanation": "Recovery from addiction is facilitated by creating safe and supportive environments, addressing underlying conditions, and developing new associations with drug-related experiences."
+    }
+  ]
+}
