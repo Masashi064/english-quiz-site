@@ -1,0 +1,100 @@
+{
+  "slug": "db8dfa76",
+  "video_id": "4M6lrhuiPv0",
+  "movie_title": "These companies with no CEO are thriving",
+  "movie_url": "https://youtu.be/4M6lrhuiPv0",
+  "published_at": "2022-09-20T15:00:43Z",
+  "duration": "5:43",
+  "tags": [
+    "co-ops",
+    "co-ops explained",
+    "worker cooperatives",
+    "worker coops",
+    "coops",
+    "park slope food coop",
+    "economy",
+    "global economy",
+    "rochdale equitable pioneers society",
+    "REI",
+    "S-Group",
+    "consumer coops",
+    "credit unions",
+    "producer cooperative",
+    "mondragon",
+    "cheeseboard",
+    "joint ownership",
+    "shareholders",
+    "shares",
+    "stock",
+    "coop membership",
+    "traditional company",
+    "ceo",
+    "president",
+    "worker ownership",
+    "worker owned cooperatives",
+    "WEF",
+    "education",
+    "animation",
+    "Elizabeth Galian",
+    "AIM Creative Studios",
+    "TED",
+    "TED-Ed",
+    "TED Ed",
+    "Teded",
+    "Ted Education"
+  ],
+  "introduction": "Get to know the different kinds of co-ops, how they work, and how they differ from traditional compa",
+  "lead_intro": "Discover the fascinating world of cooperatives and how they operate without a CEO. From worker co-ops to consumer co-ops, learn about the democratic and collaborative principles that guide these unique businesses.",
+  "quiz": [
+    {
+      "question": "What was the name of the first co-op that publicized its principles in 1844?",
+      "choices": [
+        "The Cheeseboard",
+        "REI",
+        "The Rochdale Society of Equitable Pioneers"
+      ],
+      "answer": "The Rochdale Society of Equitable Pioneers",
+      "explanation": "The Rochdale Society of Equitable Pioneers was not the world's first co-op, but it was the first to publicize its principles that continue to guide co-ops today."
+    },
+    {
+      "question": "How do co-ops differ from traditional companies in terms of ownership?",
+      "choices": [
+        "Co-ops have outside shareholders, while traditional companies have members as owners.",
+        "All co-op owners are also members, unlike traditional companies that have outside shareholders.",
+        "Traditional companies are controlled democratically by their members."
+      ],
+      "answer": "All co-op owners are also members, unlike traditional companies that have outside shareholders.",
+      "explanation": "In co-ops, all owners are also members, whether consumers, workers, or producers, unlike traditional companies that can have outside shareholders."
+    },
+    {
+      "question": "How are major company-wide decisions typically made in co-ops?",
+      "choices": [
+        "By the CEO's decision",
+        "By voting where every member has one vote",
+        "By the number of shares owned by each member"
+      ],
+      "answer": "By voting where every member has one vote",
+      "explanation": "In co-ops, major decisions are typically made through voting where every member has an equal say, unlike in traditional companies where voting rights are usually tied to shares owned."
+    },
+    {
+      "question": "What is a key difference in salaries between co-ops like Mondragon and traditional companies in Spain?",
+      "choices": [
+        "CEO salaries are much higher in co-ops",
+        "Management salaries are limited in co-ops compared to traditional companies",
+        "Workers earn more in traditional companies"
+      ],
+      "answer": "Management salaries are limited in co-ops compared to traditional companies",
+      "explanation": "Mondragon limits management salaries to about 6 times what the lowest-paid worker makes, whereas in traditional companies, CEOs can make significantly more compared to the average worker."
+    },
+    {
+      "question": "According to studies, what was a major difference in job satisfaction between workers in co-ops and traditional companies?",
+      "choices": [
+        "Co-op workers earned higher salaries",
+        "Co-op workers were happier with their jobs",
+        "Co-op workers had longer working hours"
+      ],
+      "answer": "Co-op workers were happier with their jobs",
+      "explanation": "Studies showed that co-op workers were about 40% happier with their jobs compared to those in traditional companies, even though they did similar work with similar salaries."
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "slug": "b823ecd8",
+  "video_id": "_EF4LXLxquM",
+  "movie_title": "Confused about recycling? It’s not your fault - Shannon Odell",
+  "movie_url": "https://youtu.be/_EF4LXLxquM",
+  "published_at": "2023-10-17T15:00:43Z",
+  "duration": "5:43",
+  "tags": [
+    "recycle",
+    "recycling",
+    "plastic",
+    "plastic recycling",
+    "recycle symbol",
+    "resin",
+    "resin number",
+    "recycling center",
+    "polymers",
+    "thermosetting polymer",
+    "thermoplastics",
+    "recycling code",
+    "plastics industry",
+    "recycling bin",
+    "packaging",
+    "product packaging",
+    "plastic packaging",
+    "plastic waste",
+    "waste",
+    "compost",
+    "non recyclable",
+    "manufacturer",
+    "education",
+    "animation",
+    "science",
+    "shannon odell",
+    "Yuval Haker",
+    "Alon Sivan",
+    "TED",
+    "TED-Ed",
+    "TED Ed",
+    "Teded",
+    "Ted Education"
+  ],
+  "introduction": "Dig into the biggest problems facing our current plastic recycling process, and explore potential so",
+  "lead_intro": "Have you ever wondered why so few plastics are actually recycled, despite the recycling symbols on many products? Let's dive into the complexities of plastic recycling and explore potential solutions to our growing plastic waste problem.",
+  "quiz": [
+    {
+      "question": "What percentage of plastic created worldwide each year is actually recycled?",
+      "choices": [
+        "9%",
+        "20%",
+        "50%"
+      ],
+      "answer": "9%",
+      "explanation": "Only 9% of the 360 million tons of plastic created worldwide each year is ever recycled, highlighting the significant challenge of plastic recycling."
+    },
+    {
+      "question": "What are thermosetting polymers and why are they difficult to recycle?",
+      "choices": [
+        "Plastics that can be melted and remolded easily",
+        "Plastics that gain stability through curing and cannot be broken down easily"
+      ],
+      "answer": "Plastics that gain stability through curing and cannot be broken down easily",
+      "explanation": "Thermosetting polymers gain stability through curing, making them unable to be broken down and rebuilt by most recycling plants, contributing to the low recycling rates."
+    },
+    {
+      "question": "What do the numbers in the resin code system on plastic products indicate?",
+      "choices": [
+        "The price of the plastic product",
+        "The material the plastic is made of (resin)"
+      ],
+      "answer": "The material the plastic is made of (resin)",
+      "explanation": "Each number in the resin code system on plastic products indicates the material the plastic is made of, which can determine if it is recyclable at most centers."
+    },
+    {
+      "question": "What is one solution proposed to fix the plastic waste system?",
+      "choices": [
+        "Increase plastic consumption",
+        "Work towards a circular economy for plastics"
+      ],
+      "answer": "Work towards a circular economy for plastics",
+      "explanation": "One solution to address the growing plastic waste problem is to work towards a circular economy for plastics, which involves creating fewer new plastics and ensuring those in circulation can be recycled."
+    },
+    {
+      "question": "What do many experts suggest replacing the current resin code system with?",
+      "choices": [
+        "Clear, simplified recyclable versus non-recyclable labels",
+        "More complex resin codes"
+      ],
+      "answer": "Clear, simplified recyclable versus non-recyclable labels",
+      "explanation": "Many experts propose replacing the current resin code system with clear, simplified recyclable versus non-recyclable labels to help consumers make informed decisions and push manufacturers towards a more recyclable future."
+    }
+  ]
+}

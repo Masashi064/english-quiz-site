@@ -1,0 +1,95 @@
+{
+  "slug": "6a4b80d9",
+  "video_id": "-lLkBoYv5FU",
+  "movie_title": "Can you solve the fantasy election riddle? - Dennis E. Shasha",
+  "movie_url": "https://youtu.be/-lLkBoYv5FU",
+  "published_at": "2021-03-25T15:00:44Z",
+  "duration": "5:43",
+  "tags": [
+    "polling",
+    "dragon jousting",
+    "fantasy realm",
+    "dormor polling agency",
+    "orange troll",
+    "treeman",
+    "election",
+    "democracy",
+    "silver coin",
+    "trolls",
+    "probability",
+    "statistics",
+    "dragon",
+    "coin toss",
+    "coin toss probability",
+    "riddle",
+    "problem solving",
+    "logic puzzle",
+    "math puzzle",
+    "ted ed riddles",
+    "education",
+    "animation",
+    "brilliant",
+    "dennis shasha",
+    "igor coric",
+    "artrake studio",
+    "TED",
+    "TED-Ed",
+    "TED Ed",
+    "Teded",
+    "Ted Education"
+  ],
+  "introduction": "Practice more problem-solving at https://brilliant.org/TedEd\n\n--\n\nAfter much debate, the realm has d",
+  "lead_intro": "Join the adventure in a fantasy realm where dragon jousting transitions to democracy! Will you accurately predict the election outcome amidst tricky voter preferences and unexpected challenges?",
+  "quiz": [
+    {
+      "question": "How did the protagonist use a silver coin to conduct an accurate poll in the first round of the election?",
+      "choices": [
+        "By asking voters to flip the coin and say 'troll' if it lands heads, regardless of their actual preference",
+        "By asking voters to flip the coin and say 'troll' if it lands tails, regardless of their actual preference",
+        "By asking voters to flip the coin and say their actual preference if it lands heads"
+      ],
+      "answer": "By asking voters to flip the coin and say 'troll' if it lands heads, regardless of their actual preference",
+      "explanation": "The protagonist used the coin by having voters flip it and say 'troll' if it lands heads, regardless of their true preference, to introduce random chance and account for skewed results."
+    },
+    {
+      "question": "What method did the protagonist employ to conduct an accurate poll in the second round of the election?",
+      "choices": [
+        "Asking voters to flip the coin twice and report support for the troll if they get heads twice in a row",
+        "Asking voters to flip the coin twice and report support for the dragon if they get tails twice in a row",
+        "Asking voters to flip the coin twice and report their true preference for any other combination"
+      ],
+      "answer": "Asking voters to flip the coin twice and report support for the troll if they get heads twice in a row",
+      "explanation": "In the second round, the protagonist had voters flip the coin twice and report support for the troll if they get heads twice in a row, introducing more possible outcomes to disguise both candidates' preferences."
+    },
+    {
+      "question": "How did the coin help maintain voter deniability in expressing their true preferences?",
+      "choices": [
+        "By providing a random chance element that could influence their response",
+        "By ensuring voters had to follow the coin's instructions",
+        "By making voters feel pressured to support a specific candidate"
+      ],
+      "answer": "By providing a random chance element that could influence their response",
+      "explanation": "The coin added random chance to the polling process, allowing voters to attribute their response to the coin rather than their actual preference, maintaining deniability."
+    },
+    {
+      "question": "Why did the protagonist need to adjust the poll results based on the coin's influence?",
+      "choices": [
+        "To ensure accurate representation of voter preferences",
+        "To favor one candidate over the other",
+        "To confuse the voters"
+      ],
+      "answer": "To ensure accurate representation of voter preferences",
+      "explanation": "Adjusting the poll results based on the coin's influence was necessary to correct for skewed responses and accurately reflect the true voter preferences."
+    },
+    {
+      "question": "How did the protagonist manage to predict the outcome of the election despite voter reluctance to express their preferences in the second round?",
+      "choices": [
+        "By introducing multiple possible outcomes with the coin toss method",
+        "By pressuring voters to reveal their true preferences",
+        "By ignoring the coin's influence on the poll"
+      ],
+      "answer": "By introducing multiple possible outcomes with the coin toss method",
+      "explanation": "By having voters flip the coin twice and report different outcomes based on the result, the protagonist introduced a method to predict the election outcome even when voters were reluctant to express their preferences."
+    }
+  ]
+}

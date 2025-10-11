@@ -1,0 +1,63 @@
+{
+  "slug": "96254d98",
+  "video_id": "4pb-2fpRhgg",
+  "movie_title": "Solar and wind beat coal for first time: BBC Learning English from the News",
+  "movie_url": "https://youtu.be/4pb-2fpRhgg",
+  "published_at": "2025-10-08T13:38:13Z",
+  "duration": "6:20",
+  "tags": [],
+  "introduction": "More electricity has been generated through wind and solar power than from coal power plants for the",
+  "lead_intro": "Renewable energy sources like solar and wind power have surpassed coal in generating electricity for the first time ever. Let's dive into the vocabulary used in news headlines to understand this significant shift in energy production.",
+  "quiz": [
+    {
+      "question": "What does the word 'surpass' mean in the context of the news headlines?",
+      "choices": [
+        "To decrease",
+        "To exceed",
+        "To maintain"
+      ],
+      "answer": "To exceed",
+      "explanation": "'Surpass' means to be more than or to exceed, as seen in the headline where renewable energy generation surpasses coal for the first time."
+    },
+    {
+      "question": "What is meant by 'primary source' in the news context?",
+      "choices": [
+        "The secondary source",
+        "Where the largest amount comes from",
+        "A backup source"
+      ],
+      "answer": "Where the largest amount comes from",
+      "explanation": "'Primary source' refers to where most of something comes from, like renewable energy overtaking coal as the primary source of electricity."
+    },
+    {
+      "question": "What does the noun 'demand' mean in the news headlines?",
+      "choices": [
+        "To supply",
+        "How much people want something",
+        "To conserve"
+      ],
+      "answer": "How much people want something",
+      "explanation": "In the context of the news, 'demand' refers to how much of something people actually want, such as the demand for electricity compared to the growth of solar and wind power."
+    },
+    {
+      "question": "What is the prediction for renewable energy generation by the end of the decade?",
+      "choices": [
+        "It will decrease",
+        "It will stay the same",
+        "It could double"
+      ],
+      "answer": "It could double",
+      "explanation": "It has been predicted that renewable energy generation could double by the end of the decade, showcasing the increasing shift towards sustainable energy sources."
+    },
+    {
+      "question": "Which countries are responsible for a large part of the growth in renewable energy generation?",
+      "choices": [
+        "Europe and the US",
+        "China and India",
+        "Africa and South America"
+      ],
+      "answer": "China and India",
+      "explanation": "China and India have played a significant role in the growth of renewable energy generation, contributing to the global shift towards cleaner energy production."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "fa35cc3e",
+  "video_id": "4pb-2fpRhgg",
+  "movie_title": "Solar and wind beat coal for first time: BBC Learning English from the News",
+  "movie_url": "https://youtu.be/4pb-2fpRhgg",
+  "published_at": "2025-10-08T13:38:13Z",
+  "duration": "6:20",
+  "tags": [],
+  "introduction": "More electricity has been generated through wind and solar power than from coal power plants for the",
+  "lead_intro": "Discover how solar and wind power have surpassed coal in generating electricity for the first time ever in this engaging BBC Learning English podcast episode.",
+  "quiz": [
+    {
+      "question": "What has surpassed coal for the first time in generating electricity?",
+      "choices": [
+        "Nuclear power",
+        "Solar and wind power",
+        "Hydropower"
+      ],
+      "answer": "Solar and wind power",
+      "explanation": "The podcast discusses how solar and wind power have exceeded coal in generating electricity for the first time."
+    },
+    {
+      "question": "Which countries are responsible for a large part of the growth in renewable energy?",
+      "choices": [
+        "Europe and the US",
+        "China and India",
+        "Australia and Brazil"
+      ],
+      "answer": "China and India",
+      "explanation": "China and India are highlighted in the podcast as being significant contributors to the growth of renewable energy."
+    },
+    {
+      "question": "What does the term 'surpass' mean in the context of the podcast?",
+      "choices": [
+        "To match",
+        "To exceed",
+        "To decrease"
+      ],
+      "answer": "To exceed",
+      "explanation": "'Surpass' is defined in the podcast as meaning to be more than or to exceed, especially when comparing different amounts."
+    },
+    {
+      "question": "What is meant by the 'primary source' of electricity?",
+      "choices": [
+        "The second largest source",
+        "The most expensive source",
+        "Where the largest amount comes from"
+      ],
+      "answer": "Where the largest amount comes from",
+      "explanation": "The podcast explains that the primary source of something, in this case electricity, is where the largest amount of it comes from."
+    },
+    {
+      "question": "What does the term 'demand' refer to in the podcast?",
+      "choices": [
+        "The need for electricity",
+        "The cost of electricity",
+        "How much people want something"
+      ],
+      "answer": "How much people want something",
+      "explanation": "In the podcast, 'demand' as a noun is used to describe how much people want something, such as electricity."
+    }
+  ]
+}

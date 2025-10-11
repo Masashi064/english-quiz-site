@@ -1,0 +1,79 @@
+{
+  "slug": "901db82f",
+  "video_id": "RBsY88Lir-A",
+  "movie_title": "Is there any truth to the King Arthur legends? - Alan Lupack",
+  "movie_url": "https://youtu.be/RBsY88Lir-A",
+  "published_at": "2018-09-11T15:00:42Z",
+  "duration": "5:43",
+  "tags": [
+    "TEDEd",
+    "TED-Ed",
+    "TED Education",
+    "TED",
+    "KingArthur",
+    "King Arthur",
+    "Arthurian Legend",
+    "Knights of the round table",
+    "lancelot",
+    "folklore",
+    "legends",
+    "merlin",
+    "Alan Lupack",
+    "Patrick Smith",
+    "animation"
+  ],
+  "introduction": "Check out our Patreon page: https://www.patreon.com/teded\n\nView full lesson: https://ed.ted.com/less",
+  "lead_intro": "King Arthur, a legendary figure from the later Middle Ages, continues to captivate our imagination with his tales of knights, Camelot, and Excalibur. But where did these stories come from, and is there any truth to them?",
+  "quiz": [
+    {
+      "question": "Who was the author of 'The History of the Kings of Britain'?",
+      "choices": [
+        "Geoffrey of Monmouth",
+        "Thomas Malory",
+        "Chrétien de Troyes"
+      ],
+      "answer": "Geoffrey of Monmouth",
+      "explanation": "Geoffrey of Monmouth, a cleric, created this lengthy chronicle around 1130, focusing on King Arthur."
+    },
+    {
+      "question": "Which French poet introduced the Round Table in Arthurian lore?",
+      "choices": [
+        "Wace",
+        "Geoffrey of Monmouth",
+        "Chrétien de Troyes"
+      ],
+      "answer": "Wace",
+      "explanation": "Wace added the Round Table to the Arthurian legend in his translation of Geoffrey of Monmouth's work around 1155 CE."
+    },
+    {
+      "question": "Who introduced the love triangle between Arthur, Lancelot, and Guinevere?",
+      "choices": [
+        "Geoffrey of Monmouth",
+        "Thomas Malory",
+        "Chrétien de Troyes"
+      ],
+      "answer": "Chrétien de Troyes",
+      "explanation": "Chrétien de Troyes, a French poet, introduced the love triangle and the Holy Grail into Arthurian mythology in his romances."
+    },
+    {
+      "question": "What was the Latin translation of the magical sword Caledfwlch?",
+      "choices": [
+        "Excalibur",
+        "Caliburnus",
+        "Camelot"
+      ],
+      "answer": "Caliburnus",
+      "explanation": "Geoffrey of Monmouth used the Latin translation Caliburnus for the magical sword Caledfwlch in his chronicle of King Arthur."
+    },
+    {
+      "question": "Who synthesized the Arthurian stories in 'Le Morte d'Arthur'?",
+      "choices": [
+        "Geoffrey of Monmouth",
+        "Wace",
+        "Thomas Malory"
+      ],
+      "answer": "Thomas Malory",
+      "explanation": "In the 15th century, Sir Thomas Malory compiled and synthesized the various Arthurian tales into 'Le Morte d'Arthur,' a foundational work for modern accounts of King Arthur."
+    }
+  ]
+}

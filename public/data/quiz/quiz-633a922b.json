@@ -1,0 +1,63 @@
+{
+  "slug": "633a922b",
+  "video_id": "N35IugBYH04",
+  "movie_title": "What is McCarthyism? And how did it happen? - Ellen Schrecker",
+  "movie_url": "https://youtu.be/N35IugBYH04",
+  "published_at": "2017-03-14T15:02:20Z",
+  "duration": "5:43",
+  "tags": [],
+  "introduction": "View full lesson: http://ed.ted.com/lessons/what-is-mccarthyism-and-how-did-it-happen-ellen-schrecke",
+  "lead_intro": "Explore the dark era of McCarthyism in the United States during the 1950s, where the hunt for suspected communists led to widespread political repression and fear. Let's delve into the history and impact of this notorious phenomenon.",
+  "quiz": [
+    {
+      "question": "What was the main purpose of McCarthyism in the United States in the 1950s?",
+      "choices": [
+        "To promote democratic freedoms",
+        "To expose suspected communists",
+        "To strengthen political alliances"
+      ],
+      "answer": "To expose suspected communists",
+      "explanation": "McCarthyism aimed to identify and eliminate individuals suspected of being communists or associating with communists, leading to widespread political repression and fear."
+    },
+    {
+      "question": "Who was the FBI Director known for using his agency to hunt down supposed communists during the McCarthy era?",
+      "choices": [
+        "J. Edgar Hoover",
+        "Joseph McCarthy",
+        "Richard Nixon"
+      ],
+      "answer": "J. Edgar Hoover",
+      "explanation": "J. Edgar Hoover utilized the resources of the FBI to target individuals believed to have communist affiliations, contributing to the atmosphere of fear and suspicion during the McCarthy era."
+    },
+    {
+      "question": "Which congressional committee played a significant role in investigating individuals suspected of communist ties?",
+      "choices": [
+        "House Un-American Activities Committee",
+        "Senate Intelligence Committee",
+        "House Judiciary Committee"
+      ],
+      "answer": "House Un-American Activities Committee",
+      "explanation": "The House Un-American Activities Committee conducted investigations and hearings to expose alleged communists and their sympathizers, leading to severe consequences for those targeted."
+    },
+    {
+      "question": "Who was the Republican senator from Wisconsin known for making sensational accusations of communist infiltration within the State Department?",
+      "choices": [
+        "Richard Nixon",
+        "Joseph McCarthy",
+        "J. Edgar Hoover"
+      ],
+      "answer": "Joseph McCarthy",
+      "explanation": "Joseph McCarthy gained notoriety for his relentless pursuit of alleged communists, often using unfounded claims and sensational tactics to target individuals in public institutions."
+    },
+    {
+      "question": "How did McCarthy's power decline during the McCarthy era?",
+      "choices": [
+        "He was re-elected for another term",
+        "He was promoted to a higher political position",
+        "His investigation of the army led to public backlash"
+      ],
+      "answer": "His investigation of the army led to public backlash",
+      "explanation": "McCarthy's overreach in investigating the army and making baseless accusations ultimately turned public opinion against him, leading to his censure by the Senate and a decline in his influence."
+    }
+  ]
+}
