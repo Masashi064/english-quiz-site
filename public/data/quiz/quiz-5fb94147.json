@@ -1,0 +1,101 @@
+{
+  "slug": "5fb94147",
+  "video_id": "WJ-XXQCcXik",
+  "movie_title": "What happens if an engineered virus escapes the lab?",
+  "movie_url": "https://youtu.be/WJ-XXQCcXik",
+  "published_at": "2023-03-14T15:01:31Z",
+  "duration": "5:42",
+  "tags": [
+    "lab leaks",
+    "lab leak",
+    "superbugs",
+    "engineered virus",
+    "virus",
+    "viruses",
+    "lab outbreak",
+    "pathogens",
+    "emerging pathogens",
+    "spillover virus",
+    "viral spillover",
+    "zoonotic spillover",
+    "disease outbreak",
+    "pandemic",
+    "anthrax",
+    "bioweapons",
+    "Sverdlovsk",
+    "gain of function",
+    "gene therapy",
+    "cancer treatment",
+    "vaccine production",
+    "ePPP",
+    "enhanced potential pandemic pathogens",
+    "ebola",
+    "bird flu",
+    "virology",
+    "science",
+    "education",
+    "animation",
+    "George Zaidan",
+    "Kevin Herrmann",
+    "AIM Creative Studios",
+    "TED",
+    "TED-Ed",
+    "TED Ed",
+    "Teded",
+    "Ted Education"
+  ],
+  "introduction": "How do we keep labs that handle dangerous pathogens safe and leak-free? Dig into the ongoing debate",
+  "lead_intro": "Bioweapons facilities and the risks of lab leaks are topics of concern in biosecurity. Learn about the potential dangers and debates surrounding gain-of-function research in this informative video.",
+  "quiz": [
+    {
+      "question": "What major incident occurred at the bioweapons facility in Sverdlovsk in 1979?",
+      "choices": [
+        "A. A researcher was accidentally exposed to a deadly virus.",
+        "B. A lab worker failed to replace an air filter, causing an anthrax outbreak.",
+        "C. A deadly strain of bird flu was created in the lab."
+      ],
+      "answer": "B. A lab worker failed to replace an air filter, causing an anthrax outbreak.",
+      "explanation": "The major incident at Sverdlovsk in 1979 was a lab worker not replacing an air filter in the ventilation system, leading to an anthrax outbreak."
+    },
+    {
+      "question": "What is gain-of-function work in microbiology?",
+      "choices": [
+        "A. Manipulating DNA of microbes to give them new abilities.",
+        "B. Studying natural pathogens in the environment.",
+        "C. Creating vaccines for infectious diseases."
+      ],
+      "answer": "A. Manipulating DNA of microbes to give them new abilities.",
+      "explanation": "Gain-of-function work involves manipulating the DNA of microbes to enhance their abilities, creating new variants with different characteristics."
+    },
+    {
+      "question": "What are 'enhanced potential pandemic pathogens' (ePPPs)?",
+      "choices": [
+        "A. Variants of known viruses engineered to be more transmissible or deadly.",
+        "B. Harmless bacteria used in lab experiments.",
+        "C. Natural pathogens found in the environment."
+      ],
+      "answer": "A. Variants of known viruses engineered to be more transmissible or deadly.",
+      "explanation": "'Enhanced potential pandemic pathogens' are variants of known viruses that have been engineered to be more transmissible or deadly, raising concerns about potential risks."
+    },
+    {
+      "question": "What is one suggested measure to minimize human errors in labs?",
+      "choices": [
+        "A. Creating an international database of lab leaks and near-misses.",
+        "B. Increasing funding for bioweapons research.",
+        "C. Encouraging more gain-of-function experiments."
+      ],
+      "answer": "A. Creating an international database of lab leaks and near-misses.",
+      "explanation": "One proposed measure to reduce human errors in labs is to establish an international database of lab leaks and near-misses to enhance protocols and safety measures."
+    },
+    {
+      "question": "Why is there a debate surrounding gain-of-function research?",
+      "choices": [
+        "A. Scientists are concerned about the lack of funding for such research.",
+        "B. Some argue that the risks of creating dangerous viruses outweigh the potential benefits.",
+        "C. Gain-of-function research has been proven to prevent pandemics."
+      ],
+      "answer": "B. Some argue that the risks of creating dangerous viruses outweigh the potential benefits.",
+      "explanation": "The debate around gain-of-function research stems from the argument that the risks of engineering dangerous viruses may not justify the potential benefits, leading to concerns about biosecurity."
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "slug": "5ad91be8",
+  "video_id": "8xXslshomOs",
+  "movie_title": "Can you solve Dongle's Difficult Dilemma? - Dennis E. Shasha",
+  "movie_url": "https://youtu.be/8xXslshomOs",
+  "published_at": "2021-04-26T14:59:58Z",
+  "duration": "5:42",
+  "tags": [
+    "legend of zelda",
+    "zelda",
+    "golden hexagon",
+    "silver hexagon",
+    "auction",
+    "auctioneer",
+    "dongle",
+    "dongles castle",
+    "wizards",
+    "auction bid",
+    "auction theory",
+    "collusion",
+    "game theory",
+    "algorithmic game theory",
+    "auction bidding",
+    "trisource",
+    "hexagon trio",
+    "auction riddle",
+    "riddles",
+    "thought experiment",
+    "problem solving",
+    "critical thinking",
+    "ted ed riddles",
+    "education",
+    "animation",
+    "dennis shasha",
+    "igor coric",
+    "artrake studio",
+    "TED",
+    "TED-Ed",
+    "TED Ed",
+    "Teded",
+    "Ted Education"
+  ],
+  "introduction": "Practice more problem-solving at https://brilliant.org/TedEd\n\n--\n\nAccording to legend, three galacti",
+  "lead_intro": "Embark on a thrilling adventure filled with bidding strategies and tactical thinking to outsmart your rival in a high-stakes auction for powerful hexagons. Let's dive into the strategic dilemma and unravel the mystery of winning the golden and silver hexagons!",
+  "quiz": [
+    {
+      "question": "What advantage did Dongle have over the protagonist and Gordon in the auction for the hexagons?",
+      "choices": [
+        "A magic mirror",
+        "99 gems",
+        "5 silver hexagons"
+      ],
+      "answer": "A magic mirror",
+      "explanation": "Dongle had a magic mirror that allowed him to see what the protagonist and Gordon were bidding, giving him a strategic advantage in the auction."
+    },
+    {
+      "question": "How did the protagonist ensure a victory in the silver hexagon auctions?",
+      "choices": [
+        "By bidding the maximum amount every time",
+        "By having a one-gem advantage divisible by three at the start",
+        "By outbidding Gordon on the golden hexagons"
+      ],
+      "answer": "By having a one-gem advantage divisible by three at the start",
+      "explanation": "By starting with a one-gem advantage divisible by three, the protagonist could strategically bid in a way that ensured victory in the silver hexagon auctions."
+    },
+    {
+      "question": "What bidding strategy did the protagonist use to force Gordon to spend more on the golden hexagons?",
+      "choices": [
+        "Bidding zero on the second gold hexagon",
+        "Bidding 24 on the second gold hexagon",
+        "Bidding 51 on the third gold hexagon"
+      ],
+      "answer": "Bidding 24 on the second gold hexagon",
+      "explanation": "By bidding 24 on the second gold hexagon, the protagonist could force Gordon to match bids and go into the silver auctions with an advantage, ultimately securing victory."
+    },
+    {
+      "question": "What was the protagonist's plan if Gordon won the second gold hexagon against a bid of 24?",
+      "choices": [
+        "To outbid Gordon on the third gold hexagon",
+        "To bid 51 on the third gold hexagon",
+        "To bid 25 on the silver hexagon auctions"
+      ],
+      "answer": "To bid 25 on the silver hexagon auctions",
+      "explanation": "If Gordon won the second gold hexagon against a bid of 24, the protagonist's plan was to bid 25 on the silver hexagon auctions to secure victory after both parties blocked each other from getting three golds."
+    },
+    {
+      "question": "How did the protagonist's ingenuity lead to victory in the bidding war for the hexagons?",
+      "choices": [
+        "By bidding the maximum amount every time",
+        "By having a one-gem advantage divisible by three at the start",
+        "By using the magic mirror"
+      ],
+      "answer": "By having a one-gem advantage divisible by three at the start",
+      "explanation": "The protagonist's strategic bidding based on a one-gem advantage divisible by three allowed them to outmaneuver Gordon and secure victory in the bidding war for the hexagons."
+    }
+  ]
+}

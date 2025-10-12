@@ -1,0 +1,99 @@
+{
+  "slug": "1aef668f",
+  "video_id": "eAQ1Ee5kTMQ",
+  "movie_title": "The spear-wielding stork who revolutionized science - Lucy Cooke",
+  "movie_url": "https://youtu.be/eAQ1Ee5kTMQ",
+  "published_at": "2020-12-17T16:00:22Z",
+  "duration": "5:42",
+  "tags": [
+    "bird migration",
+    "aristotle",
+    "birds",
+    "migration",
+    "aristotle theory",
+    "ancient theories",
+    "naturalists",
+    "count von bothmer",
+    "stork",
+    "shapeshifters",
+    "shapeshifting birds",
+    "hibernation",
+    "garden warblers",
+    "black caps",
+    "common poorwill",
+    "barn swallows",
+    "winter migration",
+    "winter migrant birds",
+    "orinthology",
+    "orinthologist",
+    "Johannes Thienemann",
+    "flight",
+    "bird flight patterns",
+    "science",
+    "biology",
+    "history",
+    "education",
+    "animation",
+    "lucy cooke",
+    "visorama",
+    "TED",
+    "TED-Ed",
+    "TED Ed",
+    "Teded",
+    "Ted Education"
+  ],
+  "introduction": "Explore ridiculous ancient theories of bird migration and discover how scientists finally solved one",
+  "lead_intro": "Migration is a fascinating phenomenon that has puzzled scientists for centuries. From Aristotle's speculative theories to modern-day research, the journey of migratory birds continues to captivate and inspire awe.",
+  "quiz": [
+    {
+      "question": "What was the surprising discovery Count von Bothmer made about the stork he shot down in 1822?",
+      "choices": [
+        "It had a wooden spear impaled in it",
+        "It had transformed into a different bird species",
+        "It had feathers made of wood"
+      ],
+      "answer": "It had a wooden spear impaled in it",
+      "explanation": "Count von Bothmer found the stork impaled by a yard-long wooden spear, which led to the revelation that the bird had been speared in Africa before flying over 2,500 kilometers to his castle."
+    },
+    {
+      "question": "What was one of Aristotle's theories regarding the annual vanishing act of birds?",
+      "choices": [
+        "Birds transformed into different bodies suited for the season",
+        "Birds migrated to the moon each winter",
+        "Birds hibernated during the winter months"
+      ],
+      "answer": "Birds transformed into different bodies suited for the season",
+      "explanation": "Aristotle proposed the idea that birds transformed into different bodies that suited the season, such as garden warblers turning into black caps. This theory was popular among ancient naturalists."
+    },
+    {
+      "question": "What did researchers in the 19th century propose about barn swallows and hibernation?",
+      "choices": [
+        "Barn swallows removed their feathers and hibernated in holes",
+        "Barn swallows migrated to the moon each winter",
+        "Barn swallows hibernated at the bottom of lakes and rivers"
+      ],
+      "answer": "Barn swallows removed their feathers and hibernated in holes",
+      "explanation": "Researchers in the 19th century proposed outlandish forms of hibernation for birds, including the idea that barn swallows removed their feathers and hibernated in holes or slept at the bottom of lakes and rivers during winter."
+    },
+    {
+      "question": "What was Johannes Thienemann's significant contribution to the study of migratory birds?",
+      "choices": [
+        "He was the first to propose realistic migration",
+        "He established the first permanent bird observatory",
+        "He discovered that birds flew to the moon each winter"
+      ],
+      "answer": "He established the first permanent bird observatory",
+      "explanation": "Johannes Thienemann owned the world's first permanent bird observatory and was a major advocate for the study of birds. He played a crucial role in mapping the first migration route ever discovered by tagging storks with aluminum rings."
+    },
+    {
+      "question": "How did Thienemann gather data to plot the first migration route of storks?",
+      "choices": [
+        "He used satellite tracking devices",
+        "He relied on ancient texts",
+        "He tagged storks with aluminum rings and encouraged people to return them from Africa"
+      ],
+      "answer": "He tagged storks with aluminum rings and encouraged people to return them from Africa",
+      "explanation": "Thienemann tagged storks with unique aluminum rings and requested people in Africa who found the tags to mail them back. This initiative allowed him to gather data and plot the migration route of storks."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "81a7bcd6",
+  "video_id": "25bwiSikRsI",
+  "movie_title": "What does it mean to be a refugee? - Benedetta Berti and Evelien Borgman",
+  "movie_url": "https://youtu.be/25bwiSikRsI",
+  "published_at": "2016-06-16T15:00:24Z",
+  "duration": "5:43",
+  "tags": [],
+  "introduction": "View full lesson: http://ed.ted.com/lessons/what-does-it-mean-to-be-a-refugee-benedetta-berti-and-ev",
+  "lead_intro": "Have you ever wondered about the difference between a migrant and a refugee? Let's dive into the definitions and challenges faced by refugees worldwide.",
+  "quiz": [
+    {
+      "question": "What is the main difference between a migrant and a refugee?",
+      "choices": [
+        "Migrants are seeking better economic opportunities, while refugees are fleeing persecution and violence.",
+        "Migrants and refugees are interchangeable terms.",
+        "Migrants are always children, while refugees are adults."
+      ],
+      "answer": "Migrants are seeking better economic opportunities, while refugees are fleeing persecution and violence.",
+      "explanation": "Migrants leave their country for various reasons like economic opportunities, while refugees flee persecution and violence in their home country."
+    },
+    {
+      "question": "What organization typically runs refugee camps?",
+      "choices": [
+        "The International Red Cross",
+        "United Nations Refugee Agency",
+        "World Health Organization"
+      ],
+      "answer": "United Nations Refugee Agency",
+      "explanation": "Refugee camps are usually managed by the United Nations Refugee Agency or local governments to provide temporary shelter to refugees."
+    },
+    {
+      "question": "What is the first legal step for a displaced person in a new country?",
+      "choices": [
+        "Apply for citizenship",
+        "Seek employment",
+        "Apply for asylum"
+      ],
+      "answer": "Apply for asylum",
+      "explanation": "The first legal step for a displaced person in a new country is to apply for asylum, where they are considered an asylum seeker until their application is accepted."
+    },
+    {
+      "question": "What is the principle of non-refoulement?",
+      "choices": [
+        "A principle preventing a nation from sending an individual to a country where their life is threatened",
+        "A principle allowing countries to reject refugees",
+        "A principle allowing refugees to work in any country"
+      ],
+      "answer": "A principle preventing a nation from sending an individual to a country where their life is threatened",
+      "explanation": "Non-refoulement is a fundamental principle preventing countries from sending individuals back to a country where their life and freedom are at risk."
+    },
+    {
+      "question": "What is one of the main challenges faced by refugee children according to the text?",
+      "choices": [
+        "Lack of access to healthcare",
+        "Xenophobia and racism",
+        "Overcrowded refugee camps"
+      ],
+      "answer": "Xenophobia and racism",
+      "explanation": "Refugee children often face challenges such as xenophobia and racism, which can hinder their access to education and integration into society."
+    }
+  ]
+}

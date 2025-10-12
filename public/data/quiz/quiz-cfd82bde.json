@@ -1,0 +1,98 @@
+{
+  "slug": "cfd82bde",
+  "video_id": "Q6ZEf6UZyco",
+  "movie_title": "Could we steal the power of a black hole? - Fabio Pacucci",
+  "movie_url": "https://youtu.be/Q6ZEf6UZyco",
+  "published_at": "2020-10-19T15:01:08Z",
+  "duration": "5:42",
+  "tags": [
+    "black holes",
+    "black hole energy",
+    "energy sources",
+    "galactic civilizations",
+    "space travel",
+    "galactic trade",
+    "galactic transport",
+    "dyson sphere",
+    "dyson ring",
+    "Nikolai Kardashev",
+    "astronomy",
+    "fossil fuels",
+    "solar energy",
+    "nuclear power",
+    "terraforming",
+    "physics",
+    "space",
+    "outer space",
+    "milky way galaxy",
+    "angular momentum",
+    "gravitational field",
+    "kinetic energy",
+    "freeman dyson",
+    "science",
+    "technology",
+    "human civilization",
+    "fabio pacucci",
+    "totem studio",
+    "TED",
+    "TED-Ed",
+    "TED Ed",
+    "Teded",
+    "Ted Education",
+    "children of time"
+  ],
+  "introduction": "Download a free audiobook version of \"Children of Time\" and support TED-Ed's nonprofit mission: http",
+  "lead_intro": "Imagine a future where humans have expanded their civilization across galaxies and rely on supermassive black holes for energy. But how can we harness this power efficiently? Let's explore the concept of Dyson spheres and rings in this fascinating journey of technological advancement.",
+  "quiz": [
+    {
+      "question": "What is the energy source proposed by Nikolai Kardashev for civilizations on a galactic scale?",
+      "choices": [
+        "Solar energy",
+        "Fossil fuels",
+        "Supermassive black holes"
+      ],
+      "answer": "Supermassive black holes",
+      "explanation": "Nikolai Kardashev proposed that civilizations on a galactic scale would require the energy output of supermassive black holes to meet their needs."
+    },
+    {
+      "question": "What is the efficiency rate for converting potential energy to kinetic energy near a black hole's event horizon?",
+      "choices": [
+        "2%",
+        "6%",
+        "10%"
+      ],
+      "answer": "6%",
+      "explanation": "Particles near a black hole's event horizon convert potential energy to kinetic energy with an efficiency of 6% for non-rotating black holes and up to 32% for rotating ones."
+    },
+    {
+      "question": "What is the structure proposed by Freeman Dyson to harness energy from a star?",
+      "choices": [
+        "Dyson ring",
+        "Dyson sphere",
+        "Dyson cube"
+      ],
+      "answer": "Dyson sphere",
+      "explanation": "Freeman Dyson proposed the concept of a Dyson sphere, an artificial structure around a star to capture and utilize its radiated energy."
+    },
+    {
+      "question": "Why would a Dyson sphere not be suitable for covering a black hole entirely?",
+      "choices": [
+        "It would block the black hole's emissions",
+        "It would attract asteroids",
+        "Black holes need to be continuously fed"
+      ],
+      "answer": "Black holes need to be continuously fed",
+      "explanation": "Black holes need a continuous source of matter to produce energy, making it impractical to fully cover them with a Dyson sphere."
+    },
+    {
+      "question": "What is the purpose of a Dyson ring around a black hole?",
+      "choices": [
+        "To trap the black hole's radiation",
+        "To collect energy from the accretion disk",
+        "To study the black hole's gravity"
+      ],
+      "answer": "To collect energy from the accretion disk",
+      "explanation": "A Dyson ring around a black hole would consist of collectors to gather energy from the accretion disk and transmit it for use by the civilization."
+    }
+  ]
+}

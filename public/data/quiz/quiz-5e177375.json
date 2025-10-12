@@ -1,0 +1,104 @@
+{
+  "slug": "5e177375",
+  "video_id": "yDtKBXOEsoM",
+  "movie_title": "How do ventilators work? - Alex Gendler",
+  "movie_url": "https://youtu.be/yDtKBXOEsoM",
+  "published_at": "2020-05-21T14:59:43Z",
+  "duration": "5:42",
+  "tags": [
+    "ventilator",
+    "ventilator machine",
+    "ventilators 101",
+    "respirator",
+    "respiratory system",
+    "lungs",
+    "breathing",
+    "oxygen",
+    "trachea",
+    "airways",
+    "lung damage",
+    "coronavirus",
+    "covid 19",
+    "health",
+    "public health",
+    "pandemic",
+    "medicine",
+    "medical research",
+    "medical invention",
+    "Andreas Vesalius",
+    "medical inventions",
+    "ventilation",
+    "diaphragm",
+    "alveoli",
+    "co2",
+    "sleep apnea",
+    "asthma",
+    "pneumonia",
+    "iron lung",
+    "ventilator mask",
+    "airflow",
+    "alex gendler",
+    "artrake studio",
+    "TED",
+    "TED-Ed",
+    "TED Ed",
+    "Teded",
+    "Ted Education",
+    "animation",
+    "education"
+  ],
+  "introduction": "Take a journey into the respiratory system to see how ventilators bypass constricted airways and hel",
+  "lead_intro": "Ventilators play a crucial role in modern medicine, aiding the respiratory system when it cannot function properly. Let's explore the history and significance of mechanical ventilation in this article.",
+  "quiz": [
+    {
+      "question": "What did Flemish physician Andreas Vesalius describe in the 16th century that is now recognized as the first description of mechanical ventilation?",
+      "choices": [
+        "A. Heart surgery techniques",
+        "B. Inserting a tube into the trachea to inflate lungs",
+        "C. Blood transfusion methods"
+      ],
+      "answer": "B. Inserting a tube into the trachea to inflate lungs",
+      "explanation": "Andreas Vesalius described inserting a tube into an animal's trachea and blowing air to inflate its lungs, now recognized as the first description of mechanical ventilation."
+    },
+    {
+      "question": "What happens when the diaphragm contracts during breathing?",
+      "choices": [
+        "A. Chest cavities expand",
+        "B. Alveoli deflate",
+        "C. Blood fills the lungs"
+      ],
+      "answer": "A. Chest cavities expand",
+      "explanation": "When the diaphragm contracts, it expands the chest cavities, allowing air to be drawn in and inflate the alveoli."
+    },
+    {
+      "question": "Which condition can obstruct oxygen due to inflamed airways?",
+      "choices": [
+        "A. Sleep apnea",
+        "B. Asthma",
+        "C. Pneumonia"
+      ],
+      "answer": "B. Asthma",
+      "explanation": "Asthma can lead to inflamed airways, obstructing oxygen flow in the respiratory system."
+    },
+    {
+      "question": "What is the main purpose of mechanical ventilators in the respiratory system?",
+      "choices": [
+        "A. Assist in natural breathing",
+        "B. Provide sedation",
+        "C. Monitor heart rate"
+      ],
+      "answer": "A. Assist in natural breathing",
+      "explanation": "Mechanical ventilators assist in breathing by either pumping air into the lungs through positive pressure or allowing air to be drawn in passively through negative pressure."
+    },
+    {
+      "question": "Why are ventilators considered a last resort in medical treatment?",
+      "choices": [
+        "A. They are expensive",
+        "B. They can cause long-term lung damage",
+        "C. They require extensive training to operate"
+      ],
+      "answer": "B. They can cause long-term lung damage",
+      "explanation": "Ventilators are used as a last resort as they require heavy sedation and repeated use can lead to long-term lung damage."
+    }
+  ]
+}
