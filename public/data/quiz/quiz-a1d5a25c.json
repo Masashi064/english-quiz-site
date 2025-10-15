@@ -1,0 +1,98 @@
+{
+  "slug": "a1d5a25c",
+  "video_id": "bbxmH_Kj7fk",
+  "movie_title": "Does planting trees actually cool the planet? - Carolyn Beans",
+  "movie_url": "https://youtu.be/bbxmH_Kj7fk",
+  "published_at": "2023-12-19T16:00:24Z",
+  "duration": "5:41",
+  "tags": [
+    "trees",
+    "tree planting",
+    "afforestation",
+    "reforestation",
+    "bonn challenge",
+    "co2",
+    "greenhouse gases",
+    "carbon",
+    "planting trees",
+    "International Union for Conservation of Nature",
+    "degraded land",
+    "climate emergency",
+    "carbon sink",
+    "carbon sequestration",
+    "forestry",
+    "tree plantations",
+    "carbon storage",
+    "savanna",
+    "African savanna",
+    "tree species",
+    "nature regeneration",
+    "plant trees",
+    "carbon emissions",
+    "nature",
+    "education",
+    "animation",
+    "carolyn beans",
+    "Ivana Bošnjak",
+    "Thomas Johnson Volda",
+    "TED",
+    "TED-Ed",
+    "TED Ed",
+    "Teded",
+    "Ted Education"
+  ],
+  "introduction": "Dig into common mistakes that tree-planting programs make, and explore strategies that can successfu",
+  "lead_intro": "Looking to combat climate change, tree planting initiatives have gained popularity. However, not all tree planting efforts yield the desired results. Let's dive into the complexities of tree planting and its implications on carbon storage and the environment.",
+  "quiz": [
+    {
+      "question": "What is the main focus of afforestation?",
+      "choices": [
+        "Restoring degraded forests",
+        "Planting trees in areas without forests",
+        "Harvesting plantation trees"
+      ],
+      "answer": "Planting trees in areas without forests",
+      "explanation": "Afforestation focuses on planting trees in places that have long been devoid of forests or have never been home to forests, as opposed to reforestation which restores recently degraded forests."
+    },
+    {
+      "question": "Why are natural forests better at carbon storage than plantations?",
+      "choices": [
+        "They are more flammable",
+        "They are non-native",
+        "They are 40 times more efficient at carbon storage"
+      ],
+      "answer": "They are 40 times more efficient at carbon storage",
+      "explanation": "According to a study, natural forests are 40 times better at storing carbon compared to plantations, making them crucial for long-term carbon sequestration."
+    },
+    {
+      "question": "What are the potential consequences of planting trees in Africa's savannas?",
+      "choices": [
+        "Increased carbon storage",
+        "Threat to wildlife and increased risk of wildfires",
+        "Protection from fire and herbivores"
+      ],
+      "answer": "Threat to wildlife and increased risk of wildfires",
+      "explanation": "Planting trees in savannas can threaten wildlife that thrive in open spaces, and the trees are at risk of wildfires, potentially undoing years of growth."
+    },
+    {
+      "question": "Why can planting trees in drylands or snowy terrain have unintended consequences?",
+      "choices": [
+        "They can absorb sunlight and contribute to a warmer planet",
+        "They improve soil fertility",
+        "They reduce water scarcity"
+      ],
+      "answer": "They can absorb sunlight and contribute to a warmer planet",
+      "explanation": "Trees in regions that naturally reflect sunlight can lead to increased absorption of the Sun's rays, potentially contributing to global warming instead of mitigating it."
+    },
+    {
+      "question": "What is suggested as a more efficient way to re-green the planet?",
+      "choices": [
+        "Planting only commercial timber plantations",
+        "Protecting existing forests and assisting natural regeneration",
+        "Greenwashing initiatives"
+      ],
+      "answer": "Protecting existing forests and assisting natural regeneration",
+      "explanation": "Some researchers propose protecting existing forests and letting nature regenerate, while others advocate for assisted natural regeneration to re-green the planet more effectively."
+    }
+  ]
+}
