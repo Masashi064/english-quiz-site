@@ -1,0 +1,79 @@
+{
+  "slug": "59eb7a5e",
+  "video_id": "YtE0OsRWeYI",
+  "movie_title": "Should we get rid of standardized testing? - Arlo Kempf",
+  "movie_url": "https://youtu.be/YtE0OsRWeYI",
+  "published_at": "2017-09-19T15:04:40Z",
+  "duration": "5:41",
+  "tags": [
+    "TED",
+    "TED-Ed",
+    "TED Ed",
+    "TED Education",
+    "Arlo Kempf",
+    "CUB Animation",
+    "testing",
+    "standardized test",
+    "ruler",
+    "reliability",
+    "validity",
+    "measurement",
+    "school",
+    "score",
+    "bell curve"
+  ],
+  "introduction": "Download a free audiobook and support TED-Ed's nonprofit mission: http://www.audible.com/teded\n\nChec",
+  "lead_intro": "Standardized tests have a long history dating back over 2,000 years in China. Today, they are used for various purposes worldwide, but understanding their limitations is crucial in interpreting their results.",
+  "quiz": [
+    {
+      "question": "What were the subjects included in the first standardized tests administered in China during the Han dynasty?",
+      "choices": [
+        "Mathematics, Science, and Literature",
+        "Philosophy, Farming, and Military Tactics",
+        "Art, Music, and History"
+      ],
+      "answer": "Philosophy, Farming, and Military Tactics",
+      "explanation": "The subjects included in the first standardized tests in China during the Han dynasty were philosophy, farming, and military tactics."
+    },
+    {
+      "question": "How is a diplomat's language proficiency typically measured in standardized tests?",
+      "choices": [
+        "Comparing against other diplomats",
+        "Using a bell curve",
+        "Meeting predetermined criteria"
+      ],
+      "answer": "Meeting predetermined criteria",
+      "explanation": "A diplomat's language proficiency is typically measured in standardized tests by meeting predetermined criteria."
+    },
+    {
+      "question": "What does it mean if a test taker is in the 70th percentile?",
+      "choices": [
+        "They scored higher than 70% of test takers",
+        "They scored lower than 70% of test takers",
+        "They scored in the middle"
+      ],
+      "answer": "They scored higher than 70% of test takers",
+      "explanation": "If a test taker is in the 70th percentile, it means they scored higher than 70% of test takers who took the same test."
+    },
+    {
+      "question": "What are two critical ideas for understanding standardized tests?",
+      "choices": [
+        "Accuracy and Precision",
+        "Reliability and Validity",
+        "Speed and Efficiency"
+      ],
+      "answer": "Reliability and Validity",
+      "explanation": "Two critical ideas for understanding standardized tests are reliability, which refers to consistency, and validity, which refers to accuracy in measuring what it intends to measure."
+    },
+    {
+      "question": "Why may students with test anxiety struggle with standardized tests?",
+      "choices": [
+        "They lack knowledge of the subject",
+        "They are too confident in their abilities",
+        "They feel too nervous to perform their best"
+      ],
+      "answer": "They feel too nervous to perform their best",
+      "explanation": "Students with test anxiety may struggle with standardized tests not because they lack knowledge, but because they feel too nervous to perform their best."
+    }
+  ]
+}
