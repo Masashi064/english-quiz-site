@@ -1,0 +1,64 @@
+{
+  "slug": "45a4e59a",
+  "video_id": "X_tYrnv_o6A",
+  "channel_name": "Veritasium",
+  "movie_title": "Your Body's Molecular Machines",
+  "movie_url": "https://youtu.be/X_tYrnv_o6A",
+  "published_at": "2017-11-20T15:00:02Z",
+  "duration": "6:21",
+  "introduction": "These are the molecular machines inside your body that make cell division possible. Animation by Dre",
+  "thumbnail_url": "https://i.ytimg.com/vi/X_tYrnv_o6A/default.jpg",
+  "category": "",
+  "tags": [
+    "veritasium",
+    "mitosis",
+    "cell division",
+    "biology",
+    "dna",
+    "chromosomes",
+    "dynein",
+    "kinetochore",
+    "cell biology",
+    "cell",
+    "cells",
+    "division",
+    "replication",
+    "molecular machines",
+    "nanotechnology"
+  ],
+  "views": "",
+  "likes": "",
+  "subtitle_status": "",
+  "vocabulary": [
+    {
+      "word": "mitosis",
+      "definition": "a type of cell division that results in two daughter cells each having the same number and kind of chromosomes as the parent nucleus",
+      "example": "Mitosis is a crucial process for growth, development, and repair in multicellular organisms."
+    },
+    {
+      "word": "chromosome",
+      "definition": "a thread-like structure of nucleic acids and protein found in the nucleus of most living cells, carrying genetic information in the form of genes",
+      "example": "Each human cell typically contains 23 pairs of chromosomes."
+    },
+    {
+      "word": "nucleosome",
+      "definition": "a structural unit of a eukaryotic chromosome, consisting of a segment of DNA wound around a core of histone proteins",
+      "example": "The nucleosome helps in the packaging of DNA to fit within the confined space of the cell's nucleus."
+    },
+    {
+      "word": "kinetochore",
+      "definition": "a disc-shaped protein structure associated with duplicated chromatids at the centromere, essential for the movement of chromosomes during cell division",
+      "example": "The kinetochore plays a critical role in ensuring accurate chromosome segregation."
+    },
+    {
+      "word": "microtubule",
+      "definition": "a component of the cytoskeleton found in eukaryotic cells, involved in cell division and providing structure and shape to the cell",
+      "example": "Microtubules act as tracks for the movement of organelles within the cell."
+    },
+    {
+      "word": "histones",
+      "definition": "a group of proteins that associate with DNA in the cell nucleus and help condense it into chromatin",
+      "example": "Histones play a key role in regulating gene expression by modifying the accessibility of DNA."
+    }
+  ]
+}

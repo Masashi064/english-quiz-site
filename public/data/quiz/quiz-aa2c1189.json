@@ -1,0 +1,71 @@
+{
+  "slug": "aa2c1189",
+  "video_id": "x4BJXS_WhYE",
+  "movie_title": "Jeju Air crash: Families camp at airport to wait for victims' remains",
+  "movie_url": "https://youtu.be/x4BJXS_WhYE",
+  "published_at": "2024-12-31T12:54:07Z",
+  "duration": "6:21",
+  "tags": [
+    "Muan airport",
+    "Muan International Airport",
+    "Jeju Air",
+    "South Korea",
+    "Jeju Air crash",
+    "air crash",
+    "victims' families"
+  ],
+  "introduction": "The chief of Jeju Air has pledged to \"repair trust\" by strengthening safety measures after one of it",
+  "lead_intro": "The recent plane crash in South Korea has left many families grieving and questioning aviation safety. Let's dive into a quiz based on the details of the incident and its aftermath.",
+  "quiz": [
+    {
+      "question": "What was missing from the plane that made data retrieval difficult?",
+      "choices": [
+        "cockpit voice recorder",
+        "navigation system",
+        "flight data recorder"
+      ],
+      "answer": "flight data recorder",
+      "explanation": "Authorities mentioned that the flight data recorder was missing a critical component, making it harder to retrieve data."
+    },
+    {
+      "question": "How many people were reported to have been on board the ill-fated tigerair flight from Bangkok to Milan?",
+      "choices": [
+        "180 people",
+        "181 people",
+        "179 people"
+      ],
+      "answer": "181 people",
+      "explanation": "Reports stated that there were up to 181 people on board the tigerair flight from Bangkok to Milan."
+    },
+    {
+      "question": "Who ordered an emergency safety inspection of the overall airline operation system?",
+      "choices": [
+        "acting President Issa Moak",
+        "Mr. Parks",
+        "the chief of Jeju air"
+      ],
+      "answer": "acting President Issa Moak",
+      "explanation": "Acting President Issa Moak ordered an emergency safety inspection of the overall airline operation system in response to the crash."
+    },
+    {
+      "question": "Where was a temporary altar set up for the public to pay their respects?",
+      "choices": [
+        "sports complex",
+        "airport terminal",
+        "hotel lobby"
+      ],
+      "answer": "sports complex",
+      "explanation": "A temporary altar was set up at a sports complex on Monday for the public to pay their respects in the period of national mourning."
+    },
+    {
+      "question": "Why did many bereaved families prefer to remain inside the airport premises?",
+      "choices": [
+        "to be close to the crash site",
+        "to avoid media attention",
+        "to seek financial compensation"
+      ],
+      "answer": "to be close to the crash site",
+      "explanation": "Many families chose to stay inside the airport premises to remain close to where the crash happened, as recovery efforts continued."
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "slug": "45a4e59a",
+  "video_id": "X_tYrnv_o6A",
+  "movie_title": "Your Body's Molecular Machines",
+  "movie_url": "https://youtu.be/X_tYrnv_o6A",
+  "published_at": "2017-11-20T15:00:02Z",
+  "duration": "6:21",
+  "tags": [
+    "veritasium",
+    "mitosis",
+    "cell division",
+    "biology",
+    "dna",
+    "chromosomes",
+    "dynein",
+    "kinetochore",
+    "cell biology",
+    "cell",
+    "cells",
+    "division",
+    "replication",
+    "molecular machines",
+    "nanotechnology"
+  ],
+  "introduction": "These are the molecular machines inside your body that make cell division possible. Animation by Dre",
+  "lead_intro": "Have you ever wondered how your body creates new cells? Dive into the fascinating world of tiny molecular machines inside your body with this insightful video!",
+  "quiz": [
+    {
+      "question": "What is the process of cell division also known as?",
+      "choices": [
+        "mitosis",
+        "meiosis",
+        "replication"
+      ],
+      "answer": "mitosis",
+      "explanation": "Cell division is also known as mitosis, where cells replicate and divide to create new cells."
+    },
+    {
+      "question": "What are the four nucleic acid base pairs in DNA known by?",
+      "choices": [
+        "A, B, G, D",
+        "T, C, M, H",
+        "A, T, G, C"
+      ],
+      "answer": "A, T, G, C",
+      "explanation": "The nucleic acid base pairs in DNA are known by the letters A, T, G, and C."
+    },
+    {
+      "question": "What prevents DNA from becoming a tangled mess?",
+      "choices": [
+        "lipids",
+        "histones",
+        "carbohydrates"
+      ],
+      "answer": "histones",
+      "explanation": "Proteins called histones wrap around DNA to prevent it from becoming tangled, forming nucleosomes."
+    },
+    {
+      "question": "What is the structure that is formed by looping and coiling chromatin?",
+      "choices": [
+        "nucleotide",
+        "nucleus",
+        "chromosome"
+      ],
+      "answer": "chromosome",
+      "explanation": "Chromatin is bundled together into a fiber known as a chromosome, one of the largest molecular structures in the body."
+    },
+    {
+      "question": "What is the name of the sophisticated molecular mechanism that helps separate chromatids?",
+      "choices": [
+        "centrosome",
+        "kinetochore",
+        "ribosome"
+      ],
+      "answer": "kinetochore",
+      "explanation": "The kinetochore is a sophisticated molecular mechanism that helps in the successful separation of chromatids during cell division."
+    }
+  ]
+}
