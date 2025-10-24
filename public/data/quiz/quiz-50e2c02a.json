@@ -1,0 +1,63 @@
+{
+  "slug": "50e2c02a",
+  "video_id": "0sexKYYlyS4",
+  "movie_title": "American Artifacts Preview: The Great American Hall of Wonders Exhibit",
+  "movie_url": "https://youtu.be/0sexKYYlyS4",
+  "published_at": "2011-09-12T21:13:31Z",
+  "duration": "4:08",
+  "tags": [],
+  "introduction": "Curator Claire Perry gave American History TV a tour of this Smithsonian exhibit exploring innovatio",
+  "lead_intro": "Step into the world of 19th-century America with American History TV's American Artifacts as they explore the innovations showcased in the Hall of Wonders exhibit.",
+  "quiz": [
+    {
+      "question": "What was the Buffalo Room in the American Hall of Wonders exhibit a symbol of?",
+      "choices": [
+        "America's natural abundance and the dynamic energy of its people",
+        "The scarcity of wildlife in the 19th century",
+        "The decline of native habitats"
+      ],
+      "answer": "America's natural abundance and the dynamic energy of its people",
+      "explanation": "The Buffalo Room symbolized America's natural abundance and the dynamic energy of its people."
+    },
+    {
+      "question": "Which artist made a series of trips to the West in the 1830s to document native people and buffalo herds?",
+      "choices": [
+        "George Catlin",
+        "John Audubon",
+        "Thomas Cole"
+      ],
+      "answer": "George Catlin",
+      "explanation": "George Catlin made trips to the West in the 1830s to document native people and buffalo herds."
+    },
+    {
+      "question": "What did George Catlin believe about the fate of buffalo and native people in the 1830s?",
+      "choices": [
+        "They would soon go extinct due to settlement in the middle of the country",
+        "They would thrive in the expanding settlements",
+        "They would migrate to new habitats"
+      ],
+      "answer": "They would soon go extinct due to settlement in the middle of the country",
+      "explanation": "George Catlin believed that buffalo and native people would soon go extinct as settlers moved into the middle of the country."
+    },
+    {
+      "question": "What did John Audubon create one of the first inventories of?",
+      "choices": [
+        "American birds",
+        "Mechanical inventions",
+        "Native plants"
+      ],
+      "answer": "American birds",
+      "explanation": "John Audubon created one of the first inventories of American birds, known as 'The Birds of America.'"
+    },
+    {
+      "question": "How did Audubon gather specimens for his paintings?",
+      "choices": [
+        "By shooting hundreds of birds",
+        "By sketching them in their natural habitat",
+        "By studying them in captivity"
+      ],
+      "answer": "By shooting hundreds of birds",
+      "explanation": "Audubon gathered specimens for his paintings by shooting hundreds of birds as he traveled around looking for specimens to paint."
+    }
+  ]
+}

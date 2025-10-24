@@ -1,0 +1,63 @@
+{
+  "slug": "78fb1145",
+  "video_id": "da4fProkiM8",
+  "movie_title": "Bad bosses make people quit: BBC News Review",
+  "movie_url": "https://youtu.be/da4fProkiM8",
+  "published_at": "2023-11-22T14:45:02Z",
+  "duration": "7:00",
+  "tags": [],
+  "introduction": "Bad bosses make people quit. Almost one third of British workers in a recent study said they’d left",
+  "lead_intro": "Did you know that bad bosses can make employees quit? Learn more about this topic in this BBC Learning English video!",
+  "quiz": [
+    {
+      "question": "According to the video, what percentage of British workers left a job because of bad management?",
+      "choices": [
+        "nearly a fifth",
+        "a third",
+        "less than a tenth"
+      ],
+      "answer": "a third",
+      "explanation": "The video mentions that almost a third of British workers say they've left a job because of their manager."
+    },
+    {
+      "question": "What is the connection between bad managers and people leaving their jobs, as explained in the video?",
+      "choices": [
+        "promotes them to stay",
+        "causes them to apply for other jobs",
+        "encourages them to take more vacations"
+      ],
+      "answer": "causes them to apply for other jobs",
+      "explanation": "The video explains that having a manager who's not very good might cause employees to leave their job."
+    },
+    {
+      "question": "What does 'formal' mean in the context of the video?",
+      "choices": [
+        "casual and relaxed",
+        "following rules and guidelines",
+        "informal and unstructured"
+      ],
+      "answer": "following rules and guidelines",
+      "explanation": "In the video, 'formal' refers to things like formal training, where rules need to be followed."
+    },
+    {
+      "question": "What does 'attrition' mean in a business context?",
+      "choices": [
+        "rapid growth",
+        "gradually getting stronger",
+        "gradually getting weaker"
+      ],
+      "answer": "gradually getting weaker",
+      "explanation": "In the video, 'attrition' in a business context means that companies get smaller as people leave and are not replaced."
+    },
+    {
+      "question": "What is an example of a 'war of attrition', as mentioned in the video?",
+      "choices": [
+        "peaceful negotiations",
+        "constant disagreements",
+        "quick resolutions"
+      ],
+      "answer": "constant disagreements",
+      "explanation": "The video explains that a 'war of attrition' is a long conflict where each side is continually causing problems for the other."
+    }
+  ]
+}

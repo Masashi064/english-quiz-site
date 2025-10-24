@@ -1,0 +1,87 @@
+{
+  "slug": "e0cfcea1",
+  "video_id": "0p5Eb4OSZCs",
+  "movie_title": "Every Trick a Pro GeoGuessr Player Uses to Win (ft. RAINBOLT) | WIRED",
+  "movie_url": "https://youtu.be/0p5Eb4OSZCs",
+  "published_at": "2022-08-31T16:00:15Z",
+  "duration": "7:02",
+  "tags": [
+    "competitive google maps",
+    "currents",
+    "every trick geoguessr",
+    "game on google maps",
+    "geoguess",
+    "geoguessr",
+    "geoguessr hints",
+    "geoguessr pro",
+    "geoguessr rainbolt",
+    "geoguessr techniques",
+    "geoguessr tips",
+    "geoguessr tricks",
+    "geoguessr tutorial",
+    "google maps",
+    "google maps competitive",
+    "google maps game",
+    "guessing",
+    "pro geoguessr",
+    "rain bolt",
+    "rainbolt",
+    "rainbolt geoguessr",
+    "trevor rainbolt",
+    "wired"
+  ],
+  "introduction": "If you haven't heard of it, GeoGuessr is basically competitive Google Maps. Participants try to gues",
+  "lead_intro": "Welcome to the world of GeoGuessr! Dive into the exciting realm of competitive Google Maps with Trevor Rainbolt as he shares tips and tricks for guessing countries based on Google Map screenshots.",
+  "quiz": [
+    {
+      "question": "What is one of the key factors Trevor considers when making a guess in GeoGuessr?",
+      "choices": [
+        "road quality",
+        "building architecture",
+        "cloud formations"
+      ],
+      "answer": "road quality",
+      "explanation": "Trevor considers factors like road quality, vegetation, road materials, and Google coverage year to make a calculated guess."
+    },
+    {
+      "question": "Why are telephone poles and bollards important in GeoGuessr?",
+      "choices": [
+        "They indicate the time of day",
+        "They show the nearest gas station",
+        "They help narrow down the country guess"
+      ],
+      "answer": "They help narrow down the country guess",
+      "explanation": "Telephone poles and bollards in different countries have distinct characteristics that help players narrow down their country guesses."
+    },
+    {
+      "question": "How can license plates be helpful in GeoGuessr?",
+      "choices": [
+        "They reveal the driver's name",
+        "They indicate the car's speed",
+        "They provide clues about the country"
+      ],
+      "answer": "They provide clues about the country",
+      "explanation": "Distinctive features of blurred license plates like color and length can hint at the country, aiding in the guessing process."
+    },
+    {
+      "question": "What unique characteristic in Japan helps identify a specific region?",
+      "choices": [
+        "License plate color",
+        "Road quality",
+        "Hokkaido arrow sign"
+      ],
+      "answer": "Hokkaido arrow sign",
+      "explanation": "The Hokkaido arrow sign, pointing at the road line, is a unique characteristic mainly found in heavily snowed regions of Japan, aiding in pinpointing the location."
+    },
+    {
+      "question": "What is an essential step in the pinpointing process in GeoGuessr?",
+      "choices": [
+        "Looking at cloud formations",
+        "Checking the soil color",
+        "Examining road direction and signage"
+      ],
+      "answer": "Examining road direction and signage",
+      "explanation": "When pinpointing the location, examining road direction, signage, and using town or highway names are crucial steps to accurately pinpoint the location on the map."
+    }
+  ]
+}

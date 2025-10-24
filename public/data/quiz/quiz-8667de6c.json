@@ -1,0 +1,63 @@
+{
+  "slug": "8667de6c",
+  "video_id": "6DNa48Hei9c",
+  "movie_title": "New UK PM is Liz Truss: BBC News Review",
+  "movie_url": "https://youtu.be/6DNa48Hei9c",
+  "published_at": "2022-09-07T15:49:36Z",
+  "duration": "7:00",
+  "tags": [],
+  "introduction": "Improve your English listening and vocabulary with the BBC. Liz Truss has taken over from Boris John",
+  "lead_intro": "Get ready to test your understanding of the recent UK political news with this quiz based on BBC Learning English's News Review!",
+  "quiz": [
+    {
+      "question": "What does the word 'succeed' mean in the context of the headline?",
+      "choices": [
+        "take over",
+        "achieve",
+        "fail"
+      ],
+      "answer": "take over",
+      "explanation": "'Succeed' in this context means to take over an official position, as explained in the video."
+    },
+    {
+      "question": "In what sense is the word 'bagged' used in the news headline?",
+      "choices": [
+        "winning or getting something",
+        "carrying a bag",
+        "shopping for bags"
+      ],
+      "answer": "winning or getting something",
+      "explanation": "In the headline, 'bagged' means that Liz Truss has won or got the job of being the British prime minister."
+    },
+    {
+      "question": "What does 'storm clouds gathering' metaphorically indicate in the headline?",
+      "choices": [
+        "upcoming rain",
+        "positive outcome",
+        "something bad is going to happen"
+      ],
+      "answer": "something bad is going to happen",
+      "explanation": "The metaphor 'storm clouds gathering' implies that something bad is anticipated to happen, signaling difficult times ahead."
+    },
+    {
+      "question": "Which term describes Liz Truss as a strong supporter of Boris Johnson?",
+      "choices": [
+        "loyalist",
+        "radical",
+        "pessimist"
+      ],
+      "answer": "loyalist",
+      "explanation": "In the news headline, Liz Truss is referred to as a 'loyalist,' meaning she was a strong supporter of Boris Johnson."
+    },
+    {
+      "question": "What process is mentioned in relation to the British Royal Family's rules of 'succession'?",
+      "choices": [
+        "next in line to the throne",
+        "changing jobs",
+        "relocation"
+      ],
+      "answer": "next in line to the throne",
+      "explanation": "The term 'succession' refers to the process of the next in line to the throne taking over, as exemplified by Prince Charles succeeding the Queen in the British Royal Family."
+    }
+  ]
+}
