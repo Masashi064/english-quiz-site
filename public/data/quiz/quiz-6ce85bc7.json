@@ -1,0 +1,63 @@
+{
+  "slug": "6ce85bc7",
+  "video_id": "aOwmt39L2IQ",
+  "movie_title": "Alcohol is AMAZING",
+  "movie_url": "https://youtu.be/aOwmt39L2IQ",
+  "published_at": "2025-08-12T14:00:08Z",
+  "duration": "15:01",
+  "tags": [],
+  "introduction": "Discover Odoo 👉 https://www.odoo.com/r/GpxF\nThe first app is free for life.Thanks to Odoo for sponso",
+  "lead_intro": "Alcohol, a widely accepted social lubricant, has detrimental effects on health and society. How much do you know about the impact of alcohol consumption?",
+  "quiz": [
+    {
+      "question": "How many people die from alcohol-related accidents every year?",
+      "choices": [
+        "500,000",
+        "300,000",
+        "100,000"
+      ],
+      "answer": "500,000",
+      "explanation": "Every year, alcohol-fueled accidents kill 500,000 people, with 300,000 of them in car accidents."
+    },
+    {
+      "question": "What is the estimated number of people worldwide who are classified as alcoholics?",
+      "choices": [
+        "200 million",
+        "400 million",
+        "600 million"
+      ],
+      "answer": "400 million",
+      "explanation": "An estimated 400 million people, 1 in 14 adults, are considered alcoholics."
+    },
+    {
+      "question": "How many types of cancer are caused by alcohol consumption according to the video?",
+      "choices": [
+        "5",
+        "8",
+        "10"
+      ],
+      "answer": "8",
+      "explanation": "Alcohol causes 8 types of cancer, ranging from mouth to bowel, and includes breast cancer in women."
+    },
+    {
+      "question": "What chemical is produced in the body when alcohol is broken down, causing additional harm?",
+      "choices": [
+        "Acetaminophen",
+        "Acetaldehyde",
+        "Acetylsalicylic acid"
+      ],
+      "answer": "Acetaldehyde",
+      "explanation": "Alcohol, when broken down in the body, transforms into acetaldehyde, a chemical more toxic than alcohol itself."
+    },
+    {
+      "question": "How many people worldwide die each year due to liver damage caused by alcohol?",
+      "choices": [
+        "400,000",
+        "500,000",
+        "600,000"
+      ],
+      "answer": "600,000",
+      "explanation": "Every year, 600,000 people die due to liver damage caused by alcohol consumption."
+    }
+  ]
+}

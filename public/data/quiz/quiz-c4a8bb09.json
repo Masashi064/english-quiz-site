@@ -1,0 +1,63 @@
+{
+  "slug": "c4a8bb09",
+  "video_id": "yiw6_JakZFc",
+  "movie_title": "Can YOU Fix Climate Change?",
+  "movie_url": "https://youtu.be/yiw6_JakZFc",
+  "published_at": "2021-09-22T13:59:24Z",
+  "duration": "15:50",
+  "tags": [],
+  "introduction": "You want to learn more about science? Check out our sciency products on the kurzgesagt shop – all de",
+  "lead_intro": "Rapid climate change is a complex issue that requires systemic solutions. Let's dive into the key challenges and potential strategies for addressing this pressing global issue.",
+  "quiz": [
+    {
+      "question": "What is a major factor contributing to warmer winters and harsher summers?",
+      "choices": [
+        "Greenhouse gases",
+        "Pollution",
+        "Deforestation"
+      ],
+      "answer": "Greenhouse gases",
+      "explanation": "Greenhouse gases trap energy from the Sun, leading to warmer winters and harsher summers."
+    },
+    {
+      "question": "Which industry is responsible for releasing 8% of CO2 emissions?",
+      "choices": [
+        "Automobile",
+        "Concrete manufacturing",
+        "Agriculture"
+      ],
+      "answer": "Concrete manufacturing",
+      "explanation": "The concrete manufacturing industry is a significant contributor to CO2 emissions, releasing about 8% of the total."
+    },
+    {
+      "question": "What percentage of food emissions come from animal-based foods?",
+      "choices": [
+        "18%",
+        "37%",
+        "57%"
+      ],
+      "answer": "57%",
+      "explanation": "57% of food emissions come from animal-based foods, even though they make up only 18% of the world's calories."
+    },
+    {
+      "question": "What is a technology that can draw carbon dioxide from the air?",
+      "choices": [
+        "Carbon capture",
+        "Wind power",
+        "Solar energy"
+      ],
+      "answer": "Carbon capture",
+      "explanation": "Direct Air Capture of CO2 is a technology that draws carbon dioxide from the air, offering a potential solution to reduce emissions."
+    },
+    {
+      "question": "What is emphasized as a key action individuals can take to address climate change?",
+      "choices": [
+        "Reducing meat consumption",
+        "Increasing air travel",
+        "Using plastic straws"
+      ],
+      "answer": "Reducing meat consumption",
+      "explanation": "Reducing meat consumption is highlighted as a significant individual action that can contribute to mitigating climate change."
+    }
+  ]
+}

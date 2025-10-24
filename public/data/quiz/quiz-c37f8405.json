@@ -1,0 +1,99 @@
+{
+  "slug": "c37f8405",
+  "video_id": "jAhjPd4uNFY",
+  "movie_title": "Genetic Engineering Will Change Everything Forever – CRISPR",
+  "movie_url": "https://youtu.be/jAhjPd4uNFY",
+  "published_at": "2016-08-10T12:01:38Z",
+  "duration": "16:04",
+  "tags": [
+    "Crispr",
+    "genetic engineering",
+    "designer baby",
+    "dna",
+    "cas9",
+    "crispr explained",
+    "aging",
+    "applications",
+    "bacteria",
+    "gene",
+    "dna editing",
+    "genome",
+    "hiv",
+    "gene drive",
+    "crispr human",
+    "mechanism",
+    "system",
+    "revolution",
+    "evolution",
+    "crops",
+    "china",
+    "life",
+    "immortality",
+    "2016",
+    "2015",
+    "funny",
+    "designer babies",
+    "future",
+    "debate",
+    "futurism",
+    "animation",
+    "Crispr Cas9 system",
+    "in a nutshell",
+    "kurzgesagt",
+    "sapiens"
+  ],
+  "introduction": "Designer babies, the end of diseases, genetically modified humans that never age. Outrageous things",
+  "lead_intro": "Genetic engineering has the potential to revolutionize humanity, offering solutions to diseases and aging. Let's dive into the world of genetic editing and the groundbreaking technology of CRISPR.",
+  "quiz": [
+    {
+      "question": "What revolutionary technology has significantly reduced the cost and time required for gene editing experiments?",
+      "choices": [
+        "CRISPR",
+        "radiation",
+        "DNA snippets"
+      ],
+      "answer": "CRISPR",
+      "explanation": "CRISPR has reduced the costs of gene editing by 99% and allows experiments to be conducted in a matter of weeks."
+    },
+    {
+      "question": "Which molecule serves as the code of life, guiding the growth, development, and reproduction of living organisms?",
+      "choices": [
+        "RNA",
+        "DNA",
+        "Protein"
+      ],
+      "answer": "DNA",
+      "explanation": "DNA, or deoxyribonucleic acid, is the molecule that carries genetic instructions in living organisms."
+    },
+    {
+      "question": "In the 1990s, what was the first genetically modified food product to be sold commercially?",
+      "choices": [
+        "Flavr Savr tomato",
+        "Glow-in-the-dark zebrafish",
+        "Fast-growing salmon"
+      ],
+      "answer": "Flavr Savr tomato",
+      "explanation": "The Flavr Savr tomato was the first genetically modified food product to be sold in 1994, providing a longer shelf life."
+    },
+    {
+      "question": "How does the CRISPR system protect bacteria from viral attacks?",
+      "choices": [
+        "By creating a shield",
+        "By inserting the virus DNA into the bacterium's genetic code",
+        "By cutting out the virus DNA"
+      ],
+      "answer": "By cutting out the virus DNA",
+      "explanation": "The CRISPR system in bacteria cuts out the viral DNA when it finds a perfect match, rendering the virus useless and protecting the bacterium."
+    },
+    {
+      "question": "What potential medical application of CRISPR was approved for human trials in early 2016?",
+      "choices": [
+        "Cancer treatment",
+        "HIV cure",
+        "Aging therapy"
+      ],
+      "answer": "Cancer treatment",
+      "explanation": "The first clinical trial for a CRISPR cancer treatment on human patients was approved in early 2016 in the US, showing the promising medical applications of CRISPR."
+    }
+  ]
+}

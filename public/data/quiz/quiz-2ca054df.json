@@ -1,0 +1,63 @@
+{
+  "slug": "2ca054df",
+  "video_id": "LxgMdjyw8uw",
+  "movie_title": "We WILL Fix Climate Change!",
+  "movie_url": "https://youtu.be/LxgMdjyw8uw",
+  "published_at": "2022-04-05T13:59:18Z",
+  "duration": "14:11",
+  "tags": [],
+  "introduction": "Getting something from the kurzgesagt shop is the best way to support us and to keep our videos free",
+  "lead_intro": "Feeling overwhelmed by the challenges of climate change is common, but there is hope and progress towards a sustainable future. Let's test your knowledge on climate change facts and solutions!",
+  "quiz": [
+    {
+      "question": "What is the current global average temperature increase compared to preindustrial times as of 2022?",
+      "choices": [
+        "1.2 degrees celsius",
+        "2.5 degrees celsius",
+        "3.8 degrees celsius"
+      ],
+      "answer": "1.2 degrees celsius",
+      "explanation": "The global average temperature has risen by 1.2 degrees celsius compared to preindustrial times as of 2022."
+    },
+    {
+      "question": "What is the most likely outcome if current climate policies stagnate according to the video?",
+      "choices": [
+        "Warming to 1 degree by 2100",
+        "Warming to 3 degrees by 2100",
+        "Warming to 5 degrees by 2100"
+      ],
+      "answer": "Warming to 3 degrees by 2100",
+      "explanation": "If current climate policies stagnate, the video suggests that we are likely to end up with a warming of 3 degrees celsius by 2100."
+    },
+    {
+      "question": "What significant change has happened with coal consumption in rich countries like the UK and US since 2015?",
+      "choices": [
+        "It has increased",
+        "It has stayed the same",
+        "It has plummeted"
+      ],
+      "answer": "It has plummeted",
+      "explanation": "Coal consumption in rich countries like the UK and US has plummeted since 2015, indicating a shift away from coal as an energy source."
+    },
+    {
+      "question": "What has been the trend in the cost of renewable electricity compared to coal over the past decade?",
+      "choices": [
+        "Renewable electricity has become more expensive than coal",
+        "Renewable electricity has remained the same cost as coal",
+        "Renewable electricity has become cheaper than coal"
+      ],
+      "answer": "Renewable electricity has become cheaper than coal",
+      "explanation": "Over the past decade, renewable electricity has become cheaper than coal, with wind energy becoming three times cheaper and solar electricity ten times cheaper."
+    },
+    {
+      "question": "What is the key message regarding the impact of human actions on climate change?",
+      "choices": [
+        "Humanity is doomed and irreversible damage is inevitable",
+        "Humanity is not doomed and can make positive changes",
+        "Humanity's actions have no impact on climate change"
+      ],
+      "answer": "Humanity is not doomed and can make positive changes",
+      "explanation": "Despite the seriousness of climate change, the video emphasizes that humanity is not doomed and can make positive changes to mitigate the effects of climate change."
+    }
+  ]
+}
