@@ -1,0 +1,99 @@
+{
+  "slug": "9491486a",
+  "video_id": "WIdWjqZsGgg",
+  "movie_title": "Whatever happened to acid rain? - Joseph Goffman",
+  "movie_url": "https://youtu.be/WIdWjqZsGgg",
+  "published_at": "2021-04-13T15:00:50Z",
+  "duration": "5:40",
+  "tags": [
+    "acid rain",
+    "carbon dioxide",
+    "cap and trade",
+    "rain",
+    "nitrogen",
+    "sulfur dioxide",
+    "ph scale",
+    "power plants",
+    "fossil fuels",
+    "acid snow",
+    "acid fog",
+    "air pollution",
+    "gas emissions",
+    "pollution regulations",
+    "clean air",
+    "coal burning",
+    "water",
+    "natural gas",
+    "oxide",
+    "environmental threats",
+    "climate change",
+    "sustainability",
+    "air quality",
+    "hubbard brook experimental forest",
+    "ecosystems",
+    "education",
+    "animation",
+    "science",
+    "Joseph Goffman",
+    "nick hilditch",
+    "TED",
+    "TED-Ed",
+    "TED Ed",
+    "Teded",
+    "Ted Education"
+  ],
+  "introduction": "Discover what causes acid rain, and how scientists were able to largely eliminate this major environ",
+  "lead_intro": "Learn about the devastating impact of acid rain and the successful environmental policies that helped combat it.",
+  "quiz": [
+    {
+      "question": "What gases interact with water to produce powerful acids responsible for acid rain?",
+      "choices": [
+        "carbon dioxide",
+        "nitrogen oxides",
+        "sulfur dioxide"
+      ],
+      "answer": "sulfur dioxide",
+      "explanation": "Sulfur dioxide and nitrogen oxides interact with water to produce powerful acids that cause acid rain."
+    },
+    {
+      "question": "How did the government regulate sulfur dioxide emissions from power plants?",
+      "choices": [
+        "Setting a total emission limit",
+        "Not regulating emissions",
+        "Banning power plants"
+      ],
+      "answer": "Setting a total emission limit",
+      "explanation": "The government set a limit on the total amount of sulfur dioxide the electric power sector could emit each year."
+    },
+    {
+      "question": "What economic system helped regulate pollution by allowing power plants to trade emissions allowances?",
+      "choices": [
+        "Free market system",
+        "Cap and trade system",
+        "Socialist system"
+      ],
+      "answer": "Cap and trade system",
+      "explanation": "The cap and trade system allowed power plants to trade emissions allowances, providing economic flexibility while limiting pollution."
+    },
+    {
+      "question": "Which countries have largely eliminated acid rain through successful environmental policies?",
+      "choices": [
+        "United States and Canada",
+        "Russia and China",
+        "India and Europe"
+      ],
+      "answer": "United States and Canada",
+      "explanation": "The United States and Canada largely eliminated acid rain through science-driven policies, while other countries still struggle with the issue."
+    },
+    {
+      "question": "What technology was used to reduce oxides of nitrogen emissions in power plants?",
+      "choices": [
+        "Low-sulfur coal",
+        "Desulfurizing scrubbers",
+        "Natural gas"
+      ],
+      "answer": "Desulfurizing scrubbers",
+      "explanation": "Power plants reduced oxides of nitrogen emissions by adding desulfurizing scrubbers to their smokestacks."
+    }
+  ]
+}

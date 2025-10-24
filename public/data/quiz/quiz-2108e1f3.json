@@ -1,0 +1,97 @@
+{
+  "slug": "2108e1f3",
+  "video_id": "OpohbXB_JZU",
+  "movie_title": "The Boltzmann brain paradox - Fabio Pacucci",
+  "movie_url": "https://youtu.be/OpohbXB_JZU",
+  "published_at": "2022-08-23T15:01:56Z",
+  "duration": "5:40",
+  "tags": [
+    "boltzmann brains",
+    "boltzmann brain paradox",
+    "boltzmann brain",
+    "thermodynamics",
+    "ludwig boltzmann",
+    "big bang",
+    "universe",
+    "birth of the universe",
+    "physics",
+    "energy",
+    "entropy",
+    "disordered state",
+    "law of thermodynamics",
+    "order vs disorder",
+    "statistical reasoning",
+    "cosmos",
+    "particles",
+    "multiverse",
+    "human brains",
+    "probability",
+    "quantum state",
+    "science",
+    "thought experiment",
+    "education",
+    "animation",
+    "Fabio Pacucci",
+    "Skirmanta Jakaitė",
+    "Art Shot",
+    "TED",
+    "TED-Ed",
+    "TED Ed",
+    "Teded",
+    "Ted Education"
+  ],
+  "introduction": "Download a free audiobook version of “The 7 1/2 Deaths of Evelyn Hardcastle“ and support TED-Ed's no",
+  "lead_intro": "Have you ever pondered the idea that your entire existence could be just a fleeting illusion? Dive into the intriguing Boltzmann brain paradox and test your understanding with this quiz!",
+  "quiz": [
+    {
+      "question": "What is the main claim to fame of Ludwig Boltzmann, the namesake of the Boltzmann brain paradox?",
+      "choices": [
+        "Revolutionizing thermodynamics",
+        "Discovering gravity",
+        "Inventing quantum mechanics"
+      ],
+      "answer": "Revolutionizing thermodynamics",
+      "explanation": "Ludwig Boltzmann is known for revolutionizing thermodynamics, particularly in his interpretation of entropy."
+    },
+    {
+      "question": "According to the second law of thermodynamics, closed systems tend towards what?",
+      "choices": [
+        "Order",
+        "Chaos",
+        "Stagnation"
+      ],
+      "answer": "Chaos",
+      "explanation": "The second law of thermodynamics states that closed systems tend towards disorder or chaos."
+    },
+    {
+      "question": "What event is described in the hypothetical scenario of randomly forming a brain filled with false memories in an infinitely old universe?",
+      "choices": [
+        "Scrambled eggs turning raw",
+        "Formation of a replica of the Thinker made of pasta",
+        "Creation of a new universe"
+      ],
+      "answer": "Formation of a brain filled with false memories",
+      "explanation": "In the hypothetical scenario, particles randomly come together to form a brain with false memories, perceiving a video before decaying."
+    },
+    {
+      "question": "What is considered more likely to form by random fluctuations in an infinitely old universe?",
+      "choices": [
+        "An entire new universe",
+        "A brain with false memories",
+        "A perfect replica of the Thinker made of pasta"
+      ],
+      "answer": "A brain with false memories",
+      "explanation": "Despite its complexity, a brain with false memories is more likely to form by random fluctuations in an infinitely old universe."
+    },
+    {
+      "question": "What is the significance of the Boltzmann brain paradox to cosmological models?",
+      "choices": [
+        "It sets a standard for model accuracy",
+        "It disproves the Big Bang theory",
+        "It predicts the end of the universe"
+      ],
+      "answer": "It sets a standard for model accuracy",
+      "explanation": "The Boltzmann brain paradox serves as a benchmark for cosmological models; if the current state of the universe is exceedingly unlikely compared to such numbers, there might be flaws in the model."
+    }
+  ]
+}

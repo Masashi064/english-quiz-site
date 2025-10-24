@@ -1,0 +1,98 @@
+{
+  "slug": "13c98387",
+  "video_id": "_q8geBY3vPA",
+  "movie_title": "Food made in space - 6 Minute English",
+  "movie_url": "https://youtu.be/_q8geBY3vPA",
+  "published_at": "2020-07-23T13:31:17Z",
+  "duration": "6:32",
+  "tags": [
+    "learn English",
+    "English vocabulary",
+    "speak English",
+    "bbc english",
+    "English teacher",
+    "英語",
+    "영어",
+    "อังกฤษ",
+    "Anh",
+    "English tutorial",
+    "Ingilizce ders",
+    "English grammar",
+    "IELTS",
+    "British English",
+    "English pronunciation",
+    "English lesson",
+    "idiom",
+    "English expressions",
+    "BBC Learning English",
+    "tefl",
+    "slang",
+    "BBC",
+    "Online English",
+    "how to speak English",
+    "English speaking",
+    "ELT",
+    "space",
+    "food",
+    "agriculture",
+    "iss",
+    "international space station",
+    "microgravity",
+    "6 minute english",
+    "photon"
+  ],
+  "introduction": "You are used to having your vegetables coming from agricultural land, but how about space? Listen to",
+  "lead_intro": "Join us in exploring how plants are grown in space using LED lights and how they adapt to microgravity. Let's test your knowledge with a quiz!",
+  "quiz": [
+    {
+      "question": "What was the first food grown in space?",
+      "choices": [
+        "potatoes",
+        "lettuce",
+        "tomatoes"
+      ],
+      "answer": "lettuce",
+      "explanation": "The first food grown in space was lettuce, which was cultivated over fifteen months on the ISS and eaten in the first ever space salad."
+    },
+    {
+      "question": "How do plants adapt to the lack of natural light in space?",
+      "choices": [
+        "absorbing every photon",
+        "reflecting green light",
+        "emitting LED lights"
+      ],
+      "answer": "absorbing every photon",
+      "explanation": "Plants in space adapt to the lack of natural light by absorbing every photon, making them appear black and using up all the light energy for photosynthesis."
+    },
+    {
+      "question": "What is microgravity and how does it affect plant growth?",
+      "choices": [
+        "strong pull of gravity",
+        "weaker gravitational pull",
+        "reduced light intensity"
+      ],
+      "answer": "weaker gravitational pull",
+      "explanation": "Microgravity is the weaker gravitational pull in space that makes things float and seem weightless, affecting how plants position themselves and grow."
+    },
+    {
+      "question": "What is plasticity in plants?",
+      "choices": [
+        "manipulating genes to adapt",
+        "changing colors in space",
+        "creating artificial light recipes"
+      ],
+      "answer": "manipulating genes to adapt",
+      "explanation": "Plasticity in plants refers to their ability to adapt to different environments by manipulating their genes, changing their biological structure to cope with changes."
+    },
+    {
+      "question": "How do LED lights help in growing plants in space?",
+      "choices": [
+        "emit natural sunlight",
+        "control specific wavelengths",
+        "increase gravity pull"
+      ],
+      "answer": "control specific wavelengths",
+      "explanation": "LED lights in space allow scientists to control specific wavelengths of light, providing tailored light diets for plants to grow efficiently without natural sunlight."
+    }
+  ]
+}
