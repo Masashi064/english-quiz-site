@@ -1,0 +1,63 @@
+{
+  "slug": "13ad42e6",
+  "video_id": "VMm-U2pHrXE",
+  "movie_title": "We Found a Loophole to Survive the End of the Universe",
+  "movie_url": "https://youtu.be/VMm-U2pHrXE",
+  "published_at": "2025-09-30T14:00:03Z",
+  "duration": "12:42",
+  "tags": [],
+  "introduction": "Go to https://ground.news/nutshell to get 40% off unlimited access to Ground News so you can compare",
+  "lead_intro": "Have you ever wondered if it's possible to survive the heat death of the universe? Dive into the concept of outlasting the stars and living forever in an empty cosmos.",
+  "quiz": [
+    {
+      "question": "According to Dyson's Cold Thoughts, at what temperature does the brain need 20 joules of energy to think a simple thought that takes one second?",
+      "choices": [
+        "310 degrees above absolute zero",
+        "155 kelvin",
+        "220 degrees above absolute zero"
+      ],
+      "answer": "310 degrees above absolute zero",
+      "explanation": "Dyson's Cold Thoughts suggest that at 310 degrees above absolute zero, the brain needs 20 joules of energy to think a simple thought that takes one second."
+    },
+    {
+      "question": "What is the primary method the Noxans use to cool down their brains?",
+      "choices": [
+        "Switching off their brains and hibernating",
+        "Using a cooling chamber",
+        "Increasing brain activity"
+      ],
+      "answer": "Switching off their brains and hibernating",
+      "explanation": "The Noxans cool down their brains by switching them off and entering a state of hibernation, allowing their 'bodies' to radiate heat away to cool down."
+    },
+    {
+      "question": "How long could the Noxans potentially live according to the video?",
+      "choices": [
+        "2 trillion, trillion, trillion years",
+        "4,000 trillion trillion years",
+        "1 quintillion years"
+      ],
+      "answer": "4,000 trillion trillion years",
+      "explanation": "The Noxans could potentially live for 4,000 trillion trillion years by cooling down their brains, experiencing cosmic days and nights, and using less energy with each cycle."
+    },
+    {
+      "question": "What could eventually make the universe hit a temperature limit, affecting the Noxans' ability to continue cooling down?",
+      "choices": [
+        "Dark energy",
+        "Quantum noise",
+        "Proton decay"
+      ],
+      "answer": "Dark energy",
+      "explanation": "Dark energy might eventually make the universe hit a temperature limit, potentially affecting the Noxans' ability to keep cooling down and surviving indefinitely."
+    },
+    {
+      "question": "What is the core idea behind Dyson's Cold Thoughts and its implications for the Noxans?",
+      "choices": [
+        "The colder the brain's temperature, the less energy needed for thinking",
+        "The faster the brain's speed, the less efficient its energy use",
+        "The warmer the brain's temperature, the more energy efficient it becomes"
+      ],
+      "answer": "The colder the brain's temperature, the less energy needed for thinking",
+      "explanation": "Dyson's Cold Thoughts propose that the colder the brain's temperature, the less energy is required for thinking, suggesting a potential pathway for the Noxans to survive the heat death of the universe."
+    }
+  ]
+}

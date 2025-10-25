@@ -1,0 +1,63 @@
+{
+  "slug": "2c482f54",
+  "video_id": "2q25bHOnnyo",
+  "movie_title": "Mark Cuban Praises TrumpRx",
+  "movie_url": "https://youtu.be/2q25bHOnnyo",
+  "published_at": "2025-10-22T20:25:49Z",
+  "duration": "2:37",
+  "tags": [],
+  "introduction": "Mark Cuban: \"We'll work with TrumpRx. It's incredible. It's stupendous. It's like the most incredibl",
+  "lead_intro": "Learn about innovative healthcare solutions and the impact on patient affordability in this insightful discussion.",
+  "quiz": [
+    {
+      "question": "What is the name of the new website announced by President Trump to connect patients directly with the best prices?",
+      "choices": [
+        "Trump RX",
+        "Cost Plus Drugs",
+        "PBMs"
+      ],
+      "answer": "Trump RX",
+      "explanation": "President Trump announced Trump RX as a new website to connect patients directly with the best prices."
+    },
+    {
+      "question": "How does bypassing traditional PBMs contribute to real savings at pharmacy counters?",
+      "choices": [
+        "By reducing costs",
+        "By increasing prices",
+        "By adding complexity"
+      ],
+      "answer": "By reducing costs",
+      "explanation": "Bypassing traditional PBMs can deliver real savings at pharmacy counters by reducing costs."
+    },
+    {
+      "question": "What does transparency in drug pricing help achieve according to the video?",
+      "choices": [
+        "Build trust",
+        "Increase uncertainty",
+        "Reduce costs"
+      ],
+      "answer": "Build trust",
+      "explanation": "Transparency in drug pricing helps save patients money by building trust through clear cost breakdowns."
+    },
+    {
+      "question": "What is the typical price difference mentioned in the video between going through PBMs and using direct to consumer programs for medication like Ozimic?",
+      "choices": [
+        "$800",
+        "$1300",
+        "$499"
+      ],
+      "answer": "$800",
+      "explanation": "The typical price difference mentioned is $800, with PBMs charging $1300 and direct to consumer programs like Novo and Lily offering $499 or less."
+    },
+    {
+      "question": "Where does the price difference of $800 typically go, as explained in the video?",
+      "choices": [
+        "Into the pocket of the PBM",
+        "The patient's savings account",
+        "Back to the drug manufacturer"
+      ],
+      "answer": "Into the pocket of the PBM",
+      "explanation": "The price difference of $800 typically goes right into the pocket of the PBM, who then decides how to distribute the funds."
+    }
+  ]
+}
