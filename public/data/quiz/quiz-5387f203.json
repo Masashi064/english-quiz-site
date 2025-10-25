@@ -1,0 +1,63 @@
+{
+  "slug": "5387f203",
+  "video_id": "V7wlYQ2_Q8o",
+  "movie_title": "This Is the Deadliest Virus on Earth",
+  "movie_url": "https://youtu.be/V7wlYQ2_Q8o",
+  "published_at": "2025-09-25T14:00:50Z",
+  "duration": "0:53",
+  "tags": [],
+  "introduction": "This is the deadliest virus on our planet… but, human cells are safe. The deadliest virus on our pla",
+  "lead_intro": "Discover the fascinating world of viruses and their unique abilities in this video.",
+  "quiz": [
+    {
+      "question": "What is the name of the virus that feasts on bacteria?",
+      "choices": [
+        "bacteria phagee",
+        "DNA harvester",
+        "Tight hugger"
+      ],
+      "answer": "bacteria phagee",
+      "explanation": "The video mentions that the deadliest virus on our planet, the bacteria phagee, feasts only on bacteria."
+    },
+    {
+      "question": "How many tails does the fagee in the video have?",
+      "choices": [
+        "4 tails",
+        "6 tails",
+        "8 tails"
+      ],
+      "answer": "6 tails",
+      "explanation": "The video states that the fagee has six tails, allowing it to give much tighter hugs than anyone."
+    },
+    {
+      "question": "What does the virus insert into the victim for replication?",
+      "choices": [
+        "Protein",
+        "DNA",
+        "RNA"
+      ],
+      "answer": "DNA",
+      "explanation": "The virus inserts its DNA into the victim for replication, as mentioned in the video."
+    },
+    {
+      "question": "What is the role of phages in defending against bacteria?",
+      "choices": [
+        "Causing destruction",
+        "Replicating",
+        "Attacking only specific bacteria"
+      ],
+      "answer": "Attacking only specific bacteria",
+      "explanation": "Phages are specialized to only attack specific bacteria, reducing the side effects of treatment, as explained in the video."
+    },
+    {
+      "question": "Why are phages considered a promising tool for the future?",
+      "choices": [
+        "Highly dangerous",
+        "Low effectiveness",
+        "Specialized and effective against multi-resistant bacteria"
+      ],
+      "answer": "Specialized and effective against multi-resistant bacteria",
+      "explanation": "Phages are promising for the future because they are highly specialized and effective against multi-resistant bacteria, especially as antibiotics become less effective."
+    }
+  ]
+}
