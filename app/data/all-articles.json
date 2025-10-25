@@ -9955,6 +9955,25 @@
     "assigned_level": "intermediate"
   },
   {
+    "slug": "39ef8d2a",
+    "video_id": "_zfN9wnPvU0",
+    "channel_name": "Kurzgesagt – In a Nutshell",
+    "movie_title": "AI Slop Is Destroying The Internet",
+    "movie_url": "https://youtu.be/_zfN9wnPvU0",
+    "published_at": "2025-10-07T14:00:17Z",
+    "published_date": "2025-10-25T09:50:04.539779",
+    "duration": "12:14",
+    "introduction": "IT’S HERE ✨ The 10th edition of the Human Era Calendar: https://shop.kgs.link/12026\nJoin us in 12,02",
+    "thumbnail_url": "https://i.ytimg.com/vi/_zfN9wnPvU0/default.jpg",
+    "category": "",
+    "tags": [],
+    "views": "",
+    "likes": "",
+    "subtitle_status": "",
+    "assigned_category": "Technology",
+    "assigned_level": "advanced"
+  },
+  {
     "slug": "3a5b8eb0",
     "video_id": "4_k8CFmmIi8",
     "channel_name": "The School of Life",
@@ -10301,36 +10320,6 @@
     "subtitle_status": "",
     "assigned_category": "History",
     "assigned_level": "advanced"
-  },
-  {
-    "slug": "3c1b0ad6",
-    "video_id": "NwEmdoN1_ag",
-    "channel_name": "Japanalysis",
-    "movie_title": "Japanese Memes for People who Don't Speak Japanese",
-    "movie_url": "https://youtu.be/NwEmdoN1_ag",
-    "published_at": "2022-08-25T17:53:19Z",
-    "published_date": "2025-10-24T23:41:35.095080",
-    "duration": "6:36",
-    "introduction": "Funny Japanese Memes! This time featuring references to Jojo, Nichijou / CITY, Hunter x Hunter, and",
-    "thumbnail_url": "https://i.ytimg.com/vi/NwEmdoN1_ag/default.jpg",
-    "category": "",
-    "tags": [
-      "japanese",
-      "analysis",
-      "japan",
-      "japon",
-      "meme",
-      "explained",
-      "viral",
-      "subbed",
-      "subtitled",
-      "ensub"
-    ],
-    "views": "",
-    "likes": "",
-    "subtitle_status": "",
-    "assigned_category": "Culture",
-    "assigned_level": "intermediate"
   },
   {
     "slug": "3d2dc434",
@@ -39158,6 +39147,25 @@
     "likes": "",
     "subtitle_status": "",
     "assigned_category": "Science",
+    "assigned_level": "intermediate"
+  },
+  {
+    "slug": "e1b69fb9",
+    "video_id": "ey-7h_tuDBE",
+    "channel_name": "C-SPAN",
+    "movie_title": "Sen. Jeff Merkley (D-OR) Concludes Marathon Floor Speech",
+    "movie_url": "https://youtu.be/ey-7h_tuDBE",
+    "published_at": "2025-10-23T00:51:59Z",
+    "published_date": "2025-10-25T09:50:05.693422",
+    "duration": "1:41",
+    "introduction": "Sen. Jeff Merkley (D-OR) concludes his marathon floor speech after 22 hours and 37 minutes. It was t",
+    "thumbnail_url": "https://i.ytimg.com/vi/ey-7h_tuDBE/default.jpg",
+    "category": "",
+    "tags": [],
+    "views": "",
+    "likes": "",
+    "subtitle_status": "",
+    "assigned_category": "News",
     "assigned_level": "intermediate"
   },
   {

@@ -1,0 +1,63 @@
+{
+  "slug": "39ef8d2a",
+  "video_id": "_zfN9wnPvU0",
+  "movie_title": "AI Slop Is Destroying The Internet",
+  "movie_url": "https://youtu.be/_zfN9wnPvU0",
+  "published_at": "2025-10-07T14:00:17Z",
+  "duration": "12:14",
+  "tags": [],
+  "introduction": "IT’S HERE ✨ The 10th edition of the Human Era Calendar: https://shop.kgs.link/12026\nJoin us in 12,02",
+  "lead_intro": "Are you concerned about AI-generated content and its impact on the internet? Dive into the world of AI slop with Kurzgesagt and explore the potential dangers and implications.",
+  "quiz": [
+    {
+      "question": "What is one of the main concerns highlighted in the video regarding the current state of the internet?",
+      "choices": [
+        "Misinformation",
+        "Censorship",
+        "Regulation"
+      ],
+      "answer": "Misinformation",
+      "explanation": "The video discusses how AI-generated content, including misinformation, is saturating the internet and making it harder to distinguish what is true."
+    },
+    {
+      "question": "How does the video describe the impact of AI on internet traffic?",
+      "choices": [
+        "Increased bots for destructive purposes",
+        "Decreased online engagement",
+        "Improved content quality"
+      ],
+      "answer": "Increased bots for destructive purposes",
+      "explanation": "The video mentions that about half of internet traffic consists of bots, with the majority being used for destructive purposes."
+    },
+    {
+      "question": "What is one of the dangers associated with AI-generated content on platforms like YouTube?",
+      "choices": [
+        "Spreading misinformation",
+        "Increasing viewer engagement",
+        "Supporting human creators"
+      ],
+      "answer": "Spreading misinformation",
+      "explanation": "AI-generated content on platforms like YouTube can lead to the spread of misinformation, as highlighted in the video."
+    },
+    {
+      "question": "How does the video describe the process of fact-checking at Kurzgesagt?",
+      "choices": [
+        "Extensive and time-consuming",
+        "Quick and automated",
+        "Occasional and unreliable"
+      ],
+      "answer": "Extensive and time-consuming",
+      "explanation": "The video explains that fact-checking at Kurzgesagt involves around 100 hours per video, confirming information with trustworthy sources and experts."
+    },
+    {
+      "question": "What is one of the concerns raised in the video about the use of AI in generating content?",
+      "choices": [
+        "Increasing misinformation and false narratives",
+        "Enhancing human creativity",
+        "Supporting transparent attribution"
+      ],
+      "answer": "Increasing misinformation and false narratives",
+      "explanation": "The video discusses how AI can lead to the generation of misinformation and false narratives, impacting the reliability of information online."
+    }
+  ]
+}
