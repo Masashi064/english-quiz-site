@@ -1,0 +1,63 @@
+{
+  "slug": "9f66e033",
+  "video_id": "ux-yQTLP_A4",
+  "movie_title": "C-SPAN Cities Tour - Albany: Lily of the Mohawks",
+  "movie_url": "https://youtu.be/ux-yQTLP_A4",
+  "published_at": "2012-12-10T15:23:28Z",
+  "duration": "6:31",
+  "tags": [],
+  "introduction": "Author Jack Casey tells the story of Kateri Tekakwitha, a Mohawk woman born in present-day New York",
+  "lead_intro": "Discover the intriguing story of Lily of the Mohawks, also known as Catherine, and her remarkable journey to sainthood.",
+  "quiz": [
+    {
+      "question": "What was the original name of Lily of the Mohawks before she was baptized?",
+      "choices": [
+        "Techawith",
+        "Catiri",
+        "Claude Shashhatier"
+      ],
+      "answer": "Techawith",
+      "explanation": "Lily of the Mohawks was originally named Techawith before being baptized by the Jesuits."
+    },
+    {
+      "question": "In which year did Lily of the Mohawks pass away?",
+      "choices": [
+        "1680",
+        "1760",
+        "1840"
+      ],
+      "answer": "1680",
+      "explanation": "Lily of the Mohawks passed away in the year 1680 at the age of 24."
+    },
+    {
+      "question": "What miraculous event prompted the pope to canonize Lily of the Mohawks?",
+      "choices": [
+        "Curing of a young Native American boy afflicted with a flesheating bacteria",
+        "Healing a breach birth during childbirth",
+        "Rediscovery of her manuscripts in the 1840s"
+      ],
+      "answer": "Curing of a young Native American boy afflicted with a flesheating bacteria",
+      "explanation": "The miraculous cure of a young Native American boy named Jake Fininkbonner led to the canonization of Lily of the Mohawks."
+    },
+    {
+      "question": "What significant event led to the cessation of miracles attributed to Lily of the Mohawks?",
+      "choices": [
+        "English taking over Canada",
+        "Expulsion of the Jesuits",
+        "Rediscovery of her manuscripts"
+      ],
+      "answer": "English taking over Canada",
+      "explanation": "The miracles attributed to Lily of the Mohawks ceased around 1760 when the English took over Canada from the French."
+    },
+    {
+      "question": "What role did Father Claude Shashhatier play in Lily of the Mohawks' spiritual journey?",
+      "choices": [
+        "He drew out her spirituality and helped heal his own doubts",
+        "He was a priest at St. Francis Xavier mission",
+        "He authored a novel about her life"
+      ],
+      "answer": "He drew out her spirituality and helped heal his own doubts",
+      "explanation": "Father Claude Shashhatier recognized and drew out the spirituality of Lily of the Mohawks, which in turn helped heal his own doubts."
+    }
+  ]
+}

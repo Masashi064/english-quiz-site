@@ -1,0 +1,63 @@
+{
+  "slug": "87026b43",
+  "video_id": "xaEgl_vKiZw",
+  "movie_title": "Hamas and the Gaza Strip",
+  "movie_url": "https://youtu.be/xaEgl_vKiZw",
+  "published_at": "2025-04-11T14:01:35Z",
+  "duration": "PT52S",
+  "tags": [],
+  "introduction": "Video excerpt from the Israeli-Palestinian conflict",
+  "lead_intro": "Learn about the complex situation in Gaza following the 2006 Palestinian elections and the conflict between Hamas and Israel.",
+  "quiz": [
+    {
+      "question": "Who becomes the prime minister of Gaza after the 2006 Palestinian elections?",
+      "choices": [
+        "Ismael Hania",
+        "Benjamin Netanyahu",
+        "Mahmoud Abbas"
+      ],
+      "answer": "Ismael Hania",
+      "explanation": "Ismael Hania becomes the prime minister of Gaza after the 2006 Palestinian elections."
+    },
+    {
+      "question": "Which country imposes a blockade on Gaza after the conflict with Hamas?",
+      "choices": [
+        "Israel",
+        "Jordan",
+        "Lebanon"
+      ],
+      "answer": "Israel",
+      "explanation": "Israel imposes a blockade on Gaza after the conflict with Hamas."
+    },
+    {
+      "question": "Who is considered a terrorist organization by the European Union and the United States?",
+      "choices": [
+        "Hamas",
+        "Fatah",
+        "Hezbollah"
+      ],
+      "answer": "Hamas",
+      "explanation": "Hamas is considered a terrorist organization by the European Union and the United States."
+    },
+    {
+      "question": "What action does the Israeli Army take in retaliation to rockets fired from Gaza?",
+      "choices": [
+        "Bombs the area",
+        "Sends humanitarian aid",
+        "Withdraws troops"
+      ],
+      "answer": "Bombs the area",
+      "explanation": "The Israeli Army bombs the area in retaliation to rockets fired from Gaza."
+    },
+    {
+      "question": "What region does Fatah take control of during the conflict with Hamas?",
+      "choices": [
+        "West Bank",
+        "Golan Heights",
+        "Sinai Peninsula"
+      ],
+      "answer": "West Bank",
+      "explanation": "Fatah takes control of the West Bank during the conflict with Hamas."
+    }
+  ]
+}

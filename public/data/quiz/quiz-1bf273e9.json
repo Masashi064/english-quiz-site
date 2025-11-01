@@ -1,0 +1,63 @@
+{
+  "slug": "1bf273e9",
+  "video_id": "xjUHSv1Vda0",
+  "movie_title": "How the Potato Conquered the World 🥔",
+  "movie_url": "https://youtu.be/xjUHSv1Vda0",
+  "published_at": "2025-04-18T15:01:39Z",
+  "duration": "PT8M45S",
+  "tags": [],
+  "introduction": "In this video, let's explore the complete history of the potato — from its origins in the Andes, to",
+  "lead_intro": "The history of the potato is a fascinating journey from South America to becoming a staple food in Europe. Let's dive into a quiz to test your knowledge on the topic!",
+  "quiz": [
+    {
+      "question": "What is the name of the potato in Quechua?",
+      "choices": [
+        "papa",
+        "patata",
+        "batata"
+      ],
+      "answer": "papa",
+      "explanation": "The potato is called 'papa' in Quechua."
+    },
+    {
+      "question": "Who is credited with the introduction of potatoes to Ireland?",
+      "choices": [
+        "Francis Drake",
+        "Basque fishermen",
+        "Carolus Clusius"
+      ],
+      "answer": "Francis Drake",
+      "explanation": "Navigator Francis Drake is believed to have introduced potatoes to Ireland."
+    },
+    {
+      "question": "Which European country was one of the first to encourage potato cultivation?",
+      "choices": [
+        "Prussia",
+        "France",
+        "Spain"
+      ],
+      "answer": "Prussia",
+      "explanation": "King Frederick II of Prussia, later known as 'the Potato King,' encouraged potato cultivation on his lands."
+    },
+    {
+      "question": "Who is associated with the popularization of French fries in Paris?",
+      "choices": [
+        "Antoine Parmentier",
+        "King Louis XVI",
+        "Carolus Clusius"
+      ],
+      "answer": "Antoine Parmentier",
+      "explanation": "Antoine Parmentier is linked to the introduction of French fries in Paris."
+    },
+    {
+      "question": "Which country became the world's biggest potato producer in 1993?",
+      "choices": [
+        "China",
+        "India",
+        "Ukraine"
+      ],
+      "answer": "China",
+      "explanation": "In 1993, China became the world's largest potato producer."
+    }
+  ]
+}

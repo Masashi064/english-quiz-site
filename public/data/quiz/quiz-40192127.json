@@ -1,0 +1,63 @@
+{
+  "slug": "40192127",
+  "video_id": "GT6D1OHJ2Gs",
+  "movie_title": "The German reunification",
+  "movie_url": "https://youtu.be/GT6D1OHJ2Gs",
+  "published_at": "2025-03-28T15:00:23Z",
+  "duration": "PT43S",
+  "tags": [],
+  "introduction": "Video excerpt from the NATO video : \nhttps://youtu.be/8NlhfoFK9PI",
+  "lead_intro": "Learn about the key events surrounding the reunification of Germany after the fall of the Berlin Wall.",
+  "quiz": [
+    {
+      "question": "Who was the head of the USSR during the time of German reunification talks?",
+      "choices": [
+        "Mikhail Gorbachev",
+        "Vladimir Putin",
+        "Joseph Stalin"
+      ],
+      "answer": "Mikhail Gorbachev",
+      "explanation": "Mikhail Gorbachev, as the head of the USSR, was involved in negotiations for German reunification."
+    },
+    {
+      "question": "What did Gorbachev want for Germany in terms of its neutrality?",
+      "choices": [
+        "To be neutral",
+        "To join NATO",
+        "To join the Warsaw Pact"
+      ],
+      "answer": "To be neutral",
+      "explanation": "Gorbachev wanted Germany to be neutral while the West wanted it to join NATO."
+    },
+    {
+      "question": "What promise did the West make regarding NATO during negotiations?",
+      "choices": [
+        "Not to extend NATO Eastward",
+        "To expand NATO Eastward",
+        "To dissolve NATO"
+      ],
+      "answer": "Not to extend NATO Eastward",
+      "explanation": "During negotiations, the West verbally promised not to extend NATO one-inch Eastward in a reunified Germany."
+    },
+    {
+      "question": "Was there an agreement or treaty signed regarding NATO's expansion Eastward?",
+      "choices": [
+        "No",
+        "Yes",
+        "Partially"
+      ],
+      "answer": "No",
+      "explanation": "No agreement or treaty was signed about extending NATO further Eastward during the negotiations."
+    },
+    {
+      "question": "What did Gorbachev eventually agree to regarding Germany and NATO?",
+      "choices": [
+        "Germany can be a member of NATO",
+        "Germany will remain neutral",
+        "Germany will join the Warsaw Pact"
+      ],
+      "answer": "Germany can be a member of NATO",
+      "explanation": "Gorbachev eventually agreed that a reunified Germany could be a member of NATO."
+    }
+  ]
+}

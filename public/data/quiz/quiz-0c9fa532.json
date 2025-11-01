@@ -1,0 +1,63 @@
+{
+  "slug": "0c9fa532",
+  "video_id": "wCrbe4U2dpE",
+  "movie_title": "The Delicious History of Chocolate 🍫",
+  "movie_url": "https://youtu.be/wCrbe4U2dpE",
+  "published_at": "2025-03-21T15:01:27Z",
+  "duration": "PT9M35S",
+  "tags": [],
+  "introduction": "In this video, we'll explore the fascinating history of chocolate - from its ancient origins in the",
+  "lead_intro": "Discover the fascinating journey of the cacao bean from its origins in South America to becoming a beloved treat worldwide.",
+  "quiz": [
+    {
+      "question": "What term do the Aztecs use for their bitter and spiced cacao drink?",
+      "choices": [
+        "xocolatl",
+        "Kakawa",
+        "chocolate"
+      ],
+      "answer": "xocolatl",
+      "explanation": "The Aztecs refer to their bitter and spiced cacao drink as 'xocolatl', derived from the words 'xocolli' meaning bitter and 'atl' meaning water."
+    },
+    {
+      "question": "Who created the first solid chocolate bar in 1847?",
+      "choices": [
+        "Fry & Sons",
+        "Coenraad van Houten",
+        "Daniel Peter"
+      ],
+      "answer": "Fry & Sons",
+      "explanation": "In 1847, the English company Fry & Sons discovered the ideal combination of cocoa powder, cocoa butter, and sugar to create the first solid chocolate bar."
+    },
+    {
+      "question": "Which Swiss chocolatier improved the recipe for milk chocolate bars by replacing donkey milk with powdered milk?",
+      "choices": [
+        "Rodolphe Lindt",
+        "Coenraad van Houten",
+        "Daniel Peter"
+      ],
+      "answer": "Daniel Peter",
+      "explanation": "In 1875, Swiss chocolatier Daniel Peter enhanced the milk chocolate bar recipe by using powdered milk, a recent invention by Henri Nestlé."
+    },
+    {
+      "question": "Which company is credited with the accidental discovery of a smoother and creamier cacao paste production method?",
+      "choices": [
+        "Rodolphe Lindt",
+        "Nestlé",
+        "Fry & Sons"
+      ],
+      "answer": "Rodolphe Lindt",
+      "explanation": "Rodolphe Lindt, a Swiss chocolatier, accidentally discovered a new method of producing a smoother and creamier cacao paste, leading to innovations in chocolate production."
+    },
+    {
+      "question": "What is the world's largest cacao producer today?",
+      "choices": [
+        "Ecuador",
+        "Côte d'Ivoire",
+        "Ghana"
+      ],
+      "answer": "Côte d'Ivoire",
+      "explanation": "Côte d'Ivoire is currently the world's largest cacao producer, with Africa as a whole producing 70% of the world's cacao."
+    }
+  ]
+}

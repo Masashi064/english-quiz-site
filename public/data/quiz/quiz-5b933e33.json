@@ -1,0 +1,63 @@
+{
+  "slug": "5b933e33",
+  "video_id": "mK7m8o9G9fU",
+  "movie_title": "Martin O'Malley FULL REMARKS at Democratic National Convention (C-SPAN)",
+  "movie_url": "https://youtu.be/mK7m8o9G9fU",
+  "published_at": "2016-07-28T00:12:04Z",
+  "duration": "6:31",
+  "tags": [],
+  "introduction": "Martin O'Malley delivers remarks at the Democratic National Convention. More videos here: http://www",
+  "lead_intro": "Discover powerful excerpts from a political speech and test your comprehension with these quiz questions!",
+  "quiz": [
+    {
+      "question": "According to the speaker, who will stand up to ISIS and the Russians?",
+      "choices": [
+        "Hillary Clinton",
+        "Tim Kane",
+        "Donald Trump"
+      ],
+      "answer": "Hillary Clinton",
+      "explanation": "The speaker mentions that Hillary Clinton will stand up to ISIS and the Russians."
+    },
+    {
+      "question": "What did the speaker highlight as being too high in the United States?",
+      "choices": [
+        "College tuition",
+        "Wages",
+        "Child care costs"
+      ],
+      "answer": "Wages",
+      "explanation": "The speaker emphasized that wages are too low in the United States, not too high."
+    },
+    {
+      "question": "Who does the speaker believe will fight to ensure that every hardworking family can get ahead in America?",
+      "choices": [
+        "Tim Kane",
+        "Hillary Clinton",
+        "Donald Trump"
+      ],
+      "answer": "Hillary Clinton",
+      "explanation": "The speaker mentions that Hillary Clinton and Tim Kane will fight to ensure every hardworking family can get ahead."
+    },
+    {
+      "question": "What does the speaker say is the enduring symbol of the United States of America?",
+      "choices": [
+        "Barbwire fence",
+        "Statue of Liberty",
+        "Walls"
+      ],
+      "answer": "Statue of Liberty",
+      "explanation": "The speaker states that the enduring symbol of the United States of America is not the barbwire fence but the Statue of Liberty."
+    },
+    {
+      "question": "According to the speaker, what does the America we love not engage in?",
+      "choices": [
+        "Torture",
+        "Building walls",
+        "Locking up women and children"
+      ],
+      "answer": "Building walls",
+      "explanation": "The speaker mentions that the America we love does not build walls, engage in torture, or lock up women and children."
+    }
+  ]
+}
