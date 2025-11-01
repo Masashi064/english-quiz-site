@@ -1,0 +1,100 @@
+{
+  "slug": "3afedd70",
+  "video_id": "4VCYHTGjr-U",
+  "movie_title": "The European Union - Summary on a Map",
+  "movie_url": "https://youtu.be/4VCYHTGjr-U",
+  "published_at": "2020-02-28T14:40:09Z",
+  "duration": "PT13M2S",
+  "tags": [
+    "Geo History",
+    "History",
+    "European",
+    "European Union",
+    "EU",
+    "Brexit",
+    "Rome",
+    "Lisbon",
+    "Schengen",
+    "Paris",
+    "Treaty",
+    "EEC",
+    "ECSC",
+    "CAP",
+    "Euratom",
+    "Institutions",
+    "European Council",
+    "Commission",
+    "Parliament",
+    "Council",
+    "enlargment",
+    "referendum",
+    "Amsterdam",
+    "Maastricht",
+    "Nice",
+    "eurozone",
+    "common currency",
+    "euro",
+    "single currency",
+    "market",
+    "single",
+    "migrant crisis",
+    "Turkey",
+    "Libya",
+    "area",
+    "continent"
+  ],
+  "introduction": "In this video, we trace the evolution of the European Union since the end of WWII until Brexit.\n----",
+  "lead_intro": "Explore the history of the European Union, from its inception after WWII to its current state with 27 member states. Test your knowledge with the following quiz!",
+  "quiz": [
+    {
+      "question": "Which treaty created the European Economic Community with the main objective of establishing a common market?",
+      "choices": [
+        "Treaty of Rome",
+        "Treaty of Lisbon",
+        "Treaty of Maastricht"
+      ],
+      "answer": "Treaty of Rome",
+      "explanation": "The Treaty of Rome created the European Economic Community in 1957 to establish a common market among member states."
+    },
+    {
+      "question": "In 1973, which countries joined the European Community alongside Ireland?",
+      "choices": [
+        "Italy and France",
+        "Spain and Portugal",
+        "Germany and UK"
+      ],
+      "answer": "Spain and Portugal",
+      "explanation": "In 1973, Spain and Portugal joined the European Community along with Ireland, expanding the membership."
+    },
+    {
+      "question": "When was the Euro officially launched on the market?",
+      "choices": [
+        "1995",
+        "1999",
+        "2002"
+      ],
+      "answer": "1999",
+      "explanation": "The Euro was officially launched on the market in 1999, though it was put into circulation later on January 1, 2002."
+    },
+    {
+      "question": "What triggered a period of reflection and consultations within member states regarding European integration?",
+      "choices": [
+        "Financial crisis",
+        "Treaty of Nice",
+        "Brexit"
+      ],
+      "answer": "Brexit",
+      "explanation": "The UK's decision to leave the EU via Brexit triggered a period of reflection and consultations among member states regarding the future of European integration."
+    },
+    {
+      "question": "Which event divided European countries and fueled the rise of nationalist and Eurosceptic parties?",
+      "choices": [
+        "Financial crisis",
+        "Arab Spring",
+        "Brexit"
+      ],
+      "answer": "Arab Spring",
+      "explanation": "The Arab Spring created instability in many countries, leading to a migration crisis that divided European countries and fueled nationalist and Eurosceptic sentiments."
+    }
+  ]
+}

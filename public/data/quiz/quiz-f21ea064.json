@@ -1,0 +1,99 @@
+{
+  "slug": "f21ea064",
+  "video_id": "VfDkffkrQ6s",
+  "movie_title": "Napoleon (Part 3) - The Decline (1812 - 1821)",
+  "movie_url": "https://youtu.be/VfDkffkrQ6s",
+  "published_at": "2019-10-17T10:00:41Z",
+  "duration": "PT11M4S",
+  "tags": [
+    "Napoleon",
+    "History",
+    "geo history",
+    "map",
+    "summary",
+    "explained",
+    "explanation",
+    "bonaparte",
+    "emperor",
+    "defeat",
+    "russia",
+    "campaign",
+    "invasion",
+    "french",
+    "france",
+    "austria",
+    "prussia",
+    "uk",
+    "united kingdom",
+    "empire",
+    "confederation of the rhine",
+    "german confederation",
+    "spain",
+    "portugal",
+    "war",
+    "coalition",
+    "coalition wars",
+    "waterloo",
+    "leipzig",
+    "nations",
+    "battle",
+    "saint helena",
+    "elba",
+    "fontainbleau",
+    "island"
+  ],
+  "introduction": "This is the third and last part of our video series on the history of Napoleon. In this video, we co",
+  "lead_intro": "Learn about Napoleon's rise and fall through his conquests and defeats in Europe.",
+  "quiz": [
+    {
+      "question": "What event led to Napoleon's decision to invade Russia?",
+      "choices": [
+        "Napoleon signs alliances with Prussia and Austria",
+        "Russia refuses to implement the Continental Blockade",
+        "Napoleon's defeat in Spain"
+      ],
+      "answer": "Russia refuses to implement the Continental Blockade",
+      "explanation": "Napoleon's invasion of Russia was triggered by Russia's refusal to comply with the Continental Blockade imposed on the UK by Napoleon."
+    },
+    {
+      "question": "Where did Napoleon face the Russian armies before entering Moscow?",
+      "choices": [
+        "The Niemen River",
+        "The Berezina River",
+        "The Seine River"
+      ],
+      "answer": "The Niemen River",
+      "explanation": "Napoleon's army crossed the Niemen River towards the Russian armies before advancing into Russia."
+    },
+    {
+      "question": "Which battle proved to be a bloody affair that France won with great difficulty?",
+      "choices": [
+        "Battle of Leipzig",
+        "Battle of Moscow",
+        "Battle of Waterloo"
+      ],
+      "answer": "Battle of Moscow",
+      "explanation": "The Battle of Moscow was a bloody affair that France won with great difficulty during Napoleon's invasion of Russia."
+    },
+    {
+      "question": "Where was Napoleon defeated, leading to his abdication and exile on the island of Elba?",
+      "choices": [
+        "Berlin",
+        "Leipzig",
+        "Waterloo"
+      ],
+      "answer": "Waterloo",
+      "explanation": "Napoleon's final defeat at the Battle of Waterloo led to his abdication and exile on the island of Elba."
+    },
+    {
+      "question": "Why was Napoleon sent to the island of St. Helena?",
+      "choices": [
+        "To influence European politics",
+        "As a prisoner",
+        "To lead a new expedition"
+      ],
+      "answer": "As a prisoner",
+      "explanation": "Napoleon was sent to the island of St. Helena as a prisoner, where he spent his final days isolated and under close surveillance."
+    }
+  ]
+}

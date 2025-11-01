@@ -1,0 +1,101 @@
+{
+  "slug": "41a0222d",
+  "video_id": "qCu4hXOmPYM",
+  "movie_title": "American Revolutionary War - Summary on a Map",
+  "movie_url": "https://youtu.be/qCu4hXOmPYM",
+  "published_at": "2020-12-10T14:00:31Z",
+  "duration": "PT13M54S",
+  "tags": [
+    "American Revolutionary War",
+    "America",
+    "American",
+    "Revolutionary War",
+    "War",
+    "Independence",
+    "colonies",
+    "Second continental congress",
+    "Great Britain",
+    "France",
+    "Spain",
+    "Dutch Republic",
+    "Geo History",
+    "History",
+    "Philadelphia",
+    "Boston",
+    "Tea Party",
+    "Lexington",
+    "Concord",
+    "New York",
+    "Montreal",
+    "Quebec",
+    "Washington DC",
+    "George Washington",
+    "Seven Years' War",
+    "Sugar Act",
+    "Stamp Act",
+    "Quartering Act",
+    "Intolerable Acts",
+    "Thomas Jefferson",
+    "United States Declaration of Independence",
+    "United States",
+    "US",
+    "USA",
+    "Yorktown",
+    "Bunker Hill",
+    "Map"
+  ],
+  "introduction": "In this video, let's retrace on maps the American Revolutionary War, since the end of the Seven Year",
+  "lead_intro": "Explore the historical events leading to the American Revolutionary War and the birth of the United States with this insightful video summary.",
+  "quiz": [
+    {
+      "question": "What event marked the beginning of the American Revolutionary War?",
+      "choices": [
+        "Boston Tea Party",
+        "Battle of Lexington",
+        "Battle of Yorktown"
+      ],
+      "answer": "Battle of Lexington",
+      "explanation": "The first shots of the American Revolutionary War were fired in Lexington on April 19, 1775, marking the beginning of the conflict."
+    },
+    {
+      "question": "Which country allied with the Patriots after the British defeat at Saratoga?",
+      "choices": [
+        "France",
+        "Spain",
+        "Netherlands"
+      ],
+      "answer": "France",
+      "explanation": "France allied with the Patriots after the British defeat at Saratoga, leading to an international dimension of the war."
+    },
+    {
+      "question": "Where did George Washington attempt a successful surprise attack on Hessian troops?",
+      "choices": [
+        "Trenton",
+        "Princeton",
+        "Savannah"
+      ],
+      "answer": "Trenton",
+      "explanation": "George Washington's successful surprise attack on Hessian troops took place in Trenton, boosting Patriot morale."
+    },
+    {
+      "question": "Which British general surrendered at Yorktown, leading to a decisive victory for the Patriots?",
+      "choices": [
+        "Charles Cornwallis",
+        "George Howe",
+        "Thomas Gage"
+      ],
+      "answer": "Charles Cornwallis",
+      "explanation": "General Charles Cornwallis surrendered at Yorktown, marking a significant turning point in the war."
+    },
+    {
+      "question": "During the Treaty of Paris in 1783, what did Great Britain officially recognize?",
+      "choices": [
+        "United States of America's independence",
+        "Canada's independence",
+        "India's independence"
+      ],
+      "answer": "United States of America's independence",
+      "explanation": "During the Treaty of Paris in 1783, Great Britain officially recognized the independence of the United States of America."
+    }
+  ]
+}

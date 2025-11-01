@@ -1,0 +1,85 @@
+{
+  "slug": "7d3ae181",
+  "video_id": "2eY4gmndO3g",
+  "movie_title": "Napoleon (Part 1) - Birth of an Emperor (1768 - 1804)",
+  "movie_url": "https://youtu.be/2eY4gmndO3g",
+  "published_at": "2019-10-01T14:21:37Z",
+  "duration": "PT10M47S",
+  "tags": [
+    "Napoleon",
+    "coalition wars",
+    "map",
+    "summary",
+    "geo history",
+    "france",
+    "uk",
+    "great britain",
+    "prussia",
+    "austria",
+    "first coalition",
+    "second coalition",
+    "france revolution",
+    "egypt",
+    "coup",
+    "siege of toulon",
+    "italian campaign",
+    "louisiana",
+    "usa",
+    "hanover",
+    "bonaparte"
+  ],
+  "introduction": "This video is part one of a three-part series on the history of Napoleon. Here, we cover the period",
+  "lead_intro": "Travel back in time to the late 1700s and follow the fascinating story of Napoleon Bonaparte's rise to power and conquests. Let's test your knowledge with some quiz questions based on the video!",
+  "quiz": [
+    {
+      "question": "Where was Napoleon born?",
+      "choices": [
+        "Ajaccio",
+        "Corsica",
+        "Brienne"
+      ],
+      "answer": "Ajaccio",
+      "explanation": "Napoleon Bonaparte was born into a noble family from Ajaccio, Corsica."
+    },
+    {
+      "question": "What event led to the French Revolution?",
+      "choices": [
+        "Seven Years War",
+        "American Revolutionary War",
+        "Third Estate officials seizing power"
+      ],
+      "answer": "Third Estate officials seizing power",
+      "explanation": "The French Revolution was sparked when Third Estate officials seized power by founding the National Assembly and insurgents took over the Bastille."
+    },
+    {
+      "question": "Where did Napoleon achieve a significant military victory that led to his promotion?",
+      "choices": [
+        "Toulon",
+        "Paris",
+        "Milan"
+      ],
+      "answer": "Toulon",
+      "explanation": "Napoleon achieved a significant military victory in Toulon, where he suggested a successful new plan to retake the city."
+    },
+    {
+      "question": "What important colony did Napoleon aim to threaten by seizing Egypt?",
+      "choices": [
+        "India",
+        "Australia",
+        "Canada"
+      ],
+      "answer": "India",
+      "explanation": "Napoleon aimed to threaten the important colony of India by seizing Egypt as a strategic move."
+    },
+    {
+      "question": "Where did Napoleon crown himself as Emperor in 1804?",
+      "choices": [
+        "Notre Dame de Paris",
+        "Sainte-Chapelle",
+        "Versailles"
+      ],
+      "answer": "Notre Dame de Paris",
+      "explanation": "Napoleon crowned himself as Emperor in 1804 at Notre Dame de Paris."
+    }
+  ]
+}

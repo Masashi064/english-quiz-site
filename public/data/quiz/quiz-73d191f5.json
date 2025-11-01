@@ -1,0 +1,102 @@
+{
+  "slug": "73d191f5",
+  "video_id": "Yipm-Be3uFQ",
+  "movie_title": "Pre-Columbian America - Summary on a Map",
+  "movie_url": "https://youtu.be/Yipm-Be3uFQ",
+  "published_at": "2021-02-05T13:38:29Z",
+  "duration": "PT13M12S",
+  "tags": [
+    "America",
+    "pre-columbian",
+    "history",
+    "summary",
+    "map",
+    "Geo History",
+    "settlement",
+    "continent",
+    "american",
+    "Beringia",
+    "mesoamerica",
+    "teotihuacan",
+    "andean",
+    "maya",
+    "inca",
+    "chinchorro",
+    "valdivia",
+    "caral",
+    "mound builders",
+    "civilization",
+    "olmec",
+    "zapotec",
+    "cuicuilco",
+    "chavin",
+    "nazca",
+    "moche",
+    "tikal",
+    "calakmul",
+    "titicaca",
+    "viking",
+    "aztec",
+    "cusco",
+    "chimor",
+    "muisca",
+    "mapuche",
+    "pre columbian",
+    "columbia",
+    "precolumbian"
+  ],
+  "introduction": "We retrace on maps the evolution of Pre-Columbian America since the first settlements until the arri",
+  "lead_intro": "Explore the fascinating history of the American continent from its early settlements to the rise and fall of various civilizations. Let's dive into the quiz to test your knowledge!",
+  "quiz": [
+    {
+      "question": "What were the first signs of human occupation in the American continent around 30,000 BC?",
+      "choices": [
+        "tools",
+        "potatoes",
+        "houses"
+      ],
+      "answer": "tools",
+      "explanation": "The first signs of human occupation included tools, bones of hunted animals, and fires appearing in various places on the continent."
+    },
+    {
+      "question": "Which theory is suggested for the origins of the first American settlements?",
+      "choices": [
+        "people from the Bay of Biscay",
+        "African explorers",
+        "Vikings"
+      ],
+      "answer": "people from the Bay of Biscay",
+      "explanation": "One theory suggests that people from the Bay of Biscay might have followed the icefield across the Atlantic Ocean to reach the north of the American continent."
+    },
+    {
+      "question": "What facilitated the domestication of plants endemic to the American continent?",
+      "choices": [
+        "volcanic eruptions",
+        "droughts",
+        "warming climate"
+      ],
+      "answer": "warming climate",
+      "explanation": "The warming climate facilitated the domestication of plants endemic to the continent, leading to the cultivation of crops like avocados, chilli peppers, and corn."
+    },
+    {
+      "question": "Which civilization is known for being the first to mummify their dead in the Atacama Desert?",
+      "choices": [
+        "Chinchorros",
+        "Mayans",
+        "Aztecs"
+      ],
+      "answer": "Chinchorros",
+      "explanation": "The Chinchorros were the first in the world to mummify their dead in the Atacama Desert, showcasing early cultural practices."
+    },
+    {
+      "question": "What event led to the collapse of the Mayan cities around 780 AD?",
+      "choices": [
+        "volcanic eruptions",
+        "intense droughts",
+        "alien invasion"
+      ],
+      "answer": "intense droughts",
+      "explanation": "A succession of intense droughts followed by a major political and demographic crisis led to the desertion of most Mayan cities around 780 AD."
+    }
+  ]
+}

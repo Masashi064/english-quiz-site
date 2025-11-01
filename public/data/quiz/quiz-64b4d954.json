@@ -1,0 +1,93 @@
+{
+  "slug": "64b4d954",
+  "video_id": "gGTEDH0SIdA",
+  "movie_title": "History of nuclear power - Summary on a Map",
+  "movie_url": "https://youtu.be/gGTEDH0SIdA",
+  "published_at": "2020-01-02T12:32:42Z",
+  "duration": "PT16M27S",
+  "tags": [
+    "nuclear",
+    "history",
+    "geo history",
+    "energy",
+    "power",
+    "military",
+    "civilian",
+    "nuclear power",
+    "summary",
+    "manhattan project",
+    "usa",
+    "america",
+    "ussr",
+    "france",
+    "germany",
+    "japan",
+    "chernobyl",
+    "fukushima",
+    "three mile island",
+    "accident",
+    "weapon",
+    "hiroshima",
+    "nagasaki",
+    "iran",
+    "israel",
+    "north korea",
+    "radioactivity",
+    "uk",
+    "WWIII"
+  ],
+  "introduction": "Let's retrace on a map a summary of the history of civilian and military nuclear power since the dis",
+  "lead_intro": "From the accidental discovery of radioactivity to the development of nuclear weapons and power plants, the history of nuclear science is both fascinating and impactful. Let's test your knowledge on this important topic!",
+  "quiz": [
+    {
+      "question": "Who accidentally discovered that uranium leaves a trace on a photographic plate, leading to the discovery of radioactivity?",
+      "choices": [
+        "Henri Becquerel",
+        "Marie Curie",
+        "Albert Einstein"
+      ],
+      "answer": "Henri Becquerel",
+      "explanation": "Henri Becquerel discovered that uranium leaves a trace on a photographic plate during an experiment, which led to the discovery of radioactivity."
+    },
+    {
+      "question": "Which German chemists discovered nuclear fission in 1938?",
+      "choices": [
+        "Hahn and Strassmann",
+        "Pierre and Marie Curie",
+        "Enrico Fermi"
+      ],
+      "answer": "Hahn and Strassmann",
+      "explanation": "Hahn and Strassmann discovered nuclear fission by bombarding an atom of uranium with a neutron, leading to the splitting of the atom and the release of energy."
+    },
+    {
+      "question": "What metal is produced when irradiated uranium produces a tiny amount of a new radioactive and fissile material?",
+      "choices": [
+        "Plutonium",
+        "Lead",
+        "Titanium"
+      ],
+      "answer": "Plutonium",
+      "explanation": "Irradiated uranium produces a tiny amount of plutonium, a new metal that is radioactive and fissile, meaning it can trigger a chain reaction."
+    },
+    {
+      "question": "In which year did the first successful nuclear test take place in the desert of New Mexico?",
+      "choices": [
+        "1945",
+        "1955",
+        "1965"
+      ],
+      "answer": "1945",
+      "explanation": "The first successful nuclear test took place in the desert of New Mexico on July 16, 1945, marking a significant milestone in the development of nuclear weapons."
+    },
+    {
+      "question": "What organization was created under the United Nations to ensure the safe and peaceful use of nuclear energy?",
+      "choices": [
+        "International Atomic Energy Agency (IAEA)",
+        "World Health Organization (WHO)",
+        "Greenpeace"
+      ],
+      "answer": "International Atomic Energy Agency (IAEA)",
+      "explanation": "The International Atomic Energy Agency (IAEA) was created under the United Nations to ensure the safe and peaceful use of nuclear energy, including in medicine and power generation."
+    }
+  ]
+}

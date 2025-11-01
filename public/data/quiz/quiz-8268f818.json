@@ -1,0 +1,71 @@
+{
+  "slug": "8268f818",
+  "video_id": "B7ivFcGbFJM",
+  "movie_title": "Major epidemics and pandemics - Summary on a Map",
+  "movie_url": "https://youtu.be/B7ivFcGbFJM",
+  "published_at": "2020-04-11T05:00:07Z",
+  "duration": "PT12M22S",
+  "tags": [
+    "epidemics",
+    "pandemics",
+    "global outbreaks",
+    "influenza outbreaks",
+    "Geo History",
+    "History",
+    "maps"
+  ],
+  "introduction": "We briefly retrace major global epidemics and pandemics that have impacted human history since the e",
+  "lead_intro": "Learn about the historical evolution of diseases and pandemics from the time of hunter-gatherers to the present day.",
+  "quiz": [
+    {
+      "question": "Which disease is considered the second pandemic of bubonic plague?",
+      "choices": [
+        "Smallpox",
+        "Leprosy",
+        "Black Death"
+      ],
+      "answer": "Black Death",
+      "explanation": "The Black Death is considered the second pandemic of bubonic plague, originating in the steppes of Central Asia."
+    },
+    {
+      "question": "In what year did the World Health Organization declare COVID-19 a pandemic?",
+      "choices": [
+        "2019",
+        "2020",
+        "2018"
+      ],
+      "answer": "2020",
+      "explanation": "The World Health Organization declared COVID-19 a pandemic on March 11, 2020."
+    },
+    {
+      "question": "Which disease was eradicated over two centuries after the introduction of the first form of vaccine?",
+      "choices": [
+        "Cholera",
+        "Influenza",
+        "Smallpox"
+      ],
+      "answer": "Smallpox",
+      "explanation": "The smallpox disease was eradicated over two centuries after the introduction of the first form of vaccine using cowpox."
+    },
+    {
+      "question": "Which disease causes severe diarrhea resulting in life-threatening dehydration?",
+      "choices": [
+        "Malaria",
+        "AIDS",
+        "Cholera"
+      ],
+      "answer": "Cholera",
+      "explanation": "Cholera is a bacterial infection that causes severe diarrhea resulting in life-threatening dehydration."
+    },
+    {
+      "question": "Which disease was identified by the Pasteur Institute in Paris in 1983?",
+      "choices": [
+        "AIDS",
+        "Influenza",
+        "Malaria"
+      ],
+      "answer": "AIDS",
+      "explanation": "The Pasteur Institute in Paris identified the HIV virus that causes AIDS in 1983."
+    }
+  ]
+}

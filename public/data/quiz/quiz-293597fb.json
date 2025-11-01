@@ -1,0 +1,81 @@
+{
+  "slug": "293597fb",
+  "video_id": "llYzVzrjk8c",
+  "movie_title": "The First Circumnavigation of the Earth by Magellan & Elcano - Summary on a Map",
+  "movie_url": "https://youtu.be/llYzVzrjk8c",
+  "published_at": "2021-12-22T19:00:13Z",
+  "duration": "PT9M50S",
+  "tags": [
+    "Magellan",
+    "Elcano",
+    "Circumnavigation",
+    "History",
+    "Map",
+    "Travel",
+    "expedition",
+    "Pacific ocean",
+    "Enrique de Malacca",
+    "Spices",
+    "Spain",
+    "Portugal",
+    "Philippines",
+    "Moluccas",
+    "Death",
+    "Strait",
+    "Strait of Magellan"
+  ],
+  "introduction": "Let's retrace the Magellan expedition to the Spice Islands, completed by Juan Sebastián Elcano. This",
+  "lead_intro": "Embark on an exciting journey through history as we explore Ferdinand Magellan's expedition around the world and the challenges faced along the way.",
+  "quiz": [
+    {
+      "question": "What was the name of the sea that Vasco Nuñez de Balboa discovered in America?",
+      "choices": [
+        "South Sea",
+        "Pacific Ocean",
+        "Mediterranean Sea"
+      ],
+      "answer": "South Sea",
+      "explanation": "Vasco Nuñez de Balboa was the first European to discover a sea on the other side of the American lands, which he named the South Sea."
+    },
+    {
+      "question": "What did the expedition led by Ferdinand Magellan name the region where they saw many fires lit by natives on the mainland?",
+      "choices": [
+        "Land of Fire",
+        "Island of Thieves",
+        "Cape of Good Hope"
+      ],
+      "answer": "Land of Fire",
+      "explanation": "As the expedition entered the strait, they saw many fires lit by natives on the mainland, prompting Magellan to name the region 'Tierra del Fuego', meaning 'land of fire'."
+    },
+    {
+      "question": "What ocean did Ferdinand Magellan name 'Pacific'?",
+      "choices": [
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Pacific Ocean"
+      ],
+      "answer": "Pacific Ocean",
+      "explanation": "After a long crossing with food and water running out, Magellan and his crew entered an ocean that he named 'Pacific' meaning 'peaceful'."
+    },
+    {
+      "question": "Who was the first European to circumnavigate the globe?",
+      "choices": [
+        "Ferdinand Magellan",
+        "Juan Sebastian Elcano",
+        "Henrique de Malacca"
+      ],
+      "answer": "Juan Sebastian Elcano",
+      "explanation": "After an almost 3-year expedition, Juan Sebastian Elcano arrived back in Spain with 17 survivors, becoming the first person to have sailed around the world."
+    },
+    {
+      "question": "Which crew member from Magellan's expedition could possibly be the first man to have circumnavigated the globe?",
+      "choices": [
+        "Henrique de Malacca",
+        "Rajah Humabon",
+        "Estevao Gomes"
+      ],
+      "answer": "Henrique de Malacca",
+      "explanation": "Henrique de Malacca, a slave who traveled with Magellan, could potentially be the first man to have circumnavigated the globe if he managed to return to his native land before Elcano arrived in Spain."
+    }
+  ]
+}
