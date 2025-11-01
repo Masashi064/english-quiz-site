@@ -1,0 +1,63 @@
+{
+  "slug": "b453a685",
+  "video_id": "ZTCVaHn9b88",
+  "movie_title": "The Seven Voyages of Zheng He - Summary on a map",
+  "movie_url": "https://youtu.be/ZTCVaHn9b88",
+  "published_at": "2022-08-16T14:00:11Z",
+  "duration": "PT8M40S",
+  "tags": [],
+  "introduction": "Let’s retrace the life of Zheng He, and the seven seafaring journeys he undertook for the Ming Empir",
+  "lead_intro": "Learn about the fascinating life and expeditions of Zheng He, a Chinese explorer from the Ming dynasty.",
+  "quiz": [
+    {
+      "question": "In what year did the fleet led by Zheng He leave for its first maritime expedition?",
+      "choices": [
+        "1405",
+        "1413",
+        "1431"
+      ],
+      "answer": "1405",
+      "explanation": "The fleet led by Zheng He left for its first maritime expedition on July 11, 1405."
+    },
+    {
+      "question": "Which animal did Zheng He receive during his expedition along the coasts of the Arabian Peninsula and Africa?",
+      "choices": [
+        "giraffes",
+        "elephants",
+        "lions"
+      ],
+      "answer": "lions",
+      "explanation": "During his expedition, Zheng He received lions, among other exotic animals, along the coasts of the Arabian Peninsula and Africa."
+    },
+    {
+      "question": "What was the main reason for the temporary suspension of Zheng He's expeditions?",
+      "choices": [
+        "financial strain",
+        "lack of interest",
+        "political unrest"
+      ],
+      "answer": "financial strain",
+      "explanation": "The numerous expensive projects, including Zheng He's expeditions, led to financial strain, prompting Yongle to temporarily suspend them."
+    },
+    {
+      "question": "Who ordered Zheng He to finalize the construction of the Nanjing Porcelain Pagoda?",
+      "choices": [
+        "Emperor Xuande",
+        "Emperor Hongxi",
+        "Emperor Yongle"
+      ],
+      "answer": "Emperor Xuande",
+      "explanation": "Emperor Xuande ordered Zheng He to finalize the construction of the Nanjing Porcelain Pagoda before authorizing his seventh and last journey in 1431."
+    },
+    {
+      "question": "What significant event happened on July 11, 2005, related to Zheng He?",
+      "choices": [
+        "China declared it as the maritime day of China",
+        "Zheng He's birthday",
+        "Zheng He's first expedition departure anniversary"
+      ],
+      "answer": "China declared it as the maritime day of China",
+      "explanation": "On July 11, 2005, China decided to make it the maritime day of China in honor of Zheng He, marking 600 years since the first expedition."
+    }
+  ]
+}
