@@ -1,0 +1,63 @@
+{
+  "slug": "e63400a0",
+  "video_id": "Nk4Hr-bLh8g",
+  "movie_title": "Why Are 6 Countries Fighting Over the South China Sea?",
+  "movie_url": "https://youtu.be/Nk4Hr-bLh8g",
+  "published_at": "2024-08-30T13:00:20Z",
+  "duration": "PT12M30S",
+  "tags": [],
+  "introduction": "In this video, we retrace on maps the evolution of the conflict that today confronts six opposing co",
+  "lead_intro": "Discover the historical origins and complex evolution of the South China Sea conflict involving multiple countries. From territorial claims to military bases, this region has a rich and tumultuous history.",
+  "quiz": [
+    {
+      "question": "Which country has built military bases, ports, and airports on artificial islets in the South China Sea?",
+      "choices": [
+        "Vietnam",
+        "China",
+        "Malaysia"
+      ],
+      "answer": "China",
+      "explanation": "In the South China Sea, China has constructed military bases, ports, and airports on artificial islets it created by dredging sand from underwater."
+    },
+    {
+      "question": "What type of rich resource found in the surrounding seabeds revived interest in the Spratly archipelagos in the late 1960s?",
+      "choices": [
+        "Oil and gas",
+        "Gold and silver",
+        "Diamonds"
+      ],
+      "answer": "Oil and gas",
+      "explanation": "Reports of rich oil and gas resources in the surrounding seabeds of the Spratly archipelagos reignited interest in the region in the late 1960s."
+    },
+    {
+      "question": "In 1982, what did the United Nations establish to define maritime boundaries and prevent conflicts over seabed resources?",
+      "choices": [
+        "Convention on the Law of the Sea",
+        "Agreement on Fishery Rights",
+        "Maritime Sovereignty Declaration"
+      ],
+      "answer": "Convention on the Law of the Sea",
+      "explanation": "The United Nations created the Convention on the Law of the Sea in 1982 to set maritime boundaries and avoid conflicts over seabed resources among nations."
+    },
+    {
+      "question": "Which country took the matter of Chinese actions in the Scarborough Shoal to the Permanent Court of Arbitration at The Hague?",
+      "choices": [
+        "Vietnam",
+        "Philippines",
+        "Malaysia"
+      ],
+      "answer": "Philippines",
+      "explanation": "The Philippines reacted to Chinese actions in the Scarborough Shoal by bringing the matter to the Permanent Court of Arbitration at The Hague."
+    },
+    {
+      "question": "Which major player in the South China Sea region stepped up its military presence to ensure free navigation in the sea?",
+      "choices": [
+        "Japan",
+        "China",
+        "United States"
+      ],
+      "answer": "United States",
+      "explanation": "The United States increased its military presence in the South China Sea to guarantee free navigation in the region."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "e364da89",
+  "video_id": "k9M0HKH9DUc",
+  "movie_title": "The Israeli-Palestinian Conflict explained on a map",
+  "movie_url": "https://youtu.be/k9M0HKH9DUc",
+  "published_at": "2024-05-18T13:00:44Z",
+  "duration": "PT33M46S",
+  "tags": [],
+  "introduction": "NEW VERSION ! More detailed and updated. Let’s retrace the Israeli-Palestinian conflict, from the An",
+  "lead_intro": "Understanding the history of the Israeli-Palestinian conflict is crucial for grasping the complexities of the current situation. Let's test your knowledge with some quiz questions based on the historical background provided in the text.",
+  "quiz": [
+    {
+      "question": "In which century were the two major revolts in Jerusalem violently suppressed under Roman control?",
+      "choices": [
+        "1st century AD",
+        "3rd century AD",
+        "5th century AD"
+      ],
+      "answer": "1st century AD",
+      "explanation": "The two major revolts in Jerusalem were violently suppressed in the 1st century AD while the region was under Roman control."
+    },
+    {
+      "question": "Who was the President of the Jewish Agency who prepared a plan to allow the immigration of one million Jews to Palestine after information about the genocide of Jews by Nazi Germany circulated?",
+      "choices": [
+        "David Ben-Gurion",
+        "Theodore Herzl",
+        "Ismail Haniyeh"
+      ],
+      "answer": "David Ben-Gurion",
+      "explanation": "David Ben-Gurion, the President of the Jewish Agency, prepared a plan to allow the immigration of one million Jews to Palestine after information about the genocide of Jews by Nazi Germany circulated."
+    },
+    {
+      "question": "Which Egyptian president nationalized the Suez Canal, leading to a conflict involving Israel, France, and the United Kingdom?",
+      "choices": [
+        "Hosni Mubarak",
+        "Gamal Abdel Nasser",
+        "Anwar el-Sadat"
+      ],
+      "answer": "Gamal Abdel Nasser",
+      "explanation": "Gamal Abdel Nasser nationalized the Suez Canal, leading to a conflict involving Israel, France, and the United Kingdom in response."
+    },
+    {
+      "question": "In which year did the First Intifada begin, marked by the Palestinian population's revolt against the Israeli occupation?",
+      "choices": [
+        "1987",
+        "1995",
+        "2001"
+      ],
+      "answer": "1987",
+      "explanation": "The First Intifada began in 1987, with the Palestinian population revolting against the Israeli occupation by using stones and Molotov cocktails."
+    },
+    {
+      "question": "Which U.S. President recognized Jerusalem as the capital of Israel and prepared to move the embassy there, leading to tensions in the region?",
+      "choices": [
+        "Barack Obama",
+        "Donald Trump",
+        "George W. Bush"
+      ],
+      "answer": "Donald Trump",
+      "explanation": "Donald Trump recognized Jerusalem as the capital of Israel and prepared to move the embassy there, causing tensions in the region."
+    }
+  ]
+}

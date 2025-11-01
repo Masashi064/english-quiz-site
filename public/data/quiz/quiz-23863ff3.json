@@ -1,0 +1,76 @@
+{
+  "slug": "23863ff3",
+  "video_id": "sjJ381Wd9dI",
+  "movie_title": "The Travels of Marco Polo - Summary on a Map",
+  "movie_url": "https://youtu.be/sjJ381Wd9dI",
+  "published_at": "2022-01-27T11:37:56Z",
+  "duration": "PT11M",
+  "tags": [
+    "Marco Polo",
+    "Travel",
+    "travels",
+    "map",
+    "history",
+    "summary",
+    "China",
+    "Asia",
+    "Mongols",
+    "Book of wonder",
+    "Marvels",
+    "pasta"
+  ],
+  "introduction": "In this second video about great explorers, let's retrace the Travels of Marco Polo across Asia, acc",
+  "lead_intro": "Join the journey of Marco Polo, a Venetian explorer, as he travels through Asia and discovers new cultures and landscapes.",
+  "quiz": [
+    {
+      "question": "Where did Marco Polo first meet the Great Kublai Khan?",
+      "choices": [
+        "Bukhara",
+        "Sarai Berke",
+        "Karakorum"
+      ],
+      "answer": "Sarai Berke",
+      "explanation": "Marco Polo first met the Great Kublai Khan in Sarai Berke, where his father and uncle sold jewels to the court of the Khan."
+    },
+    {
+      "question": "What was the name of the gold tablet that allowed the Polos to travel safely throughout the Mongolian empire?",
+      "choices": [
+        "Paiza",
+        "Papyrus",
+        "Pyxis"
+      ],
+      "answer": "Paiza",
+      "explanation": "The gold tablet that allowed the Polos to travel safely throughout the Mongolian empire was called a Paiza."
+    },
+    {
+      "question": "Which Chinese city did Marco Polo reach where he discovered Buddhism and saw the largest reclining Buddha in China?",
+      "choices": [
+        "Ganzhou",
+        "Kashgar",
+        "Zhangye"
+      ],
+      "answer": "Ganzhou",
+      "explanation": "Marco Polo reached Ganzhou, where he discovered Buddhism and saw the largest reclining Buddha in China."
+    },
+    {
+      "question": "After exploring the Southeast, where did Marco Polo arrive, known as the City of Silk?",
+      "choices": [
+        "Suzhou",
+        "Khinzai",
+        "Yangiu"
+      ],
+      "answer": "Suzhou",
+      "explanation": "After exploring the Southeast, Marco Polo arrived in Suzhou, a city known as the City of Silk due to its silk production."
+    },
+    {
+      "question": "How many years did Marco Polo spend in China before deciding to return to Venice?",
+      "choices": [
+        "14 years",
+        "16 years",
+        "24 years"
+      ],
+      "answer": "16 years",
+      "explanation": "Marco Polo spent 16 years in China before deciding to return to Venice with his family."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "4f1b99e3",
+  "video_id": "SKxGAYWVhf4",
+  "movie_title": "The Incredible History of Coffee ☕",
+  "movie_url": "https://youtu.be/SKxGAYWVhf4",
+  "published_at": "2025-02-21T15:00:47Z",
+  "duration": "PT11M10S",
+  "tags": [],
+  "introduction": "In this video, let's explore the complete history of coffee—from its origins in what is now Ethiopia",
+  "lead_intro": "Coffee has a rich and fascinating history that spans continents and centuries. From its origins in Ethiopia to becoming one of the most popular beverages worldwide, the journey of coffee is truly remarkable.",
+  "quiz": [
+    {
+      "question": "What is the name of the beverage known as 'Buna' in Ethiopia?",
+      "choices": [
+        "Kahve",
+        "Qawah",
+        "Coffee"
+      ],
+      "answer": "Coffee",
+      "explanation": "In Ethiopia, the beverage known as 'Buna' is what we commonly refer to as 'coffee'."
+    },
+    {
+      "question": "Which coffee plant species is more resistant to disease, has better yields, and produces a more bitter coffee with twice the caffeine content of arabica?",
+      "choices": [
+        "Coffea arabica",
+        "Robusta",
+        "Mocha"
+      ],
+      "answer": "Robusta",
+      "explanation": "The robusta coffee plant species is more resistant to disease, has better yields, and produces a more bitter coffee with twice the caffeine content of arabica."
+    },
+    {
+      "question": "In which year did Brazil become the largest coffee producer in the world?",
+      "choices": [
+        "1804",
+        "1713",
+        "1929"
+      ],
+      "answer": "1804",
+      "explanation": "Brazil became the largest coffee producer in the world in 1804, focusing on coffee to help develop its economy."
+    },
+    {
+      "question": "What Swiss company developed a coffee powder that only needed to be mixed with hot water for consumption in 1938?",
+      "choices": [
+        "Starbucks",
+        "Nespresso",
+        "Nestlé"
+      ],
+      "answer": "Nestlé",
+      "explanation": "In 1938, Nestlé developed a coffee powder that only needed to be mixed with hot water for consumption."
+    },
+    {
+      "question": "Which country quickly became the second-largest coffee producer in the world in the late 1990s, cultivating almost exclusively robusta?",
+      "choices": [
+        "Brazil",
+        "Vietnam",
+        "Colombia"
+      ],
+      "answer": "Vietnam",
+      "explanation": "In the late 1990s, Vietnam quickly became the second-largest coffee producer in the world, cultivating almost exclusively robusta."
+    }
+  ]
+}

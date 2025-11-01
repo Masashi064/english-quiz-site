@@ -1,0 +1,63 @@
+{
+  "slug": "9cc2be2a",
+  "video_id": "E39KcxZKPZA",
+  "movie_title": "The Falkland Islands (Islas Malvinas) - The conflict between Argentina and the UK on a map",
+  "movie_url": "https://youtu.be/E39KcxZKPZA",
+  "published_at": "2023-12-15T14:30:40Z",
+  "duration": "PT15M5S",
+  "tags": [],
+  "introduction": "In this video, let’s retrace on Maps the origins and the evolution of the conflict in the Falkland I",
+  "lead_intro": "Join us in exploring the historical origins and evolution of the Falklands/Malvinas conflict that has spanned over three centuries.",
+  "quiz": [
+    {
+      "question": "Who was the first to land on the Falkland Islands and discover the Falkland Islands Wolf?",
+      "choices": [
+        "French",
+        "Spanish",
+        "British"
+      ],
+      "answer": "British",
+      "explanation": "The crew of the British expedition was the first to land on the Falkland Islands and discover the Falkland Islands Wolf."
+    },
+    {
+      "question": "Which country established the first permanent colony in the Falkland Islands, founding Port Saint Louis?",
+      "choices": [
+        "Spain",
+        "France",
+        "Argentina"
+      ],
+      "answer": "France",
+      "explanation": "Frenchman Louis-Antoine de Bougainville established the first permanent colony in the Falkland Islands, founding Port Saint Louis."
+    },
+    {
+      "question": "What did the United Provinces of the Rio de la Plata do in 1816 regarding the Falkland Islands?",
+      "choices": [
+        "Declare independence",
+        "Establish a military base",
+        "Sign a peace treaty"
+      ],
+      "answer": "Declare independence",
+      "explanation": "In 1816, the United Provinces of the Rio de la Plata declared their independence and claimed sovereignty over the Falkland Islands."
+    },
+    {
+      "question": "Which country took control of the Falkland Islands by sending a fleet after the United States' military intervention?",
+      "choices": [
+        "Argentina",
+        "Spain",
+        "United Kingdom"
+      ],
+      "answer": "United Kingdom",
+      "explanation": "The United Kingdom took control of the Falkland Islands by sending a fleet after the United States' military intervention in response to the actions of Luis Vernet."
+    },
+    {
+      "question": "What was the outcome of the 2013 referendum held in the Falkland Islands?",
+      "choices": [
+        "99.8% wanted Argentine control",
+        "99.8% wanted British Overseas Territory status",
+        "50% voted for independence"
+      ],
+      "answer": "99.8% wanted British Overseas Territory status",
+      "explanation": "In the 2013 referendum, 99.8% of participants in the Falkland Islands voted to maintain the status of a British Overseas Territory."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "334cb663",
+  "video_id": "W1iOg8gEL8g",
+  "movie_title": "The History of Mansa Musa",
+  "movie_url": "https://youtu.be/W1iOg8gEL8g",
+  "published_at": "2024-11-15T14:00:29Z",
+  "duration": "PT6M50S",
+  "tags": [],
+  "introduction": "In this video, we trace the history of Mansa Musa, the great Malian Mansa, in the early 14th century",
+  "lead_intro": "Explore the rich history of the Mali Empire and the legendary Mansa Musa in this fascinating video journey through time.",
+  "quiz": [
+    {
+      "question": "What precious metal was Mali known for producing and exporting?",
+      "choices": [
+        "gold",
+        "silver",
+        "copper"
+      ],
+      "answer": "gold",
+      "explanation": "Mali was known for producing and exporting gold, making it one of the world's largest producers of this precious metal."
+    },
+    {
+      "question": "Where did Mansa Musa decide to make a pilgrimage to in 1324?",
+      "choices": [
+        "Mecca",
+        "Jerusalem",
+        "Varanasi"
+      ],
+      "answer": "Mecca",
+      "explanation": "In 1324, Mansa Musa decided to make a pilgrimage to Mecca with a huge caravan of people."
+    },
+    {
+      "question": "What did Mansa Musa do in Cairo during his pilgrimage?",
+      "choices": [
+        "Offered large quantities of gold",
+        "Started a rebellion",
+        "Became a scholar"
+      ],
+      "answer": "Offered large quantities of gold",
+      "explanation": "In Cairo, Mansa Musa stayed for three months and generously offered large quantities of gold to those he met."
+    },
+    {
+      "question": "Who did Mansa Musa ask to build a mud-brick mosque in Mali?",
+      "choices": [
+        "Abu Ishaq al-Sahili",
+        "Mansa Musa himself",
+        "A European architect"
+      ],
+      "answer": "Abu Ishaq al-Sahili",
+      "explanation": "Mansa Musa asked Abu Ishaq al-Sahili, a poet and architect, to build a mud-brick mosque in Mali."
+    },
+    {
+      "question": "What did Portugal aim to do by exploring the ocean in the 15th century?",
+      "choices": [
+        "Take control of the trade routes through the desert",
+        "Discover new lands",
+        "Spread Christianity"
+      ],
+      "answer": "Take control of the trade routes through the desert",
+      "explanation": "Portugal aimed to take advantage of the ocean to take control of trade routes through the desert, diverting them to the ocean."
+    }
+  ]
+}

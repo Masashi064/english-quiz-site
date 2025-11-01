@@ -1,0 +1,63 @@
+{
+  "slug": "1b86d34e",
+  "video_id": "QGM9nKfQrYc",
+  "movie_title": "The History of the Ancient and Modern Olympic Games on a map",
+  "movie_url": "https://youtu.be/QGM9nKfQrYc",
+  "published_at": "2024-07-12T18:18:11Z",
+  "duration": "PT33M30S",
+  "tags": [],
+  "introduction": "In this video, let's trace the evolution of the Olympic Games on the map, from the first recognized",
+  "lead_intro": "The history of the Olympic Games is filled with fascinating stories and achievements. Let's dive into a quiz to test your knowledge on this iconic sporting event!",
+  "quiz": [
+    {
+      "question": "Who is considered to be the first winner of the ancient Olympic Games?",
+      "choices": [
+        "Coroebus",
+        "Astylos",
+        "Milo"
+      ],
+      "answer": "Coroebus",
+      "explanation": "Coroebus, probably a cook from Elis, is considered to be the first winner of the ancient Olympic Games."
+    },
+    {
+      "question": "Which city dominated the ancient Olympic Games largely due to its specialization in military training?",
+      "choices": [
+        "Sparta",
+        "Athens",
+        "Rome"
+      ],
+      "answer": "Sparta",
+      "explanation": "Sparta, known for its intense military training from an early age, dominated the ancient Olympic Games."
+    },
+    {
+      "question": "In which year were the first modern Olympic Games held?",
+      "choices": [
+        "1896",
+        "1900",
+        "1888"
+      ],
+      "answer": "1896",
+      "explanation": "The first modern Olympic Games were held in Athens in 1896, organized by Pierre de Coubertin."
+    },
+    {
+      "question": "Which athlete won 8 gold medals in 8 days at the 2008 Beijing Olympics?",
+      "choices": [
+        "Michael Phelps",
+        "Usain Bolt",
+        "Carl Lewis"
+      ],
+      "answer": "Michael Phelps",
+      "explanation": "Michael Phelps, the American swimmer, achieved the remarkable feat of winning 8 gold medals in 8 days at the 2008 Beijing Olympics."
+    },
+    {
+      "question": "Which city will become the third to host its third Olympic Games in the future?",
+      "choices": [
+        "Los Angeles",
+        "Paris",
+        "Tokyo"
+      ],
+      "answer": "Los Angeles",
+      "explanation": "Los Angeles is set to become the third city to host its third Olympic Games in the future."
+    }
+  ]
+}

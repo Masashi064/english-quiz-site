@@ -1,0 +1,63 @@
+{
+  "slug": "6277c0fb",
+  "video_id": "b_6d5YVKhL0",
+  "movie_title": "The history of Brazil - Summary on a Map",
+  "movie_url": "https://youtu.be/b_6d5YVKhL0",
+  "published_at": "2022-12-27T12:39:06Z",
+  "duration": "PT17M6S",
+  "tags": [],
+  "introduction": "The history of Brazil, from the first explorations of Portugal at the end of the 15th century, until",
+  "lead_intro": "Explore the rich history of Brazil from its colonial past to the modern era, marked by significant political and economic changes.",
+  "quiz": [
+    {
+      "question": "In what year did Vasco da Gama cross the Cape of Good Hope and open a new route to the Indian Ocean?",
+      "choices": [
+        "1497",
+        "1500",
+        "1521"
+      ],
+      "answer": "1497",
+      "explanation": "Vasco da Gama crossed the Cape of Good Hope in 1497, paving the way for a new route to the Indian Ocean."
+    },
+    {
+      "question": "Which European country founded the colony 'Dutch Brazil' in Pernambuco?",
+      "choices": [
+        "Portugal",
+        "France",
+        "Netherlands"
+      ],
+      "answer": "Netherlands",
+      "explanation": "The Dutch founded the colony 'Dutch Brazil' in Pernambuco, where they developed sugar production."
+    },
+    {
+      "question": "When did Brazil become the last country in America to abolish slavery, freeing 700,000 slaves?",
+      "choices": [
+        "1865",
+        "1888",
+        "1901"
+      ],
+      "answer": "1888",
+      "explanation": "Brazil abolished slavery in 1888, freeing a significant number of slaves, becoming the last country in America to do so."
+    },
+    {
+      "question": "Who became the first president of the Republic of Brazil after a military coup in 1889?",
+      "choices": [
+        "Manuel Deodoro da Fonseca",
+        "Emperor Dom Pedro II",
+        "Princess Isabel"
+      ],
+      "answer": "Manuel Deodoro da Fonseca",
+      "explanation": "Manuel Deodoro da Fonseca became the first president of the Republic of Brazil following a military coup in 1889."
+    },
+    {
+      "question": "Which president brought roughly 20 million Brazilians out of poverty during two mandates?",
+      "choices": [
+        "Lula",
+        "Dilma Rousseff",
+        "Jair Bolsonaro"
+      ],
+      "answer": "Lula",
+      "explanation": "President Lula brought about significant poverty reduction, lifting approximately 20 million Brazilians out of poverty during his two terms."
+    }
+  ]
+}

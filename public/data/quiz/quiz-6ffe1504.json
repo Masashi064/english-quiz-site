@@ -1,0 +1,63 @@
+{
+  "slug": "6ffe1504",
+  "video_id": "3oNuv_o9mnE",
+  "movie_title": "The History of Piracy - Summary on a Map",
+  "movie_url": "https://youtu.be/3oNuv_o9mnE",
+  "published_at": "2023-04-30T11:09:59Z",
+  "duration": "PT20M11S",
+  "tags": [],
+  "introduction": "In this video, let’s retrace the history of piracy, from the first mentions during the antiquity unt",
+  "lead_intro": "Piracy has a long history dating back to ancient times, with various famous pirates and privateers making their mark on the high seas. Let's dive into a quiz to test your knowledge on the evolution of piracy!",
+  "quiz": [
+    {
+      "question": "In the 14th century B.C., who were mentioned as operating in the eastern Mediterranean Sea and organizing attacks in the Nile Delta?",
+      "choices": [
+        "peoples of the sea",
+        "pirates of the land",
+        "villagers of the coast"
+      ],
+      "answer": "peoples of the sea",
+      "explanation": "The Egyptians mentioned the 'peoples of the sea' as operating in the eastern Mediterranean Sea and organizing attacks in the Nile Delta."
+    },
+    {
+      "question": "Who captured Julius Caesar when he was only a soldier in 75 BC?",
+      "choices": [
+        "Illyrians",
+        "Cilicians",
+        "Phoenicians"
+      ],
+      "answer": "Cilicians",
+      "explanation": "Julius Caesar was captured by Cilician pirates in the Aegean Sea in 75 BC."
+    },
+    {
+      "question": "Which pirate settled in Saint Lucia and attacked passing ships in the middle of the 16th century?",
+      "choices": [
+        "François Le Clerc",
+        "Barbarossa",
+        "Jean Fleury"
+      ],
+      "answer": "François Le Clerc",
+      "explanation": "Privateer François Le Clerc settled in Saint Lucia in the middle of the 16th century to attack passing ships."
+    },
+    {
+      "question": "Who changed his plan to become a pirate while on his way to attack French forts in Africa as a privateer?",
+      "choices": [
+        "Thomas Tew",
+        "Henry Every",
+        "Bartholomew Roberts"
+      ],
+      "answer": "Thomas Tew",
+      "explanation": "Thomas Tew changed his plan while on his way to attack French forts in Africa as a privateer, turning to piracy instead in the Indian Ocean."
+    },
+    {
+      "question": "Which pirate, nicknamed Blackbeard, led a blockade of Charleston with 5 ships in the Caribbean?",
+      "choices": [
+        "Edward Teach",
+        "Christopher Condent",
+        "Olivier Levasseur"
+      ],
+      "answer": "Edward Teach",
+      "explanation": "Edward Teach, also known as Blackbeard, led a blockade of Charleston with 5 ships in the Caribbean."
+    }
+  ]
+}

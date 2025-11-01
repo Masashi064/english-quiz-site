@@ -1,0 +1,63 @@
+{
+  "slug": "ac154e56",
+  "video_id": "Ho0B2wZZ9uU",
+  "movie_title": "Walls That Shaped History",
+  "movie_url": "https://youtu.be/Ho0B2wZZ9uU",
+  "published_at": "2023-02-24T15:00:11Z",
+  "duration": "PT14M1S",
+  "tags": [],
+  "introduction": "In this video, we retrace the history of some of the most famous walls ever built, from antiquity un",
+  "lead_intro": "Throughout history, walls have been built for various purposes, from defense to separation. Let's dive into the world of walls and their significance.",
+  "quiz": [
+    {
+      "question": "What was the main function of the Amorite Wall built by the king of Ur?",
+      "choices": [
+        "defense against nomadic tribes",
+        "delimitation between agricultural lands and pastures",
+        "prevention of military invasions"
+      ],
+      "answer": "delimitation between agricultural lands and pastures",
+      "explanation": "The Amorite Wall was likely built as a border to separate cultivated lands from nomadic pastures, rather than for defensive purposes."
+    },
+    {
+      "question": "In which century did the Great Wall of China reach a height of 6 meters?",
+      "choices": [
+        "19th century",
+        "15th century",
+        "13th century"
+      ],
+      "answer": "13th century",
+      "explanation": "During the 13th century, the Great Wall of China reached a height of 6 meters to defend against the Xiongnu tribes."
+    },
+    {
+      "question": "What was the main purpose of the Atlantic Wall built during World War II?",
+      "choices": [
+        "prevent military landings",
+        "block tanks",
+        "encroach on neighboring territories"
+      ],
+      "answer": "prevent military landings",
+      "explanation": "The Atlantic Wall was constructed to prevent Allied military landings from Great Britain during World War II."
+    },
+    {
+      "question": "What was the Iron Curtain intended to prevent?",
+      "choices": [
+        "military invasions",
+        "migration from East to West",
+        "commercial exchanges"
+      ],
+      "answer": "migration from East to West",
+      "explanation": "The Iron Curtain was established to prevent migration from the Soviet camp to the Western camp, with strict border controls and surveillance."
+    },
+    {
+      "question": "What event led to the fall of the Berlin Wall in 1989?",
+      "choices": [
+        "end of the Cold War",
+        "Soviet expansion",
+        "rise of the Mongol Empire"
+      ],
+      "answer": "end of the Cold War",
+      "explanation": "The fall of the Berlin Wall in 1989 marked the symbolic end of the Cold War and the beginning of the reunification of East and West Germany."
+    }
+  ]
+}
