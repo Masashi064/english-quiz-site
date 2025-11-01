@@ -1,0 +1,63 @@
+{
+  "slug": "a9797cb2",
+  "video_id": "IcihmlF8-SY",
+  "movie_title": "The fall of the USSR",
+  "movie_url": "https://youtu.be/IcihmlF8-SY",
+  "published_at": "2025-05-16T14:00:27Z",
+  "duration": "PT42S",
+  "tags": [],
+  "introduction": "Video excerpt from the Cold War video",
+  "lead_intro": "Test your knowledge on the historical events following the collapse of communist rule in Eastern Europe and the USSR.",
+  "quiz": [
+    {
+      "question": "Which event occurred on July 1st, 1991?",
+      "choices": [
+        "Baltic republics declare independence",
+        "Dissolution of the Warsaw Pact",
+        "Gorbachev's resignation"
+      ],
+      "answer": "Baltic republics declare independence",
+      "explanation": "On July 1st, 1991, the Baltic republics were the first to Proclaim their independence."
+    },
+    {
+      "question": "What happened on December 25th, 1991?",
+      "choices": [
+        "USSR becomes an empty box",
+        "Gorbachev's resignation",
+        "Warsaw Pact dissolution"
+      ],
+      "answer": "USSR becomes an empty box",
+      "explanation": "On December 25th, 1991, the USSR becomes an empty box, leading to Gorbachev's resignation."
+    },
+    {
+      "question": "Who narrowly avoided a coup but weakened and lost control of the Soviet Union?",
+      "choices": [
+        "Gorbachev",
+        "Yeltsin",
+        "Stalin"
+      ],
+      "answer": "Gorbachev",
+      "explanation": "Gorbachev narrowly avoided a coup but weakened and lost control of the Soviet Union."
+    },
+    {
+      "question": "What significant event occurred the following month after the dissolution of the Warsaw Pact?",
+      "choices": [
+        "Gorbachev's resignation",
+        "More republics declare independence",
+        "Baltic republics declare independence"
+      ],
+      "answer": "More republics declare independence",
+      "explanation": "After the dissolution of the Warsaw Pact, more republics started declaring their independence."
+    },
+    {
+      "question": "Which region was the first to proclaim their independence?",
+      "choices": [
+        "USSR",
+        "Baltic republics",
+        "Eastern Europe"
+      ],
+      "answer": "Baltic republics",
+      "explanation": "The Baltic republics were the first to Proclaim their independence."
+    }
+  ]
+}

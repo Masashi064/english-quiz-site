@@ -1,0 +1,63 @@
+{
+  "slug": "9a561967",
+  "video_id": "WXH3RGzSTCU",
+  "movie_title": "Julius Caesar captured by Pirates",
+  "movie_url": "https://youtu.be/WXH3RGzSTCU",
+  "published_at": "2025-06-27T14:00:51Z",
+  "duration": "PT25S",
+  "tags": [],
+  "introduction": "Video excerpt from the History of Piracy video : \nhttps://youtu.be/3oNuv_o9mnE",
+  "lead_intro": "Julius Caesar's encounter with pirates in 75 BC is a fascinating story of resilience and revenge.",
+  "quiz": [
+    {
+      "question": "How long was Julius Caesar held prisoner by pirates?",
+      "choices": [
+        "20 days",
+        "30 days",
+        "38 days"
+      ],
+      "answer": "38 days",
+      "explanation": "Julius Caesar was held prisoner by pirates for 38 days in the Aegean Sea."
+    },
+    {
+      "question": "What did Julius Caesar do after his release from the pirates?",
+      "choices": [
+        "Joined the pirates",
+        "Assembled a private military fleet",
+        "Became a pirate king"
+      ],
+      "answer": "Assembled a private military fleet",
+      "explanation": "After his release, Julius Caesar assembled a private military fleet and took revenge by capturing and crucifying the pirates."
+    },
+    {
+      "question": "Where was Julius Caesar captured by the pirates?",
+      "choices": [
+        "Mediterranean Sea",
+        "Adriatic Sea",
+        "Aegean Sea"
+      ],
+      "answer": "Aegean Sea",
+      "explanation": "Julius Caesar was captured by pirates in the Aegean Sea."
+    },
+    {
+      "question": "How did Julius Caesar respond to the ransom demanded by the pirates?",
+      "choices": [
+        "Paid without hesitation",
+        "Offered a higher amount",
+        "Considered it too low"
+      ],
+      "answer": "Considered it too low",
+      "explanation": "The ransom demanded by the pirates was considered too low by Julius Caesar himself."
+    },
+    {
+      "question": "What action did Julius Caesar take as revenge against the pirates?",
+      "choices": [
+        "Sued them in court",
+        "Formed an alliance",
+        "Captured and crucified them"
+      ],
+      "answer": "Captured and crucified them",
+      "explanation": "Julius Caesar took revenge by capturing and crucifying the pirates after his release."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "591264ce",
+  "video_id": "5JPZKOstyow",
+  "movie_title": "The Belfast Peace Walls",
+  "movie_url": "https://youtu.be/5JPZKOstyow",
+  "published_at": "2025-06-20T14:00:19Z",
+  "duration": "PT24S",
+  "tags": [],
+  "introduction": "Video excerpt from the History of Walls video : \nhttps://youtu.be/Ho0B2wZZ9uU",
+  "lead_intro": "Learn about the history of the 'Walls of Peace' in Belfast and test your knowledge with this quiz!",
+  "quiz": [
+    {
+      "question": "What are the walls in Belfast that separate Catholic and Protestant neighborhoods called?",
+      "choices": [
+        "Walls of Peace",
+        "Metal Fences",
+        "Brick Walls"
+      ],
+      "answer": "Walls of Peace",
+      "explanation": "The walls in Belfast that separate Catholic and Protestant neighborhoods are called 'Walls of Peace.'"
+    },
+    {
+      "question": "In what year did violent clashes take place in Belfast between Catholics and Protestants?",
+      "choices": [
+        "1969",
+        "1979",
+        "1989"
+      ],
+      "answer": "1969",
+      "explanation": "Violent clashes took place in 1969 in Belfast between Catholics, who were victims of discrimination, and Protestants."
+    },
+    {
+      "question": "How high can the concrete walls in Belfast separating neighborhoods measure up to?",
+      "choices": [
+        "5 meters",
+        "7 meters",
+        "10 meters"
+      ],
+      "answer": "7 meters",
+      "explanation": "The concrete walls in Belfast that separate neighborhoods can measure up to seven meters high."
+    },
+    {
+      "question": "What is the purpose of the walls installed throughout Belfast?",
+      "choices": [
+        "Separate Catholic and Protestant neighborhoods",
+        "Encourage interaction",
+        "Create unity"
+      ],
+      "answer": "Separate Catholic and Protestant neighborhoods",
+      "explanation": "The walls in Belfast are installed to separate Catholic and Protestant neighborhoods from each other."
+    },
+    {
+      "question": "What are some materials that the 'Walls of Peace' in Belfast can be made of?",
+      "choices": [
+        "Metal",
+        "Fences",
+        "Brick"
+      ],
+      "answer": "Brick",
+      "explanation": "The 'Walls of Peace' in Belfast can be made of materials like brick, metal fences, or concrete."
+    }
+  ]
+}

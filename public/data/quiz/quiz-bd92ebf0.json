@@ -1,0 +1,63 @@
+{
+  "slug": "bd92ebf0",
+  "video_id": "WMnFxQZ8O-U",
+  "movie_title": "The sack of Constantinople",
+  "movie_url": "https://youtu.be/WMnFxQZ8O-U",
+  "published_at": "2025-04-25T14:00:50Z",
+  "duration": "PT57S",
+  "tags": [],
+  "introduction": "Video excerpt from The History of the Crusades video",
+  "lead_intro": "Learn about Pope Innocent III's Crusade and the events that unfolded during this significant historical period.",
+  "quiz": [
+    {
+      "question": "What city did the Crusaders lay siege to despite the Pope's opposition?",
+      "choices": [
+        "Zadar",
+        "Jerusalem",
+        "Constantinople"
+      ],
+      "answer": "Zadar",
+      "explanation": "The Crusaders laid siege to Zadar, a former Venetian possession that had recently fallen into the hands of Christian Hungary."
+    },
+    {
+      "question": "Which city did the Expedition attack after being persuaded?",
+      "choices": [
+        "Constantinople",
+        "Venice",
+        "Jerusalem"
+      ],
+      "answer": "Constantinople",
+      "explanation": "The Expedition was persuaded to attack Constantinople, Europe's largest city and a major competitor to Venice."
+    },
+    {
+      "question": "What did the Crusaders sack and pillage in the city of Constantinople?",
+      "choices": [
+        "Orthodox Churches",
+        "Synagogues",
+        "Cathedrals"
+      ],
+      "answer": "Orthodox Churches",
+      "explanation": "The Crusaders sacked and pillaged various places in Constantinople, including the Orthodox Churches."
+    },
+    {
+      "question": "What empire was dismantled in favor of a Latin Empire after the events in Constantinople?",
+      "choices": [
+        "Byzantine Empire",
+        "Ottoman Empire",
+        "Roman Empire"
+      ],
+      "answer": "Byzantine Empire",
+      "explanation": "The Byzantine Empire was dismantled in favor of a Latin Empire and many kingdoms after the sacking of Constantinople."
+    },
+    {
+      "question": "Who launched the new Crusade in 1198 to invade Egypt?",
+      "choices": [
+        "Pope Innocent III",
+        "King Richard",
+        "Queen Isabella"
+      ],
+      "answer": "Pope Innocent III",
+      "explanation": "Pope Innocent III launched the new Crusade in 1198 with the plan to invade Egypt, a rich resourceful land."
+    }
+  ]
+}

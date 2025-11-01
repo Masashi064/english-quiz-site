@@ -1,0 +1,63 @@
+{
+  "slug": "8cd58781",
+  "video_id": "nHAf4vzKKO4",
+  "movie_title": "Conflict between India and Pakistan",
+  "movie_url": "https://youtu.be/nHAf4vzKKO4",
+  "published_at": "2025-05-08T09:00:01Z",
+  "duration": "PT36S",
+  "tags": [],
+  "introduction": "Video excerpt from the History of India video",
+  "lead_intro": "Learn about the complex relationship between the United States, India, China, and Pakistan in this geopolitical analysis.",
+  "quiz": [
+    {
+      "question": "Which country strengthens its relationship with Pakistan after the September 11 attacks?",
+      "choices": [
+        "United States",
+        "India",
+        "China"
+      ],
+      "answer": "China",
+      "explanation": "The video mentions that China strengthens its relationship with Pakistan after the September 11 attacks."
+    },
+    {
+      "question": "What is the main cause of tension in Indo-Pakistani ties?",
+      "choices": [
+        "Contested region of Kashmir",
+        "Mumbai attacks",
+        "Fight against terrorism"
+      ],
+      "answer": "Contested region of Kashmir",
+      "explanation": "Indo-Pakistani ties remain tense mainly over the contested region of Kashmir, as stated in the video."
+    },
+    {
+      "question": "When did the Mumbai attacks occur?",
+      "choices": [
+        "September 11, 2001",
+        "November 2008",
+        "May 2003"
+      ],
+      "answer": "November 2008",
+      "explanation": "The video highlights the Mumbai attacks of November 2008 as one of the most audacious terror attacks in Indian cities."
+    },
+    {
+      "question": "What event brought the United States and India closer in cooperation against Islamist terrorism?",
+      "choices": [
+        "Mumbai attacks",
+        "Contested region of Kashmir",
+        "September 11 attacks"
+      ],
+      "answer": "September 11 attacks",
+      "explanation": "After the September 11 attacks, the United States and India moved closer to cooperate in the fight against Islamist terrorism, as mentioned in the video."
+    },
+    {
+      "question": "Which country's point of view regarding Kashmir is shown in the video?",
+      "choices": [
+        "Pakistan",
+        "India",
+        "China"
+      ],
+      "answer": "Pakistan",
+      "explanation": "The video provides maps from Pakistan's point of view and India's point of view regarding the contested region of Kashmir."
+    }
+  ]
+}

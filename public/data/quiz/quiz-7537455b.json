@@ -1,0 +1,63 @@
+{
+  "slug": "7537455b",
+  "video_id": "WGRzd4Wyp6U",
+  "movie_title": "The Turkish invasion of Cyprus",
+  "movie_url": "https://youtu.be/WGRzd4Wyp6U",
+  "published_at": "2025-07-04T14:00:55Z",
+  "duration": "PT34S",
+  "tags": [],
+  "introduction": "Video excerpt from the History of Walls video : \nhttps://youtu.be/Ho0B2wZZ9uU",
+  "lead_intro": "Cyprus has a tumultuous history, marked by violence and division between the Greek and Turkish communities. Learn more about this divided island in the video.",
+  "quiz": [
+    {
+      "question": "When did Cyprus become independent?",
+      "choices": [
+        "1960",
+        "1974",
+        "1980"
+      ],
+      "answer": "1960",
+      "explanation": "Cyprus has been independent since 1960."
+    },
+    {
+      "question": "What is the buffer zone dividing Cyprus called?",
+      "choices": [
+        "The Red Line",
+        "The Blue Line",
+        "The Green Line"
+      ],
+      "answer": "The Green Line",
+      "explanation": "The buffer zone dividing Cyprus is called the Green Line."
+    },
+    {
+      "question": "Which country dreams of annexing Cyprus?",
+      "choices": [
+        "Turkey",
+        "Greece",
+        "Italy"
+      ],
+      "answer": "Greece",
+      "explanation": "Greece dreams of annexing Cyprus."
+    },
+    {
+      "question": "Who invaded the north of the island in response to the coup attempt?",
+      "choices": [
+        "Greece",
+        "Turkey",
+        "Italy"
+      ],
+      "answer": "Turkey",
+      "explanation": "Turkey invaded the north of the island in response to the coup attempt."
+    },
+    {
+      "question": "Which organization supervises the buffer zone in Cyprus?",
+      "choices": [
+        "NATO",
+        "EU",
+        "United Nations"
+      ],
+      "answer": "United Nations",
+      "explanation": "The buffer zone in Cyprus is under the supervision of the United Nations."
+    }
+  ]
+}

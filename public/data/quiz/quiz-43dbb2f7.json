@@ -1,0 +1,63 @@
+{
+  "slug": "43dbb2f7",
+  "video_id": "XgIdVKdDMHc",
+  "movie_title": "The Yalta Conference",
+  "movie_url": "https://youtu.be/XgIdVKdDMHc",
+  "published_at": "2025-05-23T14:00:51Z",
+  "duration": "PT48S",
+  "tags": [],
+  "introduction": "Video excerpt from the Cold War video",
+  "lead_intro": "Learn about the decisions made at the Yalta Conference in this historical video.",
+  "quiz": [
+    {
+      "question": "Which country formalized the future creation of the UN at the Yalta Conference?",
+      "choices": [
+        "United States",
+        "China",
+        "France"
+      ],
+      "answer": "United States",
+      "explanation": "At the Yalta Conference, the United States formalized the future creation of the UN."
+    },
+    {
+      "question": "How many permanent members of the security Council were decided at the Yalta Conference?",
+      "choices": [
+        "Five",
+        "Three",
+        "Seven"
+      ],
+      "answer": "Five",
+      "explanation": "At the Yalta Conference, it was decided that five countries, including the US, China, France, and the UK, would be permanent members of the UN Security Council."
+    },
+    {
+      "question": "What commitment did the USSR make at Yalta regarding Japan?",
+      "choices": [
+        "Attack Japan within 3 months of German defeat",
+        "Support Japan in the war",
+        "Stay neutral in the conflict"
+      ],
+      "answer": "Attack Japan within 3 months of German defeat",
+      "explanation": "At Yalta, the USSR committed to attacking Japan within 3 months of the German defeat in World War II."
+    },
+    {
+      "question": "What agreement was reached about Poland at the Yalta Conference?",
+      "choices": [
+        "Recreate Poland with USSR keeping conquered territories",
+        "Leave Poland unchanged",
+        "Give Poland to Germany"
+      ],
+      "answer": "Recreate Poland with USSR keeping conquered territories",
+      "explanation": "At Yalta, the three powers agreed to recreate Poland, with the USSR keeping the territories it had conquered, moving the country further west."
+    },
+    {
+      "question": "Who negotiated to include France in the partition of Germany and Austria?",
+      "choices": [
+        "Churchill",
+        "Stalin",
+        "Roosevelt"
+      ],
+      "answer": "Churchill",
+      "explanation": "At Yalta, Churchill negotiated to include France in the partition of Germany and Austria."
+    }
+  ]
+}

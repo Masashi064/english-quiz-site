@@ -1,0 +1,63 @@
+{
+  "slug": "8a6539bb",
+  "video_id": "J3dWphhiqtQ",
+  "movie_title": "The World maritime trade routes",
+  "movie_url": "https://youtu.be/J3dWphhiqtQ",
+  "published_at": "2025-07-11T14:00:24Z",
+  "duration": "PT58S",
+  "tags": [],
+  "introduction": "Video excerpt from the History of the Major Trade Routes video : \nhttps://youtu.be/Q7xp1-VvtZ0",
+  "lead_intro": "Maritime trade routes play a crucial role in global commerce. Let's test your knowledge on this topic!",
+  "quiz": [
+    {
+      "question": "Which canal is mentioned as passing through North America?",
+      "choices": [
+        "Panama Canal",
+        "Suez Canal",
+        "Bering Strait"
+      ],
+      "answer": "Panama Canal",
+      "explanation": "The video mentions that the main Maritime trade route passes through the Panama Canal in North America."
+    },
+    {
+      "question": "What causes the melting of ice at the North Pole according to the video?",
+      "choices": [
+        "Climate change",
+        "Volcanic activity",
+        "Alien intervention"
+      ],
+      "answer": "Climate change",
+      "explanation": "The video states that the melting of ice at the North Pole is caused by climate change."
+    },
+    {
+      "question": "Which countries could benefit from the new Maritime routes according to the video?",
+      "choices": [
+        "Russia and Canada",
+        "Brazil and Australia",
+        "India and Japan"
+      ],
+      "answer": "Russia and Canada",
+      "explanation": "The video mentions that Russia and Canada could benefit from the new Maritime routes."
+    },
+    {
+      "question": "What are the major Powers demanding in relation to navigation, as per the video?",
+      "choices": [
+        "Free navigation",
+        "Restricted navigation",
+        "Exclusive navigation rights"
+      ],
+      "answer": "Free navigation",
+      "explanation": "According to the video, the major Powers like the United States and the European Union are demanding free navigation."
+    },
+    {
+      "question": "What does China intend to develop, as mentioned in the video?",
+      "choices": [
+        "Polar Silk Road",
+        "Desert Silk Road",
+        "Mountain Silk Road"
+      ],
+      "answer": "Polar Silk Road",
+      "explanation": "The video mentions that China intends to develop a polar Silk Road."
+    }
+  ]
+}

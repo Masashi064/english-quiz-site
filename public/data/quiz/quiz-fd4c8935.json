@@ -1,0 +1,63 @@
+{
+  "slug": "fd4c8935",
+  "video_id": "E7V615CFVYU",
+  "movie_title": "The Vietnam War",
+  "movie_url": "https://youtu.be/E7V615CFVYU",
+  "published_at": "2025-06-13T14:00:16Z",
+  "duration": "PT1M",
+  "tags": [],
+  "introduction": "Video excerpt from the Vietnam Wars video",
+  "lead_intro": "The Vietnam War was a complex conflict with various strategic decisions made by different countries. Let's test your knowledge on this topic!",
+  "quiz": [
+    {
+      "question": "What was the main target of US bombing attempts in Vietnam?",
+      "choices": [
+        "Hanoi",
+        "Hiong",
+        "Hoien trail"
+      ],
+      "answer": "Hoien trail",
+      "explanation": "The Hoien trail became the main target for US bombing attempts to disrupt the supply of weapons and men to the National Liberation Front."
+    },
+    {
+      "question": "What was the US army unable to win against in Vietnam?",
+      "choices": [
+        "Visible enemy",
+        "Highly organized enemy",
+        "Invisible enemy"
+      ],
+      "answer": "Invisible enemy",
+      "explanation": "The US army struggled to win against an invisible and highly organized enemy, the Viet Kong, in the jungle."
+    },
+    {
+      "question": "Which country was part of the alliance with North Vietnam during the Vietnam War?",
+      "choices": [
+        "Japan",
+        "China",
+        "South Korea"
+      ],
+      "answer": "China",
+      "explanation": "North Vietnam was allied with China and the USSR during the Vietnam War, leading to complex dynamics in the conflict."
+    },
+    {
+      "question": "What guerrilla warfare tactic did the Viet Kong employ in Vietnam?",
+      "choices": [
+        "Naval warfare",
+        "Aerial bombing",
+        "Jungle warfare"
+      ],
+      "answer": "Jungle warfare",
+      "explanation": "The Viet Kong organized guerrilla warfare from the jungle, making it challenging for the US to combat them effectively."
+    },
+    {
+      "question": "How did the United States attempt to dislodge the Viet Kong from their hideouts?",
+      "choices": [
+        "Building walls",
+        "Burning crops",
+        "Planting trees"
+      ],
+      "answer": "Burning crops",
+      "explanation": "The US tried to dislodge the Viet Kong by destroying crops and burning the jungle with Napalm to expose their hiding spots."
+    }
+  ]
+}

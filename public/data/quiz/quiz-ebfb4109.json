@@ -1,0 +1,63 @@
+{
+  "slug": "ebfb4109",
+  "video_id": "Yu8YV_Pe70U",
+  "movie_title": "The origins of Coffee",
+  "movie_url": "https://youtu.be/Yu8YV_Pe70U",
+  "published_at": "2025-05-02T14:00:46Z",
+  "duration": "PT57S",
+  "tags": [],
+  "introduction": "Video excerpt from The Incredible History of Coffee video",
+  "lead_intro": "Learn about the fascinating journey of the beverage known as bua and its transformation into the popular drink kahwa.",
+  "quiz": [
+    {
+      "question": "In what port did the beverage known as bua cross the Red Sea around the beginning of the second Millennium?",
+      "choices": [
+        "port of mocha",
+        "port of java",
+        "port of alexandria"
+      ],
+      "answer": "port of mocha",
+      "explanation": "The beverage known as bua crossed the Red Sea to reach the port of mocha."
+    },
+    {
+      "question": "Where was the new beverage called kahwa initially consumed?",
+      "choices": [
+        "Sufi monasteries",
+        "Buddhist temples",
+        "Jewish synagogues"
+      ],
+      "answer": "Sufi monasteries",
+      "explanation": "The new beverage called kahwa was initially consumed mainly in Sufi monasteries."
+    },
+    {
+      "question": "Where did the cultivation of coffee plants first develop?",
+      "choices": [
+        "highlands of yemen",
+        "deserts of saudi arabia",
+        "plains of egypt"
+      ],
+      "answer": "highlands of yemen",
+      "explanation": "The cultivation of coffee plants first developed in the highlands of Yemen."
+    },
+    {
+      "question": "Which city became very popular for the beverage after being reached by pilgrimage routes?",
+      "choices": [
+        "mecca",
+        "rome",
+        "athens"
+      ],
+      "answer": "mecca",
+      "explanation": "The beverage became very popular and spread after reaching Mecca through pilgrimage routes."
+    },
+    {
+      "question": "In which sultanate did the beverage become particularly popular in the Muslim World?",
+      "choices": [
+        "mamluk sultanate",
+        "ottoman empire",
+        "safavid dynasty"
+      ],
+      "answer": "mamluk sultanate",
+      "explanation": "The beverage became particularly popular in the Muslim World, especially in the mamluk sultanate."
+    }
+  ]
+}

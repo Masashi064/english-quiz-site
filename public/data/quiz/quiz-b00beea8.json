@@ -1,0 +1,63 @@
+{
+  "slug": "b00beea8",
+  "video_id": "M95E7I13P1c",
+  "movie_title": "Theodor Herzl and the Zionist movement",
+  "movie_url": "https://youtu.be/M95E7I13P1c",
+  "published_at": "2025-06-06T14:00:38Z",
+  "duration": "PT53S",
+  "tags": [],
+  "introduction": "Video excerpt from the Israeli-Palestinian conflict",
+  "lead_intro": "Learn about the history of the Zionist movement and the first Zionist Congress organized by Theodore Herzl.",
+  "quiz": [
+    {
+      "question": "Who organized the first Zionist Congress in Switzerland?",
+      "choices": [
+        "Theodore Herzel",
+        "Alfred Drus",
+        "The Jews"
+      ],
+      "answer": "Theodore Herzel",
+      "explanation": "Theodore Herzel organized the first Zionist Congress in Basel, Switzerland in 1897."
+    },
+    {
+      "question": "In which two countries did Theodore Herzl propose the establishment of a state for the Jewish people?",
+      "choices": [
+        "Palestine and Argentina",
+        "France and Germany",
+        "Switzerland and Austria"
+      ],
+      "answer": "Palestine and Argentina",
+      "explanation": "Theodore Herzl proposed the establishment of a state for the Jewish people in Palestine or Argentina."
+    },
+    {
+      "question": "What event led to the rise in prominence of the affair involving Alfred Dreyfus?",
+      "choices": [
+        "Anti-Semitism",
+        "World War I",
+        "French Revolution"
+      ],
+      "answer": "Anti-Semitism",
+      "explanation": "The affair involving Alfred Dreyfus gained prominence as anti-Semitism rose in the country."
+    },
+    {
+      "question": "What is the main goal of the Zionist movement?",
+      "choices": [
+        "Establishment of a Homeland for the Jewish people",
+        "World Domination",
+        "Cultural Assimilation"
+      ],
+      "answer": "Establishment of a Homeland for the Jewish people",
+      "explanation": "The main goal of the Zionist movement is the establishment of a Homeland for the Jewish people."
+    },
+    {
+      "question": "In what year did Theodore Herzl organize the first Zionist Congress?",
+      "choices": [
+        "1897",
+        "1905",
+        "1910"
+      ],
+      "answer": "1897",
+      "explanation": "Theodore Herzl organized the first Zionist Congress in Basel, Switzerland in 1897."
+    }
+  ]
+}
