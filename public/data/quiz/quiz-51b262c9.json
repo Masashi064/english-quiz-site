@@ -1,0 +1,63 @@
+{
+  "slug": "51b262c9",
+  "video_id": "BsyGAveGNAg",
+  "movie_title": "'Spy balloon' row: BBC News Review",
+  "movie_url": "https://youtu.be/BsyGAveGNAg",
+  "published_at": "2023-02-08T17:17:21Z",
+  "duration": "6:01",
+  "tags": [],
+  "introduction": "A Chinese balloon has been shot down by the US Air Force, near the country's coast. \nWashington beli",
+  "lead_intro": "Learn about the recent balloon incident between the US and China and pick up some vocabulary along the way!",
+  "quiz": [
+    {
+      "question": "What word describes the effect of the balloon incident on US-China relations?",
+      "choices": [
+        "deflate",
+        "inflate",
+        "bicker"
+      ],
+      "answer": "deflate",
+      "explanation": "'Deflate' in this context means to take the energy or force out of something, weakening hopes or dreams."
+    },
+    {
+      "question": "Which word means arguing over trivial matters, as mentioned in the video?",
+      "choices": [
+        "bicker",
+        "agitate",
+        "reconcile"
+      ],
+      "answer": "bicker",
+      "explanation": "'Bickering' refers to arguing about things that aren't very important, like constant fights over minor issues."
+    },
+    {
+      "question": "What phrase describes how other countries feel due to China's balloon strategy?",
+      "choices": [
+        "relaxed",
+        "on edge",
+        "indifferent"
+      ],
+      "answer": "on edge",
+      "explanation": "'On edge' means feeling tense or nervous, often making people react with stress or anger."
+    },
+    {
+      "question": "What did the balloon incident lead to in terms of a diplomatic visit?",
+      "choices": [
+        "delay",
+        "cancel",
+        "advance"
+      ],
+      "answer": "delay",
+      "explanation": "The incident caused a delay to an important diplomatic visit to China, as mentioned in the video."
+    },
+    {
+      "question": "What did China claim the balloon was monitoring, according to the video?",
+      "choices": [
+        "weather",
+        "military",
+        "wildlife"
+      ],
+      "answer": "weather",
+      "explanation": "China stated that the balloon was monitoring the weather, contrasting the US belief that it was a spy balloon."
+    }
+  ]
+}

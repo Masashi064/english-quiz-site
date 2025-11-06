@@ -1,0 +1,63 @@
+{
+  "slug": "38589720",
+  "video_id": "LYhITdxjcNc",
+  "movie_title": "Croquet with the Queen: Alice in Wonderland part 8",
+  "movie_url": "https://youtu.be/LYhITdxjcNc",
+  "published_at": "2019-08-10T16:00:07Z",
+  "duration": "6:01",
+  "tags": [],
+  "introduction": "Alice has finally found the beautiful garden - and now she gets to play croquet with the Queen! Is i",
+  "lead_intro": "Join Alice as she plays a curious game of croquet with the Queen of Hearts and the rest of the peculiar characters in the garden.",
+  "quiz": [
+    {
+      "question": "What were the croquet mallets shaped like?",
+      "choices": [
+        "flamingos",
+        "hedgehogs",
+        "playing cards"
+      ],
+      "answer": "flamingos",
+      "explanation": "In the game of croquet, the mallets were shaped like flamingos."
+    },
+    {
+      "question": "What did the players use to hit the hedgehogs?",
+      "choices": [
+        "flamingo's heads",
+        "croquet balls",
+        "playing cards"
+      ],
+      "answer": "flamingo's heads",
+      "explanation": "The players used the flamingo's heads to hit the hedgehogs during the game."
+    },
+    {
+      "question": "Who threatened to cut off the gardener's head?",
+      "choices": [
+        "The Queen of Hearts",
+        "The King of Hearts",
+        "The Knave of Hearts"
+      ],
+      "answer": "The Queen of Hearts",
+      "explanation": "The Queen of Hearts threatened to cut off the gardener's head for planting white roses instead of red ones."
+    },
+    {
+      "question": "What shape were the bodies of the playing card-soldiers?",
+      "choices": [
+        "square and flat",
+        "round and bumpy",
+        "triangular and slim"
+      ],
+      "answer": "square and flat",
+      "explanation": "The bodies of the playing card-soldiers were described as square and flat in the garden."
+    },
+    {
+      "question": "What happened to most of the players as the game progressed?",
+      "choices": [
+        "They were taken away by soldiers",
+        "They won the game",
+        "They escaped into the forest"
+      ],
+      "answer": "They were taken away by soldiers",
+      "explanation": "Most of the players angered the Queen and were taken away by soldiers during the game."
+    }
+  ]
+}

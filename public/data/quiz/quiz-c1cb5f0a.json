@@ -1,0 +1,68 @@
+{
+  "slug": "c1cb5f0a",
+  "video_id": "hIjuE76znbk",
+  "movie_title": "Caesar on the Druids // Roman Primary Source (58-49 BC)",
+  "movie_url": "https://youtu.be/hIjuE76znbk",
+  "published_at": "2019-07-12T14:39:40Z",
+  "duration": "6:15",
+  "tags": [
+    "iMovie",
+    "caesar",
+    "romans",
+    "roman history"
+  ],
+  "introduction": "This is an extract from Julius Caesar's 'Commentaries on the Gallic Wars', first published between 5",
+  "lead_intro": "Discover the ancient world of the Gauls and their fascinating customs through this intriguing text.",
+  "quiz": [
+    {
+      "question": "What are the two classes of individuals mentioned in the text?",
+      "choices": [
+        "druids",
+        "knights",
+        "common folk"
+      ],
+      "answer": "druids",
+      "explanation": "The two classes mentioned are druids and knights."
+    },
+    {
+      "question": "What is the main responsibility of the druids?",
+      "choices": [
+        "divine worship",
+        "military service",
+        "tax collection"
+      ],
+      "answer": "divine worship",
+      "explanation": "The druids are mainly concerned with divine worship, sacrifices, and the interpretation of ritual questions."
+    },
+    {
+      "question": "Why do the druids avoid writing down their teachings?",
+      "choices": [
+        "preserve memory",
+        "maintain secrecy",
+        "encourage writing"
+      ],
+      "answer": "preserve memory",
+      "explanation": "The druids avoid writing their teachings to maintain the cultivation of memory among their students."
+    },
+    {
+      "question": "What belief do the druids hold about souls?",
+      "choices": [
+        "they do not die",
+        "they reincarnate",
+        "they fade away"
+      ],
+      "answer": "they do not die",
+      "explanation": "The cardinal doctrine of the druids is that souls do not die but pass from one to another."
+    },
+    {
+      "question": "What extreme practice do some engage in during battle or severe illness?",
+      "choices": [
+        "sacrifice human victims",
+        "pray to gods",
+        "offer gold"
+      ],
+      "answer": "sacrifice human victims",
+      "explanation": "In times of battle or severe illness, some engage in sacrificing human victims, believing it appeases the gods."
+    }
+  ]
+}
