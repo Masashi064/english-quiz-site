@@ -1,0 +1,63 @@
+{
+  "slug": "63014213",
+  "video_id": "pkZptRD6v2U",
+  "movie_title": "Modern slavery",
+  "movie_url": "https://youtu.be/pkZptRD6v2U",
+  "published_at": "2025-07-25T14:01:24Z",
+  "duration": "0:39",
+  "tags": [],
+  "introduction": "Video excerpt from the Slavery video : \nhttps://youtu.be/40d0eDAQ3t0",
+  "lead_intro": "Did you know that in 2021, there are more slaves in the world than ever before in history? Let's test your knowledge on this important issue!",
+  "quiz": [
+    {
+      "question": "According to the International Labor Organization, how many slaves are estimated to be in the world in 2021?",
+      "choices": [
+        "50 million",
+        "21.3 million",
+        "22 million"
+      ],
+      "answer": "50 million",
+      "explanation": "The video mentions that there are about 50 million slaves in the world according to the latest estimates of the International Labor Organization."
+    },
+    {
+      "question": "What percentage of the world's slaves are represented by women?",
+      "choices": [
+        "70%",
+        "50%",
+        "30%"
+      ],
+      "answer": "70%",
+      "explanation": "The video states that in total, women represent about 70 percent of the world's slaves."
+    },
+    {
+      "question": "How many children are victims of forced labor according to the estimates?",
+      "choices": [
+        "3.3 million",
+        "22 million",
+        "6.3 million"
+      ],
+      "answer": "3.3 million",
+      "explanation": "The video mentions that of the 21.3 million victims of forced labor, 3.3 million are children."
+    },
+    {
+      "question": "Which form of slavery is considered a form of sexual and domestic exploitation?",
+      "choices": [
+        "Forced marriage",
+        "Commercial sexual exploitation",
+        "Forced labor"
+      ],
+      "answer": "Forced marriage",
+      "explanation": "Forced marriage is considered a form of sexual and domestic slavery as mentioned in the video."
+    },
+    {
+      "question": "How many people are victims of commercial sexual exploitation?",
+      "choices": [
+        "6.3 million",
+        "3.3 million",
+        "22 million"
+      ],
+      "answer": "6.3 million",
+      "explanation": "The video states that 6.3 million people, mainly women, are victims of commercial sexual exploitation."
+    }
+  ]
+}

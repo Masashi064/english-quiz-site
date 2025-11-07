@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/4VCYHTGjr-U",
   "published_at": "2020-02-28T14:40:09Z",
   "published_date": "2025-11-01T10:23:42.059399",
-  "duration": "PT13M2S",
+  "duration": "13:02",
   "introduction": "In this video, we trace the evolution of the European Union since the end of WWII until Brexit.\n----",
   "thumbnail_url": "https://i.ytimg.com/vi/4VCYHTGjr-U/default.jpg",
   "category": "",
@@ -52,5 +52,5 @@
   "likes": "",
   "subtitle_status": "",
   "assigned_category": "History",
-  "assigned_level": "intermediate"
+  "assigned_level": "advanced"
 }

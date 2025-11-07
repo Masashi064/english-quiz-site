@@ -1,0 +1,63 @@
+{
+  "slug": "ec82c044",
+  "video_id": "_Mmuf4O1QKg",
+  "movie_title": "The Atlantic Wall",
+  "movie_url": "https://youtu.be/_Mmuf4O1QKg",
+  "published_at": "2025-03-14T15:00:49Z",
+  "duration": "0:30",
+  "tags": [],
+  "introduction": "Video excerpt from the History of Walls video : \nhttps://youtu.be/Ho0B2wZZ9uU",
+  "lead_intro": "Learn about the construction of the Atlantic Wall during World War II and its role in preventing military landings.",
+  "quiz": [
+    {
+      "question": "What was the Atlantic Wall primarily made of?",
+      "choices": [
+        "bunkers",
+        "tanks",
+        "aircraft"
+      ],
+      "answer": "bunkers",
+      "explanation": "The Atlantic Wall was mainly composed of bunkers, minefields, and obstacles to block tanks."
+    },
+    {
+      "question": "Where was the largest military landing in history during World War II?",
+      "choices": [
+        "Normandy",
+        "Berlin",
+        "Moscow"
+      ],
+      "answer": "Normandy",
+      "explanation": "The largest military landing in history during World War II took place in Normandy."
+    },
+    {
+      "question": "What purpose did minefields serve in the Atlantic Wall?",
+      "choices": [
+        "block tanks",
+        "block aircraft",
+        "block ships"
+      ],
+      "answer": "block tanks",
+      "explanation": "Minefields were part of the Atlantic Wall's fortifications intended to block tanks."
+    },
+    {
+      "question": "Was the Atlantic Wall an actual continuous wall along the European coast?",
+      "choices": [
+        "Yes",
+        "No",
+        "Sometimes"
+      ],
+      "answer": "No",
+      "explanation": "The Atlantic Wall was not a continuous wall but rather a series of fortifications like bunkers and obstacles."
+    },
+    {
+      "question": "Which country did the military landing in Normandy come from?",
+      "choices": [
+        "Great Britain",
+        "Germany",
+        "France"
+      ],
+      "answer": "Great Britain",
+      "explanation": "The military landing in Normandy was from Great Britain, aiming to break through the Atlantic Wall."
+    }
+  ]
+}

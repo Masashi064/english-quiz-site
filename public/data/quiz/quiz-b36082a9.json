@@ -1,0 +1,63 @@
+{
+  "slug": "b36082a9",
+  "video_id": "C830bmzNjDc",
+  "movie_title": "Is breakfast the most important meal of the day? ⏲️ 6 Minute English",
+  "movie_url": "https://youtu.be/C830bmzNjDc",
+  "published_at": "2025-10-30T09:50:39Z",
+  "duration": "6:13",
+  "tags": [],
+  "introduction": "Some experts believe that a large breakfast could be the key to maintaining healthy eating habits. G",
+  "lead_intro": "Have you ever wondered why breakfast is considered the most important meal of the day? Let's dive into the science behind it with BBC Learning English!",
+  "quiz": [
+    {
+      "question": "According to a recent survey, what is the most popular breakfast in the UK?",
+      "choices": [
+        "eggs",
+        "toast",
+        "cereal"
+      ],
+      "answer": "cereal",
+      "explanation": "In the UK, cereal was found to be the most popular breakfast in the country according to a survey by a cereal manufacturer."
+    },
+    {
+      "question": "What does the expression 'breakfast like a king and dine like a pauper' mean?",
+      "choices": [
+        "have a big breakfast and a small dinner",
+        "eat only fruits for breakfast",
+        "skip breakfast and eat a large dinner"
+      ],
+      "answer": "have a big breakfast and a small dinner",
+      "explanation": "The expression suggests having a substantial breakfast and a modest dinner, emphasizing the importance of a hearty morning meal."
+    },
+    {
+      "question": "What does the term 'metabolism' refer to?",
+      "choices": [
+        "digestion of food",
+        "sleep patterns",
+        "muscle growth"
+      ],
+      "answer": "digestion of food",
+      "explanation": "Metabolism refers to the chemical processes inside your body, particularly those responsible for converting food into energy."
+    },
+    {
+      "question": "What does it mean if someone has 'better appetite control'?",
+      "choices": [
+        "they eat uncontrollably",
+        "they can't decide what to eat",
+        "their brain determines how much they should eat"
+      ],
+      "answer": "their brain determines how much they should eat",
+      "explanation": "Having better appetite control means that your brain effectively regulates how much food you consume."
+    },
+    {
+      "question": "How does eating earlier in the day affect blood sugar levels according to Courtney Peterson?",
+      "choices": [
+        "causes a spike in blood sugar levels",
+        "stabilizes blood sugar levels",
+        "reduces blood sugar levels"
+      ],
+      "answer": "stabilizes blood sugar levels",
+      "explanation": "Eating earlier in the day can help stabilize blood sugar levels, preventing sharp spikes and contributing to better overall health."
+    }
+  ]
+}

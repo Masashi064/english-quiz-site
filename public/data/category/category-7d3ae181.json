@@ -6,7 +6,7 @@
   "movie_url": "https://youtu.be/2eY4gmndO3g",
   "published_at": "2019-10-01T14:21:37Z",
   "published_date": "2025-11-01T10:23:46.390357",
-  "duration": "PT10M47S",
+  "duration": "10:47",
   "introduction": "This video is part one of a three-part series on the history of Napoleon. Here, we cover the period",
   "thumbnail_url": "https://i.ytimg.com/vi/2eY4gmndO3g/default.jpg",
   "category": "",
@@ -37,5 +37,5 @@
   "likes": "",
   "subtitle_status": "",
   "assigned_category": "History",
-  "assigned_level": "intermediate"
+  "assigned_level": "advanced"
 }
