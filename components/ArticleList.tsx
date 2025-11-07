@@ -31,7 +31,7 @@ export default function ArticleList({ slugs }: { slugs: string[] }) {
   const [category, setCategory] = useState('all')
   const [level, setLevel] = useState('all')
   const [search, setSearch] = useState('')
-  const [sortKey, setSortKey] = useState<'duration' | 'published_at' | 'published_date'>('published_date')
+  const [sortKey, setSortKey] = useState<'duration' | 'published_at' | 'published_date'>('published_at')
   const [sortOrder, setSortOrder] = useState<'asc' | 'desc'>('desc')
   const [completionFilter, setCompletionFilter] = useState<'all' | 'completed' | 'uncompleted'>('all')
   const [completedSlugs, setCompletedSlugs] = useState<string[]>([])
@@ -318,7 +318,7 @@ useEffect(() => {
             setLevel('all')
             setCompletionFilter('all')
             setSearch('')
-            setSortKey('published_date')
+            setSortKey('published_at')
             setSortOrder('desc')
           }}
           className="h-10 px-4 rounded text-sm bg-gray-300 text-gray-900 dark:bg-gray-600 dark:text-white hover:bg-gray-400 dark:hover:bg-gray-500"

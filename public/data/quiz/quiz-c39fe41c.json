@@ -1,0 +1,63 @@
+{
+  "slug": "c39fe41c",
+  "video_id": "x6Pdp8GBwTM",
+  "movie_title": "How do I pronounce 'th' sounds? Ask BBC Learning English",
+  "movie_url": "https://youtu.be/x6Pdp8GBwTM",
+  "published_at": "2025-10-07T09:01:25Z",
+  "duration": "3:10",
+  "tags": [],
+  "introduction": "The English words 'think', 'three', 'this' and 'then' all start with a 'th' sound -  learn how to pr",
+  "lead_intro": "Want to improve your English pronunciation of 'th' sounds? Let's tackle this tricky sound together!",
+  "quiz": [
+    {
+      "question": "What sound should you make when pronouncing 'three' and 'thirteen'?",
+      "choices": [
+        "blow air",
+        "use lips",
+        "use vocal cords"
+      ],
+      "answer": "blow air",
+      "explanation": "To pronounce 'three' and 'thirteen' correctly, you should blow air between your front teeth and the top of your tongue."
+    },
+    {
+      "question": "What can happen if your tongue is still behind your teeth when pronouncing 'th' sounds?",
+      "choices": [
+        "produce 'f' sound",
+        "produce 't' sound",
+        "produce 's' sound"
+      ],
+      "answer": "produce 's' sound",
+      "explanation": "If your tongue is still behind your teeth, it can sound like an 's' instead of the correct 'th' sound. Bring your tongue forward to fix this."
+    },
+    {
+      "question": "How can 'think' sound if you use your lips instead of your tongue?",
+      "choices": [
+        "'sink'",
+        "'fink'",
+        "'tree'"
+      ],
+      "answer": "'fink'",
+      "explanation": "If you use your lips instead of your tongue, 'think' can sound like 'fink'. Ensure your tongue is between your teeth when pronouncing 'th' sounds."
+    },
+    {
+      "question": "What is the only difference between pronouncing /θ/ and /ð/ sounds?",
+      "choices": [
+        "mouth position",
+        "tongue position",
+        "vocal cords usage"
+      ],
+      "answer": "vocal cords usage",
+      "explanation": "The only difference between /θ/ and /ð/ sounds is whether you use your vocal cords or not, while the mouth position remains the same."
+    },
+    {
+      "question": "What should you do before practicing moving your mouth from one sound to the next?",
+      "choices": [
+        "check tongue position",
+        "ensure speed",
+        "confirm vocal cord usage"
+      ],
+      "answer": "check tongue position",
+      "explanation": "Before practicing moving your mouth from one sound to the next, ensure your /θ/ or /ð/ sounds are correct by checking your tongue position."
+    }
+  ]
+}

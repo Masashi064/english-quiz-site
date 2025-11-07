@@ -11,29 +11,58 @@ type Props = {
   setCompletion: (v: string) => void;
   allCategories: string[];
   allChannels: string[];
+  sortKey: 'published_at' | 'duration' | 'published_date'
+  setSortKey: (v: 'published_at' | 'duration' | 'published_date') => void
+  sortOrder: 'asc' | 'desc'
+  setSortOrder: (v: 'asc' | 'desc') => void
 };
 
-export default function FilterSidebar({
-  category,
-  setCategory,
-  channel,
-  setChannel,
-  level,
-  setLevel,
-  completion,
-  setCompletion,
-  allCategories,
-  allChannels,
-}: Props) {
+export default function FilterSidebar(props: Props) {
+  const {
+    category, setCategory,
+    channel, setChannel,
+    level, setLevel,
+    completion, setCompletion,
+    allCategories, allChannels,
+    sortKey, setSortKey,
+    sortOrder, setSortOrder
+  } = props;
   const resetFilters = () => {
     setCategory('all');
     setChannel('all');
     setLevel('all');
     setCompletion('all');
+    setSortKey('published_at')
+    setSortOrder('desc')
   };
 
   return (
     <div className="space-y-4 p-4 text-sm text-black dark:text-white">
+      {/* 並び替え */}
+      <div>
+        <label className="block font-semibold mb-1">Sort</label>
+        <div className="grid grid-cols-2 gap-2">
+          <select
+            className="w-full bg-white dark:bg-gray-800 border dark:border-gray-600"
+            value={sortKey}
+            onChange={(e) =>
+              setSortKey(e.target.value as 'published_at' | 'duration' | 'published_date')
+            }
+          >
+            <option value="published_at">Published date</option>
+            <option value="duration">Duration</option>
+            <option value="published_date">Article date</option>
+          </select>
+          <select
+            className="w-full bg-white dark:bg-gray-800 border dark:border-gray-600"
+            value={sortOrder}
+            onChange={(e) => setSortOrder(e.target.value as 'asc' | 'desc')}
+          >
+            <option value="desc">Desc (new → old / long → short)</option>
+            <option value="asc">Asc (old → new / short → long)</option>
+          </select>
+        </div>
+      </div>
       <div>
         <label className="block font-semibold mb-1">Channel</label>
         <select

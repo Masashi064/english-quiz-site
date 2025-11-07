@@ -1,0 +1,63 @@
+{
+  "slug": "1211d64b",
+  "video_id": "JgB6-RWnV9M",
+  "movie_title": "Talking about travel 🚴🚗🚆 Real Easy English: Episode 9",
+  "movie_url": "https://youtu.be/JgB6-RWnV9M",
+  "published_at": "2025-10-05T10:00:28Z",
+  "duration": "5:02",
+  "tags": [],
+  "introduction": "Learn how to talk about your journey to work in simple English. Visit our website for more 👉 https:/",
+  "lead_intro": "Join us for a conversation about everyday travel in London in this Real Easy English podcast.",
+  "quiz": [
+    {
+      "question": "What is Georgie's preferred mode of transportation to work?",
+      "choices": [
+        "bus",
+        "walking",
+        "tube"
+      ],
+      "answer": "walking",
+      "explanation": "Georgie prefers to walk to work to get some fresh air and avoid the crowded underground train."
+    },
+    {
+      "question": "How long does Neil's journey take if he walks to work?",
+      "choices": [
+        "30 minutes",
+        "1 hour",
+        "2 hours"
+      ],
+      "answer": "1 hour",
+      "explanation": "Neil's walk to work takes one hour, while it takes 30 minutes if he takes the tube."
+    },
+    {
+      "question": "What causes a traffic jam according to Neil?",
+      "choices": [
+        "rain",
+        "too many cars and buses",
+        "road construction"
+      ],
+      "answer": "too many cars and buses",
+      "explanation": "A traffic jam occurs when there are too many cars and buses on the road, causing slow or no movement."
+    },
+    {
+      "question": "When does rush hour typically occur?",
+      "choices": [
+        "midnight",
+        "early morning",
+        "late evening"
+      ],
+      "answer": "early morning",
+      "explanation": "Rush hour is when most people are going to work, making the roads busier, usually in the early morning."
+    },
+    {
+      "question": "What does 'towards' mean?",
+      "choices": [
+        "travelling from one side to the other",
+        "travelling in the direction of",
+        "a big delay when driving"
+      ],
+      "answer": "travelling in the direction of",
+      "explanation": "'Towards' means moving or travelling in the direction of a particular place or goal."
+    }
+  ]
+}

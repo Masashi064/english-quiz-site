@@ -2,6 +2,8 @@
 import { useEffect, useState } from 'react'
 import Link from 'next/link'
 import FilterSidebar from '../components/FilterSidebar'
+type SortKey = 'published_at' | 'duration' | 'published_date'
+type SortOrder = 'asc' | 'desc'
 import { FaFilter } from 'react-icons/fa'
 import { getAuth } from 'firebase/auth'
 import { getFirestore, collection, getDocs } from 'firebase/firestore'
@@ -50,6 +52,18 @@ export default function TopArticleList({ articles }: { articles: Article[] }) {
   const [completedSlugs, setCompletedSlugs] = useState<string[]>([])
   const [loadedCompletion, setLoadedCompletion] = useState(false)
   const { user } = useAuth()
+  const [sortKey, setSortKey] = useState<SortKey>('published_at') // 既定＝動画公開日
+  const [sortOrder, setSortOrder] = useState<SortOrder>('desc')   // 既定＝新しい順
+  const parseDurationToSec = (s?: string) => {
+    if (!s) return 0
+    const parts = s.split(':').map(n => parseInt(n, 10))
+    if (parts.some(isNaN)) return 0
+    if (parts.length === 3) return parts[0]*3600 + parts[1]*60 + parts[2]
+    if (parts.length === 2) return parts[0]*60 + parts[1]
+    return parts[0] || 0
+  }
+  const pubTime = (x: any) =>
+    new Date(x?.published_at ?? x?.published_date ?? 0).getTime()
 
   const handleDrawerToggle = () => setDrawerOpen((prev) => !prev)
 
@@ -93,10 +107,20 @@ export default function TopArticleList({ articles }: { articles: Article[] }) {
       return matchCategory && matchLevel && matchChannel && matchCompletion
     })
 
+  // 並び替えロジック
   const sorted = [...filtered].sort((a, b) => {
-    const aDate = new Date(a.published_date || a.published_at).getTime()
-    const bDate = new Date(b.published_date || b.published_at).getTime()
-    return bDate - aDate
+    if (sortKey === 'published_at') {
+      return sortOrder === 'asc' ? pubTime(a) - pubTime(b) : pubTime(b) - pubTime(a)
+    }
+    if (sortKey === 'published_date') {
+      const at = new Date(a?.published_date ?? 0).getTime()
+      const bt = new Date(b?.published_date ?? 0).getTime()
+      return sortOrder === 'asc' ? at - bt : bt - at
+    }
+    // duration
+    const ad = parseDurationToSec(a?.duration)
+    const bd = parseDurationToSec(b?.duration)
+    return sortOrder === 'asc' ? ad - bd : bd - ad
   })
 
 
@@ -115,6 +139,10 @@ export default function TopArticleList({ articles }: { articles: Article[] }) {
           setCompletion={setCompletion}
           allCategories={allCategories}
           allChannels={allChannels}
+          sortKey={sortKey}
+          setSortKey={setSortKey}
+          sortOrder={sortOrder}
+          setSortOrder={setSortOrder}
         />
       </aside>
 
