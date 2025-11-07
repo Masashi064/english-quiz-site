@@ -144,10 +144,6 @@ export default function TopArticleList({ articles }: { articles: Article[] }) {
           setSortKey={setSortKey}
           sortOrder={sortOrder}
           setSortOrder={setSortOrder}
-          sortKey={sortKey}
-          setSortKey={setSortKey}
-          sortOrder={sortOrder}
-          setSortOrder={setSortOrder}
         />
       </aside>
 
@@ -170,6 +166,10 @@ export default function TopArticleList({ articles }: { articles: Article[] }) {
               setCompletion={setCompletion}
               allCategories={allCategories}
               allChannels={allChannels}
+              sortKey={sortKey}
+              setSortKey={setSortKey}
+              sortOrder={sortOrder}
+              setSortOrder={setSortOrder}
             />
           </div>
         </div>
