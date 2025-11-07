@@ -1,0 +1,63 @@
+{
+  "slug": "b2390525",
+  "video_id": "29pN-2KM2DI",
+  "movie_title": "It's Been 10 Years...",
+  "movie_url": "https://youtu.be/29pN-2KM2DI",
+  "published_at": "2025-10-21T14:00:02Z",
+  "duration": "2:48",
+  "tags": [],
+  "introduction": "The world is filling with low effort AI content… but we’d rather quit than make AI slop. That’s why",
+  "lead_intro": "Join the celebration of kurzgesagt's 10-year anniversary with their special edition Human Era Calendar and artbook! Learn more about their unique approach to marking time and honoring human achievements.",
+  "quiz": [
+    {
+      "question": "What is the Human Era Calendar designed to celebrate?",
+      "choices": [
+        "lions",
+        "humanity",
+        "stars"
+      ],
+      "answer": "humanity",
+      "explanation": "The Human Era Calendar is designed to celebrate humanity and human ingenuity, reframing time by starting 12,000 years ago at the dawn of human civilization."
+    },
+    {
+      "question": "In what year does the Human Era Calendar start?",
+      "choices": [
+        "2,000",
+        "10,000",
+        "12,000"
+      ],
+      "answer": "12,000",
+      "explanation": "The Human Era Calendar starts at 12,000 years ago, showcasing 10,000 more years of shared past and achievements of our ancestors."
+    },
+    {
+      "question": "What is included in the first-ever kurzgesagt artbook?",
+      "choices": [
+        "120 pages",
+        "10,000 illustrations",
+        "AI content"
+      ],
+      "answer": "120 pages",
+      "explanation": "The first-ever kurzgesagt artbook contains 120 pages, showcasing 10 years of kurzgesagt art in one comprehensive collection."
+    },
+    {
+      "question": "How are kurzgesagt products different from AI-generated content?",
+      "choices": [
+        "soulless",
+        "made with love",
+        "churned out quickly"
+      ],
+      "answer": "made with love",
+      "explanation": "kurzgesagt products are made with love by real humans who dedicate time to research, illustrate, and design each product, ensuring a personal touch in contrast to soulless algorithms."
+    },
+    {
+      "question": "What is the significance of the Human Era Calendar being set at 12,026?",
+      "choices": [
+        "marks human achievements",
+        "celebrates AI inventions",
+        "commemorates animal species"
+      ],
+      "answer": "marks human achievements",
+      "explanation": "The Human Era Calendar at 12,026 marks human achievements and offers a unique perspective on human history and progress as a species."
+    }
+  ]
+}

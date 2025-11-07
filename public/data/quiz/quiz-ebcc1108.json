@@ -1,0 +1,63 @@
+{
+  "slug": "ebcc1108",
+  "video_id": "KdK7G0msI4Y",
+  "movie_title": "The Abolition of Slavery in the United Kingdom",
+  "movie_url": "https://youtu.be/KdK7G0msI4Y",
+  "published_at": "2024-09-13T14:27:09Z",
+  "duration": "0:52",
+  "tags": [],
+  "introduction": "Video excerpt from the Slavery video : \nhttps://youtu.be/40d0eDAQ3t0",
+  "lead_intro": "Learn about the United Kingdom's role in abolishing the slave trade and slavery in this historical context.",
+  "quiz": [
+    {
+      "question": "When did the United Kingdom abolish the slave trade?",
+      "choices": [
+        "1807",
+        "1815",
+        "1833"
+      ],
+      "answer": "1807",
+      "explanation": "The United Kingdom abolished the slave trade in 1807."
+    },
+    {
+      "question": "When did the European powers meet to discuss abolishing the slave trade?",
+      "choices": [
+        "1815",
+        "1833",
+        "Vienna"
+      ],
+      "answer": "Vienna",
+      "explanation": "The European powers met in Vienna to discuss abolishing the slave trade."
+    },
+    {
+      "question": "When did the United Kingdom abolish slavery completely?",
+      "choices": [
+        "1807",
+        "1815",
+        "1833"
+      ],
+      "answer": "1833",
+      "explanation": "The United Kingdom abolished slavery completely in 1833."
+    },
+    {
+      "question": "Which country resisted abolishing the slave trade and continued massive importation of slaves?",
+      "choices": [
+        "Brazil",
+        "United Kingdom",
+        "Europe"
+      ],
+      "answer": "Brazil",
+      "explanation": "Brazil resisted and continued massive importation of slaves."
+    },
+    {
+      "question": "What did Brazilian ships do in 1833 regarding the slave trade?",
+      "choices": [
+        "Fetch slaves from Europe",
+        "Fetch slaves from Asia",
+        "Fetch slaves from Africa"
+      ],
+      "answer": "Fetch slaves from Africa",
+      "explanation": "Brazilian ships went directly to Africa to fetch slaves in 1833."
+    }
+  ]
+}

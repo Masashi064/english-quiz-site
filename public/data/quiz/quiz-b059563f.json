@@ -1,0 +1,63 @@
+{
+  "slug": "b059563f",
+  "video_id": "2kji_X0sgDo",
+  "movie_title": "The Pogroms in Russia and the Origins of Zionism",
+  "movie_url": "https://youtu.be/2kji_X0sgDo",
+  "published_at": "2025-02-28T15:00:04Z",
+  "duration": "0:56",
+  "tags": [],
+  "introduction": "Video excerpt from the Israeli-Palestinian conflict",
+  "lead_intro": "Learn about the history of Jewish migration to different parts of the world in this video.",
+  "quiz": [
+    {
+      "question": "In which year was Poland Lithuania entirely partitioned among its three neighbors?",
+      "choices": [
+        "1772",
+        "1795",
+        "1881"
+      ],
+      "answer": "1795",
+      "explanation": "In 1795, Poland Lithuania was entirely partitioned among its three neighbors."
+    },
+    {
+      "question": "Who ascended to the throne in 1881 following the assassination of Zar Alexander II?",
+      "choices": [
+        "Alexander II",
+        "Alexander III",
+        "Zar Alexander"
+      ],
+      "answer": "Alexander III",
+      "explanation": "Alexander III ascended to the throne in 1881 following the assassination of Zar Alexander II."
+    },
+    {
+      "question": "Where did many Jews flee to escape the violence and attacks in Russia?",
+      "choices": [
+        "United States",
+        "Western Europe",
+        "China"
+      ],
+      "answer": "United States",
+      "explanation": "Many Jews fled to the United States to escape the violence and attacks in Russia."
+    },
+    {
+      "question": "What group did some Jews form when considering migrating to Palestine?",
+      "choices": [
+        "Zion",
+        "Jerusalem",
+        "Lovers of Zion"
+      ],
+      "answer": "Lovers of Zion",
+      "explanation": "Some Jews formed the group 'Lovers of Zion' when considering migrating to Palestine."
+    },
+    {
+      "question": "What does Zion refer to in the context of Jewish migration?",
+      "choices": [
+        "A city",
+        "A country",
+        "A hill in Jerusalem"
+      ],
+      "answer": "A hill in Jerusalem",
+      "explanation": "Zion refers to a hill in Jerusalem, where some Jews considered migrating to."
+    }
+  ]
+}

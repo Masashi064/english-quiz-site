@@ -1,0 +1,63 @@
+{
+  "slug": "188cd6e7",
+  "video_id": "_aGLF1epNpk",
+  "movie_title": "The evolution of the European elections (1979-2024)",
+  "movie_url": "https://youtu.be/_aGLF1epNpk",
+  "published_at": "2024-06-14T14:00:25Z",
+  "duration": "0:47",
+  "tags": [],
+  "introduction": "Let’s retrace the evolution of the European Parliament elections, from 1979 until today\n\nThe indicat",
+  "lead_intro": "Ready to test your knowledge of the animal kingdom? Let's dive into a fascinating video about lions!",
+  "quiz": [
+    {
+      "question": "What is the name of a group of lions?",
+      "choices": [
+        "Pride",
+        "Pack",
+        "Herd"
+      ],
+      "answer": "Pride",
+      "explanation": "A group of lions is called a pride, typically consisting of related females and their offspring, and a small number of adult males."
+    },
+    {
+      "question": "Which continent are lions mainly found in?",
+      "choices": [
+        "South America",
+        "Asia",
+        "Africa"
+      ],
+      "answer": "Africa",
+      "explanation": "Lions are mainly found in Africa, with the majority of them living in sub-Saharan Africa."
+    },
+    {
+      "question": "What is the scientific name for a lion?",
+      "choices": [
+        "Panthera tigris",
+        "Panthera leo",
+        "Panthera onca"
+      ],
+      "answer": "Panthera leo",
+      "explanation": "The scientific name for a lion is Panthera leo, belonging to the genus Panthera along with tigers, leopards, and jaguars."
+    },
+    {
+      "question": "How many hours a day do lions sleep on average?",
+      "choices": [
+        "10 hours",
+        "16 hours",
+        "20 hours"
+      ],
+      "answer": "20 hours",
+      "explanation": "Lions are known to sleep for about 20 hours a day, making them one of the laziest animals in the world."
+    },
+    {
+      "question": "What sound do lions use to communicate within the pride?",
+      "choices": [
+        "Trumpet",
+        "Roar",
+        "Hiss"
+      ],
+      "answer": "Roar",
+      "explanation": "Lions use roaring as a way to communicate within the pride, with each roar being unique and identifiable to others."
+    }
+  ]
+}

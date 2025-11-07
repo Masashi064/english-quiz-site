@@ -1,0 +1,63 @@
+{
+  "slug": "33f09b03",
+  "video_id": "Ghy3qRR6kiw",
+  "movie_title": "Touchscreens – How Do They Work?",
+  "movie_url": "https://youtu.be/Ghy3qRR6kiw",
+  "published_at": "2025-10-23T14:00:34Z",
+  "duration": "0:51",
+  "tags": [],
+  "introduction": "On today's episode of \"How does stuff actually work?™\": Touchscreens \n\n#kurzgesagt\n#inanutshell #kur",
+  "lead_intro": "Ever wondered how touchscreens work? Let's dive into the technology behind these ubiquitous devices!",
+  "quiz": [
+    {
+      "question": "What produces an electric field at each intersection of wires in a touchscreen?",
+      "choices": [
+        "horizontal layers",
+        "vertical threads",
+        "glass"
+      ],
+      "answer": "vertical threads",
+      "explanation": "Vertical threads running through the glass of the display produce an electric field at each intersection of wires."
+    },
+    {
+      "question": "How does a touchscreen detect the exact position of a touch?",
+      "choices": [
+        "Measurements at the center",
+        "Measurements at the edges",
+        "Measurements at the top"
+      ],
+      "answer": "Measurements at the edges",
+      "explanation": "Measurements at the edges of the screen locate the exact position on an invisible grid when a fingertip approaches the display."
+    },
+    {
+      "question": "In what decade was the technology for touchscreens initially invented?",
+      "choices": [
+        "1970s",
+        "1980s",
+        "1960s"
+      ],
+      "answer": "1960s",
+      "explanation": "The technology for touchscreens was initially invented in the 1960s, paving the way for their widespread use in the 21st century."
+    },
+    {
+      "question": "What device played a role in bringing touchscreen technology to the masses?",
+      "choices": [
+        "Personal computer",
+        "Television",
+        "Smartphone"
+      ],
+      "answer": "Smartphone",
+      "explanation": "The smartphone played a significant role in bringing touchscreen technology into almost every person's life."
+    },
+    {
+      "question": "How did touchscreens impact human interactions with machines?",
+      "choices": [
+        "Increased distance",
+        "Reduced distance",
+        "No impact"
+      ],
+      "answer": "Reduced distance",
+      "explanation": "Touchscreens significantly reduced the distance between humans and machines, changing how we interact with technology."
+    }
+  ]
+}
