@@ -1,6 +1,7 @@
 'use client'
+import { useEffect, useState } from 'react'
 import Link from 'next/link'
-import { useState } from 'react'
+import FilterSidebar from './FilterSidebar'
 type SortKey = 'published_at' | 'duration' | 'published_date'
 type SortOrder = 'asc' | 'desc'
 import { FaFilter } from 'react-icons/fa'
@@ -8,7 +9,7 @@ import { getAuth } from 'firebase/auth'
 import { getFirestore, collection, getDocs } from 'firebase/firestore'
 import { app } from '../../lib/firebase'
 import { useAuth } from '../../lib/useAuth'
-import FilterSidebar from './FilterSidebar'
+
 
 type Article = {
   slug: string
