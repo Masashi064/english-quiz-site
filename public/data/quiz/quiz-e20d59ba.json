@@ -1,0 +1,63 @@
+{
+  "slug": "e20d59ba",
+  "video_id": "-oiL5sSbgK8",
+  "movie_title": "The European elections results (1979-2024)",
+  "movie_url": "https://youtu.be/-oiL5sSbgK8",
+  "published_at": "2024-06-14T13:55:00Z",
+  "duration": "0:47",
+  "tags": [],
+  "introduction": "Let’s retrace the evolution of the European Parliament, from 1979 until today\n\nThe indicated results",
+  "lead_intro": "Learn about the different animal sounds in English with this fun and educational video!",
+  "quiz": [
+    {
+      "question": "What sound does a lion make?",
+      "choices": [
+        "meow",
+        "oink",
+        "roar"
+      ],
+      "answer": "roar",
+      "explanation": "Lions make a roaring sound, not a meowing or oinking sound."
+    },
+    {
+      "question": "Which animal makes a 'moo' sound?",
+      "choices": [
+        "chirp",
+        "moo",
+        "bark"
+      ],
+      "answer": "moo",
+      "explanation": "Cows make a 'moo' sound, not a chirping or barking sound."
+    },
+    {
+      "question": "What sound does a duck make?",
+      "choices": [
+        "moo",
+        "quack",
+        "hiss"
+      ],
+      "answer": "quack",
+      "explanation": "Ducks make a 'quack' sound, not a mooing or hissing sound."
+    },
+    {
+      "question": "Which animal makes a 'neigh' sound?",
+      "choices": [
+        "neigh",
+        "meow",
+        "oink"
+      ],
+      "answer": "neigh",
+      "explanation": "Horses make a 'neigh' sound, not a meowing or oinking sound."
+    },
+    {
+      "question": "What sound does a cat make?",
+      "choices": [
+        "howl",
+        "chirp",
+        "meow"
+      ],
+      "answer": "meow",
+      "explanation": "Cats make a 'meow' sound, not a howling or chirping sound."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "824c49d0",
+  "video_id": "dKm7T13X7n4",
+  "movie_title": "Can Humanity Stop A Planet-Killing Asteroid?",
+  "movie_url": "https://youtu.be/dKm7T13X7n4",
+  "published_at": "2025-09-16T14:00:03Z",
+  "duration": "12:44",
+  "tags": [],
+  "introduction": "Start your asteroid adventure! Get Star Birds on Steam: https://kgs.link/starbirds_ytka\n\nSources & f",
+  "lead_intro": "Learn about the fascinating ways scientists are planning to protect Earth from killer asteroids in this video, and find out how a new tool called 'penetrators' could save the day!",
+  "quiz": [
+    {
+      "question": "What is the new tool scientists have developed to destroy killer asteroids?",
+      "choices": [
+        "Nuclear warheads",
+        "Cosmic bullets",
+        "Laser beams"
+      ],
+      "answer": "Cosmic bullets",
+      "explanation": "Scientists have developed super-dense, ultra-fast cosmic bullets called 'penetrators' to destroy asteroids."
+    },
+    {
+      "question": "Why can't traditional nuclear bombs be used to destroy asteroids?",
+      "choices": [
+        "They are too expensive",
+        "They are not powerful enough",
+        "They would be destroyed by the impact"
+      ],
+      "answer": "They would be destroyed by the impact",
+      "explanation": "Asteroids approach Earth at high speeds, making traditional nuclear bombs unable to survive the impact with the asteroid."
+    },
+    {
+      "question": "What happens when a penetrator hits an asteroid?",
+      "choices": [
+        "The asteroid splits in half",
+        "The penetrator vaporizes",
+        "The asteroid vaporizes"
+      ],
+      "answer": "The asteroid vaporizes",
+      "explanation": "When a penetrator hits an asteroid, it releases a tremendous amount of energy that vaporizes the asteroid, blasting it into thousands of pieces."
+    },
+    {
+      "question": "Why is it crucial to destroy a killer asteroid far away from Earth?",
+      "choices": [
+        "To create a cosmic show",
+        "To avoid the shockwaves of the impact",
+        "To test the penetrators"
+      ],
+      "answer": "To avoid the shockwaves of the impact",
+      "explanation": "Destroying a killer asteroid far from Earth prevents its fragments from hitting the atmosphere simultaneously, which could result in devastating shockwaves."
+    },
+    {
+      "question": "What is the main challenge in destroying a planet killer comet?",
+      "choices": [
+        "The speed of the comet",
+        "The size and mass of the comet",
+        "The comet's trajectory"
+      ],
+      "answer": "The size and mass of the comet",
+      "explanation": "Planet killer comets are massive, and breaking them into pieces may not prevent catastrophe, requiring a strategy to make all fragments miss Earth completely."
+    }
+  ]
+}

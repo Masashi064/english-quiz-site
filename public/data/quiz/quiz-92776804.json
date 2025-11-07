@@ -1,0 +1,63 @@
+{
+  "slug": "92776804",
+  "video_id": "7wK4peez9zE",
+  "movie_title": "Let's Kill You a Billion Times to Make You Immortal",
+  "movie_url": "https://youtu.be/7wK4peez9zE",
+  "published_at": "2025-07-29T14:00:02Z",
+  "duration": "12:34",
+  "tags": [],
+  "introduction": "Go to https://ground.news/KiN to get 40% off unlimited access to Ground News so you can compare cove",
+  "lead_intro": "Have you ever heard of the mind-boggling concept of quantum immortality? Dive into the world of quantum mechanics and explore the idea of multiple realities in this intriguing video.",
+  "quiz": [
+    {
+      "question": "In the many-worlds interpretation of quantum mechanics, what does the 80% probability wave of an electron in the living room indicate?",
+      "choices": [
+        "The electron exists in 4 different versions in the living room",
+        "The electron exists in 5 different versions in the living room",
+        "The electron exists in 3 different versions in the living room"
+      ],
+      "answer": "The electron exists in 4 different versions in the living room",
+      "explanation": "The 80% probability wave in the living room suggests that there are 4 versions of the electron in the living room according to the many-worlds interpretation."
+    },
+    {
+      "question": "What is the main argument of the 'linguists' in the debate about quantum mechanics?",
+      "choices": [
+        "To interpret the hidden meaning of the quantum story",
+        "To focus on creating mental pictures for electrons",
+        "To use quantum mechanics only for calculations and predictions"
+      ],
+      "answer": "To use quantum mechanics only for calculations and predictions",
+      "explanation": "The 'linguists' advocate for using quantum mechanics as a tool for calculations and predictions, rather than trying to visualize or interpret the nature of electrons."
+    },
+    {
+      "question": "According to the video, what happens when an electron is observed in the many-worlds interpretation?",
+      "choices": [
+        "The observer splits into multiple versions",
+        "The electron splits into multiple versions",
+        "The observer becomes invisible to the electron"
+      ],
+      "answer": "The observer splits into multiple versions",
+      "explanation": "In the many-worlds interpretation, when an electron is observed, the observer splits into multiple versions experiencing different outcomes simultaneously."
+    },
+    {
+      "question": "What is the potential consequence of the 'shut up and calculate' approach to quantum mechanics?",
+      "choices": [
+        "Limiting scientific exploration to experimental results",
+        "Encouraging creative interpretations of quantum phenomena",
+        "Promoting visualizing electrons as tiny marbles"
+      ],
+      "answer": "Limiting scientific exploration to experimental results",
+      "explanation": "The 'shut up and calculate' approach focuses on using quantum mechanics solely for calculations, potentially limiting the exploration of the underlying nature of quantum phenomena."
+    },
+    {
+      "question": "How does the video suggest the many-worlds interpretation of quantum mechanics could impact individuals?",
+      "choices": [
+        "It provides a sense of immortality through multiple realities",
+        "It limits individuals to a single version in the universe",
+        "It creates uncertainty about the existence of parallel worlds"
+      ],
+      "answer": "It provides a sense of immortality through multiple realities",
+      "explanation": "The many-worlds interpretation implies that individuals exist in multiple versions across different realities, offering a surreal sense of immortality through the coexistence of various outcomes."
+    }
+  ]
+}

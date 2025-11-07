@@ -1,0 +1,63 @@
+{
+  "slug": "97a305ed",
+  "video_id": "wwSzpaTHyS8",
+  "movie_title": "Did The Future Already Happen? - The Paradox of Time",
+  "movie_url": "https://youtu.be/wwSzpaTHyS8",
+  "published_at": "2024-01-30T15:00:03Z",
+  "duration": "12:35",
+  "tags": [],
+  "introduction": "Go to https://brilliant.org/nutshell/ to dive deeper into these topics and more with a free 30-day t",
+  "lead_intro": "Have you ever wondered if your past, present, and future all exist simultaneously? Dive into the mind-bending concept of time with this thought-provoking video.",
+  "quiz": [
+    {
+      "question": "According to the theory of relativity, time and space are not separated but connected as what?",
+      "choices": [
+        "Connected spacetime",
+        "Separated dimensions",
+        "Parallel universes"
+      ],
+      "answer": "Connected spacetime",
+      "explanation": "In the theory of relativity, time and space are interconnected as spacetime. This means that how time passes can vary for different people based on how they move through space relative to each other."
+    },
+    {
+      "question": "How does the video explain the concept of 'now' for different observers in the universe?",
+      "choices": [
+        "Multiple 'nows' are equally real for different observers",
+        "There is only one universal 'now'",
+        "The concept of 'now' is an illusion"
+      ],
+      "answer": "Multiple 'nows' are equally real for different observers",
+      "explanation": "Each observer in the universe experiences their own 'now', and according to relativity, all these 'nows' are equally valid and real."
+    },
+    {
+      "question": "What does the video suggest about the future based on quantum processes?",
+      "choices": [
+        "The future can't be predetermined due to quantum uncertainty",
+        "The future is fixed and unchangeable",
+        "Quantum processes have no impact on the future"
+      ],
+      "answer": "The future can't be predetermined due to quantum uncertainty",
+      "explanation": "Quantum processes, like radioactive decay, are inherently unpredictable, suggesting that the future cannot be entirely predetermined and must involve elements of uncertainty."
+    },
+    {
+      "question": "How does the video describe the concept of 'now' for individual objects in the universe?",
+      "choices": [
+        "The past, present, and future are always well defined for each object",
+        "The concept of 'now' is relative and changes constantly",
+        "Objects in the universe exist in a constant state of flux"
+      ],
+      "answer": "The past, present, and future are always well defined for each object",
+      "explanation": "For individual objects, such as a person or an atom, the past, present, and future are clearly defined. This means that each object experiences a distinct 'now' in relation to its existence."
+    },
+    {
+      "question": "What is the main takeaway regarding the nature of time from the video's explanations?",
+      "choices": [
+        "Time is a complex and abstract concept that may not have a definitive answer",
+        "The past, present, and future are fixed and unchangeable",
+        "The universe operates as a linear progression of events"
+      ],
+      "answer": "Time is a complex and abstract concept that may not have a definitive answer",
+      "explanation": "The video presents various perspectives on time, highlighting the ambiguity and complexity of the concept. It suggests that the nature of time may not have a single, easily defined explanation."
+    }
+  ]
+}

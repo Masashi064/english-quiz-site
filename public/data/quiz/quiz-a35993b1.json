@@ -1,0 +1,63 @@
+{
+  "slug": "a35993b1",
+  "video_id": "ZmJn-ePb2ms",
+  "movie_title": "Portuguese and Spanish Exploration of the New World",
+  "movie_url": "https://youtu.be/ZmJn-ePb2ms",
+  "published_at": "2024-05-31T14:00:34Z",
+  "duration": "1:00",
+  "tags": [],
+  "introduction": "Video excerpt from the History of Brazil video : \nhttps://youtu.be/b_6d5YVKhL0",
+  "lead_intro": "In the Age of Exploration, Portugal and Spain were at the forefront of discovering new lands. Let's test your knowledge on this historical period.",
+  "quiz": [
+    {
+      "question": "Who crossed the Cape of Good Hope in 1497?",
+      "choices": [
+        "Vasco de Gama",
+        "Pedro Alvarez Cabral",
+        "King John II"
+      ],
+      "answer": "Vasco de Gama",
+      "explanation": "Vasco de Gama crossed the Cape of Good Hope in 1497, opening a new route to the Indian Ocean."
+    },
+    {
+      "question": "Which country agreed to share the New World with Spain?",
+      "choices": [
+        "Portugal",
+        "France",
+        "England"
+      ],
+      "answer": "Portugal",
+      "explanation": "Portugal and Spain agreed to share the New World by drawing a meridian 370 leagues west of the Cape Verde Islands."
+    },
+    {
+      "question": "In what year did Pedro Alvarez Cabral go on an expedition?",
+      "choices": [
+        "1499",
+        "1497",
+        "1481"
+      ],
+      "answer": "1499",
+      "explanation": "Two years after Vasco de Gama's voyage, Pedro Alvarez Cabral embarked on an expedition to new lands."
+    },
+    {
+      "question": "What innovation made exploration easier during this time?",
+      "choices": [
+        "Caraval",
+        "Galleon",
+        "Frigate"
+      ],
+      "answer": "Caraval",
+      "explanation": "The creation of the caraval, a more maneuverable ship, accelerated explorations along the African coasts."
+    },
+    {
+      "question": "Where did the expedition move away from in order to discover new lands?",
+      "choices": [
+        "Coast of Africa",
+        "Cape of Good Hope",
+        "Indian Ocean"
+      ],
+      "answer": "Coast of Africa",
+      "explanation": "The expedition moved away from the coast of Africa to take advantage of sea currents and discover new lands to the east."
+    }
+  ]
+}

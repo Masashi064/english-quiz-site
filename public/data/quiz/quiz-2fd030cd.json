@@ -1,0 +1,63 @@
+{
+  "slug": "2fd030cd",
+  "video_id": "cWu1NsgO2nI",
+  "movie_title": "The Iron Curtain",
+  "movie_url": "https://youtu.be/cWu1NsgO2nI",
+  "published_at": "2024-06-07T14:00:29Z",
+  "duration": "0:41",
+  "tags": [],
+  "introduction": "Video excerpt from the History of Walls video : \nhttps://youtu.be/Ho0B2wZZ9uU",
+  "lead_intro": "Learn about the Iron Curtain and the construction of walls in Europe after World War II.",
+  "quiz": [
+    {
+      "question": "What was the main objective of the Iron Curtain separating the Soviet Camp from the Western Camp?",
+      "choices": [
+        "Preventing migration from east to west",
+        "Promoting trade between camps",
+        "Building cultural exchanges"
+      ],
+      "answer": "Preventing migration from east to west",
+      "explanation": "The main objective of the Iron Curtain was to prevent migration from east to west."
+    },
+    {
+      "question": "How wide is the zone forbidden to the population on the eastern side of the Iron Curtain?",
+      "choices": [
+        "Up to five kilometers",
+        "Up to ten kilometers",
+        "Up to fifteen kilometers"
+      ],
+      "answer": "Up to five kilometers",
+      "explanation": "A zone up to five kilometers wide was forbidden to the population on the eastern side of the Iron Curtain."
+    },
+    {
+      "question": "What was there on the western side of the Iron Curtain that was about 10 meters wide?",
+      "choices": [
+        "A strip without construction or vegetation",
+        "A strip of shops and markets",
+        "A strip of parks and gardens"
+      ],
+      "answer": "A strip without construction or vegetation",
+      "explanation": "On the western side of the Iron Curtain, there was a strip about 10 meters wide without construction or vegetation."
+    },
+    {
+      "question": "How were the borders finally closed in the construction of the Iron Curtain?",
+      "choices": [
+        "By a barbed wire fence",
+        "By a wooden fence",
+        "By a stone wall"
+      ],
+      "answer": "By a barbed wire fence",
+      "explanation": "The borders were finally closed by a barbed wire fence in the construction of the Iron Curtain."
+    },
+    {
+      "question": "What was one feature of the barbed wire fence that closed the borders in the Iron Curtain construction?",
+      "choices": [
+        "It could be electrified",
+        "It was made of wood",
+        "It had surveillance cameras"
+      ],
+      "answer": "It could be electrified",
+      "explanation": "One feature of the barbed wire fence was that it could be electrified in the Iron Curtain construction."
+    }
+  ]
+}
