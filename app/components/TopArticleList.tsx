@@ -1,7 +1,6 @@
 'use client'
-import { useEffect, useState } from 'react'
 import Link from 'next/link'
-import FilterSidebar from '../components/FilterSidebar'
+import { useState } from 'react'
 type SortKey = 'published_at' | 'duration' | 'published_date'
 type SortOrder = 'asc' | 'desc'
 import { FaFilter } from 'react-icons/fa'
@@ -9,6 +8,7 @@ import { getAuth } from 'firebase/auth'
 import { getFirestore, collection, getDocs } from 'firebase/firestore'
 import { app } from '../../lib/firebase'
 import { useAuth } from '../../lib/useAuth'
+import FilterSidebar from './FilterSidebar'
 
 type Article = {
   slug: string
@@ -139,6 +139,10 @@ export default function TopArticleList({ articles }: { articles: Article[] }) {
           setCompletion={setCompletion}
           allCategories={allCategories}
           allChannels={allChannels}
+          sortKey={sortKey}
+          setSortKey={setSortKey}
+          sortOrder={sortOrder}
+          setSortOrder={setSortOrder}
           sortKey={sortKey}
           setSortKey={setSortKey}
           sortOrder={sortOrder}
