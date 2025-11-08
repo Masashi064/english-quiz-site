@@ -1,0 +1,63 @@
+{
+  "slug": "f370dba3",
+  "video_id": "nZ_95iucrLE",
+  "movie_title": "The first FIFA World Cup",
+  "movie_url": "https://youtu.be/nZ_95iucrLE",
+  "published_at": "2023-08-30T14:00:37Z",
+  "duration": "1:00",
+  "tags": [],
+  "introduction": "Video excerpt from the History of Football video : \nhttps://youtu.be/Zlz4QgpOSw0",
+  "lead_intro": "Learn about the first FIFA World Cup hosted in Uruguay in 1930 and the interesting dynamics surrounding the event.",
+  "quiz": [
+    {
+      "question": "Which two countries played in the final match of the first FIFA World Cup in 1930?",
+      "choices": [
+        "Uruguay and Argentina",
+        "Brazil and Germany",
+        "France and Italy"
+      ],
+      "answer": "Uruguay and Argentina",
+      "explanation": "The final match of the first FIFA World Cup in 1930 was played between Uruguay and Argentina, with Uruguay winning 4-2."
+    },
+    {
+      "question": "Why did only four European countries agree to participate in the first World Cup in Uruguay?",
+      "choices": [
+        "Little interest in the event",
+        "Too expensive to travel",
+        "Lack of proper stadiums"
+      ],
+      "answer": "Little interest in the event",
+      "explanation": "Only four European countries agreed to participate in the first World Cup in Uruguay due to little interest in the event, especially because of the long two-week ship journey to reach Uruguay."
+    },
+    {
+      "question": "How was the issue of finding a referee for the final match resolved?",
+      "choices": [
+        "Found only a few hours before the match",
+        "Randomly selected from the audience",
+        "Chosen by the players themselves"
+      ],
+      "answer": "Found only a few hours before the match",
+      "explanation": "The issue of finding a referee for the final match was resolved by finding one only a few hours before the match, as the rivalry between Uruguay and Argentina made it challenging to agree on a referee."
+    },
+    {
+      "question": "How was the FIFA World Cup host determined for the first event in 1930?",
+      "choices": [
+        "Uruguay was chosen after winning the Olympic Games",
+        "Argentina bid the highest amount",
+        "The host was randomly selected"
+      ],
+      "answer": "Uruguay was chosen after winning the Olympic Games",
+      "explanation": "Uruguay was chosen to host the first FIFA World Cup in 1930 after their victory at the Olympic Games, as part of the Centenary celebrations of the country's Independence."
+    },
+    {
+      "question": "What was unique about the football used in the final match between Uruguay and Argentina?",
+      "choices": [
+        "Each team used their own ball",
+        "A special gold-plated ball was used",
+        "No ball was used"
+      ],
+      "answer": "Each team used their own ball",
+      "explanation": "In the final match between Uruguay and Argentina, each team used their own ball - one half was played with the Argentine ball and the other half with the Uruguayan ball."
+    }
+  ]
+}

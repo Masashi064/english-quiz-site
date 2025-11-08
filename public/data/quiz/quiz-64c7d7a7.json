@@ -1,0 +1,63 @@
+{
+  "slug": "64c7d7a7",
+  "video_id": "6vsESxrk12s",
+  "movie_title": "The Pirate Round",
+  "movie_url": "https://youtu.be/6vsESxrk12s",
+  "published_at": "2023-08-23T14:00:06Z",
+  "duration": "0:40",
+  "tags": [],
+  "introduction": "Video excerpt from the History of Piracy video : \nhttps://youtu.be/3oNuv_o9mnE",
+  "lead_intro": "Learn about the fascinating journey of English privateer turned pirate Thomas II in the 17th century.",
+  "quiz": [
+    {
+      "question": "What prompted Thomas II to turn to piracy?",
+      "choices": [
+        "Attacking French forts",
+        "Plundering a Mughal merchant ship",
+        "Sailing to the Indian Ocean"
+      ],
+      "answer": "Plundering a Mughal merchant ship",
+      "explanation": "Thomas II changed his plan and turned to piracy after plundering a Mughal merchant ship in the Red Sea."
+    },
+    {
+      "question": "Where did Thomas II receive the equivalent of 30 years' wages for each crew member?",
+      "choices": [
+        "The Caribbean",
+        "Africa",
+        "The Red Sea"
+      ],
+      "answer": "The Caribbean",
+      "explanation": "Upon his return to the Caribbean, each member of Thomas II's crew received the equivalent of 30 years' wages."
+    },
+    {
+      "question": "Where did Thomas II's pirating activities initially begin?",
+      "choices": [
+        "The Caribbean",
+        "Indian Ocean",
+        "Africa"
+      ],
+      "answer": "Africa",
+      "explanation": "Thomas II was initially hired as a privateer to attack French forts in Africa before turning to piracy."
+    },
+    {
+      "question": "What important trade route did Thomas II intersect in the Red Sea?",
+      "choices": [
+        "Arabian",
+        "Mughal",
+        "Indian"
+      ],
+      "answer": "Indian",
+      "explanation": "In the Red Sea, Thomas II intersected the important Arab-Indian trade route where he plundered a Mughal merchant ship."
+    },
+    {
+      "question": "Which event prompted many pirates to leave the Caribbean and operate in the Indian Ocean?",
+      "choices": [
+        "Thomas II's return",
+        "News of the Mughal merchant ship plundering",
+        "Operating in Africa"
+      ],
+      "answer": "News of the Mughal merchant ship plundering",
+      "explanation": "The news of Thomas II's successful plundering of a Mughal merchant ship prompted many pirates to leave the Caribbean to operate in the Indian Ocean."
+    }
+  ]
+}

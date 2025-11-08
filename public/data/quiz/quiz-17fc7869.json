@@ -1,0 +1,63 @@
+{
+  "slug": "17fc7869",
+  "video_id": "LfDWCcbIjDg",
+  "movie_title": "Gerund or infinitive? Ask BBC Learning English",
+  "movie_url": "https://youtu.be/LfDWCcbIjDg",
+  "published_at": "2025-09-30T09:00:37Z",
+  "duration": "4:36",
+  "tags": [],
+  "introduction": "When you use two English verbs together, what form does the second verb take? Should you use a gerun",
+  "lead_intro": "Do you struggle with when to use gerunds or infinitives in English? Let's dive into some rules and patterns to help clarify things!",
+  "quiz": [
+    {
+      "question": "What form does a verb generally take after a preposition?",
+      "choices": [
+        "gerund",
+        "infinitive",
+        "participle"
+      ],
+      "answer": "gerund",
+      "explanation": "After a preposition, a verb typically needs to be in the gerund form."
+    },
+    {
+      "question": "Which form should be used after an adjective?",
+      "choices": [
+        "gerund",
+        "infinitive",
+        "participle"
+      ],
+      "answer": "infinitive",
+      "explanation": "After an adjective, a verb usually takes the infinitive form, although there are exceptions."
+    },
+    {
+      "question": "What form is generally used when a verb acts as the subject of a sentence?",
+      "choices": [
+        "gerund",
+        "infinitive",
+        "participle"
+      ],
+      "answer": "gerund",
+      "explanation": "When a verb functions as the subject of a sentence, it is commonly in the gerund form."
+    },
+    {
+      "question": "Which verbs are typically followed by a gerund?",
+      "choices": [
+        "suggest",
+        "decide",
+        "start"
+      ],
+      "answer": "start",
+      "explanation": "Verbs like 'start' are usually followed by a gerund."
+    },
+    {
+      "question": "Which verbs are usually followed by an infinitive?",
+      "choices": [
+        "deny",
+        "fancy",
+        "confess"
+      ],
+      "answer": "deny",
+      "explanation": "Verbs such as 'deny' are commonly followed by an infinitive."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "2f001697",
+  "video_id": "Z55Lct1OIgE",
+  "movie_title": "The Triangular trade",
+  "movie_url": "https://youtu.be/Z55Lct1OIgE",
+  "published_at": "2023-08-26T13:00:32Z",
+  "duration": "1:00",
+  "tags": [],
+  "introduction": "Video excerpt from the Slavery video : \nhttps://youtu.be/40d0eDAQ3t0",
+  "lead_intro": "Learn about the historical trade routes involving Europe, Africa, and the Americas.",
+  "quiz": [
+    {
+      "question": "What European handicrafts were traded by the companies in the video?",
+      "choices": [
+        "textiles",
+        "metals",
+        "weapons"
+      ],
+      "answer": "textiles",
+      "explanation": "The companies traded European handicrafts such as textiles."
+    },
+    {
+      "question": "Where did the majority of slaves end up according to the video?",
+      "choices": [
+        "Brazil",
+        "Caribbean",
+        "America"
+      ],
+      "answer": "Brazil",
+      "explanation": "The majority of slaves ended up in Brazil and the Caribbean."
+    },
+    {
+      "question": "What did European landowners called Planters exchange the slaves for?",
+      "choices": [
+        "precious metals",
+        "local products",
+        "textiles"
+      ],
+      "answer": "local products",
+      "explanation": "European landowners called Planters exchanged the slaves for local products."
+    },
+    {
+      "question": "Where did the ships return to after trading American Products?",
+      "choices": [
+        "Africa",
+        "Europe",
+        "Caribbean"
+      ],
+      "answer": "Europe",
+      "explanation": "The ships returned to Europe after trading American Products."
+    },
+    {
+      "question": "What was Western Europe rapidly getting richer at the expense of according to the video?",
+      "choices": [
+        "labor force of Africa",
+        "cultivatable land of America",
+        "natural resources of Europe"
+      ],
+      "answer": "labor force of Africa",
+      "explanation": "Western Europe was rapidly getting richer at the expense of the labor force of Africa."
+    }
+  ]
+}
