@@ -1,0 +1,63 @@
+{
+  "slug": "6.47E+13",
+  "video_id": "vNQUAtFQf9A",
+  "movie_title": "What makes a good citizen? ⏲️ 6 Minute English",
+  "movie_url": "https://youtu.be/vNQUAtFQf9A",
+  "published_at": "2025-10-09T09:17:14Z",
+  "duration": "6:14",
+  "tags": [],
+  "introduction": "Do you ever feel disconnected from politics and politicians? Many of us want to improve our communit",
+  "lead_intro": "What makes a good citizen? Join Neil and Georgie from BBC Learning English as they explore the concept of citizenship and discuss an exciting project in Portugal.",
+  "quiz": [
+    {
+      "question": "What is the meaning of the Ancient Greek word 'polis'?",
+      "choices": [
+        "vote",
+        "people",
+        "city"
+      ],
+      "answer": "city",
+      "explanation": "The Ancient Greek word 'polis' means 'city'. It refers to city-states like Athens and Sparta where the idea of citizenship originated."
+    },
+    {
+      "question": "What do citizens do in MyPolis council assemblies?",
+      "choices": [
+        "vote for politicians",
+        "propose improvements",
+        "attend political rallies"
+      ],
+      "answer": "propose improvements",
+      "explanation": "In MyPolis council assemblies, children propose improvements to their local school community, such as fixing broken water fountains or changing the curriculum."
+    },
+    {
+      "question": "What does 'erosion of trust' refer to?",
+      "choices": [
+        "loss of confidence",
+        "increase in support",
+        "political corruption"
+      ],
+      "answer": "loss of confidence",
+      "explanation": "'Erosion of trust' means a gradual weakening of people's confidence in political and economic institutions."
+    },
+    {
+      "question": "What does it mean if a government is 'in office'?",
+      "choices": [
+        "not in power",
+        "temporary authority",
+        "currently in power"
+      ],
+      "answer": "currently in power",
+      "explanation": "When a government is 'in office', it means they are currently in power at the present time."
+    },
+    {
+      "question": "What is an 'add-on' in the context of education?",
+      "choices": [
+        "core subject",
+        "extracurricular activity",
+        "additional component"
+      ],
+      "answer": "additional component",
+      "explanation": "An 'add-on' in education refers to something extra that is added later, not originally planned from the start."
+    }
+  ]
+}

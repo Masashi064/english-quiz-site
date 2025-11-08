@@ -1,0 +1,63 @@
+{
+  "slug": "aa44905c",
+  "video_id": "EmgJPc2W13k",
+  "movie_title": "The North Atlantic Treaty",
+  "movie_url": "https://youtu.be/EmgJPc2W13k",
+  "published_at": "2023-09-02T13:00:08Z",
+  "duration": "0:51",
+  "tags": [],
+  "introduction": "Video excerpt from the NATO video : \nhttps://youtu.be/8NlhfoFK9PI",
+  "lead_intro": "The North Atlantic Treaty, signed on April 4th, 1949, laid the foundation for a significant political and military alliance. Let's test your knowledge on this historic event!",
+  "quiz": [
+    {
+      "question": "What is the primary purpose of Article 5 in the North Atlantic Treaty?",
+      "choices": [
+        "Ensuring collective defense",
+        "Promoting trade agreements",
+        "Establishing political alliances"
+      ],
+      "answer": "Ensuring collective defense",
+      "explanation": "Article 5 of the North Atlantic Treaty focuses on ensuring the collective defense of member countries in case of an armed attack."
+    },
+    {
+      "question": "Which territories are affected by an armed attack according to the North Atlantic Treaty?",
+      "choices": [
+        "Countries south of the Equator",
+        "Signatory countries north of the Tropic of Cancer",
+        "Only European countries"
+      ],
+      "answer": "Signatory countries north of the Tropic of Cancer",
+      "explanation": "The North Atlantic Treaty states that an armed attack against signatory countries north of the Tropic of Cancer is considered an attack against all."
+    },
+    {
+      "question": "What regions were officially under the protection of the United States after the creation of NATO?",
+      "choices": [
+        "South America",
+        "Western Europe",
+        "Asia Pacific"
+      ],
+      "answer": "Western Europe",
+      "explanation": "After the establishment of NATO, Western Europe was officially under the protection of the United States."
+    },
+    {
+      "question": "Which two territories mentioned in the video were under the protection of NATO?",
+      "choices": [
+        "Morocco and Egypt",
+        "French Algeria and Cyprus",
+        "Australia and New Zealand"
+      ],
+      "answer": "French Algeria and Cyprus",
+      "explanation": "The video highlights that the Departments of French Algeria and Cyprus were under the protection of NATO."
+    },
+    {
+      "question": "Which country was the sole nuclear power under the North Atlantic Treaty?",
+      "choices": [
+        "France",
+        "United Kingdom",
+        "United States"
+      ],
+      "answer": "United States",
+      "explanation": "The United States was identified as the only nuclear power under the North Atlantic Treaty."
+    }
+  ]
+}

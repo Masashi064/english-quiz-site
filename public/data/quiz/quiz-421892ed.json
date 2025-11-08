@@ -1,0 +1,63 @@
+{
+  "slug": "421892ed",
+  "video_id": "jzOT8okf5TA",
+  "movie_title": "Leopold II Congo Free State",
+  "movie_url": "https://youtu.be/jzOT8okf5TA",
+  "published_at": "2024-01-10T13:00:38Z",
+  "duration": "1:00",
+  "tags": [],
+  "introduction": "Video excerpt from the Slavery video : \nhttps://youtu.be/40d0eDAQ3t0",
+  "lead_intro": "Learn about the history of the colonization of Africa in the late 19th century through this video.",
+  "quiz": [
+    {
+      "question": "Who obtained a huge territory in the heart of Africa as his personal possession?",
+      "choices": [
+        "Belgian King Leopold II",
+        "European powers",
+        "Former powerful slave trader from Zanzibar"
+      ],
+      "answer": "Belgian King Leopold II",
+      "explanation": "Belgian King Leopold II obtained a large territory in Africa as his personal possession."
+    },
+    {
+      "question": "What was the main product the population under Leopold II's rule had to produce?",
+      "choices": [
+        "Rubber",
+        "Gold",
+        "Diamonds"
+      ],
+      "answer": "Rubber",
+      "explanation": "The population was mainly forced to produce rubber in the Congo under Leopold II."
+    },
+    {
+      "question": "In what year did Leopold II seed the Congo to the Belgian state?",
+      "choices": [
+        "1908",
+        "1885",
+        "1910"
+      ],
+      "answer": "1908",
+      "explanation": "In 1908, under international pressure, Leopold II gave up the Congo to the Belgian state."
+    },
+    {
+      "question": "What were the consequences for those who didn't meet the production quotas in the Congo?",
+      "choices": [
+        "Massacred or mutilated",
+        "Promoted",
+        "Given rewards"
+      ],
+      "answer": "Massacred or mutilated",
+      "explanation": "Those who didn't meet the quotas in the Congo were often massacred or mutilated."
+    },
+    {
+      "question": "Which event put a direct end to the brutal methods used in the Congo under Leopold II's rule?",
+      "choices": [
+        "Leopold II seeding the Congo to the Belgian state",
+        "Berlin Conference",
+        "Abolition of slavery"
+      ],
+      "answer": "Leopold II seeding the Congo to the Belgian state",
+      "explanation": "The direct end to the brutal methods in the Congo happened when Leopold II gave up control and the territory was transferred to the Belgian state in 1908."
+    }
+  ]
+}

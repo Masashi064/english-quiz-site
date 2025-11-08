@@ -1,0 +1,65 @@
+{
+  "slug": "aa089817",
+  "video_id": "LBudghsdByQ",
+  "movie_title": "Why Humans Are Vanishing",
+  "movie_url": "https://youtu.be/LBudghsdByQ",
+  "published_at": "2023-10-04T14:00:02Z",
+  "duration": "13:07",
+  "tags": [
+    "population crash"
+  ],
+  "introduction": "Go to https://brilliant.org/nutshell/ to dive deeper into these topics and more with a free 30-day t",
+  "lead_intro": "Are declining birth rates and aging populations signaling the end of humanity? Dive into the complexities of global demographics with this thought-provoking video.",
+  "quiz": [
+    {
+      "question": "Which country had the lowest fertility rate in the world in 2022?",
+      "choices": [
+        "Italy",
+        "South Korea",
+        "China"
+      ],
+      "answer": "South Korea",
+      "explanation": "The video mentions that South Korea had a fertility rate of 0.8 children per woman in 2022, the lowest in the world."
+    },
+    {
+      "question": "What impact does declining fertility rates and aging populations have on societies?",
+      "choices": [
+        "Increased innovation",
+        "Economic challenges",
+        "Improved healthcare"
+      ],
+      "answer": "Economic challenges",
+      "explanation": "The video explains that declining birth rates and aging populations lead to economic challenges, such as unsustainable healthcare costs and financial burdens on the working-age population."
+    },
+    {
+      "question": "What is a consequence of infrastructure collapse in a declining population?",
+      "choices": [
+        "Reduction in healthcare costs",
+        "Increased resources for individuals",
+        "Operational challenges"
+      ],
+      "answer": "Operational challenges",
+      "explanation": "The video mentions that in a declining population, infrastructure collapse is a common consequence due to operational challenges and the disappearance of resources needed to sustain infrastructure."
+    },
+    {
+      "question": "Why is immigration considered a temporary solution to declining populations?",
+      "choices": [
+        "Immigrants adapt quickly to new environments",
+        "Immigration policies are too strict",
+        "Fertility rates of immigrants adjust over time"
+      ],
+      "answer": "Fertility rates of immigrants adjust over time",
+      "explanation": "The video highlights that the fertility rates of immigrants tend to adjust to the levels of the local population within three generations, making immigration a temporary solution to declining populations."
+    },
+    {
+      "question": "What societal challenge arises from having fewer young people in a population?",
+      "choices": [
+        "Increased cultural diversity",
+        "Rising birth rates",
+        "Financial burden on the young"
+      ],
+      "answer": "Financial burden on the young",
+      "explanation": "The video explains that having fewer young people in a population leads to a financial burden on the young due to unsustainable healthcare costs and the need to support an aging population."
+    }
+  ]
+}

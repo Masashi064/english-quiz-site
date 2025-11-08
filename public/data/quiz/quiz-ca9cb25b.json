@@ -1,0 +1,63 @@
+{
+  "slug": "ca9cb25b",
+  "video_id": "q3I6Z-3w948",
+  "movie_title": "Short trailer Western Sahara #geohistory #westernsahara",
+  "movie_url": "https://youtu.be/q3I6Z-3w948",
+  "published_at": "2023-11-16T15:28:31Z",
+  "duration": "0:39",
+  "tags": [],
+  "introduction": "See you tomorrow !",
+  "lead_intro": "Join us as we explore the origins and evolution of the Western Sahara conflict in this informative video.",
+  "quiz": [
+    {
+      "question": "When did 350,000 Moroccans cross the border into Spanish Sahara?",
+      "choices": [
+        "1975",
+        "1980",
+        "1990"
+      ],
+      "answer": "1975",
+      "explanation": "On November 6th, 1975, 350,000 Moroccans marched peacefully into Spanish Sahara to accelerate Spain's departure."
+    },
+    {
+      "question": "Who called for the march into Spanish Sahara in 1975?",
+      "choices": [
+        "Moroccan King Hassan II",
+        "Algerian President",
+        "Tunisian Prime Minister"
+      ],
+      "answer": "Moroccan King Hassan II",
+      "explanation": "The march into Spanish Sahara in 1975 was at the call of Moroccan King Hassan II."
+    },
+    {
+      "question": "What was the aim of the Moroccans crossing into Spanish Sahara in 1975?",
+      "choices": [
+        "Accelerate Spain's departure",
+        "Declare independence",
+        "Expand Moroccan territory"
+      ],
+      "answer": "Accelerate Spain's departure",
+      "explanation": "The aim of the Moroccans crossing into Spanish Sahara in 1975 was to accelerate Spain's departure and force negotiations on the territory's future."
+    },
+    {
+      "question": "How long has the Western Sahara conflict been ongoing?",
+      "choices": [
+        "20 years",
+        "30 years",
+        "almost 50 years"
+      ],
+      "answer": "almost 50 years",
+      "explanation": "The Western Sahara conflict, explored in the video, has been ongoing for almost 50 years."
+    },
+    {
+      "question": "What were the marchers holding as they crossed into Spanish Sahara in 1975?",
+      "choices": [
+        "Moroccan Flags",
+        "Spanish Flags",
+        "Algerian Flags"
+      ],
+      "answer": "Moroccan Flags",
+      "explanation": "In 1975, the marchers crossing into Spanish Sahara were holding Moroccan Flags."
+    }
+  ]
+}

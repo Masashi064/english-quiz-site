@@ -1,0 +1,63 @@
+{
+  "slug": "9ee4e79c",
+  "video_id": "ufeKcNEFuL8",
+  "movie_title": "The Arab slave trade",
+  "movie_url": "https://youtu.be/ufeKcNEFuL8",
+  "published_at": "2023-12-01T14:00:41Z",
+  "duration": "0:45",
+  "tags": [],
+  "introduction": "Video excerpt from the Slavery video : \nhttps://youtu.be/40d0eDAQ3t0",
+  "lead_intro": "Discover how the Arabs utilized the Berber trade routes and engaged in the trans-Saharan slave trade after the conquest of North Africa.",
+  "quiz": [
+    {
+      "question": "What trade routes did the Arabs discover after the conquest of North Africa?",
+      "choices": [
+        "Berber trade routes",
+        "Indian trade routes",
+        "Silk Road"
+      ],
+      "answer": "Berber trade routes",
+      "explanation": "The Arabs discovered the Berber trade routes after the conquest of North Africa."
+    },
+    {
+      "question": "Which empire did the Arabs trade with, known for its wealth in gold and slaves?",
+      "choices": [
+        "Mali Empire",
+        "Roman Empire",
+        "Byzantine Empire"
+      ],
+      "answer": "Mali Empire",
+      "explanation": "The Arabs traded with the Mali Empire, known for its riches in gold and slaves."
+    },
+    {
+      "question": "Where did the caravans crossing the Sahara Desert aim to reach?",
+      "choices": [
+        "Cairo",
+        "Timbuktu",
+        "Mecca"
+      ],
+      "answer": "Cairo",
+      "explanation": "The caravans aimed to reach Cairo after crossing the Sahara Desert."
+    },
+    {
+      "question": "What was the majority gender among the slaves in the trans-Saharan trade?",
+      "choices": [
+        "Women",
+        "Men",
+        "Children"
+      ],
+      "answer": "Women",
+      "explanation": "The majority of slaves were women who became servants or concubines in the trans-Saharan slave trade."
+    },
+    {
+      "question": "How many million slaves were estimated to pass through the trans-Saharan routes over one thousand years?",
+      "choices": [
+        "Between three and a half and seven million",
+        "One million",
+        "Ten million"
+      ],
+      "answer": "Between three and a half and seven million",
+      "explanation": "It is estimated that between three and a half and seven million slaves passed through the trans-Saharan routes over one thousand years."
+    }
+  ]
+}

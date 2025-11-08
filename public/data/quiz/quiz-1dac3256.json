@@ -1,0 +1,63 @@
+{
+  "slug": "1dac3256",
+  "video_id": "IdXeG47kO3Y",
+  "movie_title": "The First Indochina War #geohistory #vietnam #map",
+  "movie_url": "https://youtu.be/IdXeG47kO3Y",
+  "published_at": "2023-10-19T20:36:32Z",
+  "duration": "0:55",
+  "tags": [],
+  "introduction": "",
+  "lead_intro": "Learn more about the complex history of Vietnam and its involvement in the Cold War through this informative video.",
+  "quiz": [
+    {
+      "question": "Who proclaims the People's Republic of China in the video?",
+      "choices": [
+        "Mao zong",
+        "Bai",
+        "Communist victory"
+      ],
+      "answer": "Mao zong",
+      "explanation": "In the video, Mao Zedong proclaims the People's Republic of China."
+    },
+    {
+      "question": "What does the United States view the Indochina War as in the video?",
+      "choices": [
+        "Colonial war",
+        "Communist victory",
+        "Interventionist policy"
+      ],
+      "answer": "Communism",
+      "explanation": "The United States views the Indochina War not as a colonial war but as a war against communism."
+    },
+    {
+      "question": "Which country does the United States give military support to in the video?",
+      "choices": [
+        "China",
+        "Vietnam",
+        "France"
+      ],
+      "answer": "France",
+      "explanation": "In the video, the United States gives its military support to France."
+    },
+    {
+      "question": "Where do forces retreat after failing to retake Hanoi in the video?",
+      "choices": [
+        "Desert",
+        "Mountainous regions",
+        "Plains"
+      ],
+      "answer": "Mountainous regions",
+      "explanation": "Forces retreat to the mountainous regions after failing to retake Hanoi in the video."
+    },
+    {
+      "question": "Which region does France create the state of Vietnam in the video?",
+      "choices": [
+        "South",
+        "North",
+        "East"
+      ],
+      "answer": "North",
+      "explanation": "France creates the state of Vietnam in the northern regions in the video."
+    }
+  ]
+}

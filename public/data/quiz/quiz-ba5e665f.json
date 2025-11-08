@@ -1,0 +1,63 @@
+{
+  "slug": "ba5e665f",
+  "video_id": "wr-v6RJ594s",
+  "movie_title": "Have you ever seen a whale? ⏲️ 6 Minute English",
+  "movie_url": "https://youtu.be/wr-v6RJ594s",
+  "published_at": "2025-10-02T08:22:21Z",
+  "duration": "6:16",
+  "tags": [],
+  "introduction": "Whales are majestic creatures and have captured our imaginations throughout history. But have humans",
+  "lead_intro": "Do you know about the history of whaling and the global moratorium on hunting whales? Test your knowledge with this quiz based on the BBC Learning English video!",
+  "quiz": [
+    {
+      "question": "What is the smallest species of whale mentioned in the video?",
+      "choices": [
+        "beluga whale",
+        "vaquita whale",
+        "pygmy right whale"
+      ],
+      "answer": "vaquita whale",
+      "explanation": "The smallest species of whale mentioned in the video is the vaquita whale, which is about 1.5m long."
+    },
+    {
+      "question": "What invention by Svend Foyn changed the game for whalers in the late 1800s?",
+      "choices": [
+        "exploding harpoon",
+        "steam-powered boats",
+        "sonar device"
+      ],
+      "answer": "exploding harpoon",
+      "explanation": "Svend Foyn invented the exploding harpoon, which revolutionized whaling in the late 1800s."
+    },
+    {
+      "question": "What environmental group started the Save the Whales campaign in the 1970s?",
+      "choices": [
+        "Greenpeace",
+        "WWF",
+        "UNESCO"
+      ],
+      "answer": "Greenpeace",
+      "explanation": "Greenpeace initiated the Save the Whales campaign in the 1970s to raise awareness about whale populations and the cruelty of whaling."
+    },
+    {
+      "question": "What does it mean if someone 'doesn't stand a chance' according to the video?",
+      "choices": [
+        "they have no chance of success",
+        "they are very lucky",
+        "they are indecisive"
+      ],
+      "answer": "they have no chance of success",
+      "explanation": "In the video, 'doesn't stand a chance' means someone has no chance of success, especially in avoiding hunters."
+    },
+    {
+      "question": "What does it mean to 'give a shout-out' to someone as mentioned in the video?",
+      "choices": [
+        "praise them in public",
+        "ignore them",
+        "disagree with them"
+      ],
+      "answer": "praise them in public",
+      "explanation": "To 'give a shout-out' to someone means to publicly praise them, as mentioned in the video."
+    }
+  ]
+}

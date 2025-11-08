@@ -1,0 +1,63 @@
+{
+  "slug": "0bd2b527",
+  "video_id": "75kKfnAEw2k",
+  "movie_title": "Taliban cut off internet: BBC Learning English from the News",
+  "movie_url": "https://youtu.be/75kKfnAEw2k",
+  "published_at": "2025-10-01T12:07:00Z",
+  "duration": "7:28",
+  "tags": [],
+  "introduction": "The Taliban government of Afghanistan has shut down the internet, making it even harder for women an",
+  "lead_intro": "Learn about the recent internet blackout in Afghanistan by the Taliban and expand your English vocabulary with this insightful news podcast.",
+  "quiz": [
+    {
+      "question": "What does 'blackout' mean in the context of the news?",
+      "choices": [
+        "power outage",
+        "water shortage",
+        "food delivery"
+      ],
+      "answer": "power outage",
+      "explanation": "In the news, 'blackout' refers to something like power, telephone services, or internet connections being completely unavailable."
+    },
+    {
+      "question": "What does the Taliban consider 'immoral'?",
+      "choices": [
+        "studying online",
+        "women's education",
+        "selling products abroad"
+      ],
+      "answer": "women's education",
+      "explanation": "The Taliban considers education for women immoral, leading to the ban on online education and exclusion of girls from schools and universities."
+    },
+    {
+      "question": "What metaphorical meaning is associated with the term 'abyss' in the news?",
+      "choices": [
+        "a dark hole",
+        "a bad situation",
+        "a financial gain"
+      ],
+      "answer": "a bad situation",
+      "explanation": "In the news, 'abyss' is used metaphorically to describe a very negative situation that is difficult to escape from, symbolizing a dark and challenging circumstance."
+    },
+    {
+      "question": "What does the expression 'last hope' imply in the context of the news?",
+      "choices": [
+        "final chance for success",
+        "temporary solution",
+        "endless opportunities"
+      ],
+      "answer": "final chance for success",
+      "explanation": "'Last hope' means the final opportunity for success, indicating the last chance for something to be successful with no alternative remaining."
+    },
+    {
+      "question": "What action did the Taliban promise to take in the news headline?",
+      "choices": [
+        "support education",
+        "stamp out immorality",
+        "increase internet access"
+      ],
+      "answer": "stamp out immorality",
+      "explanation": "The Taliban vowed to 'stamp out immoral activities,' indicating their intention to forcefully stop what they consider to be immoral behavior."
+    }
+  ]
+}

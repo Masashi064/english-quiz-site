@@ -1,0 +1,63 @@
+{
+  "slug": "9c0eeb66",
+  "video_id": "ofLEFI0gpL0",
+  "movie_title": "The Zong massacre",
+  "movie_url": "https://youtu.be/ofLEFI0gpL0",
+  "published_at": "2023-11-03T13:20:54Z",
+  "duration": "1:00",
+  "tags": [],
+  "introduction": "Video excerpt from the Slavery video : \nhttps://youtu.be/40d0eDAQ3t0",
+  "lead_intro": "Learn about a gripping historical event involving a British ship and the difficult decisions made during a challenging voyage.",
+  "quiz": [
+    {
+      "question": "How many slaves were on board the British ship Zhong when it reached its destination?",
+      "choices": [
+        "442 slaves",
+        "208 slaves",
+        "132 slaves"
+      ],
+      "answer": "208 slaves",
+      "explanation": "Due to the lack of drinking water, only 208 slaves arrived in Jamaica."
+    },
+    {
+      "question": "What was the destination the crew mistakenly confused with the island of Jamaica?",
+      "choices": [
+        "Sun Doming",
+        "Dutch Coast",
+        "Westward 500 kilometers"
+      ],
+      "answer": "Sun Doming",
+      "explanation": "The crew confused the island with Sun Doming and continued Westward."
+    },
+    {
+      "question": "How many days would it have taken for the ship to sail back once the mistake was realized?",
+      "choices": [
+        "Less than 10 days",
+        "Exactly 10 days",
+        "More than 10 days"
+      ],
+      "answer": "More than 10 days",
+      "explanation": "It would have taken more than 10 days to sail back, which was not feasible due to the lack of drinking water."
+    },
+    {
+      "question": "How many slaves were thrown overboard by the crew to conserve resources?",
+      "choices": [
+        "208 slaves",
+        "132 slaves",
+        "442 slaves"
+      ],
+      "answer": "132 slaves",
+      "explanation": "In a difficult decision, the crew decided to throw 132 slaves, including women and children, overboard."
+    },
+    {
+      "question": "What movement was strengthened as a result of the public opinion impact of the trial in London?",
+      "choices": [
+        "Insurance Movement",
+        "Expedition Movement",
+        "Abolitionist Movement"
+      ],
+      "answer": "Abolitionist Movement",
+      "explanation": "The trial in London and its impact on public opinion strengthened the Abolitionist Movement."
+    }
+  ]
+}

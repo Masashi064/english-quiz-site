@@ -1,0 +1,63 @@
+{
+  "slug": "6c335f80",
+  "video_id": "0FH9cgRhQ-k",
+  "movie_title": "The Largest Black Hole in the Universe - Size Comparison",
+  "movie_url": "https://youtu.be/0FH9cgRhQ-k",
+  "published_at": "2021-08-03T13:59:22Z",
+  "duration": "13:44",
+  "tags": [],
+  "introduction": "The Black Hole story continues with our Black Hole merch, spanning the whole range from somewhat bon",
+  "lead_intro": "Black holes are some of the most fascinating and mysterious objects in the universe. From tiny primordial black holes to ultramassive ones, their sizes and characteristics are mind-boggling. Let's test your knowledge about black holes with a quiz based on the video content!",
+  "quiz": [
+    {
+      "question": "What is the smallest known black hole's approximate size in diameter?",
+      "choices": [
+        "16 km",
+        "30 million km",
+        "92 km"
+      ],
+      "answer": "16 km",
+      "explanation": "The smallest known black hole has a diameter of around 16 km, which is large enough to cover the city of Paris."
+    },
+    {
+      "question": "Which supermassive black hole is mentioned as having a mass of 6.5 billion solar masses?",
+      "choices": [
+        "Messier 87",
+        "OJ 287",
+        "TON 618"
+      ],
+      "answer": "Messier 87",
+      "explanation": "The supermassive black hole in the galaxy Messier 87 has a mass of 6.5 billion solar masses, making it one of the largest known black holes."
+    },
+    {
+      "question": "What is the mass of the Ultra Massive Black Hole at the center of galaxy OJ 287?",
+      "choices": [
+        "18 billion solar masses",
+        "66 billion solar masses",
+        "2.5 billion solar masses"
+      ],
+      "answer": "18 billion solar masses",
+      "explanation": "The Ultra Massive Black Hole at the center of galaxy OJ 287 has a mass of 18 billion solar masses, making it one of the largest single bodies in the universe."
+    },
+    {
+      "question": "What phenomenon occurs when a supermassive black hole feeds on mass in its galaxy and produces jets of plasma accelerated to nearly the speed of light?",
+      "choices": [
+        "It produces jets of plasma",
+        "It shines brighter than thousands of galaxies",
+        "It has an event horizon"
+      ],
+      "answer": "It produces jets of plasma",
+      "explanation": "Supermassive black holes, like the one in the BL Lacertae galaxy, can produce jets of plasma accelerated to nearly the speed of light when feeding on mass in their galaxy."
+    },
+    {
+      "question": "What comparison is made to describe the size of TON 618, the largest black hole mentioned?",
+      "choices": [
+        "11 Solar Systems side by side",
+        "Halfway to the edge of our Solar System",
+        "Visible from 18 billion light years away"
+      ],
+      "answer": "11 Solar Systems side by side",
+      "explanation": "TON 618, a black hole with 66 billion solar masses, is so large that it could fit about 11 Solar Systems side by side inside of it."
+    }
+  ]
+}
