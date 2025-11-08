@@ -1,0 +1,63 @@
+{
+  "slug": "8d9ac3bc",
+  "video_id": "E8VSFuirfzA",
+  "movie_title": "The criminal trade in ancient objects ⏲️ 6 Minute English",
+  "movie_url": "https://youtu.be/E8VSFuirfzA",
+  "published_at": "2025-09-25T07:44:17Z",
+  "duration": "6:15",
+  "tags": [],
+  "introduction": "Many of us like to visit museums to see ancient artefacts in person – it's an exciting way to learn",
+  "lead_intro": "Are you ready to test your knowledge on ancient artefacts and the challenges of preserving cultural heritage? Let's dive into a quiz based on the BBC Learning English video!",
+  "quiz": [
+    {
+      "question": "What is an artefact?",
+      "choices": [
+        "a) a rare gemstone",
+        "b) any object made by humans which is of historical interest",
+        "c) a type of ancient currency"
+      ],
+      "answer": "b) any object made by humans which is of historical interest",
+      "explanation": "An artefact is any object made by humans, usually very old, which is historically interesting."
+    },
+    {
+      "question": "What is a game changer?",
+      "choices": [
+        "a) a new board game",
+        "b) a problem that delays a process",
+        "c) a new element which completely changes a situation"
+      ],
+      "answer": "c) a new element which completely changes a situation",
+      "explanation": "A game changer is a new element which, when introduced into a situation, completely changes it."
+    },
+    {
+      "question": "What does it mean to repatriate something?",
+      "choices": [
+        "a) to sell it to a museum",
+        "b) to return it to the country it came from",
+        "c) to bury it for preservation"
+      ],
+      "answer": "b) to return it to the country it came from",
+      "explanation": "To repatriate something means to return it to the country it came from."
+    },
+    {
+      "question": "What is the role of museums in preserving ancient artefacts?",
+      "choices": [
+        "a) to buy and sell artefacts",
+        "b) to prevent artefacts from being returned to their country of origin",
+        "c) to play an important role in preserving cultural heritage"
+      ],
+      "answer": "c) to play an important role in preserving cultural heritage",
+      "explanation": "Museums have an important role to play in preserving ancient artefacts and cultural heritage."
+    },
+    {
+      "question": "What does it mean to describe something as 'middle-of-the-road'?",
+      "choices": [
+        "a) it is extreme and controversial",
+        "b) it is acceptable to most people and not extreme",
+        "c) it is outdated and irrelevant"
+      ],
+      "answer": "b) it is acceptable to most people and not extreme",
+      "explanation": "Describing something as 'middle-of-the-road' means it's not extreme and is acceptable to most people."
+    }
+  ]
+}

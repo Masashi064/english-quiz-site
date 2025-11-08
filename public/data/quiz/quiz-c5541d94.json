@@ -1,0 +1,63 @@
+{
+  "slug": "c5541d94",
+  "video_id": "bdQWEGFX3mk",
+  "movie_title": "The Walls of Israel",
+  "movie_url": "https://youtu.be/bdQWEGFX3mk",
+  "published_at": "2023-08-16T14:00:35Z",
+  "duration": "0:45",
+  "tags": [],
+  "introduction": "Video excerpt from the History of Walls video : \nhttps://youtu.be/Ho0B2wZZ9uU",
+  "lead_intro": "After the second intifada, Israel built a 730-kilometer-long wall in the West Bank to prevent attacks, but also encroached on Palestinian territories. Learn more about this in the video.",
+  "quiz": [
+    {
+      "question": "What is the main material used to construct the wall in the West Bank?",
+      "choices": [
+        "Concrete slabs",
+        "Barbed wire fences",
+        "Steel beams"
+      ],
+      "answer": "Barbed wire fences",
+      "explanation": "The wall in the West Bank is mainly made of barbed wire fences."
+    },
+    {
+      "question": "How high can the concrete slabs in the towns along the wall go up to?",
+      "choices": [
+        "10 meters",
+        "8 meters",
+        "5 meters"
+      ],
+      "answer": "8 meters",
+      "explanation": "The concrete slabs in the towns along the wall can go up to 8 meters high."
+    },
+    {
+      "question": "Why did Israel and Egypt start building walls around the Gaza Strip after Hamas took power?",
+      "choices": [
+        "To promote tourism",
+        "To prevent attacks",
+        "To encourage migration"
+      ],
+      "answer": "To prevent attacks",
+      "explanation": "Israel and Egypt built walls around the Gaza Strip to block migrations, smuggling, and attacks."
+    },
+    {
+      "question": "How deep does the wall built by Israel go into the ground?",
+      "choices": [
+        "Several meters",
+        "A hundred meters",
+        "Several dozen meters"
+      ],
+      "answer": "Several dozen meters",
+      "explanation": "The wall built by Israel goes several dozen meters deep into the ground to prevent the construction of tunnels."
+    },
+    {
+      "question": "What is the purpose of the road that borders the barbed wire fences along the wall?",
+      "choices": [
+        "To plant trees",
+        "To allow patrols",
+        "To build houses"
+      ],
+      "answer": "To allow patrols",
+      "explanation": "The road that borders the barbed wire fences along the wall allows the passage of patrols."
+    }
+  ]
+}

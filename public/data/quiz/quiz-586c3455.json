@@ -1,0 +1,63 @@
+{
+  "slug": "586c3455",
+  "video_id": "oVYD5U5jPSE",
+  "movie_title": "The Yalta Conference",
+  "movie_url": "https://youtu.be/oVYD5U5jPSE",
+  "published_at": "2023-08-19T13:00:41Z",
+  "duration": "0:41",
+  "tags": [],
+  "introduction": "Video excerpt from the World War II video : \nhttps://youtu.be/-CQatuQdQv4",
+  "lead_intro": "Discover the historical meeting of Stalin, Churchill, and Roosevelt and its impact on the post-war period. Let's test your knowledge with the following quiz!",
+  "quiz": [
+    {
+      "question": "Which organization was planned to replace the League of Nations?",
+      "choices": [
+        "United Nations",
+        "NATO",
+        "European Union"
+      ],
+      "answer": "United Nations",
+      "explanation": "During the post-war period, the future creation of the United Nations was agreed upon to replace the League of Nations."
+    },
+    {
+      "question": "Who refused to seed conquered territories, impacting the recreation of Poland?",
+      "choices": [
+        "Stalin",
+        "Churchill",
+        "Roosevelt"
+      ],
+      "answer": "Stalin",
+      "explanation": "Stalin refused to seed conquered territories, leading to the recreation of Poland being shifted westward, to the detriment of Germany."
+    },
+    {
+      "question": "Which country would be divided and occupied by The Victors after the war?",
+      "choices": [
+        "Germany",
+        "Japan",
+        "Italy"
+      ],
+      "answer": "Germany",
+      "explanation": "Germany was decided to be divided and occupied by The Victors post-war, with the USSR also declaring war on Japan after Germany's surrender."
+    },
+    {
+      "question": "What caused a wave of war declarations with little consequence?",
+      "choices": [
+        "Countries being allowed to join the United Nations",
+        "Stalin refusing to seed conquered territories",
+        "Germany's surrender"
+      ],
+      "answer": "Countries being allowed to join the United Nations",
+      "explanation": "The opportunity for countries declaring war on Germany before March 1 to become part of the United Nations led to a wave of war declarations with little impact."
+    },
+    {
+      "question": "Which leader obtained the agreement for the creation of the United Nations?",
+      "choices": [
+        "Roosevelt",
+        "Churchill",
+        "Stalin"
+      ],
+      "answer": "Roosevelt",
+      "explanation": "Roosevelt obtained the agreement for the future creation of the United Nations, as part of the post-war planning."
+    }
+  ]
+}

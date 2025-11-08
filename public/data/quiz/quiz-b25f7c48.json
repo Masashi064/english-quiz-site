@@ -1,0 +1,63 @@
+{
+  "slug": "b25f7c48",
+  "video_id": "g2nVbaua4ys",
+  "movie_title": "The United States of America - Evolution on a map",
+  "movie_url": "https://youtu.be/g2nVbaua4ys",
+  "published_at": "2023-08-18T14:00:35Z",
+  "duration": "1:49",
+  "tags": [],
+  "introduction": "Let's retrace on a map, the territorial evolution of the USA from its independence until today.\n----",
+  "lead_intro": "Are you a fan of music from around the world? Let's test your listening skills with a fun quiz based on the video!",
+  "quiz": [
+    {
+      "question": "What word was repeated multiple times in the video?",
+      "choices": [
+        "foreign",
+        "applause",
+        "music"
+      ],
+      "answer": "foreign",
+      "explanation": "In the video, the word 'foreign' was repeated several times, indicating a focus on international or unfamiliar music."
+    },
+    {
+      "question": "Which sound was heard at the end of the video?",
+      "choices": [
+        "applause",
+        "music",
+        "silence"
+      ],
+      "answer": "applause",
+      "explanation": "The video ended with the sound of applause, suggesting a performance or event coming to a close."
+    },
+    {
+      "question": "What type of music was not mentioned in the video?",
+      "choices": [
+        "rock",
+        "classical",
+        "pop"
+      ],
+      "answer": "rock",
+      "explanation": "While various genres of music were not explicitly mentioned, 'rock' was not one of the words repeated or heard in the video."
+    },
+    {
+      "question": "Which word was most likely associated with a live performance?",
+      "choices": [
+        "applause",
+        "music",
+        "foreign"
+      ],
+      "answer": "applause",
+      "explanation": "The word 'applause' often indicates a live audience responding to a performance, which was heard multiple times in the video."
+    },
+    {
+      "question": "What theme was predominant in the video?",
+      "choices": [
+        "music",
+        "foreign",
+        "applause"
+      ],
+      "answer": "foreign",
+      "explanation": "The repeated use of the word 'foreign' likely indicates a focus on diverse or international music styles in the video."
+    }
+  ]
+}
