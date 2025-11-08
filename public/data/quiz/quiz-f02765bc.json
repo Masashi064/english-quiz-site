@@ -1,0 +1,63 @@
+{
+  "slug": "f02765bc",
+  "video_id": "MXCrPmVuXjs",
+  "movie_title": "Would you like a robot companion? ⏲️ 6 Minute English",
+  "movie_url": "https://youtu.be/MXCrPmVuXjs",
+  "published_at": "2025-09-18T08:48:27Z",
+  "duration": "6:16",
+  "tags": [],
+  "introduction": "Many of us could use extra help around the house – but what if that help came from a robot? Would yo",
+  "lead_intro": "Are you ready to dive into the world of robotics and friendly humanoid robots? Let's test your knowledge with a quiz based on the fascinating story of Abi, the home companion robot!",
+  "quiz": [
+    {
+      "question": "What is the name of Pixar's friendly robot who picks up garbage on an uninhabited planet Earth in the year 2805?",
+      "choices": [
+        "Roz",
+        "Wall-E",
+        "R2D2"
+      ],
+      "answer": "Wall-E",
+      "explanation": "Wall-E is the correct answer. This friendly robot from Pixar is known for its role in picking up garbage on Earth in the distant future."
+    },
+    {
+      "question": "How do people react when they meet Abi for the first time?",
+      "choices": [
+        "They cry",
+        "They are surprised by her sassy personality",
+        "They run away"
+      ],
+      "answer": "They are surprised by her sassy personality",
+      "explanation": "People are taken aback by Abi's sassy personality, meaning they are shocked or surprised by her bold and cheeky behavior."
+    },
+    {
+      "question": "How did Grace model Abi's design to make her approachable to children and elderly people?",
+      "choices": [
+        "She made Abi look like a scary robot",
+        "She made Abi look like a giant robot",
+        "She made Abi the size of a young child with expressive eyes and colorful features"
+      ],
+      "answer": "She made Abi the size of a young child with expressive eyes and colorful features",
+      "explanation": "Grace designed Abi to be approachable by modeling her size after a young child, with large expressive eyes and colorful decorations to resemble friendly characters from Pixar films."
+    },
+    {
+      "question": "What does the term 'expressive' mean when describing Abi's eyes?",
+      "choices": [
+        "Boring",
+        "Showing what someone thinks or feels",
+        "Small"
+      ],
+      "answer": "Showing what someone thinks or feels",
+      "explanation": "When Abi's eyes are described as expressive, it means they show emotions and thoughts, adding to her ability to connect with people."
+    },
+    {
+      "question": "How do elderly residents feel when interacting with Abi?",
+      "choices": [
+        "Scared",
+        "Joy and a sense of community",
+        "Angry"
+      ],
+      "answer": "Joy and a sense of community",
+      "explanation": "Elderly residents find joy and a sense of community when chatting with Abi, highlighting the positive impact of this robot companion on their well-being."
+    }
+  ]
+}

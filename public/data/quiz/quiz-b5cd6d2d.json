@@ -1,0 +1,63 @@
+{
+  "slug": "b5cd6d2d",
+  "video_id": "Ji2nmkG7WOE",
+  "movie_title": "Russia Ukraine War",
+  "movie_url": "https://youtu.be/Ji2nmkG7WOE",
+  "published_at": "2023-07-29T13:00:12Z",
+  "duration": "0:57",
+  "tags": [],
+  "introduction": "Video excerpt from the NATO video : \nhttps://youtu.be/8NlhfoFK9PI",
+  "lead_intro": "Learn about the complex history and recent events leading to the current situation in Ukraine.",
+  "quiz": [
+    {
+      "question": "In response to the Chaos in Ukraine, what did Russia do?",
+      "choices": [
+        "annex Crimea",
+        "join NATO",
+        "establish peace talks"
+      ],
+      "answer": "annex Crimea",
+      "explanation": "Russia took advantage of the chaos in Ukraine to annex Crimea."
+    },
+    {
+      "question": "What did NATO do in response to Russia's actions in Ukraine?",
+      "choices": [
+        "suspend cooperation",
+        "join the war",
+        "send aid"
+      ],
+      "answer": "suspend cooperation",
+      "explanation": "NATO suspended all cooperation with Russia in response to the situation in Ukraine."
+    },
+    {
+      "question": "What did Vladimir Putin appeal to NATO for in 2021?",
+      "choices": [
+        "negotiate end to expansion",
+        "declare war",
+        "join Russia"
+      ],
+      "answer": "negotiate end to expansion",
+      "explanation": "Putin appealed to NATO to negotiate an end to its expansion to the east in 2021."
+    },
+    {
+      "question": "What did Russia ask Ukraine to become during the war?",
+      "choices": [
+        "neutral country",
+        "join NATO",
+        "declare independence"
+      ],
+      "answer": "neutral country",
+      "explanation": "Russia asked Ukraine to become a neutral country and not join NATO during the war."
+    },
+    {
+      "question": "What has the war ironically driven other countries to want to do?",
+      "choices": [
+        "join the organization",
+        "remain neutral",
+        "support Russia"
+      ],
+      "answer": "join the organization",
+      "explanation": "The war has ironically driven other countries to now want to join the organization."
+    }
+  ]
+}

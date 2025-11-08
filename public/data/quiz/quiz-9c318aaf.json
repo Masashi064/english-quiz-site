@@ -1,0 +1,63 @@
+{
+  "slug": "9c318aaf",
+  "video_id": "rx-P-Kb9Zqw",
+  "movie_title": "Saint Patrick’s Day",
+  "movie_url": "https://youtu.be/rx-P-Kb9Zqw",
+  "published_at": "2023-08-02T14:00:41Z",
+  "duration": "0:31",
+  "tags": [],
+  "introduction": "Video excerpt from the History of Piracy video : \nhttps://youtu.be/3oNuv_o9mnE",
+  "lead_intro": "Legend has it that Saint Patrick, the patron saint of Ireland, was captured by pirates and brought to Ireland as a slave. Let's test your knowledge on this legendary story!",
+  "quiz": [
+    {
+      "question": "According to legend, where was Saint Patrick captured by pirates?",
+      "choices": [
+        "Great Britain",
+        "Ireland",
+        "France"
+      ],
+      "answer": "Great Britain",
+      "explanation": "Saint Patrick was captured by pirates in Great Britain."
+    },
+    {
+      "question": "How old was Saint Patrick when he was captured by pirates?",
+      "choices": [
+        "16 years old",
+        "25 years old",
+        "30 years old"
+      ],
+      "answer": "16 years old",
+      "explanation": "According to legend, Saint Patrick was 16 years old when he was captured by pirates."
+    },
+    {
+      "question": "After escaping from slavery, where did Saint Patrick return to become a priest?",
+      "choices": [
+        "Britain",
+        "France",
+        "Spain"
+      ],
+      "answer": "Britain",
+      "explanation": "Saint Patrick returned to Britain to become a priest after escaping from slavery."
+    },
+    {
+      "question": "Who asked Saint Patrick to return to Ireland to evangelize the population?",
+      "choices": [
+        "Celestine",
+        "Francis",
+        "Benedict"
+      ],
+      "answer": "Celestine",
+      "explanation": "Saint Patrick was asked by Pope Celestine to return to Ireland to evangelize the population."
+    },
+    {
+      "question": "In what year did Saint Patrick return to Ireland to evangelize the population?",
+      "choices": [
+        "432",
+        "405",
+        "420"
+      ],
+      "answer": "432",
+      "explanation": "Saint Patrick returned to Ireland to evangelize the population in the year 432."
+    }
+  ]
+}

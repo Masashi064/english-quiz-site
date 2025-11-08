@@ -1,0 +1,63 @@
+{
+  "slug": "625bbfe7",
+  "video_id": "FyFThiHsGkM",
+  "movie_title": "The Battle of Austerlitz #short",
+  "movie_url": "https://youtu.be/FyFThiHsGkM",
+  "published_at": "2022-08-10T11:00:17Z",
+  "duration": "0:58",
+  "tags": [],
+  "introduction": "Video excerpt from the \"Napoleon (Part 2) - The Conquest of Europe (1805 - 1812)\" video : https://yo",
+  "lead_intro": "Experience the excitement of historical battles with this video about the Napoleonic Wars.",
+  "quiz": [
+    {
+      "question": "What event marked the end of the Holy Roman Empire?",
+      "choices": [
+        "The French victory",
+        "The emperor of Austria negotiating peace",
+        "Napoleon's protection"
+      ],
+      "answer": "The emperor of Austria negotiating peace",
+      "explanation": "The video mentions that the emperor of Austria negotiating peace marked the end of the Holy Roman Empire."
+    },
+    {
+      "question": "How did the French army react to the outnumbered Russians charging towards the south?",
+      "choices": [
+        "They launched a surprise attack",
+        "They retreated",
+        "They surrendered"
+      ],
+      "answer": "They launched a surprise attack",
+      "explanation": "The French army launched a surprise attack to hold back the outnumbered Russians charging towards the south."
+    },
+    {
+      "question": "What did the Russian troops do when faced with the French artillery fire?",
+      "choices": [
+        "They surrendered",
+        "They launched a counterattack",
+        "They escaped on frozen ponds"
+      ],
+      "answer": "They escaped on frozen ponds",
+      "explanation": "The Russian troops panicked and tried to escape on frozen ponds, which were targeted by French artillery fire."
+    },
+    {
+      "question": "Who negotiated peace after the French victory?",
+      "choices": [
+        "The emperor of Austria",
+        "Napoleon",
+        "The Russian troops"
+      ],
+      "answer": "The emperor of Austria",
+      "explanation": "After the French victory, the emperor of Austria negotiated peace, leading to the end of the Holy Roman Empire."
+    },
+    {
+      "question": "What replaced the Holy Roman Empire after its end?",
+      "choices": [
+        "Confederation of the Rhine under Napoleon's protection",
+        "Russian control",
+        "French surrender"
+      ],
+      "answer": "Confederation of the Rhine under Napoleon's protection",
+      "explanation": "The Holy Roman Empire was gradually replaced by the Confederation of the Rhine under Napoleon's protection."
+    }
+  ]
+}
