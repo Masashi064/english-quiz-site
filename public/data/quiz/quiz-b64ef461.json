@@ -1,0 +1,63 @@
+{
+  "slug": "b64ef461",
+  "video_id": "tug9rDqJDdQ",
+  "movie_title": "How can I improve my listening? Ask BBC Learning English",
+  "movie_url": "https://youtu.be/tug9rDqJDdQ",
+  "published_at": "2025-09-23T09:01:25Z",
+  "duration": "2:50",
+  "tags": [],
+  "introduction": "How can you improve your English listening skills? Phil's got some top tips for Fatosh - and you! To",
+  "lead_intro": "Are you looking to enhance your English listening skills? Discover valuable tips to boost your listening comprehension in this video!",
+  "quiz": [
+    {
+      "question": "What is one suggested way to improve your listening skills?",
+      "choices": [
+        "watching TV or films in English",
+        "reading books in English",
+        "learning new vocabulary words"
+      ],
+      "answer": "watching TV or films in English",
+      "explanation": "The video suggests that watching TV or films in English is a good way to improve your listening skills, especially if you're interested in the content."
+    },
+    {
+      "question": "How can subtitles be helpful for improving listening?",
+      "choices": [
+        "they can help understand difficult content",
+        "they distract from the audio",
+        "they are not useful at all"
+      ],
+      "answer": "they can help understand difficult content",
+      "explanation": "Subtitles in your language can help you understand something that's difficult, while subtitles in English can help you understand the pronunciation of words better."
+    },
+    {
+      "question": "What is one benefit of listening without subtitles?",
+      "choices": [
+        "helps practice listening on its own",
+        "makes it harder to understand",
+        "increases comprehension"
+      ],
+      "answer": "helps practice listening on its own",
+      "explanation": "Listening without subtitles allows you to practice your listening skills without any assistance, helping you improve your comprehension independently."
+    },
+    {
+      "question": "What is a recommended strategy before listening to something?",
+      "choices": [
+        "predict what things you might hear",
+        "memorize the entire content",
+        "skip listening altogether"
+      ],
+      "answer": "predict what things you might hear",
+      "explanation": "Before listening to something, it is advised to predict what you might hear, creating a checklist of expected content and checking off items as you listen."
+    },
+    {
+      "question": "Why is it important to pay attention to surprising sounds while listening?",
+      "choices": [
+        "to catch words you might have missed",
+        "to ignore those sounds",
+        "to focus on understanding the entire content"
+      ],
+      "answer": "to catch words you might have missed",
+      "explanation": "It is crucial to pay attention to surprising sounds while listening to catch words you might have missed and improve your overall listening accuracy."
+    }
+  ]
+}

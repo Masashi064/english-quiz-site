@@ -1,0 +1,63 @@
+{
+  "slug": "466721fe",
+  "video_id": "saDDmJIuy-E",
+  "movie_title": "Trump's unproven autism claim: BBC Learning English from the News",
+  "movie_url": "https://youtu.be/saDDmJIuy-E",
+  "published_at": "2025-09-24T13:46:55Z",
+  "duration": "8:13",
+  "tags": [],
+  "introduction": "President Trump makes unproven link between autism and the pain relief drug Tylenol – scientists rea",
+  "lead_intro": "Join us in exploring the news story about Trump's controversial claims linking autism to the pain relief drug Tylenol, and learn key vocabulary used in the headlines.",
+  "quiz": [
+    {
+      "question": "What does the term 'push back' mean in the context of the news story?",
+      "choices": [
+        "disagree with",
+        "agree with",
+        "support"
+      ],
+      "answer": "disagree with",
+      "explanation": "'Push back' in the news story means to disagree with or resist something that's been proposed."
+    },
+    {
+      "question": "What metaphorical meaning is associated with the word 'dose' in the headline?",
+      "choices": [
+        "an amount of something",
+        "a type of medication",
+        "an illness"
+      ],
+      "answer": "an amount of something",
+      "explanation": "In the headline, 'a dose of scepticism' metaphorically refers to an amount of doubt added by the British scientists."
+    },
+    {
+      "question": "What does 'debunk' mean in the context of the news story?",
+      "choices": [
+        "to prove something is true",
+        "to show something isn't true",
+        "to speculate"
+      ],
+      "answer": "to show something isn't true",
+      "explanation": "'Debunk' in the headline 'Trump's autism claim debunked' means to show that Trump's claim about autism is not true."
+    },
+    {
+      "question": "What did the National Autistic Society say about Trump's claims regarding Tylenol and autism?",
+      "choices": [
+        "praised the claims",
+        "called them irresponsible",
+        "ignored the claims"
+      ],
+      "answer": "called them irresponsible",
+      "explanation": "The National Autistic Society criticized Trump's claims as irresponsible and devaluing autistic people."
+    },
+    {
+      "question": "What reason do most experts attribute to the increase in autism diagnoses since 2000?",
+      "choices": [
+        "changes in diagnostic criteria",
+        "reduced awareness",
+        "lack of testing"
+      ],
+      "answer": "changes in diagnostic criteria",
+      "explanation": "Most experts believe that the increase in autism diagnoses is due to changes in how the condition is diagnosed and increased awareness."
+    }
+  ]
+}

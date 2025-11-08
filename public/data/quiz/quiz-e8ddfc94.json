@@ -1,0 +1,63 @@
+{
+  "slug": "e8ddfc94",
+  "video_id": "6_-PKdOcjow",
+  "movie_title": "The creation of the Football Association",
+  "movie_url": "https://youtu.be/6_-PKdOcjow",
+  "published_at": "2023-08-09T14:00:07Z",
+  "duration": "0:38",
+  "tags": [],
+  "introduction": "Video excerpt from the History of Football video : \nhttps://youtu.be/Zlz4QgpOSw0",
+  "lead_intro": "Learn about the history of football and its evolution with the formation of different associations.",
+  "quiz": [
+    {
+      "question": "In what year did the newly formed Football Association publish its own rules?",
+      "choices": [
+        "1863",
+        "1871",
+        "1880"
+      ],
+      "answer": "1863",
+      "explanation": "The newly formed Football Association published its own rules in 1863, just a few days after the more detailed Cambridge rules were published."
+    },
+    {
+      "question": "Which clubs came together in 1871 to found the Rugby Football Union?",
+      "choices": [
+        "Clubs favoring handling",
+        "Clubs favoring dribbling",
+        "Clubs favoring passing"
+      ],
+      "answer": "Clubs favoring handling",
+      "explanation": "Clubs favoring handling came together in 1871 to found the Rugby Football Union, marking the break from the Football Association."
+    },
+    {
+      "question": "What is the Football Association more commonly known as today?",
+      "choices": [
+        "Rugby",
+        "Soccer",
+        "Cricket"
+      ],
+      "answer": "Soccer",
+      "explanation": "The Football Association is more commonly known as simply 'football' or 'soccer' today."
+    },
+    {
+      "question": "Which rules inspired the newly formed Football Association in 1863?",
+      "choices": [
+        "Rugby rules",
+        "Cricket rules",
+        "Cambridge rules"
+      ],
+      "answer": "Cambridge rules",
+      "explanation": "The newly formed Football Association in 1863 published its own rules inspired by the Cambridge rules."
+    },
+    {
+      "question": "What did the clubs favor as the rules evolved towards 1871?",
+      "choices": [
+        "Dribbling",
+        "Passing",
+        "Handling"
+      ],
+      "answer": "Dribbling",
+      "explanation": "As the rules evolved towards 1871, the clubs favored dribbling, leading to the foundation of the Rugby Football Union by handling clubs."
+    }
+  ]
+}

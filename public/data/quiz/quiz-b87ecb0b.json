@@ -1,0 +1,63 @@
+{
+  "slug": "b87ecb0b",
+  "video_id": "N79EoI8POb8",
+  "movie_title": "The Mexican–American War",
+  "movie_url": "https://youtu.be/N79EoI8POb8",
+  "published_at": "2023-08-12T13:00:13Z",
+  "duration": "0:32",
+  "tags": [],
+  "introduction": "Video excerpt from the The United States of America video : \nhttps://youtu.be/UbpoC2Y9DIA",
+  "lead_intro": "Discover the history of Texas and its annexation to the United States.",
+  "quiz": [
+    {
+      "question": "After which war did the Republic of Texas declare its independence?",
+      "choices": [
+        "American Revolution",
+        "Mexican-American War",
+        "World War II"
+      ],
+      "answer": "Mexican-American War",
+      "explanation": "The Republic of Texas declared its independence after the Mexican-American War."
+    },
+    {
+      "question": "In which year was Texas annexed to the United States?",
+      "choices": [
+        "1836",
+        "1845",
+        "1861"
+      ],
+      "answer": "1845",
+      "explanation": "Texas was annexed to the United States in 1845."
+    },
+    {
+      "question": "Which two territories were annexed by the United States after the war with Mexico?",
+      "choices": [
+        "Arizona and Nevada",
+        "New Mexico and California",
+        "Utah and Idaho"
+      ],
+      "answer": "New Mexico and California",
+      "explanation": "After the war with Mexico, the United States annexed New Mexico and California."
+    },
+    {
+      "question": "What event in New Mexico and California attracted pioneers of all origins?",
+      "choices": [
+        "Oil discovery",
+        "Gold rush",
+        "Cattle ranching"
+      ],
+      "answer": "Gold rush",
+      "explanation": "The discovery of gold in New Mexico and California attracted pioneers of all origins during the rush."
+    },
+    {
+      "question": "What caused the poorly defined border between the United States and Mexico to lead to war?",
+      "choices": [
+        "Immigration disputes",
+        "Trade disagreements",
+        "Border conflicts"
+      ],
+      "answer": "Border conflicts",
+      "explanation": "The poorly defined border between the United States and Mexico led to war due to border conflicts."
+    }
+  ]
+}
