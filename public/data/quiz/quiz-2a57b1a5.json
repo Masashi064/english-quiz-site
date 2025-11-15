@@ -1,0 +1,63 @@
+{
+  "slug": "2a57b1a5",
+  "video_id": "zOzF2w6lNTU",
+  "movie_title": "The Black Death #shorts",
+  "movie_url": "https://youtu.be/zOzF2w6lNTU",
+  "published_at": "2022-08-04T11:00:38Z",
+  "duration": "0:58",
+  "tags": [],
+  "introduction": "Video excerpt from the Major epidemics and pandemics video : https://youtu.be/B7ivFcGbFJM",
+  "lead_intro": "Learn about the devastating impact of the Black Death in this historical narrative.",
+  "quiz": [
+    {
+      "question": "Where did the Black Death originate from?",
+      "choices": [
+        "Central Europe",
+        "Central Asia",
+        "North Africa"
+      ],
+      "answer": "Central Asia",
+      "explanation": "The Black Death originated in the steppes of Central Asia."
+    },
+    {
+      "question": "Which city did the warriors of the Golden Horde besiege during the Black Death?",
+      "choices": [
+        "Kiev",
+        "Moscow",
+        "Kapha"
+      ],
+      "answer": "Kapha",
+      "explanation": "The warriors of the Golden Horde besieged the city of Kapha during the Black Death."
+    },
+    {
+      "question": "In which regions were Poland, Bohemia, and Hungary spared from the plague?",
+      "choices": [
+        "Western Europe",
+        "Eastern Europe",
+        "Southern Europe"
+      ],
+      "answer": "Eastern Europe",
+      "explanation": "Poland, Bohemia, and Hungary were spared from the plague in Eastern Europe."
+    },
+    {
+      "question": "Who were disproportionately affected by the Black Death?",
+      "choices": [
+        "The wealthy",
+        "The malnourished",
+        "The educated"
+      ],
+      "answer": "The malnourished",
+      "explanation": "The poor, the malnourished, and those living in unsanitary conditions were disproportionately affected by the Black Death."
+    },
+    {
+      "question": "Approximately how many people did the Black Death kill worldwide?",
+      "choices": [
+        "100 million",
+        "200 million",
+        "300 million"
+      ],
+      "answer": "200 million",
+      "explanation": "The Black Death killed 200 million people worldwide."
+    }
+  ]
+}

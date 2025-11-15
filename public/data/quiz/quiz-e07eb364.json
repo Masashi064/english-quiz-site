@@ -1,0 +1,63 @@
+{
+  "slug": "e07eb364",
+  "video_id": "jNpcxBdWp3w",
+  "movie_title": "The American Civil War #shorts",
+  "movie_url": "https://youtu.be/jNpcxBdWp3w",
+  "published_at": "2022-07-27T11:00:33Z",
+  "duration": "0:38",
+  "tags": [],
+  "introduction": "Video excerpt from the United States of America History video : https://youtu.be/UbpoC2Y9DIA",
+  "lead_intro": "Learn about the history of the Civil War in the United States and the impact it had on the abolition of slavery.",
+  "quiz": [
+    {
+      "question": "Who was elected president of the United States in 1860?",
+      "choices": [
+        "Abraham Lincoln",
+        "George Washington",
+        "Thomas Jefferson"
+      ],
+      "answer": "Abraham Lincoln",
+      "explanation": "Abraham Lincoln, who was hostile to slavery, was elected president in 1860."
+    },
+    {
+      "question": "What did the southern states do in response to Abraham Lincoln's election?",
+      "choices": [
+        "Secede from the United States",
+        "Join the Union",
+        "Declare war on the North"
+      ],
+      "answer": "Secede from the United States",
+      "explanation": "Southern states seceded from the United States and formed the Confederate States of America."
+    },
+    {
+      "question": "What action did the North take to block potential support from Europe during the Civil War?",
+      "choices": [
+        "Set up a maritime blockade",
+        "Open trade routes",
+        "Increase cotton exports"
+      ],
+      "answer": "Set up a maritime blockade",
+      "explanation": "The North established a maritime blockade on the Atlantic coast to cut off support from Europe."
+    },
+    {
+      "question": "When did the North prevail in the Civil War?",
+      "choices": [
+        "1865",
+        "1850",
+        "1870"
+      ],
+      "answer": "1865",
+      "explanation": "In 1865, the North emerged victorious in the Civil War and imposed its policies."
+    },
+    {
+      "question": "What major outcome occurred in 1865 as a result of the Civil War?",
+      "choices": [
+        "Slavery was abolished",
+        "Cotton exports increased",
+        "The South won independence"
+      ],
+      "answer": "Slavery was abolished",
+      "explanation": "One of the significant results of the Civil War in 1865 was the abolition of slavery in the United States."
+    }
+  ]
+}

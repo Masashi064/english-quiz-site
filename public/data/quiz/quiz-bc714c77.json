@@ -1,0 +1,63 @@
+{
+  "slug": "bc714c77",
+  "video_id": "Mo1A45ShcMo",
+  "movie_title": "You're More Stressed Than Ever - Let's Change That",
+  "movie_url": "https://youtu.be/Mo1A45ShcMo",
+  "published_at": "2025-11-11T15:00:05Z",
+  "duration": "11:58",
+  "tags": [],
+  "introduction": "Our brand-new Health Journal is here to help you take care of your physical and mental health, using",
+  "lead_intro": "Stress can be a powerful tool for survival, but in the modern world, it has become a double-edged sword that can harm you. Learn how to harness stress in the right way to avoid its detrimental effects.",
+  "quiz": [
+    {
+      "question": "What is stress primarily meant for?",
+      "choices": [
+        "To prioritize survival",
+        "To cause exhaustion",
+        "To enhance relaxation"
+      ],
+      "answer": "To prioritize survival",
+      "explanation": "Stress is a fast and drastic change in the body's state that prioritizes survival, activating 'fight or flight' mode in response to a stressor."
+    },
+    {
+      "question": "What hormone is responsible for managing a longer stress response?",
+      "choices": [
+        "Adrenaline",
+        "Cortisol",
+        "Insulin"
+      ],
+      "answer": "Cortisol",
+      "explanation": "Cortisol is a slower, more strategic hormone that shifts all body systems during stress, suppressing non-essential functions to prioritize survival."
+    },
+    {
+      "question": "How does chronic stress affect fat metabolism?",
+      "choices": [
+        "Speeds up fat breakdown",
+        "Has no effect on fat metabolism",
+        "Slows down fat breakdown"
+      ],
+      "answer": "Slows down fat breakdown",
+      "explanation": "Under chronic stress, fat metabolism is disrupted, slowing down fat breakdown and increasing fat build-up, especially in the belly area."
+    },
+    {
+      "question": "What happens to your immune system under chronic stress?",
+      "choices": [
+        "Gets stronger",
+        "Gets weaker",
+        "Stays the same"
+      ],
+      "answer": "Gets weaker",
+      "explanation": "Chronic stress weakens the immune system, suppressing the parts that protect from diseases while causing inflammation throughout the body."
+    },
+    {
+      "question": "What is the most effective way to remove stress from your life?",
+      "choices": [
+        "Mindfulness meditation",
+        "Regular exercise",
+        "Remove the stressor itself"
+      ],
+      "answer": "Remove the stressor itself",
+      "explanation": "Removing the stressor itself is the most effective way to reduce stress. Identifying and eliminating sources of stress can have a significant impact on chronic stress levels."
+    }
+  ]
+}
