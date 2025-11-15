@@ -1,0 +1,63 @@
+{
+  "slug": "fedc03db",
+  "video_id": "q1Gbb1B-YCo",
+  "movie_title": "The Mayas #shorts",
+  "movie_url": "https://youtu.be/q1Gbb1B-YCo",
+  "published_at": "2022-07-20T11:00:35Z",
+  "duration": "0:42",
+  "tags": [],
+  "introduction": "Video excerpt from the Pre-Columbian America History video : https://youtu.be/Yipm-Be3uFQ",
+  "lead_intro": "Discover interesting facts about Mayan civilization and their use of cocoa beans as currency and in rituals.",
+  "quiz": [
+    {
+      "question": "What is the cocoa bean used as in Mayan civilization?",
+      "choices": [
+        "currency",
+        "food",
+        "clothing"
+      ],
+      "answer": "currency",
+      "explanation": "The cocoa bean is used as money in Mayan civilization."
+    },
+    {
+      "question": "During which ceremonies are cocoa beans consumed as a drink?",
+      "choices": [
+        "ritual",
+        "wedding",
+        "birthday"
+      ],
+      "answer": "ritual",
+      "explanation": "Cocoa beans are consumed as a drink during ritual ceremonies in Mayan civilization."
+    },
+    {
+      "question": "What is the calendar designed by the Mayans?",
+      "choices": [
+        "combining three existing calendars",
+        "inventing a new system",
+        "following the lunar cycle"
+      ],
+      "answer": "combining three existing calendars",
+      "explanation": "The Mayan calendar is designed by combining three existing calendars, including the Long Count calendar."
+    },
+    {
+      "question": "How long is the cycle of the Mayan Long Count calendar?",
+      "choices": [
+        "5125 years",
+        "1000 years",
+        "500 years"
+      ],
+      "answer": "5125 years",
+      "explanation": "The cycle of the Mayan Long Count calendar is 5125 years."
+    },
+    {
+      "question": "What leads to the desertion of most Mayan cities?",
+      "choices": [
+        "periods of intense drought followed by a major political and demographic crisis",
+        "abundance of resources",
+        "foreign invasions"
+      ],
+      "answer": "periods of intense drought followed by a major political and demographic crisis",
+      "explanation": "The desertion of most Mayan cities is caused by periods of intense drought followed by major political and demographic crises."
+    }
+  ]
+}

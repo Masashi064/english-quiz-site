@@ -1,0 +1,63 @@
+{
+  "slug": "b8c73277",
+  "video_id": "qrotqXs1noo",
+  "movie_title": "The 2015 European migrant crisis #shorts",
+  "movie_url": "https://youtu.be/qrotqXs1noo",
+  "published_at": "2022-07-16T14:01:00Z",
+  "duration": "1:00",
+  "tags": [],
+  "introduction": "Video excerpt from the European Union history video : https://youtu.be/4VCYHTGjr-U",
+  "lead_intro": "Learn about the challenges faced by Europe due to migration flows from Africa and the Middle East.",
+  "quiz": [
+    {
+      "question": "What event caused instability in many countries at the borders of the continent?",
+      "choices": [
+        "Arab Spring",
+        "Civil War",
+        "Violence"
+      ],
+      "answer": "Arab Spring",
+      "explanation": "The Arab Spring created instability in many countries at the borders of the continent."
+    },
+    {
+      "question": "Which two countries experienced civil wars mentioned in the video?",
+      "choices": [
+        "Syria and Libya",
+        "Iraq and Afghanistan",
+        "Libya and Iraq"
+      ],
+      "answer": "Syria and Libya",
+      "explanation": "The video highlights civil wars in Syria and a second civil war in Libya."
+    },
+    {
+      "question": "What did Europe do to slow the flow of migration?",
+      "choices": [
+        "Reinforced security patrols",
+        "Opened borders",
+        "Increased financial aid"
+      ],
+      "answer": "Reinforced security patrols",
+      "explanation": "Europe reinforced security patrols to slow the flow of migration."
+    },
+    {
+      "question": "With which two countries did the European Union sign agreements to control illegal migration routes?",
+      "choices": [
+        "Turkey and Libya",
+        "Greece and Italy",
+        "Syria and Iraq"
+      ],
+      "answer": "Turkey and Libya",
+      "explanation": "The European Union signed agreements with Turkey and then with Libya to control illegal migration routes."
+    },
+    {
+      "question": "Where are migrant processing centers mainly funded according to the video?",
+      "choices": [
+        "Italy and Greece",
+        "Spain and France",
+        "Germany and Austria"
+      ],
+      "answer": "Italy and Greece",
+      "explanation": "Migrant processing centers are mainly funded in Italy and Greece where migrants await regularization."
+    }
+  ]
+}

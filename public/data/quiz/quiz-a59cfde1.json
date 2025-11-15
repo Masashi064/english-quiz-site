@@ -1,0 +1,63 @@
+{
+  "slug": "a59cfde1",
+  "video_id": "go6DIIU4nLU",
+  "movie_title": "Portuguese gain control of the Spice Trade #shorts",
+  "movie_url": "https://youtu.be/go6DIIU4nLU",
+  "published_at": "2022-07-23T14:00:17Z",
+  "duration": "1:00",
+  "tags": [],
+  "introduction": "Video excerpt from the history of the Major Trade Routes video : https://youtu.be/Q7xp1-VvtZ0",
+  "lead_intro": "Learn about Portugal's exploration history and how they established trading routes in this informative video.",
+  "quiz": [
+    {
+      "question": "What type of ship did Portugal take advantage of to begin explorations?",
+      "choices": [
+        "light ship",
+        "warship",
+        "cargo ship"
+      ],
+      "answer": "light ship",
+      "explanation": "Portugal took advantage of the creation of the caravel, a light ship capable of tackling the oceans, to begin explorations."
+    },
+    {
+      "question": "Where did Portugal aim to reach by bypassing Africa?",
+      "choices": [
+        "the indies",
+        "the Americas",
+        "Australia"
+      ],
+      "answer": "the indies",
+      "explanation": "The objective of Portugal was to bypass Africa to reach the indies."
+    },
+    {
+      "question": "What did Portugal gain a monopoly on in the Indian Ocean?",
+      "choices": [
+        "trade",
+        "fishing",
+        "exploration"
+      ],
+      "answer": "trade",
+      "explanation": "Portugal gained a monopoly on trade in the Indian Ocean by bringing Asian goods directly to Europe via Africa."
+    },
+    {
+      "question": "What did Portugal quickly take control of in their exploration?",
+      "choices": [
+        "key crossing points",
+        "entire continents",
+        "mountain ranges"
+      ],
+      "answer": "key crossing points",
+      "explanation": "The Portuguese quickly took control of key crossing points in their exploration."
+    },
+    {
+      "question": "How did Portugal become rich very quickly?",
+      "choices": [
+        "direct trade with Asia",
+        "through war",
+        "by exploring Antarctica"
+      ],
+      "answer": "direct trade with Asia",
+      "explanation": "Portugal became rich very quickly by bringing Asian goods directly to Europe via Africa, without intermediaries."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "8eacb87c",
+  "video_id": "VY5nh_-1phQ",
+  "movie_title": "'I've done' or 'I did'? Ask BBC Learning English",
+  "movie_url": "https://youtu.be/VY5nh_-1phQ",
+  "published_at": "2025-09-16T09:00:58Z",
+  "duration": "3:57",
+  "tags": [],
+  "introduction": "What's the difference between the English present perfect tense (I've done) and the past simple tens",
+  "lead_intro": "Do you struggle with using the present perfect and past simple tenses in English? Let's dive into some key differences discussed in the video to help clear up the confusion!",
+  "quiz": [
+    {
+      "question": "When do we tend to use the present perfect tense?",
+      "choices": [
+        "when there is a result in the present",
+        "when there is a result in the past",
+        "when there is a result in the future"
+      ],
+      "answer": "when there is a result in the present",
+      "explanation": "The video explains that the present perfect tense is used when there is a result in the present."
+    },
+    {
+      "question": "Which tense do we generally use when there isn't a result in the present?",
+      "choices": [
+        "present perfect",
+        "past simple",
+        "future perfect"
+      ],
+      "answer": "past simple",
+      "explanation": "In cases where there isn't a result in the present, the video mentions that we generally use the past simple tense."
+    },
+    {
+      "question": "What tense is typically used with finished time words like 'last week'?",
+      "choices": [
+        "present perfect",
+        "past simple",
+        "future continuous"
+      ],
+      "answer": "past simple",
+      "explanation": "Finished time words like 'last week' are associated with the past simple tense, as explained in the video."
+    },
+    {
+      "question": "When do we use the present perfect tense to talk about experiences in our lives?",
+      "choices": [
+        "for specific events in the past",
+        "for ongoing actions still true now",
+        "for future plans"
+      ],
+      "answer": "for ongoing actions still true now",
+      "explanation": "The present perfect tense is used to talk about experiences in our lives that are ongoing or still true now, as highlighted in the video."
+    },
+    {
+      "question": "In which English version is the past simple sometimes used when the present perfect is used in another version?",
+      "choices": [
+        "American English",
+        "British English",
+        "Australian English"
+      ],
+      "answer": "American English",
+      "explanation": "The video points out that there are differences between American and British English usage, where the past simple is sometimes used in American English when the present perfect would be used in British English."
+    }
+  ]
+}
