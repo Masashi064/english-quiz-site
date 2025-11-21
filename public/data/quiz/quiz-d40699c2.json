@@ -1,0 +1,63 @@
+{
+  "slug": "d40699c2",
+  "video_id": "nhMzMVPDsyQ",
+  "movie_title": "India and Pakistan independence #shorts",
+  "movie_url": "https://youtu.be/nhMzMVPDsyQ",
+  "published_at": "2022-07-09T14:00:20Z",
+  "duration": "0:47",
+  "tags": [],
+  "introduction": "Video excerpt from the India video : https://youtu.be/jfmpDTRFun0",
+  "lead_intro": "Learn about the partition of India in 1947 and how Pakistan and India were born.",
+  "quiz": [
+    {
+      "question": "When was Pakistan born?",
+      "choices": [
+        "1946",
+        "1947",
+        "1948"
+      ],
+      "answer": "1947",
+      "explanation": "Pakistan was born on August 14, 1947."
+    },
+    {
+      "question": "What is the Indian Union known for being?",
+      "choices": [
+        "Hindu country",
+        "Islamic country",
+        "Secular country"
+      ],
+      "answer": "Secular country",
+      "explanation": "The Indian Union is known for being a secular country with a large Hindu majority."
+    },
+    {
+      "question": "What caused violence between Hindus and Muslims?",
+      "choices": [
+        "New laws",
+        "New borders",
+        "New government"
+      ],
+      "answer": "New borders",
+      "explanation": "Violence between Hindus and Muslims erupted along the new borders."
+    },
+    {
+      "question": "What led to the displacement of millions of people?",
+      "choices": [
+        "Economic reasons",
+        "Political reasons",
+        "Religious reasons"
+      ],
+      "answer": "Religious reasons",
+      "explanation": "The displacement of millions of people was based on their religion."
+    },
+    {
+      "question": "Why did Britain support the idea of carving out two states?",
+      "choices": [
+        "Economic development",
+        "Civil war fears",
+        "Social integration"
+      ],
+      "answer": "Civil war fears",
+      "explanation": "Britain supported the idea of carving out two states due to fears of civil war."
+    }
+  ]
+}

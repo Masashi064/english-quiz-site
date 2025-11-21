@@ -1,0 +1,63 @@
+{
+  "slug": "7766c660",
+  "video_id": "X5gABZtNsWE",
+  "movie_title": "The North Korean arms race - #Shorts",
+  "movie_url": "https://youtu.be/X5gABZtNsWE",
+  "published_at": "2022-07-06T11:00:23Z",
+  "duration": "0:52",
+  "tags": [],
+  "introduction": "Video excerpt from the \"North Korea - 70 years of history on a Map\" video : https://youtu.be/QZ6mupq",
+  "lead_intro": "Learn about North Korea's nuclear weapons program and its impact on international relations in this video summary.",
+  "quiz": [
+    {
+      "question": "Who succeeded Kim Jong-il after his death in 2011?",
+      "choices": [
+        "Kim Jong-un",
+        "Kim Jong-il",
+        "Kim Jong-deux"
+      ],
+      "answer": "Kim Jong-un",
+      "explanation": "Kim Jong-un succeeded his father Kim Jong-il as the leader of North Korea in 2011."
+    },
+    {
+      "question": "What event led North Korea to withdraw from the nuclear non-proliferation treaty in 2002?",
+      "choices": [
+        "September 11 attacks",
+        "Iraq invasion",
+        "Hurricane Katrina"
+      ],
+      "answer": "September 11 attacks",
+      "explanation": "Feeling threatened after the September 11 attacks, North Korea withdrew from the nuclear non-proliferation treaty in 2002."
+    },
+    {
+      "question": "When did North Korea conduct its first nuclear tests?",
+      "choices": [
+        "2006",
+        "2011",
+        "2002"
+      ],
+      "answer": "2006",
+      "explanation": "North Korea conducted its first nuclear tests in 2006."
+    },
+    {
+      "question": "What action by North Korea directly threatened the US soil with nuclear weapons?",
+      "choices": [
+        "Firing an intercontinental ballistic missile",
+        "Withdrawing from the UN",
+        "Signing a peace treaty"
+      ],
+      "answer": "Firing an intercontinental ballistic missile",
+      "explanation": "North Korea's firing of an intercontinental ballistic missile for the first time directly threatened US soil with nuclear weapons."
+    },
+    {
+      "question": "How did the UN respond to North Korea's aggressive actions?",
+      "choices": [
+        "Slapped on economic sanctions",
+        "Sent humanitarian aid",
+        "Ignored the situation"
+      ],
+      "answer": "Slapped on economic sanctions",
+      "explanation": "In response to North Korea's actions, the UN Security Council imposed economic sanctions on the country."
+    }
+  ]
+}

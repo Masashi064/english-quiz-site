@@ -1,0 +1,63 @@
+{
+  "slug": "de345267",
+  "video_id": "InUL47l_OQY",
+  "movie_title": "French campaign in Egypt and Syria #shorts",
+  "movie_url": "https://youtu.be/InUL47l_OQY",
+  "published_at": "2022-07-13T11:00:12Z",
+  "duration": "0:54",
+  "tags": [],
+  "introduction": "Video excerpt from the Napoleon (Part 1) - Birth of an Emperor video : https://youtu.be/2eY4gmndO3g",
+  "lead_intro": "Join Napoleon on his journey to Egypt and test your knowledge with this quiz!",
+  "quiz": [
+    {
+      "question": "Where did Napoleon land near in Egypt?",
+      "choices": [
+        "Alexandria",
+        "Cairo",
+        "Malta"
+      ],
+      "answer": "Alexandria",
+      "explanation": "Napoleon landed near Alexandria in the Ottoman province of Egypt."
+    },
+    {
+      "question": "Who destroyed the French fleet in the north?",
+      "choices": [
+        "British",
+        "Mamluk",
+        "Ottoman"
+      ],
+      "answer": "British",
+      "explanation": "The British ships found the French fleet in the north and completely destroyed it."
+    },
+    {
+      "question": "Which European coalition was formed in response to Napoleon's actions in Egypt?",
+      "choices": [
+        "Second anti-French coalition",
+        "First pro-French coalition",
+        "Third neutral coalition"
+      ],
+      "answer": "Second anti-French coalition",
+      "explanation": "The information about Napoleon's situation in Egypt led to the creation of a second anti-French coalition in Europe."
+    },
+    {
+      "question": "Who did Napoleon defeat at the gates of Cairo?",
+      "choices": [
+        "Mamluk army",
+        "British navy",
+        "Ottoman soldiers"
+      ],
+      "answer": "Mamluk army",
+      "explanation": "Napoleon defeated the Mamluk army at the gates of Cairo and seized the city."
+    },
+    {
+      "question": "Which British admiral was mentioned in the video?",
+      "choices": [
+        "Nelson",
+        "Wellington",
+        "Churchill"
+      ],
+      "answer": "Nelson",
+      "explanation": "British Admiral Nelson, not knowing Napoleon's final destination, searched for him and reached Alexandria before Napoleon."
+    }
+  ]
+}

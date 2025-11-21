@@ -1,0 +1,63 @@
+{
+  "slug": "b48dbb0a",
+  "video_id": "sOsqXKr4l30",
+  "movie_title": "The Fat Problem",
+  "movie_url": "https://youtu.be/sOsqXKr4l30",
+  "published_at": "2025-11-18T15:00:06Z",
+  "duration": "11:36",
+  "tags": [],
+  "introduction": "Go to https://brilliant.org/nutshell/ to dive deeper into these topics and more for free + get 20% o",
+  "lead_intro": "Have you ever thought of fat as an organ? Discover the crucial role fat plays in your body and how excess fat can become harmful. Let's dive into the impact of fat on your health!",
+  "quiz": [
+    {
+      "question": "What is the most important job of fat according to the video?",
+      "choices": [
+        "Energy storage",
+        "Hormone regulation",
+        "Insulation"
+      ],
+      "answer": "Hormone regulation",
+      "explanation": "Fat is described as an endocrine organ that is part of the system regulating hormones in the body, making them work correctly together."
+    },
+    {
+      "question": "Which type of fat is more dangerous as mentioned in the video?",
+      "choices": [
+        "Subcutaneous fat",
+        "Visceral fat",
+        "White fat"
+      ],
+      "answer": "Visceral fat",
+      "explanation": "Visceral fat, nestled between organs, is highlighted as more dangerous due to its sensitivity to stress hormones and its active role in hormonal communication."
+    },
+    {
+      "question": "What happens to fat cells when they outgrow their blood supply?",
+      "choices": [
+        "They shrink in size",
+        "They become less active",
+        "They get starved of oxygen"
+      ],
+      "answer": "They get starved of oxygen",
+      "explanation": "When fat cells outgrow their blood supply, they get starved of oxygen which can lead to stress, cell death, and the release of fatty acids into the blood."
+    },
+    {
+      "question": "How do excess fat and stress hormones impact your blood vessels?",
+      "choices": [
+        "Narrow blood vessels",
+        "Widen blood vessels",
+        "Have no effect on blood vessels"
+      ],
+      "answer": "Narrow blood vessels",
+      "explanation": "Excess fat and stress hormones can cause inflammation, leading to the narrowing of blood vessels which reduces the flow of oxygen-rich blood and increases the risk of heart-related issues."
+    },
+    {
+      "question": "What hormone becomes resistant in the presence of excess fat?",
+      "choices": [
+        "Leptin",
+        "Insulin",
+        "Testosterone"
+      ],
+      "answer": "Leptin",
+      "explanation": "Leptin, the satiety hormone, can become less effective in signaling your brain when you have enough energy storage in the presence of excess fat, leading to hunger and disrupted food regulation."
+    }
+  ]
+}

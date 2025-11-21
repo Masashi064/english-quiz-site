@@ -1,0 +1,63 @@
+{
+  "slug": "3790f87b",
+  "video_id": "u6qppMAxD-0",
+  "movie_title": "What causes hearing loss? ⏲️ 6 Minute English",
+  "movie_url": "https://youtu.be/u6qppMAxD-0",
+  "published_at": "2025-09-11T08:25:29Z",
+  "duration": "6:14",
+  "tags": [],
+  "introduction": "As we get older, our hearing naturally gets worse. But what are the causes of this decline? ⭐ Find a",
+  "lead_intro": "Have you ever wondered why our hearing deteriorates as we age? Join BBC Learning English in this video to explore the reasons behind age-related hearing loss and learn some new vocabulary along the way!",
+  "quiz": [
+    {
+      "question": "Which is the smallest bone in the human body?",
+      "choices": [
+        "hammer",
+        "anvil",
+        "stirrup"
+      ],
+      "answer": "stirrup",
+      "explanation": "The stirrup bone is the smallest bone in the human body, not the hammer or the anvil."
+    },
+    {
+      "question": "What is the visible part of the ear called that collects sounds?",
+      "choices": [
+        "outer ear",
+        "middle ear",
+        "inner ear"
+      ],
+      "answer": "outer ear",
+      "explanation": "The outer ear, also known as the pinna, collects sounds like a satellite dish before funneling them into the middle ear."
+    },
+    {
+      "question": "At what age does wear and tear of hearing typically start according to the video?",
+      "choices": [
+        "5",
+        "8",
+        "12"
+      ],
+      "answer": "8",
+      "explanation": "Wear and tear of hearing usually starts around the age of eight, leading to age-related hearing loss."
+    },
+    {
+      "question": "What does the term 'downward spiral' refer to in the context of the video?",
+      "choices": [
+        "improving situation",
+        "stable condition",
+        "situation getting worse"
+      ],
+      "answer": "situation getting worse",
+      "explanation": "A downward spiral means a situation that continuously worsens, such as the decline in hearing as we age."
+    },
+    {
+      "question": "What does 'redundancy in the system' mean in the video?",
+      "choices": [
+        "lack of backup",
+        "having multiple ways to achieve an outcome",
+        "inefficient design"
+      ],
+      "answer": "having multiple ways to achieve an outcome",
+      "explanation": "Redundancy in the system refers to having backup methods to compensate for failures in the main system, like the brain working harder to compensate for hearing loss."
+    }
+  ]
+}
